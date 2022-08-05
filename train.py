@@ -87,8 +87,8 @@ def create_model(level_low):
         model = fasttext.train_supervised(input=ROOT_PATH + TRAIN_FILE)
         model_file = MODEL_LOW
     else:
-        model = fasttext.train_supervised(input=ROOT_PATH + TRAIN_FILE, epoch=100, lr=1.0, wordNgrams=1, bucket=200000, dim=500)
-        # model = fasttext.train_supervised(input=ROOT_PATH + TRAIN_FILE, autotuneValidationFile= ROOT_PATH + VALID_FILE)
+        # model = fasttext.train_supervised(input=ROOT_PATH + TRAIN_FILE, epoch=100, lr=1.0, wordNgrams=1, bucket=200000, dim=500)
+        model = fasttext.train_supervised(input=ROOT_PATH + TRAIN_FILE, autotuneValidationFile = ROOT_PATH + VALID_FILE, autotuneDuration = 1200)
         model_file = MODEL
     print(model.test(ROOT_PATH + VALID_FILE))
     model.save_model(ROOT_PATH + model_file)
@@ -112,7 +112,7 @@ def test_model(model, file):
                 if (tmp in expected):
                     match += 1
             # print ("正解: " + ar[1])
-            print(match / len(ar[1].split(",")))
+            # print(match / len(ar[1].split(",")))
             p += match / len(ar[1].split(","))
         print("総合点:{:.2f}".format(p))
 
