@@ -1,0 +1,1644 @@
+{
+  "list": {
+    "s1": [
+      {
+        "id": "2022080925103",
+        "event_id": "25103",
+        "start_time": "2022-08-09T05:00:00+09:00",
+        "end_time": "2022-08-09T05:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ワールドニュース",
+        "subtitle": "▽イギリス・ＢＢＣ，シンガポール・ＣＮＡ，韓国・ＫＢＳ，中国・ＣＣＴＶ，上海・東方衛視，香港・ＴＶＢ，タイ・ＭＣＯＴ，ベトナム・ＶＴＶ",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0005"
+        ]
+      },
+      {
+        "id": "2022080925105",
+        "event_id": "25105",
+        "start_time": "2022-08-09T05:50:00+09:00",
+        "end_time": "2022-08-09T06:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "時論公論　【出演】ＮＨＫ解説委員",
+        "subtitle": "▽混沌（とん）とした時代、次々と押し寄せるニュースの裏に、何があるのか？“明日を生きる指針”を提供する解説番組。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0006",
+          "0000",
+          "0007"
+        ]
+      },
+      {
+        "id": "2022080925106",
+        "event_id": "25106",
+        "start_time": "2022-08-09T06:00:00+09:00",
+        "end_time": "2022-08-09T06:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ワールドニュース",
+        "subtitle": "イギリス・ＢＢＣ，ドイツ・ＺＤＦ，ウクライナ公共放送，カタール・アルジャジーラ，オーストラリア・ＡＢＣ，インド・ＮＤＴＶ，シンガポール・ＣＮＡ，タイ・ＭＣＯＴ",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0005"
+        ]
+      },
+      {
+        "id": "2022080925108",
+        "event_id": "25108",
+        "start_time": "2022-08-09T06:50:00+09:00",
+        "end_time": "2022-08-09T07:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ",
+        "subtitle": "▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2022080925109",
+        "event_id": "25109",
+        "start_time": "2022-08-09T07:00:00+09:00",
+        "end_time": "2022-08-09T07:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ワールドニュース",
+        "subtitle": "▽フランス・Ｆ２，ドイツ・ＺＤＦ，イギリス・ＢＢＣ，スペイン・ＴＶＥ，中国・ＣＣＴＶ，韓国・ＫＢＳ",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0005"
+        ]
+      },
+      {
+        "id": "2022080925111",
+        "event_id": "25111",
+        "start_time": "2022-08-09T07:50:00+09:00",
+        "end_time": "2022-08-09T08:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ",
+        "subtitle": "▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2022080925112",
+        "event_id": "25112",
+        "start_time": "2022-08-09T08:00:00+09:00",
+        "end_time": "2022-08-09T08:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ワールドニュース",
+        "subtitle": "▽イギリス・ＢＢＣ，スペイン・ＴＶＥ，オーストラリア・ＡＢＣ，香港・ＴＶＢ，カタール・アルジャジーラ，韓国・ＫＢＳ，インド・ＮＤＴＶ，アメリカ・ＡＢＣ",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0005"
+        ]
+      },
+      {
+        "id": "2022080925114",
+        "event_id": "25114",
+        "start_time": "2022-08-09T08:50:00+09:00",
+        "end_time": "2022-08-09T09:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ",
+        "subtitle": "▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2022080925115",
+        "event_id": "25115",
+        "start_time": "2022-08-09T09:00:00+09:00",
+        "end_time": "2022-08-09T09:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳセレクション",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
+        "id": "2022080925117",
+        "event_id": "25117",
+        "start_time": "2022-08-09T09:50:00+09:00",
+        "end_time": "2022-08-09T10:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ",
+        "subtitle": "▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2022080925118",
+        "event_id": "25118",
+        "start_time": "2022-08-09T10:00:00+09:00",
+        "end_time": "2022-08-09T10:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳセレクション",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
+        "id": "2022080925120",
+        "event_id": "25120",
+        "start_time": "2022-08-09T10:50:00+09:00",
+        "end_time": "2022-08-09T11:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ",
+        "subtitle": "▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2022080925121",
+        "event_id": "25121",
+        "start_time": "2022-08-09T11:00:00+09:00",
+        "end_time": "2022-08-09T11:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳセレクション",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
+        "id": "2022080925123",
+        "event_id": "25123",
+        "start_time": "2022-08-09T11:50:00+09:00",
+        "end_time": "2022-08-09T12:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "コウケンテツの日本１００年ゴハン紀行ミニ「葉山のサザエ編」",
+        "subtitle": "料理研究家コウケンテツが１００年先まで残したい日本のゴハンを探す旅。神奈川・葉山の女性漁師を訪ね、素潜りでとったサザエと絶品サザエご飯を味わう。",
+        "content": "【出演】コウケンテツ",
+        "act": "【出演】コウケンテツ",
+        "genres": [
+          "1000"
+        ]
+      },
+      {
+        "id": "2022080930614",
+        "event_id": "30614",
+        "start_time": "2022-08-09T12:00:00+09:00",
+        "end_time": "2022-08-09T12:15:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "駅ピアノ「チェコ・プラハ　ｖｏｌ．２」",
+        "subtitle": "チェコ・プラハで最も古いマサリク駅に置かれた１台のピアノ。訪れたさまざまな人が、音を紡いでいく。どんな曲をどんな思いで弾いたのか。定点カメラを通して見つめる。",
+        "content": "チェコ・プラハの鉄道駅で最も古いマサリク駅。ホームのそばに１台のピアノが置かれている。訪れた人々が、それぞれの音を紡いでいく。私たちは数台の定点カメラを設置、ピアノを奏でる姿を見つめることにした。バカンスにやってきたアメリカ人の家族、旅の途中というオーストラリアの大学生、かつてジプシーとも呼ばれた少数民族「ロマ」の男性、そして恋人と旅行を楽しむフィンランドの女性。どんな曲をどんな思いで弾いたのか。",
+        "act": "",
+        "genres": [
+          "0815",
+          "0415"
+        ]
+      },
+      {
+        "id": "2022080929180",
+        "event_id": "29180",
+        "start_time": "2022-08-09T12:15:00+09:00",
+        "end_time": "2022-08-09T12:25:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳセレクション",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
+        "id": "2022080925126",
+        "event_id": "25126",
+        "start_time": "2022-08-09T12:25:00+09:00",
+        "end_time": "2022-08-09T12:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ワールドニュース",
+        "subtitle": "▽アメリカ・ＡＢＣ，フランス・Ｆ２，オーストラリア・ＡＢＣ",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0005"
+        ]
+      },
+      {
+        "id": "2022080925128",
+        "event_id": "25128",
+        "start_time": "2022-08-09T12:50:00+09:00",
+        "end_time": "2022-08-09T13:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ",
+        "subtitle": "▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2022080925129",
+        "event_id": "25129",
+        "start_time": "2022-08-09T13:00:00+09:00",
+        "end_time": "2022-08-09T13:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳセレクション",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
+        "id": "2022080925131",
+        "event_id": "25131",
+        "start_time": "2022-08-09T13:50:00+09:00",
+        "end_time": "2022-08-09T14:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ",
+        "subtitle": "▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2022080925132",
+        "event_id": "25132",
+        "start_time": "2022-08-09T14:00:00+09:00",
+        "end_time": "2022-08-09T14:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "Ｗｈｅｒｅ　Ｗｅ　Ｃａｌｌ　Ｈｏｍｅ　「誰ひとりこぼれ落ちない社会を」",
+        "subtitle": "ミャンマー出身のアウン・ミャッ・ウィンさん。料理店の傍ら、障害者・同胞の支援に日夜奮闘している。仕事場紹介は製茶問屋のアメリカ人、ジェームズ・ジョンソンさん。",
+        "content": "大阪でミャンマー料理店を営むミャンマー出身のアウン・ミャッ・ウィンさん。１０代から祖国の民主化運動に参加。１９９８年日本に逃れ、のち難民に認定された。障害者の支援事業や、軍事クーデターで国に帰る事もできず、困っている同胞の支援にも力を注ぐ。誰もが社会から脱落せず、生きて行ける社会を作ろうと奮闘するウィンさんを追った。外国人の仕事場紹介は静岡県の製茶問屋で働くアメリカ人、ジェームズ・ジョンソンさん。",
+        "act": "",
+        "genres": [
+          "0800"
+        ]
+      },
+      {
+        "id": "2022080925137",
+        "event_id": "25137",
+        "start_time": "2022-08-09T14:30:00+09:00",
+        "end_time": "2022-08-09T14:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ワールドニュース　アジア",
+        "subtitle": "▽韓国・ＫＢＳ，カタール・アルジャジーラ，中国・ＣＣＴＶ　▽アジアの気象",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0005"
+        ]
+      },
+      {
+        "id": "2022080925138",
+        "event_id": "25138",
+        "start_time": "2022-08-09T14:50:00+09:00",
+        "end_time": "2022-08-09T15:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ",
+        "subtitle": "▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2022080925139",
+        "event_id": "25139",
+        "start_time": "2022-08-09T15:00:00+09:00",
+        "end_time": "2022-08-09T15:45:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳ世界のドキュメンタリー　選「“恐怖”でよみがえる野生の王国」",
+        "subtitle": "長年にわたる内戦で野生動物が大きな被害を受けたアフリカ、モザンビークの国立公園で行われている「野生の王国」復活のための壮大な取り組みを長期取材。",
+        "content": "ゴロンゴーザ国立公園は、１９７０年代の内戦で戦闘地域となり、ゾウやライオンやカバなど生態系の上位にいる動物が激減、大量の草食動物がはびこっている。ここに上位捕食者の動物、リカオンの一群を新たに放つことで、その「恐怖」からかつての生態系を取り戻そうという実験が始まっている。「恐怖」はかつての野生の王国を復活させられるのか。原題：Ｎａｔｕｒｅ’ｓ　Ｆｅａｒ　Ｆａｃｔｏｒ（アメリカ　２０２０年）",
+        "act": "",
+        "genres": [
+          "0807",
+          "0002",
+          "0005"
+        ]
+      },
+      {
+        "id": "2022080928408",
+        "event_id": "28408",
+        "start_time": "2022-08-09T15:45:00+09:00",
+        "end_time": "2022-08-09T15:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "地球タクシー　５ｍｉｎ．ドライブ「レイキャビクを走る　花火の宵」",
+        "subtitle": "タクシーは不思議な場所だ。ドライバーと偶然出会い、つかの間のひとときを共にする…。車窓の風景と何気ない会話から、世界の都市を感じるドライブ紀行。５分バージョン。",
+        "content": "今回のタクシードライバーは、ダニエルさん。夜９時。日の名残の美しい夕暮れどきに、ドライブははじまった。その日は「文化の夜」というお祭り。海を望む風景が気に入って買ったという自宅に連れて行ってもらうと、偶然車で通りがかったのは…。毎年二人で訪れるという、お祭りの花火が見える場所までついていくことに。美しい夕景のなか、ダニエルさんはマイノリティとして生きることの心情を語りはじめる…。",
+        "act": "",
+        "genres": [
+          "0800"
+        ]
+      },
+      {
+        "id": "2022080925142",
+        "event_id": "25142",
+        "start_time": "2022-08-09T15:50:00+09:00",
+        "end_time": "2022-08-09T16:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ",
+        "subtitle": "▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2022080925143",
+        "event_id": "25143",
+        "start_time": "2022-08-09T16:00:00+09:00",
+        "end_time": "2022-08-09T16:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ワールドニュース　アメリカ",
+        "subtitle": "▽アメリカ・ＰＢＳニュースアワー，　アメリカ・ＡＢＣ「ナイトライン」　▽世界の気象",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0005"
+        ]
+      },
+      {
+        "id": "2022080928456",
+        "event_id": "28456",
+        "start_time": "2022-08-09T16:50:00+09:00",
+        "end_time": "2022-08-09T19:20:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "インターハイ２０２２～全国高等学校総合体育大会～　バレーボール　男子決勝",
+        "subtitle": "選手１人１人が主人公！日本一を目指す高校生アスリートが一堂に集う夏の祭典・インターハイ２０２２。高校生たちの熱い戦いを見逃すな！",
+        "content": "【解説】植田辰也，【アナウンサー】杉岡英樹　～香川県・丸亀市民体育館で収録～",
+        "act": "【解説】植田辰也，【アナウンサー】杉岡英樹",
+        "genres": [
+          "0104"
+        ]
+      },
+      {
+        "id": "2022080928457",
+        "event_id": "28457",
+        "start_time": "2022-08-09T19:20:00+09:00",
+        "end_time": "2022-08-09T19:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳセレクション",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
+        "id": "2022080925155",
+        "event_id": "25155",
+        "start_time": "2022-08-09T19:50:00+09:00",
+        "end_time": "2022-08-09T20:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ",
+        "subtitle": "▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2022080930727",
+        "event_id": "30727",
+        "start_time": "2022-08-09T20:00:00+09:00",
+        "end_time": "2022-08-09T21:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＯＫＩＮＡＷＡ　ジャーニー・オブ・ソウル　完全版",
+        "subtitle": "沖縄の半世紀の歩みを『音楽』でひも解くミュージックドキュメンタリー。ＤＡＰＵＭＰ，ＳＰＥＥＤ，ＢＥＧＩＮ，モンゴル８００らのインタビュー。ナレーションは三浦大知",
+        "content": "沖縄の本土復帰から５０年。時代を彩ったヒットソングから半世紀をたどる異色のミュージックドキュメンタリー。７０年代の「コザ・ロック」。９０年代以降音楽シーンを塗り替えた「アクターズスクール」。「花」の世界的ヒットが象徴する「島唄」の普遍性…。そして令和の今、若い世代を熱狂させるヒップホップの女王・Ａｗｉｃｈ。歌が生まれた知られざる舞台裏、聴く人の心を魅了する源泉をアーティストたちの貴重な証言でつづる",
+        "act": "",
+        "genres": [
+          "0800"
+        ]
+      },
+      {
+        "id": "2022080925160",
+        "event_id": "25160",
+        "start_time": "2022-08-09T21:50:00+09:00",
+        "end_time": "2022-08-09T22:40:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "Ｗｈｅｒｅ　Ｗｅ　Ｃａｌｌ　Ｈｏｍｅ　ウクライナ特集（１）武道の絆に支えられて",
+        "subtitle": "武道が縁で日本に来たウクライナ人も多い。女性の健康支援アプリを開発した女性企業家と長野県高森町に避難してきた４家族。武道の絆に支えられ、力強く生きる姿を追う。",
+        "content": "空手の元ウクライナ代表選手だったアンナ・クレシェンコさんは京都大学在学中に女性の健康管理を支援するアプリを開発、起業した。空手の精神が彼女のビジネスを支える。また、今年４月、長野県高森町に４家族９人が戦火を逃れて避難してきた。その受け入れのために一役買って出たのがウクライナに大勢の愛好家を抱える空手道禅道会だ。武道によって結ばれたかたい絆に支えられ、日本で力強く生きるウクライナの人々を追う。",
+        "act": "【語り】サヘル・ローズ",
+        "genres": [
+          "0800"
+        ]
+      },
+      {
+        "id": "2022080925162",
+        "event_id": "25162",
+        "start_time": "2022-08-09T22:40:00+09:00",
+        "end_time": "2022-08-09T22:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ",
+        "subtitle": "▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2022080925163",
+        "event_id": "25163",
+        "start_time": "2022-08-09T22:50:00+09:00",
+        "end_time": "2022-08-09T23:35:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ワースポ×ＭＬＢ",
+        "subtitle": "▽日本選手の最新情報",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0101",
+          "0100"
+        ]
+      },
+      {
+        "id": "2022080925165",
+        "event_id": "25165",
+        "start_time": "2022-08-09T23:35:00+09:00",
+        "end_time": "2022-08-09T23:40:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "パラスポーツ×アニメ「アニ×パラ」▽パラ卓球　テーマ曲（２）つんく♂×だいすけ",
+        "subtitle": "パラスポーツの魅力をコラボで伝えるプロジェクト。テーマ曲版の第１２弾はパラ卓球。吉野真理子の児童小説「チームふたり」×つんく♂×横山だいすけのコラボ！",
+        "content": "パラスポーツの魅力をコラボで伝えるプロジェクト。テーマ曲版の第１２弾は、つんく♂さんによる書き下ろし楽曲「もったいない青春」を横山だいすけさんと公募であつまった視聴者の皆さんが熱唱。吉野真理子の児童小説「チームふたり」のコラボアニメが曲を盛り上げる。主人公の大地と純の２人がパラ卓球の岩渕幸洋選手と出会い、互いに刺激を与えあう。さらに岩渕選手とだいすけさんが卓球に挑戦。パラ選手の実力を体感する。",
+        "act": "【声】神木隆之介，下野紘，梶裕貴，バロン山崎，【原作】吉野万理子，【原作】宮尾和孝，【監督】前田薫平，【音楽】山田航平",
+        "genres": [
+          "0700",
+          "0106",
+          "1015"
+        ]
+      },
+      {
+        "id": "2022080925166",
+        "event_id": "25166",
+        "start_time": "2022-08-09T23:40:00+09:00",
+        "end_time": "2022-08-10T00:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳニュース４Ｋ＋ふるさと",
+        "subtitle": "全国各地で取材した「ふるさと」を感じさせるニュースやリポート、季節の映像をお届けします。また気になる「明日の天気」も詳しくお伝えします。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2022080925560",
+        "event_id": "25560",
+        "start_time": "2022-08-10T00:00:00+09:00",
+        "end_time": "2022-08-10T00:48:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳ世界のドキュメンタリー　選「“リケジョ”求む！」",
+        "subtitle": "船舶、コンピューター、生物学などの分野で活躍する女性たちをフランスで取材。科学技術は女性に向かないという世間の固定概念を覆し、夢をかなえるリケジョを応援する番組",
+        "content": "女性が極端に少ない研究者、エンジニア、技術者などの職種。何が女性の進出を阻んでいるのか、２０代～３０代のリケジョ４人を紹介しつつ、女性が直面する問題を脳科学や社会学の観点から検証する。脳の男女差はわずかで女性科学者が少ないことを説明するには十分ではなく、社会に求められる役割によって女性が自らの選択を狭めてしまうことも。　原題：Ｗａｎｔｅｄ：Ｗｏｍｅｎ　ｉｎ　Ｓｃｉｅｎｃｅ（フランス　２０２１年）",
+        "act": "",
+        "genres": [
+          "0807",
+          "0002",
+          "0005"
+        ]
+      },
+      {
+        "id": "2022080928412",
+        "event_id": "28412",
+        "start_time": "2022-08-10T00:48:00+09:00",
+        "end_time": "2022-08-10T00:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＭＥＷＥ－２分で爆速ＳＤＧｓ－（３）▽Ｃｈｏｉｃｅｓ－あなたがえらべるみらいを",
+        "subtitle": "子供たちにとって、今はどんな世界？子育てしてて思うことをＲＡＰにのせて送る爆速の２分間。一気に見て何を思う？",
+        "content": "子供たちにとって、今はどんな世界？子育てしてて思うことをＲＡＰにのせて送る爆速の２分間。一気に見て何を思う？",
+        "act": "",
+        "genres": [
+          "0515"
+        ]
+      },
+      {
+        "id": "2022080925563",
+        "event_id": "25563",
+        "start_time": "2022-08-10T00:50:00+09:00",
+        "end_time": "2022-08-10T01:40:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ランスマ倶楽部",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0107",
+          "0806",
+          "1000"
+        ]
+      },
+      {
+        "id": "2022080925565",
+        "event_id": "25565",
+        "start_time": "2022-08-10T01:40:00+09:00",
+        "end_time": "2022-08-10T02:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ヨーロッパ　トラムの旅「セルビア　ベオグラード」",
+        "subtitle": "欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、セルビア・ベオグラードを旅する。",
+        "content": "欧州各地の都市を走る路面電車・トラム。どこか懐かしくレトロなたたずまいは、旅人をひきつけて止まない。街の中心部を走るので、名所巡りも車窓から楽しめる。トラムを乗りこなせれば街の観光は楽々。ヨーロッパにはトラムで巡りたくなる素敵（すてき）な街があふれている。あたかもトラムに乗っているかのような感覚で、車窓を楽しむリアル・トラム体験の１時間。今回は、セルビア・ベオグラードを旅する。",
+        "act": "",
+        "genres": [
+          "0801",
+          "1000",
+          "0807"
+        ]
+      },
+      {
+        "id": "2022080925566",
+        "event_id": "25566",
+        "start_time": "2022-08-10T02:00:00+09:00",
+        "end_time": "2022-08-10T03:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "美しき日本の山々「羅臼岳、筑波山、男体山」",
+        "subtitle": "「にっぽん百名山」の山々の魅力、四季折々の風景や美しく咲く草花などを美しい音楽に乗せてたっぷりお伝えする「美しき日本の山々」。今回は、羅臼岳・筑波山・男体山です",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0802"
+        ]
+      },
+      {
+        "id": "2022080925567",
+        "event_id": "25567",
+        "start_time": "2022-08-10T03:00:00+09:00",
+        "end_time": "2022-08-10T04:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "美しき日本の山々「谷川岳、常念岳、丹沢山」",
+        "subtitle": "「にっぽん百名山」の山々の魅力、四季折々の風景や美しく咲く草花などを美しい音楽に乗せてたっぷりお伝えする「美しき日本の山々」。今回は、谷川岳・常念岳・丹沢山です",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0802"
+        ]
+      },
+      {
+        "id": "2022080925568",
+        "event_id": "25568",
+        "start_time": "2022-08-10T04:00:00+09:00",
+        "end_time": "2022-08-10T04:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "風景映像「沖縄　西表島」",
+        "subtitle": "～沖縄県・西表島～",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0802",
+          "0801"
+        ]
+      },
+      {
+        "id": "2022080925569",
+        "event_id": "25569",
+        "start_time": "2022-08-10T04:30:00+09:00",
+        "end_time": "2022-08-10T04:59:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "Ｊａｐａｎ　Ｒａｉｌｗａｙ　Ｊｏｕｒｎａｌ選▽２０２１ブルーリボン賞・ローレル賞",
+        "subtitle": "ブルーリボン賞・ローレル賞は、前年に営業運転を開始した新型車両の中から、優れたものに贈られる賞だ。番組では、２０２１年の受賞車両を選考理由とともに紹介する。",
+        "content": "ブルーリボン賞・ローレル賞を選定するのは、会員数３０００人を超える鉄道愛好者の団体「鉄道友の会」だ。２０２１年は１６の候補車両の中から、ブルーリボン賞には、近鉄８００００系「ひのとり」が選ばれた。そして、ローレル賞には、ＪＲ東日本Ｅ２６１系「サフィール踊り子」とＪＲ東海の新幹線、Ｎ７００Ｓが選ばれた。番組では、ゲストに選考委員の坂戸宏太氏を迎えて、選考理由を紹介しながら、受賞車両を紹介する。",
+        "act": "【司会】カティー・キャット，【コメンテーター】高木亮",
+        "genres": [
+          "0215",
+          "0800"
+        ]
+      },
+      {
+        "id": "2022080925572",
+        "event_id": "25572",
+        "start_time": "2022-08-10T04:59:00+09:00",
+        "end_time": "2022-08-10T05:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "アニ×パラ　第９弾ひうらさとるが描くボッチャ　ホタルノヒカリノ主人公も！",
+        "subtitle": "パラスポーツをアニメで伝えるプロジェクト。多様な人がプレーできる「ボッチャ」の楽しさを『ホタルノヒカリ』のひうらさとるが描く。テーマ曲は阿部真央による書き下ろし",
+        "content": "",
+        "act": "【原作】ひうらさとる，【監督】野田泰宏，【声】花澤香菜，三森すずこ，丹羽正人，かとう有花，武蔵真之介，小林都",
+        "genres": [
+          "0700",
+          "0106",
+          "1100"
+        ]
+      }
+    ]
+  }
+}
