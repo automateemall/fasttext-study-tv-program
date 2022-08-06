@@ -37,4 +37,9 @@ jobs:
                   done
               done
           done
+          echo "${GITHUB_BASE_REF}"
+          git remote -v
+          git add ./
+          git commit -m "add ${day} data"
+          git push origin master
         
