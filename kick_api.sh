@@ -11,7 +11,7 @@ touch ${dataset}
 
 for a in `cat etc/area.txt`; do
     for s in `cat etc/service.txt`; do
-        for ((i=1; i < 6; i++)); do
+        for ((i=6; i < 8; i++)); do
             sv=`echo ${s} | grep -o "^.."`
             area=`echo ${a} | grep -o "^..."`
             day=`date -d "${i} day" +'%Y-%m-%d'`
