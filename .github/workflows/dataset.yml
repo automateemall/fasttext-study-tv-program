@@ -1,0 +1,41 @@
+#
+# workflow
+#
+name: get json and push
+on:
+  push:
+    branches:
+      - "master"
+  schedule:
+    # 毎日AM11:00 (JST) に処理実行
+    - cron: '10 2 * * *'
+
+jobs:
+  build:
+    run-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v1
+
+      - name: fetch-api
+        env:
+          apikey: ${{ secrets.API_KEY }}      
+        run: |
+          set -x
+          baseurl=https://api.nhk.or.jp/v2/pg/list/
+          mkdir -p json
+          export `cat .env`
+
+          for a in `cat sub/area.txt`; do
+              for s in `cat sub/service.txt`; do
+                  for ((i=4; i < 5; i++)); do
+                      sv=`echo ${s} | grep -o "^.."`
+                      area=`echo ${a} | grep -o "^..."`
+                      day=`date -d "${i} day" +'%Y-%m-%d'`
+                      url="${baseurl}/${area}/${sv}/${day}.json?key=${apikey}"
+                      echo "$url"
+                      # curl $url | jq > "json/${sv}_${area}_${day}.json"
+                  done
+              done
+          done
+        

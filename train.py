@@ -9,13 +9,13 @@ import fasttext
 
 LABEL_PREFIX = "__label__"
 ROOT_PATH = os.getcwd() + "/"
-GENRE_MASTER_FILE = "etc/genre.txt"
+GENRE_MASTER_FILE = "sub/genre.txt"
 WAKATI_FILE = "train/wakati.txt"
 TRAIN_FILE = "train/nhk.train"
 VALID_FILE = "train/nhk.valid"
 MODEL = "model/nhk_mode.bin"
 MODEL_LOW = "model/nhk_mode_low.bin"
-TEST_TXT = "etc/valid_tmp.txt"
+TEST_TXT = "sub/valid_tmp.txt"
 
 
 def cleanText(txt):
