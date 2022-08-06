@@ -1,0 +1,1543 @@
+{
+  "list": {
+    "s2": [
+      {
+        "id": "2022080522323",
+        "event_id": "22323",
+        "start_time": "2022-08-05T05:00:00+09:00",
+        "end_time": "2022-08-05T05:49:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ワールドニュース",
+        "subtitle": "▽イギリス・ＢＢＣ，シンガポール・ＣＮＡ，韓国・ＫＢＳ，中国・ＣＣＴＶ，上海・東方衛視，香港・ＴＶＢ，タイ・ＭＣＯＴ，ベトナム・ＶＴＶ",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0005"
+        ]
+      },
+      {
+        "id": "2022080531409",
+        "event_id": "31409",
+        "start_time": "2022-08-05T05:49:00+09:00",
+        "end_time": "2022-08-05T06:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "（この時間帯は１０１ｃｈをご覧ください）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
+        "id": "2022080531410",
+        "event_id": "31410",
+        "start_time": "2022-08-05T06:00:00+09:00",
+        "end_time": "2022-08-05T08:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "大谷出場予定　ＭＬＢ２０２２「アスレティックス」対「エンジェルス」",
+        "subtitle": "▽大谷出場予定　【解説】今中慎二，【アナウンサー】中村泰人　～エンジェルスタジアムから中継～",
+        "content": "",
+        "act": "【解説】今中慎二，【アナウンサー】中村泰人",
+        "genres": [
+          "0101"
+        ]
+      },
+      {
+        "id": "2022080531411",
+        "event_id": "31411",
+        "start_time": "2022-08-05T08:30:00+09:00",
+        "end_time": "2022-08-05T08:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "（この時間帯は１０１ｃｈをご覧ください）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
+        "id": "2022080522334",
+        "event_id": "22334",
+        "start_time": "2022-08-05T08:50:00+09:00",
+        "end_time": "2022-08-05T09:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ",
+        "subtitle": "▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2022080522335",
+        "event_id": "22335",
+        "start_time": "2022-08-05T09:00:00+09:00",
+        "end_time": "2022-08-05T10:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳ１スペシャル「ファーブルのバトン　親と子の博物誌」",
+        "subtitle": "北海道と沖縄へ。とある親子三代が車に乗って気まま旅に出発した。魚を追ったり虫を捕ったり、お目当ての植物を探したり。その道中は発見と歓喜の連続！",
+        "content": "旅の主人公は奥山久さん（８３）。これまで１２０冊の図鑑や科学書を刊行したナチュラリストだ。奥山さんの信条は「常識を妄信せず自分で見たものだけを記す」。今回はこれまで未踏の地だった北海道を横断。さらに自らの観察人生の原点となった沖縄の離島をめぐる。旅の相棒は野遊び指導員の息子・英治さん（５８）と無類の釣り好きの孫・恭さん（２８）。その日の気分で行き先を決め、やりたいことをやりつくす旅が始まった。",
+        "act": "",
+        "genres": [
+          "0807"
+        ]
+      },
+      {
+        "id": "2022080522339",
+        "event_id": "22339",
+        "start_time": "2022-08-05T10:50:00+09:00",
+        "end_time": "2022-08-05T11:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ",
+        "subtitle": "▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2022080522340",
+        "event_id": "22340",
+        "start_time": "2022-08-05T11:00:00+09:00",
+        "end_time": "2022-08-05T11:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "キャッチ！世界のトップニュース",
+        "subtitle": "ロシアによるウクライナ侵攻。現地の最新情勢や各国の動きなど、世界のテレビ局が放送したニュースからピックアップしてお伝えします。",
+        "content": "▽各国の放送局が伝える注目ニュースをピックアップ　▽焦点や背景を分かりやすく解説　▽特集ワールド・アイズ　※内容変更の場合あり　【キャスター】望月麻美，中川栞",
+        "act": "【キャスター】望月麻美，中川栞",
+        "genres": [
+          "0005",
+          "0006",
+          "0200"
+        ]
+      },
+      {
+        "id": "2022080522342",
+        "event_id": "22342",
+        "start_time": "2022-08-05T11:50:00+09:00",
+        "end_time": "2022-08-05T12:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "突撃！ストリートシェフ　＠バンコク「ベトナム料理」",
+        "subtitle": "胃袋から、世界を知り尽くすグルメドキュメンタリー。バンコクで活躍するベトナム料理のシェフに密着。スープ麺のフォーなど、激ウマ料理誕生の裏には意外な歴史があった！",
+        "content": "胃袋から、世界を知り尽くすグルメドキュメンタリー。舞台となるタイの首都バンコクは、色んな国から食と人が集う、美食の街。今回は、ベトナムのストリートフードを提供する若き夫婦に注目。野菜がたっぷりのヘルシーなベトナム料理は、健康ブームに沸くバンコクで人気急上昇中。ベトナム風サンドウィッチ『バインミー』や日本でもおなじみスープ麺の『フォー』が登場。激ウマ料理誕生の裏には、意外な歴史秘話があった！",
+        "act": "【語り】井澤詩織",
+        "genres": [
+          "0205",
+          "0506",
+          "0807"
+        ]
+      },
+      {
+        "id": "2022080524284",
+        "event_id": "24284",
+        "start_time": "2022-08-05T12:00:00+09:00",
+        "end_time": "2022-08-05T12:15:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "Ｄｉｒｅｃｔ　Ｔａｌｋ「西村宏堂」",
+        "subtitle": "西村宏堂さんは、僧侶であり、ＬＧＢＴＱ＋アクティビストでもある。自分を押し殺して生きざるを得ない人々を仏教のメッセージとともに励まし続ける西村さんの思いを聞く。",
+        "content": "西村宏堂さんは、浄土宗の僧侶、世界を舞台に活躍するメイクアップアーティスト、ＬＧＢＴＱ＋アクティビストという多彩な顔を持つ。一見、関連性のない３つの「顔」の根底にあるのは、「自分が好きな自分を正々堂々と生きていこう」という共通のメッセージだ。自分を押し殺して生きざるを得ない人々を、仏教のメッセージとともに励まし続ける西村さんの思いを聞く。",
+        "act": "【出演】西村宏堂",
+        "genres": [
+          "0808"
+        ]
+      },
+      {
+        "id": "2022080522344",
+        "event_id": "22344",
+        "start_time": "2022-08-05T12:15:00+09:00",
+        "end_time": "2022-08-05T12:25:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "みみより！くらし解説　【出演】岩渕梢キャスター　ＮＨＫ解説委員",
+        "subtitle": "▽あなたのくらしに、みみより解説！いま気になるニュースをわかりやすく、裏にはこんな深いコトが…！くらしに密着した耳よりな情報をお届けします！",
+        "content": "",
+        "act": "【キャスター】岩渕梢",
+        "genres": [
+          "0006",
+          "0202",
+          "0203"
+        ]
+      },
+      {
+        "id": "2022080522345",
+        "event_id": "22345",
+        "start_time": "2022-08-05T12:25:00+09:00",
+        "end_time": "2022-08-05T12:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ワールドニュース",
+        "subtitle": "▽アメリカ・ＡＢＣ，フランス・Ｆ２，オーストラリア・ＡＢＣ",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0005"
+        ]
+      },
+      {
+        "id": "2022080522347",
+        "event_id": "22347",
+        "start_time": "2022-08-05T12:50:00+09:00",
+        "end_time": "2022-08-05T13:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ",
+        "subtitle": "▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2022080529008",
+        "event_id": "29008",
+        "start_time": "2022-08-05T13:00:00+09:00",
+        "end_time": "2022-08-05T13:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳ１スペシャル「近藤さんのよせ書き　フィリピン　戦場で拾われた記録」",
+        "subtitle": "今から７６年前、フィリピンの戦場で拾われた一冊の「よせ書き」。贈られた「近藤さん」とは、どんな人物だったのか。よせ書きの情報を頼りに、近藤さんをたどる物語。",
+        "content": "太平洋戦争末期、日本軍とアメリカ軍による激しい戦闘が繰り広げられたフィリピン・ルソン島。その戦場で１人のアメリカ兵が日本兵のものと思われる「よせ書き」を拾った。職場の仲間から贈られた「よせ書き」には、見事なデッサンとともに激励の言葉が記されていた。しかし、そこには「近藤」という姓だけが書かれていて、誰のものかは分からなかった。よせ書きの情報を頼りに、近藤さんをたどる物語。",
+        "act": "【語り】石橋静河",
+        "genres": [
+          "0800"
+        ]
+      },
+      {
+        "id": "2022080522350",
+        "event_id": "22350",
+        "start_time": "2022-08-05T13:50:00+09:00",
+        "end_time": "2022-08-05T14:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ",
+        "subtitle": "▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2022080522351",
+        "event_id": "22351",
+        "start_time": "2022-08-05T14:00:00+09:00",
+        "end_time": "2022-08-05T14:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "Ｔｒａｉｌｓ　ｔｏ　Ｏｉｓｈｉｉ　Ｔｏｋｙｏ「塩」",
+        "subtitle": "四季で味わう塩▽世界の塩と日本の塩の違い▽石川・能登　人力で作られる塩・塩を使った伝統食",
+        "content": "昔ながらの人力で塩作りを行っている、能登半島の塩田を訪ねます▽５００年以上の歴史を持つ伝統の塩作りを製塩の責任者である「浜士（はまじ）」に学びながらリポーターが体験します。",
+        "act": "【リポーター】マイケル・キダ，【語り】渡辺健太",
+        "genres": [
+          "0205"
+        ]
+      },
+      {
+        "id": "2022080522355",
+        "event_id": "22355",
+        "start_time": "2022-08-05T14:30:00+09:00",
+        "end_time": "2022-08-05T14:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ワールドニュース　アジア",
+        "subtitle": "▽韓国・ＫＢＳ，カタール・アルジャジーラ，中国・ＣＣＴＶ　▽アジアの気象",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0005"
+        ]
+      },
+      {
+        "id": "2022080522356",
+        "event_id": "22356",
+        "start_time": "2022-08-05T14:50:00+09:00",
+        "end_time": "2022-08-05T15:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ",
+        "subtitle": "▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2022080522357",
+        "event_id": "22357",
+        "start_time": "2022-08-05T15:00:00+09:00",
+        "end_time": "2022-08-05T15:45:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳ世界のドキュメンタリー　選▽わたしは金正男を殺してない（後編）",
+        "subtitle": "２０１７年２月、クアラルンプール国際空港で、北朝鮮の重要人物金正男が殺害された事件。後編では、金正男暗殺前の２人の実行犯女性の足取りをたどり、裁判の行方を追う。",
+        "content": "２０１７年２月、クアラルンプール国際空港で北朝鮮の重要人物金正男が殺害された事件。２人のアジア系女性実行犯は直後に逮捕されたが、北朝鮮大使館職員を含む８人の容疑者たちは次々と罪を逃れた。２人の女性はなぜ金正男の殺害に至ったのか―。不可解なこの事件を再構築する長編ドキュメンタリー、後編では金正男暗殺前の２人の実行犯女性の足取りをたどり、裁判の行方を追う。原題：ＡＳＳＡＳＳＩＮＳ（アメリカ２０２０年）",
+        "act": "",
+        "genres": [
+          "0807",
+          "0002",
+          "0005"
+        ]
+      },
+      {
+        "id": "2022080528423",
+        "event_id": "28423",
+        "start_time": "2022-08-05T15:45:00+09:00",
+        "end_time": "2022-08-05T15:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "地球タクシー　５ｍｉｎ．ドライブ　２０２０「ダブリンを走る　海藻の匂い」",
+        "subtitle": "タクシーは不思議な場所だ。ドライバーとは束の間のひと時を共にする。車窓からの風景と何気ない会話が織りなす想像力のドライブ、スピンオフ５分版「海藻の匂い」。",
+        "content": "アイルランドの首都、ダブリン。街の素顔を知ろうとレイさんのタクシーに乗り込んだ。案内される先は、伝統あるビール醸造所やパブ街などお酒にまつわるスポットばかりで、思わず顔がほころぶ。一方、街には、アメリカの巨大ＩＴ企業の高層ビルが立ち並ぶ一角も。変わりゆく風景のなか、街の未来に想いを馳せる昼下がりのドライブ。",
+        "act": "",
+        "genres": [
+          "0800"
+        ]
+      },
+      {
+        "id": "2022080522359",
+        "event_id": "22359",
+        "start_time": "2022-08-05T15:50:00+09:00",
+        "end_time": "2022-08-05T16:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ",
+        "subtitle": "▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2022080522360",
+        "event_id": "22360",
+        "start_time": "2022-08-05T16:00:00+09:00",
+        "end_time": "2022-08-05T16:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ワールドニュース　アメリカ",
+        "subtitle": "▽アメリカ・ＰＢＳニュースアワー，　アメリカ・ＡＢＣ「ナイトライン」　▽世界の気象",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0005"
+        ]
+      },
+      {
+        "id": "2022080522362",
+        "event_id": "22362",
+        "start_time": "2022-08-05T16:50:00+09:00",
+        "end_time": "2022-08-05T17:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "コウケンテツの日本１００年ゴハン紀行ミニ「三崎のマグロ編」",
+        "subtitle": "料理研究家コウケンテツが「１００年先まで残したい日本のゴハン」を探して全国旅。神奈川・三浦半島の三崎のマグロ漁港を訪ね、地元ならではの珍しいマグロ料理を味わう。",
+        "content": "【出演】コウケンテツ",
+        "act": "【出演】コウケンテツ",
+        "genres": [
+          "1000"
+        ]
+      },
+      {
+        "id": "2022080524286",
+        "event_id": "24286",
+        "start_time": "2022-08-05T17:00:00+09:00",
+        "end_time": "2022-08-05T17:45:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "スポーツ×ヒューマン「泣き笑いのビッグスロー　やり投げ・北口榛花」",
+        "subtitle": "日本陸上界の期待の星・やり投げ・北口榛花。ダイナミックなフォームと喜怒哀楽を全身で表現する姿が魅力的。パリ五輪金メダル、そして世界記録更新へ、挑戦の日々に密着。",
+        "content": "東京五輪で５７年ぶりの決勝進出を果たした女子やり投げ・北口榛花（２４）。喜びや悔しさを全身で表現する姿に、日本中が熱くなった。夢は、次のパリ五輪での金メダルと世界記録の更新。飛躍をかけた今シーズン、大きな壁が…。助走のパワーを投てきにつなげるフォームが固まらない。チェコ人のコーチとはコロナで離れ離れ、たった一人の練習を強いられる…。日本陸上界の夢を背負い、理想の放物線を求めた苦闘に日々に迫る。",
+        "act": "【語り】桜庭ななみ",
+        "genres": [
+          "0107"
+        ]
+      },
+      {
+        "id": "2022080522365",
+        "event_id": "22365",
+        "start_time": "2022-08-05T17:45:00+09:00",
+        "end_time": "2022-08-05T18:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "街角ピアノ「鹿児島　ｖｏｌ．１」",
+        "subtitle": "鹿児島市の一番街商店街に置かれたピアノ。２０１１年２月に日本で最初に設置されたストリートピアノといわれる。人々はどんな思いで曲を弾くのか。定点カメラで見つめた。",
+        "content": "鹿児島市の玄関口・鹿児島中央駅前にある一番街商店街に置かれたカラフルなピアノ。日本で最初に設置されたストリートピアノといわれる。１０年目を迎え、街の風物としてすっかり定着、常連も多い。航空会社の客室乗務員。囲碁教室の途中に立ち寄った男性。鹿児島を気に入り住み着いたオペラ歌手。コロナ禍でワクチン接種に追われる女医。病気の母の体を案じながら暮らす女子高生。さまざまな人々が心のメロディーを奏でる。",
+        "act": "",
+        "genres": [
+          "0815",
+          "0415",
+          "1002"
+        ]
+      },
+      {
+        "id": "2022080522366",
+        "event_id": "22366",
+        "start_time": "2022-08-05T18:00:00+09:00",
+        "end_time": "2022-08-05T21:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "プロ野球２０２２「西武」対「ロッテ」",
+        "subtitle": "　※副音声は球場音声　（試合開始　６：００）　【解説】武田一浩，【アナウンサー】早瀬雄一　～ベルーナドームから中継～",
+        "content": "　※副音声は球場音声　（試合開始　６：００）　【解説】武田一浩，【アナウンサー】早瀬雄一　～ベルーナドームから中継～",
+        "act": "【解説】武田一浩，【アナウンサー】早瀬雄一",
+        "genres": [
+          "0101"
+        ]
+      },
+      {
+        "id": "2022080522376",
+        "event_id": "22376",
+        "start_time": "2022-08-05T21:00:00+09:00",
+        "end_time": "2022-08-05T21:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "プロ野球２０２２「西武」対「ロッテ」",
+        "subtitle": "　※副音声は球場音声　【解説】武田一浩，【アナウンサー】早瀬雄一　～ベルーナドームから中継～",
+        "content": "　※副音声は球場音声　【解説】武田一浩，【アナウンサー】早瀬雄一　～ベルーナドームから中継～",
+        "act": "【解説】武田一浩，【アナウンサー】早瀬雄一",
+        "genres": [
+          "0101"
+        ]
+      },
+      {
+        "id": "2022080522377",
+        "event_id": "22377",
+        "start_time": "2022-08-05T21:30:00+09:00",
+        "end_time": "2022-08-05T22:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "（この時間帯は１０１ｃｈをご覧ください）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
+        "id": "2022080522370",
+        "event_id": "22370",
+        "start_time": "2022-08-05T22:00:00+09:00",
+        "end_time": "2022-08-05T22:40:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "国際報道２０２２　豊かな老後は自分達で　住宅協同組合方式の高齢者住宅",
+        "subtitle": "豊かな老後は自分達で　住宅協同組合方式の高齢者住宅※ＳＤＧｓ企画▽ウクライナ情勢▽日本の外交▽カシミール自治権撤廃から３年　現地はいま※変更の可能性あり",
+        "content": "もし老後の人生自体を自分たちで創っていくのなら、もっと豊かに生きられるのではないか？そんな選択肢を作り上げたスペインの高齢者住宅が今注目されている。高齢の住民たち自ら住宅協同組合を作って運営する高齢者住宅では、コロナ禍でも住民が共に支え合いながら暮らすことができたという。住宅協同組合方式の高齢者住宅を通して、「老いの豊かさとは何か」を考える。※ＳＤＧｓ企画",
+        "act": "【キャスター】油井秀樹，【キャスター】角谷直也，【キャスター】酒井美帆",
+        "genres": [
+          "0005",
+          "0002",
+          "0006"
+        ]
+      },
+      {
+        "id": "2022080522371",
+        "event_id": "22371",
+        "start_time": "2022-08-05T22:40:00+09:00",
+        "end_time": "2022-08-05T22:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ",
+        "subtitle": "▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2022080522372",
+        "event_id": "22372",
+        "start_time": "2022-08-05T22:50:00+09:00",
+        "end_time": "2022-08-05T23:35:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ワースポ×ＭＬＢ",
+        "subtitle": "▽日本選手の最新情報　【解説】五十嵐亮太，【キャスター】山本萩子",
+        "content": "",
+        "act": "【解説】五十嵐亮太，【キャスター】山本萩子",
+        "genres": [
+          "0101",
+          "0100"
+        ]
+      },
+      {
+        "id": "2022080522374",
+        "event_id": "22374",
+        "start_time": "2022-08-05T23:35:00+09:00",
+        "end_time": "2022-08-05T23:40:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "パラスポーツ×アニメ「アニ×パラ」▽パラ卓球　テーマ曲　つんく♂×だいすけ",
+        "subtitle": "パラスポーツの魅力をコラボで伝えるプロジェクト。テーマ曲版の第１２弾はパラ卓球。吉野万理子の児童小説「チームふたり」×つんく♂×横山だいすけのコラボ！",
+        "content": "パラスポーツの魅力をコラボで伝えるプロジェクト。テーマ曲版の第１２弾は、つんく♂さんによる書き下ろし楽曲♪「もったいない青春」を横山だいすけさんとＮＨＫ東京児童合唱団が熱唱。吉野万理子の児童小説「チームふたり」のコラボアニメが曲を盛り上げる。主人公の大地と純の２人がパラ卓球の岩渕幸洋選手と出会い、互いに刺激を与えあう。さらに岩渕選手とだいすけさんが卓球に挑戦。パラ選手の実力を体感する。",
+        "act": "【声】神木隆之介，下野紘，梶裕貴，バロン山崎，【原作】吉野万理子，宮尾和孝，【監督】前田薫平，【音楽】山田航平",
+        "genres": [
+          "0700",
+          "0106",
+          "1015"
+        ]
+      },
+      {
+        "id": "2022080522375",
+        "event_id": "22375",
+        "start_time": "2022-08-05T23:40:00+09:00",
+        "end_time": "2022-08-06T00:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳニュース４Ｋ＋ふるさと",
+        "subtitle": "全国各地で取材した「ふるさと」を感じさせるニュースやリポート、季節の映像をお届けします。また気になる「明日の天気」も詳しくお伝えします。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2022080529158",
+        "event_id": "29158",
+        "start_time": "2022-08-06T00:00:00+09:00",
+        "end_time": "2022-08-06T01:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "北海道推し！北海道道「大泉洋ＳＰ～スターの素顔にミスター鈴井貴之が迫る！」",
+        "subtitle": "大河、紅白のマル秘ウラ話が続々！道民の誇る大スター大泉洋が、ミスター鈴井貴之とおよそ１年ぶりの再会で、大爆笑トーク。小池栄子に細川たかしも登場！？",
+        "content": "「＃鎌倉殿どうでしょう」「＃全部大泉のせい」…ＳＮＳで毎週大きな話題を呼ぶ大河ドラマ「鎌倉殿の１３人」。前半のキーマン・源頼朝を演じる大泉洋が明かす、役作りの秘密とは！？▽紅白歌合戦「ブラボー！」は本当は「○○○」だった！？爆笑ウラ話▽大泉が務めるＳＯＮＧＳ「責任者」って何？▽ミスターだから話せる上京時の感動秘話もたっぷり▽「北海道道」初の公開収録、６０分スペシャルでお届け！",
+        "act": "【司会】鈴井貴之，多田萌加，【ゲスト】大泉洋",
+        "genres": [
+          "0009",
+          "0800"
+        ]
+      },
+      {
+        "id": "2022080529171",
+        "event_id": "29171",
+        "start_time": "2022-08-06T01:00:00+09:00",
+        "end_time": "2022-08-06T01:15:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "Ｗｉｌｄ　Ｈｏｋｋａｉｄｏ！「ニセコ　夏」",
+        "subtitle": "北海道の大自然と観光情報を伝えるＮＨＫワールドＪＡＰＡＮの番組！国内向けに日本語字幕付きで放送します！",
+        "content": "今回の舞台は、北海道の西部にあるニセコ連峰のふもとに広がるニセコエリアです。冬だけでなく夏もアクティビティを求めて、世界中から観光客が訪れるこの場所で、番組ナビゲーターは、マウンテンバイクに乗って自然の中を軽快に巡ります。また、新鮮な地元の農産物が並ぶ販売所や、雄大な風景を一望できる夏のスキー場を訪れます。この他、番組では、山あいにある沼で撮影した、水生昆虫などの生態などもご覧いただきます。",
+        "act": "【出演】ジェームス・プリティ",
+        "genres": [
+          "0802",
+          "0505"
+        ]
+      },
+      {
+        "id": "2022080529172",
+        "event_id": "29172",
+        "start_time": "2022-08-06T01:15:00+09:00",
+        "end_time": "2022-08-06T01:32:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "Ｗｉｌｄ　Ｈｏｋｋａｉｄｏ！「ニセコでフライフィッシング」",
+        "subtitle": "北海道の大自然と観光情報を伝えるＮＨＫワールドＪＡＰＡＮの番組！国内向けに日本語字幕付きで放送します！",
+        "content": "今回は、初夏の北海道でフライフィッシングを満喫します。舞台は、北海道西部にあるニセコエリアを流れる長さ１２６キロの尻別川といくつもの支流。豊かな自然に囲まれ、湧き水が流れ込む川は、ヤマメやアメマス、ニジマスなど数多くの渓流魚の楽園です。ここを訪れたのは、フランス人の釣りの名手。ゆるやかな流れや深い淵など、さまざまな釣りのポイントで、自作のフライを駆使して魚との駆け引きを繰り広げます。",
+        "act": "【出演】フィッシングガイド…ヒューコ゛",
+        "genres": [
+          "0802",
+          "0505"
+        ]
+      },
+      {
+        "id": "2022080523133",
+        "event_id": "23133",
+        "start_time": "2022-08-06T01:32:00+09:00",
+        "end_time": "2022-08-06T02:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "北アルプス「北アルプス空中散歩」",
+        "subtitle": "北アルプスの山々をヘリコプターから撮影した、空中散歩。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0802"
+        ]
+      },
+      {
+        "id": "2022080523134",
+        "event_id": "23134",
+        "start_time": "2022-08-06T02:00:00+09:00",
+        "end_time": "2022-08-06T03:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "美しき日本の山々　西の山「宮之浦岳、くじゅう連山、石鎚山」",
+        "subtitle": "九州の最高峰、世界遺産に登録された屋久島の宮之浦岳、ミヤマキリシマの咲き誇るくじゅう連山、四国にそびえる西日本最高峰・石鎚山の豊かな自然や絶景を満喫する山旅。",
+        "content": "九州の最高峰、屋久島の宮之浦岳、ミヤマキリシマの咲くくじゅう連山、そして四国にある西日本最高峰・石鎚山の豊かな自然と絶景を満喫する山旅。宮之浦岳では二つの登山ルートを紹介。人気の白谷雲水峡から縄文杉を抜け、ヤクシマシャクナゲの花が咲く天上の花園へ、日本最高所の高層湿原・花之江河を通り山頂へ向かう。くじゅう連山では、山肌と湿原を彩る春の花を楽しみ、石鎚山では霊峰ならではの自然を満喫する。",
+        "act": "",
+        "genres": [
+          "0802"
+        ]
+      },
+      {
+        "id": "2022080523135",
+        "event_id": "23135",
+        "start_time": "2022-08-06T03:00:00+09:00",
+        "end_time": "2022-08-06T04:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "海底の花園　サンゴの美～沖縄　慶良間諸島～",
+        "subtitle": "～沖縄県・慶良間諸島～",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0802",
+          "0801"
+        ]
+      },
+      {
+        "id": "2022080523136",
+        "event_id": "23136",
+        "start_time": "2022-08-06T04:00:00+09:00",
+        "end_time": "2022-08-06T04:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "美景・絶景　日本列島再発見「北海道編」",
+        "subtitle": "日本列島を北から南まで５つの異なる自然環境に分け、日本の自然を極上の映像で伝える番組。シリーズ１は北海道編。亜寒帯の原始の姿を止める大自然を紹介する。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0801",
+          "0802",
+          "1000"
+        ]
+      },
+      {
+        "id": "2022080523137",
+        "event_id": "23137",
+        "start_time": "2022-08-06T04:30:00+09:00",
+        "end_time": "2022-08-06T04:59:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "Ｍｅｄｉｃａｌ　Ｆｒｏｎｔｉｅｒｓ　選「漢方で新型コロナに立ち向かう」",
+        "subtitle": "日本で独自の発展を遂げた漢方は、これまでエビデンスが弱いと指摘されてきた。しかしいま、新型コロナに対する効果で、数々の科学的な研究成果が明らかになってきた。",
+        "content": "漢方は中国伝来の古典をもとに、日本の気候風土や体質に合わせ、診断方法や生薬の配合を発展させた日本の伝統医学だ。一つの漢方薬には数多くの成分が含まれ複数の症状に効果がある。さまざまな症状が現れるコロナ後遺症は、漢方の強みが発揮される病だ。実際の患者からその実力を探る。また、コロナ後遺症の症状の一つ「うつ」を予防する効果も科学的に明らかになった。さらに感染予防効果も研究が進められている。",
+        "act": "【出演】北里大学　教授…小田口浩，北里大学東洋医学総合研究所　臨床研究部…伊藤直樹，北里大学東洋医学総合研究所　臨床研究部…日向須美子，北里大学　薬剤師…緒方千秋，【リポーター】エリカ・アンギャル，【語り】マックスウェル・パワーズ",
+        "genres": [
+          "0203"
+        ]
+      },
+      {
+        "id": "2022080523140",
+        "event_id": "23140",
+        "start_time": "2022-08-06T04:59:00+09:00",
+        "end_time": "2022-08-06T05:00:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "パラスポーツ×アニメ「アニ×パラ」あなたのヒーローは誰ですか「車いすテニス」",
+        "subtitle": "アニメや人気アーティストと、パラスポーツがコラボする「アニパラ・車いすテニス」１分版。「ベイビーステップ」の世界に国枝慎吾が登場、夢の対決。テーマ曲は家入レオ。",
+        "content": "",
+        "act": "【出演】車いすテニスプレイヤー…国枝慎吾，【声】村田太志，寿美菜子，川田紳司，【原作】勝木光，【監督】尾崎正善",
+        "genres": [
+          "0700",
+          "0106",
+          "0104"
+        ]
+      }
+    ]
+  }
+}

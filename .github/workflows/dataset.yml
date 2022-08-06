@@ -14,16 +14,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
 
       - name: fetch-api
         env:
           apikey: ${{ secrets.API_KEY }}      
+          userName: ${{ secrets.USER_NAME }}      
+          userEmail: ${{ secrets.USER_EMAIL }}     
+          branch: json-fetch 
         run: |
-          set -x
           baseurl=https://api.nhk.or.jp/v2/pg/list/
           mkdir -p json
-          export `cat .env`
 
           for a in `cat sub/area.txt`; do
               for s in `cat sub/service.txt`; do
@@ -33,13 +34,18 @@ jobs:
                       day=`date -d "${i} day" +'%Y-%m-%d'`
                       url="${baseurl}/${area}/${sv}/${day}.json?key=${apikey}"
                       echo "$url"
-                      # curl $url | jq > "json/${sv}_${area}_${day}.json"
+                      curl $url | jq > "json/${sv}_${area}_${day}.json"
                   done
               done
           done
-          echo "${GITHUB_BASE_REF}"
-          git remote -v
+
+          date > tmp.yml
+
+          set -x
+          git push origin --delete json-fetch
+          git checkout -b json-fetch 
+          git config --global user.name ${userName}
+          git config --global user.email ${userEmail}
           git add ./
-          git commit -m "add ${day} data"
-          git push origin master
-        
+          git commit -m "`date` add data"
+          git push origin json-fetch 
