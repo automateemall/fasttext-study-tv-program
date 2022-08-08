@@ -7,8 +7,8 @@ on:
   #   branches:
   #     - "master"
   schedule:
-    # 毎日AM11:00 (JST) に処理実行
-    - cron: '10 2 * * *'
+    # 毎日AM10:00 (JST) に処理実行
+    - cron: '1 2 * * *'
 
 jobs:
   build:
@@ -28,7 +28,7 @@ jobs:
 
           for a in `cat sub/area.txt`; do
               for s in `cat sub/service.txt`; do
-                  for ((i=4; i < 5; i++)); do
+                  for ((i=4; i < 6; i++)); do
                       sv=`echo ${s} | grep -o "^.."`
                       area=`echo ${a} | grep -o "^..."`
                       day=`date -d "${i} day" +'%Y-%m-%d'`
@@ -38,6 +38,8 @@ jobs:
                   done
               done
           done
+
+          find ./json -type f -size 1k | xargs rm
 
           # set -x
           git fetch origin
