@@ -3,12 +3,11 @@
 #
 name: get json and push
 on:
-  push:
-    branches:
-      - "master"
+  # push:
+  #   branches:
+  #     - "master"
   schedule:
-    # 毎日AM11:00 (JST) に処理実行
-    - cron: '10 2 * * *'
+    - cron: '2 1 * * *'
 
 jobs:
   build:
@@ -28,7 +27,7 @@ jobs:
 
           for a in `cat sub/area.txt`; do
               for s in `cat sub/service.txt`; do
-                  for ((i=4; i < 5; i++)); do
+                  for ((i=4; i < 6; i++)); do
                       sv=`echo ${s} | grep -o "^.."`
                       area=`echo ${a} | grep -o "^..."`
                       day=`date -d "${i} day" +'%Y-%m-%d'`
@@ -39,13 +38,13 @@ jobs:
               done
           done
 
-          date > tmp.yml
+          find ./json -type f -size 1k | xargs rm
 
-          set -x
-          git push origin --delete json-fetch
-          git checkout -b json-fetch 
+          # set -x
+          git fetch origin
+          git checkout json-fetch 
           git config --global user.name ${userName}
           git config --global user.email ${userEmail}
           git add ./
-          git commit -m "`date` add data"
+          git commit -m "`date` add json"
           git push origin json-fetch 
