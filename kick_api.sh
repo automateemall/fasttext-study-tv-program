@@ -4,14 +4,12 @@
 
 # https://api.nhk.or.jp/v2/pg/list/130/{service}/{date}.json?key={apikey}
 baseurl=https://api.nhk.or.jp/v2/pg/list/
-dataset=dataset.txt
 mkdir -p json
 export `cat .env`
-touch ${dataset}
 
 for a in `cat sub/area.txt`; do
     for s in `cat sub/service.txt`; do
-        for ((i=4; i < 5; i++)); do
+        for ((i=0; i < 8; i++)); do
             sv=`echo ${s} | grep -o "^.."`
             area=`echo ${a} | grep -o "^..."`
             day=`date -d "${i} day" +'%Y-%m-%d'`
@@ -22,3 +20,4 @@ for a in `cat sub/area.txt`; do
     done
 done
 
+find ./json -type f -size  1k | xargs rm

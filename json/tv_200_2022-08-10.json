@@ -1,8 +1,0 @@
-{
-  "fault": {
-    "faultstring": "Unexpected EOF at target",
-    "detail": {
-      "errorcode": "messaging.adaptors.http.flow.UnexpectedEOFAtTarget"
-    }
-  }
-}
