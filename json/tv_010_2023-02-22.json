@@ -1,0 +1,8 @@
+{
+  "fault": {
+    "faultstring": "Rate limit quota violation. Quota limit  exceeded. Identifier : a5aFXVuMMOYIcMpHPFrbU5YVg2nBEnMR",
+    "detail": {
+      "errorcode": "policies.ratelimit.QuotaViolation"
+    }
+  }
+}

@@ -9,15 +9,16 @@ mkdir -p json
 export `cat .env`
 touch ${dataset}
 
-for a in `cat etc/area.txt`; do
-    for s in `cat etc/service.txt`; do
-        for ((i=6; i < 8; i++)); do
+for a in `cat sub/area.txt`; do
+    for s in `cat sub/service.txt`; do
+        for ((i=4; i < 5; i++)); do
             sv=`echo ${s} | grep -o "^.."`
             area=`echo ${a} | grep -o "^..."`
             day=`date -d "${i} day" +'%Y-%m-%d'`
             url="${baseurl}/${area}/${sv}/${day}.json?key=${apikey}"
-            echo "$url"
-            curl $url | jq > "json/${sv}_${area}_${day}.json"
+            echo "${url}"
+            curl "${url}" | jq > "json/${sv}_${area}_${day}.json"
         done
     done
 done
+

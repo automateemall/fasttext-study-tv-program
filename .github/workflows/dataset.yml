@@ -7,8 +7,7 @@ on:
   #   branches:
   #     - "master"
   schedule:
-    # 毎日AM09:30 (JST) に処理実行
-    - cron: '30 0 * * *'
+    - cron: '2 1 * * *'
 
 jobs:
   build:
