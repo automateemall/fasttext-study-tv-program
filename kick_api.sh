@@ -21,3 +21,4 @@ for a in `cat sub/area.txt`; do
         done
     done
 done
+
