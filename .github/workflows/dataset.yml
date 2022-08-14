@@ -38,7 +38,7 @@ jobs:
               done
           done
 
-          find ./json -type f -size 1k | xargs rm
+          find ./json -type f -size 1k | xargs rm || true
 
           # set -x
           git fetch origin
