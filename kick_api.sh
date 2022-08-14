@@ -8,17 +8,27 @@ mkdir -p json
 export `cat .env`
 
 for a in `cat sub/area.txt`; do
-    for s in `cat sub/service.txt`; do
-        for ((i=0; i < 5; i++)); do
-            sv=`echo ${s} | grep -o "^.."`
-            area=`echo ${a} | grep -o "^..."`
-            day=`date -d "${i} day" +'%Y-%m-%d'`
-            url="${baseurl}/${area}/${sv}/${day}.json?key=${apikey}"
-            echo "${url}"
-            curl "${url}" | jq > "json/${sv}_${area}_${day}.json"
-            sleep 1
-        done
+    for ((i=0; i < 5; i++)); do
+        sv=tv
+        area=`echo ${a} | grep -o "^..."`
+        day=`date -d "${i} day" +'%Y-%m-%d'`
+        url="${baseurl}/${area}/${sv}/${day}.json?key=${apikey}"
+        echo "${url}"
+        curl "${url}" | jq > "json/${sv}_${area}_${day}.json"
+        sleep 1
     done
 done
 
-find ./json -type f -size  1k | xargs rm
+for s in `cat sub/service.txt`; do
+    for ((i=0; i < 5; i++)); do
+        sv=`echo ${s}`
+        area=130
+        day=`date -d "${i} day" +'%Y-%m-%d'`
+        url="${baseurl}/${area}/${sv}/${day}.json?key=${apikey}"
+        echo "${url}"
+        curl "${url}" | jq > "json/${sv}_${area}_${day}.json"
+        sleep 1
+    done
+done
+
+find ./json -type f -size  1k | xargs rm || true
