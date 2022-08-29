@@ -15,7 +15,7 @@ for a in `cat sub/area.txt`; do
         url="${baseurl}/${area}/${sv}/${day}.json?key=${apikey}"
         echo "${url}"
         curl "${url}" | jq > "json/${sv}_${area}_${day}.json"
-        sleep 1
+        sleep 2
     done
 done
 
@@ -27,7 +27,7 @@ for s in `cat sub/service.txt`; do
         url="${baseurl}/${area}/${sv}/${day}.json?key=${apikey}"
         echo "${url}"
         curl "${url}" | jq > "json/${sv}_${area}_${day}.json"
-        sleep 1
+        sleep 2
     done
 done
 
