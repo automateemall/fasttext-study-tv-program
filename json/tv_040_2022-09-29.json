@@ -825,7 +825,7 @@
         "id": "2022092922044",
         "event_id": "22044",
         "start_time": "2022-09-29T12:20:00+09:00",
-        "end_time": "2022-09-29T12:44:00+09:00",
+        "end_time": "2022-09-29T12:43:00+09:00",
         "area": {
           "id": "040",
           "name": "仙台"
@@ -858,6 +858,40 @@
           "0205",
           "0800"
         ]
+      },
+      {
+        "id": "2022092954129",
+        "event_id": "54129",
+        "start_time": "2022-09-29T12:43:00+09:00",
+        "end_time": "2022-09-29T12:44:00+09:00",
+        "area": {
+          "id": "040",
+          "name": "仙台"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "やっぺぇコレクション　パート１",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
       },
       {
         "id": "2022092922047",
@@ -3158,7 +3192,7 @@
         "id": "2022092922044",
         "event_id": "22044",
         "start_time": "2022-09-29T12:20:00+09:00",
-        "end_time": "2022-09-29T12:44:00+09:00",
+        "end_time": "2022-09-29T12:43:00+09:00",
         "area": {
           "id": "040",
           "name": "仙台"
@@ -3191,6 +3225,40 @@
           "0205",
           "0800"
         ]
+      },
+      {
+        "id": "2022092954129",
+        "event_id": "54129",
+        "start_time": "2022-09-29T12:43:00+09:00",
+        "end_time": "2022-09-29T12:44:00+09:00",
+        "area": {
+          "id": "040",
+          "name": "仙台"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "やっぺぇコレクション　パート１",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
       },
       {
         "id": "2022092922047",
