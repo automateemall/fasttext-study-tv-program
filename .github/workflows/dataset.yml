@@ -6,6 +6,7 @@ on:
   push:
     branches:
       - "master"
+      - "json-fetch"
   schedule:
     - cron: '2 1 * * *'
 
@@ -23,7 +24,6 @@ jobs:
         run: |
           baseurl=https://api.nhk.or.jp/v2/pg/list/
           mkdir -p json
-
           # set -x
           git fetch origin
           git checkout ./
@@ -31,6 +31,6 @@ jobs:
           git config --global user.name ${userName}
           git config --global user.email ${userEmail}
           bash kick_api.sh
-          # git add ./
-          # git commit -m "`date` add json"
-          # git push origin ${branch} 
+          git add ./ 
+          git commit -m "`date` add json"
+          git push -f origin ${branch} 

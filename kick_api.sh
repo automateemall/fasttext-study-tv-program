@@ -33,6 +33,3 @@ done
 
 find ./json -type f -size  1k | xargs rm || true
 
-git add ./ 
-git commit -m "fix some `date`" 
-git push -f origin json-fetch 
