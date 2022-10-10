@@ -3,9 +3,9 @@
 #
 name: get json and push
 on:
-  # push:
-  #   branches:
-  #     - "master"
+  push:
+    branches:
+      - "master"
   schedule:
     - cron: '2 1 * * *'
 
@@ -14,37 +14,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
       - name: fetch-api
         env:
           apikey: ${{ secrets.API_KEY }}      
           userName: ${{ secrets.USER_NAME }}      
           userEmail: ${{ secrets.USER_EMAIL }}     
-          branch: json-fetch 
+          branch: master 
         run: |
           baseurl=https://api.nhk.or.jp/v2/pg/list/
           mkdir -p json
 
-          for a in `cat sub/area.txt`; do
-              for s in `cat sub/service.txt`; do
-                  for ((i=4; i < 6; i++)); do
-                      sv=`echo ${s} | grep -o "^.."`
-                      area=`echo ${a} | grep -o "^..."`
-                      day=`date -d "${i} day" +'%Y-%m-%d'`
-                      url="${baseurl}/${area}/${sv}/${day}.json?key=${apikey}"
-                      echo "$url"
-                      curl $url | jq > "json/${sv}_${area}_${day}.json"
-                  done
-              done
-          done
-
-          find ./json -type f -size 1k | xargs rm || true
-
           # set -x
           git fetch origin
-          git checkout json-fetch 
+          git checkout ./
+          git checkout ${branch}
           git config --global user.name ${userName}
           git config --global user.email ${userEmail}
-          git add ./
-          git commit -m "`date` add json"
-          git push origin json-fetch 
+          bash kick_api.sh
+          # git add ./
+          # git commit -m "`date` add json"
+          # git push origin ${branch} 

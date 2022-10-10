@@ -5,7 +5,7 @@
 # https://api.nhk.or.jp/v2/pg/list/130/{service}/{date}.json?key={apikey}
 baseurl=https://api.nhk.or.jp/v2/pg/list/
 mkdir -p json
-export `cat .env`
+#export `cat .env`
 
 for a in `cat sub/area.txt`; do
     for ((i=0; i < 7; i++)); do
@@ -33,4 +33,6 @@ done
 
 find ./json -type f -size  1k | xargs rm || true
 
-git add ./ && git commit -m "fix some `date`" && git push -f origin json-fetch 
+git add ./ 
+git commit -m "fix some `date`" 
+git push -f origin json-fetch 
