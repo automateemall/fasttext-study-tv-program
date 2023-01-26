@@ -754,7 +754,7 @@
         "id": "2023012670755",
         "event_id": "70755",
         "start_time": "2023-01-26T09:55:00+09:00",
-        "end_time": "2023-01-26T10:00:03+09:00",
+        "end_time": "2023-01-26T09:59:55+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -787,154 +787,9 @@
         ]
       },
       {
-        "id": "2023012670757",
-        "event_id": "70757",
-        "start_time": "2023-01-26T10:00:03+09:00",
-        "end_time": "2023-01-26T10:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r1",
-          "name": "ＮＨＫラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023012670758",
-        "event_id": "70758",
-        "start_time": "2023-01-26T10:05:00+09:00",
-        "end_time": "2023-01-26T10:55:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r1",
-          "name": "ＮＨＫラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "らじるラボ「六角精児の名曲遺産」１０時台",
-        "subtitle": "【六角精児の名曲遺産】名曲遺産中の名曲遺産、よりディープな音楽を紹介する、話題のミニコーナー「名曲遺産～奥の細道」、お楽しみに♪",
-        "content": "【六角精児の名曲遺産】名曲遺産コーナーの中で、ひときわ、異彩を放っている「名曲遺産～奥の細道」。名曲遺産中の名曲遺産、よりディープな音楽たちを紹介するミニコーナーです。六角精児さんの選曲がクセになってしまうと話題！　必聴です♪",
-        "act": "【キャスター】吾妻謙，六角精児",
-        "genres": [
-          "02",
-          "05"
-        ]
-      },
-      {
-        "id": "2023012670759",
-        "event_id": "70759",
-        "start_time": "2023-01-26T10:55:00+09:00",
-        "end_time": "2023-01-26T11:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r1",
-          "name": "ＮＨＫラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "らじるの時間",
-        "subtitle": "ＮＨＫラジオのさまざまな番組情報をお届けします",
-        "content": "ごごカフェ",
-        "act": "柘植恵水",
-        "genres": [
-          "0207"
-        ]
-      },
-      {
-        "id": "2023012670761",
-        "event_id": "70761",
-        "start_time": "2023-01-26T11:00:03+09:00",
-        "end_time": "2023-01-26T11:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r1",
-          "name": "ＮＨＫラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023012670762",
-        "event_id": "70762",
-        "start_time": "2023-01-26T11:05:00+09:00",
+        "id": "2023012674594",
+        "event_id": "74594",
+        "start_time": "2023-01-26T09:59:55+09:00",
         "end_time": "2023-01-26T11:50:00+09:00",
         "area": {
           "id": "130",
@@ -959,10 +814,46 @@
             "height": "200"
           }
         },
-        "title": "らじるラボ　まいにちリクエスト・阿佐ヶ谷姉妹のお困りでしたら　１１時台",
-        "subtitle": "【まいにちリクエスト】【阿佐ヶ谷姉妹のお困りでしたらミニ】",
-        "content": "【まいにちリクエスト】みなさんからのリクエスト“この日にかけてほしい１曲”を、エピソードとともにご紹介します。【おたより紹介】木曜パーソナリティ・六角精児さんや、番組へのメッセージなどをメールやＦＡＸでお寄せください。【阿佐ヶ谷姉妹のお困りでしたらミニ】生活の中で困ったときの相談窓口などを、阿佐ヶ谷姉妹がご案内します。",
-        "act": "【キャスター】吾妻謙，六角精児，【出演】阿佐ヶ谷姉妹",
+        "title": "国会中継「代表質問」　～参議院本会議場から中継～",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0003"
+        ]
+      },
+      {
+        "id": "2023012670762",
+        "event_id": "70762",
+        "start_time": "2023-01-26T11:50:00+09:00",
+        "end_time": "2023-01-26T11:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "らじるラボ　お便りと音楽　１１時台",
+        "subtitle": "【お便りと音楽】",
+        "content": "【お便りと音楽】みなさんからのお便りをお待ちしています。各曜日のパーソナリティへのメッセージをお送りください。",
+        "act": "【キャスター】吾妻謙",
         "genres": [
           "02",
           "05"
@@ -971,7 +862,7 @@
       {
         "id": "2023012670763",
         "event_id": "70763",
-        "start_time": "2023-01-26T11:50:00+09:00",
+        "start_time": "2023-01-26T11:55:00+09:00",
         "end_time": "2023-01-26T12:00:03+09:00",
         "area": {
           "id": "130",
@@ -1267,7 +1158,7 @@
         "id": "2023012670773",
         "event_id": "70773",
         "start_time": "2023-01-26T13:55:00+09:00",
-        "end_time": "2023-01-26T14:00:03+09:00",
+        "end_time": "2023-01-26T13:59:55+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -1301,10 +1192,10 @@
         ]
       },
       {
-        "id": "2023012670775",
-        "event_id": "70775",
-        "start_time": "2023-01-26T14:00:03+09:00",
-        "end_time": "2023-01-26T14:05:00+09:00",
+        "id": "2023012674590",
+        "event_id": "74590",
+        "start_time": "2023-01-26T13:59:55+09:00",
+        "end_time": "2023-01-26T17:40:00+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -1328,350 +1219,18 @@
             "height": "200"
           }
         },
-        "title": "ニュース",
+        "title": "国会中継「代表質問」　～衆議院本会議場から中継～",
         "subtitle": "",
         "content": "",
         "act": "",
         "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023012670776",
-        "event_id": "70776",
-        "start_time": "2023-01-26T14:05:00+09:00",
-        "end_time": "2023-01-26T14:55:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r1",
-          "name": "ＮＨＫラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ごごカフェ「２時台　カフェトーク／驚き！昆虫の世界」",
-        "subtitle": "この時間は、曜日ごとのテーマ企画「カフェトーク」です。木曜は「くらしのヒント」日々の生活に役立つ、料理のコツや健康法など身近な話題をお届けします。",
-        "content": "今回のテーマは「驚き！昆虫の世界」地球上の生き物として「昆虫」は人間の先輩。人間が現れるずっと前から生き抜いてきています。そんな昆虫の世界は驚くことばかり。知ると私たちの生きる視点も変わってきます。驚きいっぱいの昆虫の世界について、写真や映像を介して昆虫の魅力を世界に発信しているＴｏｋｙｏ　Ｂｕｇ　Ｂｏｙｓの法師人響さん、平井文彦さんに伺います！",
-        "act": "【司会】武内陶子，【出演】昆虫写真家…法師人響，映像作家…平井文彦",
-        "genres": [
-          "0202",
-          "0400",
-          "0401"
-        ]
-      },
-      {
-        "id": "2023012670777",
-        "event_id": "70777",
-        "start_time": "2023-01-26T14:55:00+09:00",
-        "end_time": "2023-01-26T15:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r1",
-          "name": "ＮＨＫラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・天気予報・交通情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0009",
-          "0000"
-        ]
-      },
-      {
-        "id": "2023012670779",
-        "event_id": "70779",
-        "start_time": "2023-01-26T15:00:03+09:00",
-        "end_time": "2023-01-26T15:10:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r1",
-          "name": "ＮＨＫラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・天気予報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023012670780",
-        "event_id": "70780",
-        "start_time": "2023-01-26T15:10:00+09:00",
-        "end_time": "2023-01-26T15:55:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r1",
-          "name": "ＮＨＫラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ごごカフェ「３時台　ミュージックカフェ」",
-        "subtitle": "この時間も音楽企画「ミュージックカフェ」です。ジャンルや新旧を問わず、番組でご用意したお昼にぴったりの曲を、あなたからのリクエストと合わせてお届けします。",
-        "content": "ごごカフェの店内を、ステキな音楽と皆さんからのメッセージで満たします。季節のおたより、番組へのご意見、日替わりテーマに、皆さんのメッセージをお寄せください。あなたが聴きたいリクエスト曲も募集中。月曜から木曜はテーマフリー。金曜は、その日のスペシャルテーマに関連した曲でお待ちしています。曲を選んだエピソードもお忘れなく。昼下がりのひととき、リラックス気分でお楽しみ下さい！",
-        "act": "【司会】武内陶子",
-        "genres": [
-          "0202",
-          "0400",
-          "0401"
-        ]
-      },
-      {
-        "id": "2023012670781",
-        "event_id": "70781",
-        "start_time": "2023-01-26T15:55:00+09:00",
-        "end_time": "2023-01-26T16:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r1",
-          "name": "ＮＨＫラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "全国の天気・全国交通情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023012670783",
-        "event_id": "70783",
-        "start_time": "2023-01-26T16:00:03+09:00",
-        "end_time": "2023-01-26T16:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r1",
-          "name": "ＮＨＫラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023012670784",
-        "event_id": "70784",
-        "start_time": "2023-01-26T16:05:00+09:00",
-        "end_time": "2023-01-26T16:55:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r1",
-          "name": "ＮＨＫラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "【にっぽん列島夕方ラジオ】関西ラジオワイド",
-        "subtitle": "午後４時台は、毎日、大阪から『関西ラジオワイド』をお送りします。",
-        "content": "旅行ジャーナリスト　大野尚子さんの「アジア旅情報」、奈良大学教授・城郭研究者　千田嘉博さんの「関西街角再発見」などをお伝えします。",
-        "act": "【出演】奈良大学教授・城郭研究者…千田嘉博，旅行ジャーナリスト…大野尚子，【司会】鹿島綾乃，中倉真梨子",
-        "genres": [
-          "0009",
-          "0502",
-          "0202"
-        ]
-      },
-      {
-        "id": "2023012670785",
-        "event_id": "70785",
-        "start_time": "2023-01-26T16:55:00+09:00",
-        "end_time": "2023-01-26T17:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r1",
-          "name": "ＮＨＫラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・天気予報・交通情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0009",
-          "0000"
-        ]
-      },
-      {
-        "id": "2023012670787",
-        "event_id": "70787",
-        "start_time": "2023-01-26T17:00:03+09:00",
-        "end_time": "2023-01-26T17:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r1",
-          "name": "ＮＨＫラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
+          "0003"
         ]
       },
       {
         "id": "2023012670788",
         "event_id": "70788",
-        "start_time": "2023-01-26T17:05:00+09:00",
+        "start_time": "2023-01-26T17:40:00+09:00",
         "end_time": "2023-01-26T17:55:00+09:00",
         "area": {
           "id": "130",
@@ -2177,7 +1736,7 @@
           }
         },
         "title": "ＮＨＫジャーナル",
-        "subtitle": "　　　　打越裕樹，結野亜希，山崎淑行，福田寛之",
+        "subtitle": "▽カーリング日本選手権の見どころは・市川美余",
         "content": "",
         "act": "打越裕樹，結野亜希，山崎淑行，福田寛之",
         "genres": [
@@ -6266,9 +5825,45 @@
         ]
       },
       {
-        "id": "2023012670763",
-        "event_id": "70763",
+        "id": "2023012674591",
+        "event_id": "74591",
         "start_time": "2023-01-26T11:50:00+09:00",
+        "end_time": "2023-01-26T11:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "名曲の小箱「愛の讃歌」",
+        "subtitle": "",
+        "content": "　マルグリット・モノー作曲、栗山和樹・編曲　（ピアノ）小原孝　（管弦楽）東京フィルハーモニー交響楽団　（指揮）円光寺雅彦",
+        "act": "小原孝，円光寺雅彦，東京フィルハーモニー交響楽団",
+        "genres": [
+          "0402"
+        ]
+      },
+      {
+        "id": "2023012674592",
+        "event_id": "74592",
+        "start_time": "2023-01-26T11:55:00+09:00",
         "end_time": "2023-01-26T12:00:03+09:00",
         "area": {
           "id": "130",
@@ -6298,6 +5893,7 @@
         "content": "",
         "act": "",
         "genres": [
+          "0009",
           "0000"
         ]
       },
@@ -6585,10 +6181,10 @@
             "height": "200"
           }
         },
-        "title": "民謡をたずねて",
-        "subtitle": "",
+        "title": "民謡をたずねて　特集「酒盛り唄・騒ぎ唄をたずねて」",
+        "subtitle": "【司会】近藤泰郎",
         "content": "",
-        "act": "",
+        "act": "【司会】近藤泰郎",
         "genres": [
           "0408"
         ]
