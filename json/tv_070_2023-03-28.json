@@ -303,382 +303,9 @@
         ]
       },
       {
-        "id": "2023032825830",
-        "event_id": "25830",
+        "id": "2023032825370",
+        "event_id": "25370",
         "start_time": "2023-03-28T08:15:00+09:00",
-        "end_time": "2023-03-28T09:55:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "あさイチ　ツイＱ楽ワザ　最初の一歩が肝心ＳＰ",
-        "subtitle": "ツイＱ楽ワザ最初の一歩が肝心ＳＰ▽いまオシ「いちご＠北海道比布町」▽みんな！ゴハンだよ【ゲスト】山口もえ・久保田磨希【キャスター】博多華丸・大吉、鈴木奈穂子",
-        "content": "ツイＱ楽ワザ・最初の一歩が肝心ＳＰ▽ヘアカラーの色落ち防ぐトリートメントの使い方▽観葉植物を枯らさない最初の一歩は「水やり」と「置き場所」▽５分でＯＫ！革カバンのキレイをキープするワザ▽賃貸物件に入居後は浴室のあそこを清掃すべし！▽ティッシュ使い始めに１枚だけ取り出すワザ▽いまオシ！「いちご＠北海道比布町」▽みんな！ゴハンだよ【ゲスト】山口もえ・久保田磨希【キャスター】博多華丸・大吉、鈴木奈穂子",
-        "act": "【ゲスト】山口もえ，久保田磨希，【キャスター】博多華丸，博多大吉，鈴木奈穂子，【リポーター】駒村多恵，副島淳，気象予報士…池田沙耶香，【語り】日髙のり子",
-        "genres": [
-          "0202",
-          "0203",
-          "0800"
-        ]
-      },
-      {
-        "id": "2023032825835",
-        "event_id": "25835",
-        "start_time": "2023-03-28T09:55:00+09:00",
-        "end_time": "2023-03-28T10:00:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みんなの体操",
-        "subtitle": "【出演】鈴木大輔，矢作あかり，戸塚寛子，杉井勇介",
-        "content": "",
-        "act": "【出演】鈴木大輔，矢作あかり，戸塚寛子，杉井勇介",
-        "genres": [
-          "0115",
-          "1015",
-          "0203"
-        ]
-      },
-      {
-        "id": "2023032825836",
-        "event_id": "25836",
-        "start_time": "2023-03-28T10:00:00+09:00",
-        "end_time": "2023-03-28T10:05:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000",
-          "0001"
-        ]
-      },
-      {
-        "id": "2023032825837",
-        "event_id": "25837",
-        "start_time": "2023-03-28T10:05:00+09:00",
-        "end_time": "2023-03-28T10:55:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "キャッチ！世界のトップニュース",
-        "subtitle": "▽各国の放送局が伝える注目ニュースをピックアップ　▽焦点や背景を分かりやすく解説　▽特集ワールド・アイズ　※内容変更の場合あり　【キャスター】望月麻美ほか",
-        "content": "世界のどこで何が起こっているのか、何に注目が集まっているのか。ひとつのニュースでも国が違えば視点も変わってきます。日本時間の深夜から早朝にかけて次々と入ってくる世界のニュースをダイレクトにお伝えし、その背景や経緯をキャスターが詳しく解説。朝一番、世界の最新ニュースを立体的にお伝えします。",
-        "act": "【キャスター】望月麻美，小林雄，別府正一郎，高橋彩，中川栞",
-        "genres": [
-          "0005",
-          "0006",
-          "0200"
-        ]
-      },
-      {
-        "id": "2023032825840",
-        "event_id": "25840",
-        "start_time": "2023-03-28T10:55:00+09:00",
-        "end_time": "2023-03-28T11:00:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みんなのうた「惑星」／「きみがいるから」",
-        "subtitle": "「惑星」うた：Ｓｅｘｙ　Ｚｏｎｅ／「きみがいるから」うた：谷山浩子",
-        "content": "「惑星」うた：Ｓｅｘｙ　Ｚｏｎｅ／「きみがいるから」うた：谷山浩子",
-        "act": "",
-        "genres": [
-          "0409",
-          "0504"
-        ]
-      },
-      {
-        "id": "2023032825841",
-        "event_id": "25841",
-        "start_time": "2023-03-28T11:00:00+09:00",
-        "end_time": "2023-03-28T11:05:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000",
-          "0001"
-        ]
-      },
-      {
-        "id": "2023032825842",
-        "event_id": "25842",
-        "start_time": "2023-03-28T11:05:00+09:00",
-        "end_time": "2023-03-28T11:30:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "レイチェルのおいしい旅レシピ「フランス・ニース」",
-        "subtitle": "レイチェルが訪れるのは南仏コートダジュールのニース。フランス産オリーブオイルやひよこ豆の粉を使った郷土料理をアレンジしたディナーをロンドンの友人たちに振る舞う。",
-        "content": "１品目は郷土料理ソッカ（ひよこ豆の粉を使ったパンケーキのようなスナック）をアレンジした料理。ラタトゥイユを乗せアンチョビ・ソースを垂らして完成。２品目はフランスの上質なオリーブオイルを使った、たらのコンフィとレインボーチャード・グラタン。デザートはオレンジの皮を器に使い、メレンゲをのせたオレンジとキャロットのゼリー。ニースのビストロで食べたプティ・ファルシ（野菜の肉詰め）からアイデアを得た。",
-        "act": "【出演】レイチェル・クー，【声】甲斐田裕子",
-        "genres": [
-          "0205",
-          "0506"
-        ]
-      },
-      {
-        "id": "2023032827864",
-        "event_id": "27864",
-        "start_time": "2023-03-28T11:30:00+09:00",
-        "end_time": "2023-03-28T11:35:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "テレビ体操",
-        "subtitle": "【出演】鈴木大輔，舘野伶奈，矢作あかり，石川裕平，【ピアノ】能條貴大",
-        "content": "",
-        "act": "【出演】鈴木大輔，舘野伶奈，矢作あかり，石川裕平，【ピアノ】能條貴大",
-        "genres": [
-          "0115",
-          "1015",
-          "0203"
-        ]
-      },
-      {
-        "id": "2023032827865",
-        "event_id": "27865",
-        "start_time": "2023-03-28T11:35:00+09:00",
-        "end_time": "2023-03-28T11:40:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ピタゴラスイッチ　ミニ▽新しい生物▽うた",
-        "subtitle": "さまざまな不思議な構造、面白い考え方を、歌、体操、ピタゴラ装置など多彩なコーナーで紹介。今回は「新しい生物」「ピタゴラ装置４１番の歌」など。",
-        "content": "私たちがふだん暮らしている中には、さまざまな不思議な構造や面白い考え方、法則が隠れています。番組では、さまざまな「子どもにとっての“なるほど！”」を紹介します。今回は「新しい生物」のほか、人気の歌コーナーは「ピタゴラ装置４１番の歌」。",
-        "act": "",
-        "genres": [
-          "1008",
-          "0815"
-        ]
-      },
-      {
-        "id": "2023032827867",
-        "event_id": "27867",
-        "start_time": "2023-03-28T11:40:00+09:00",
-        "end_time": "2023-03-28T11:45:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "名曲アルバム「クロイツェル・ソナタ」ベートーベン作曲",
-        "subtitle": "「クロイツェル・ソナタ」（バイオリン）小林美恵，（ピアノ）清水和音　～オーストリア・ウィーン～",
-        "content": "",
-        "act": "【バイオリン】小林美恵，【ピアノ】清水和音",
-        "genres": [
-          "0402"
-        ]
-      },
-      {
-        "id": "2023032827868",
-        "event_id": "27868",
-        "start_time": "2023-03-28T11:45:00+09:00",
         "end_time": "2023-03-28T11:54:00+09:00",
         "area": {
           "id": "070",
@@ -703,11 +330,13 @@
             "height": "200"
           }
         },
-        "title": "セレクション",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": []
+        "title": "第９５回選抜高校野球大会　準々決勝",
+        "subtitle": "第１試合　第２試合　【第１試合】解説…飯塚智広，アナウンサー…酒井博司　～甲子園球場から中継～",
+        "content": "［Ｅテレで放送継続］",
+        "act": "【第１試合】解説…飯塚智広，アナウンサー…酒井博司",
+        "genres": [
+          "0101"
+        ]
       },
       {
         "id": "2023032825844",
@@ -928,557 +557,9 @@
         ]
       },
       {
-        "id": "2023032825855",
-        "event_id": "25855",
+        "id": "2023032825395",
+        "event_id": "25395",
         "start_time": "2023-03-28T13:05:00+09:00",
-        "end_time": "2023-03-28T13:55:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "列島ニュース",
-        "subtitle": "日本列島の今が見える！ＮＨＫが地域向けに放送しているお昼のニュースを選（え）りすぐって大阪から全国に発信。地域の課題や郷土の話題を盛りだくさんでお届けします。",
-        "content": "「列島各地の地域ニュースを選りすぐって大阪から全国に発信します」。全国に５４あるＮＨＫの各放送局が取材して地域向けに放送したお昼のニュースから地域の課題、地元ならではの話題などを集めて盛りだくさんでお伝えします。今年度は中継で結んで現地の放送局から伝える「列島ニュースアップ」と「ＮＨＫ　ＮＥＷＳ　ＷＥＢ」に掲載された特集記事を紹介するコーナーを新たに開始！ライブ感とネット連携を強化してお届けします",
-        "act": "【キャスター】伊藤雄彦，二宮直輝，牛田茉友，一柳亜矢子，【気象予報士】坂下恵理",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023032825856",
-        "event_id": "25856",
-        "start_time": "2023-03-28T13:55:00+09:00",
-        "end_time": "2023-03-28T14:00:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "テレビ体操",
-        "subtitle": "【出演】鈴木大輔，舘野伶奈，矢作あかり，石川裕平，【ピアノ】能條貴大",
-        "content": "",
-        "act": "【出演】鈴木大輔，舘野伶奈，矢作あかり，石川裕平，【ピアノ】能條貴大",
-        "genres": [
-          "0115",
-          "1015",
-          "0203"
-        ]
-      },
-      {
-        "id": "2023032825857",
-        "event_id": "25857",
-        "start_time": "2023-03-28T14:00:00+09:00",
-        "end_time": "2023-03-28T14:05:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000",
-          "0001"
-        ]
-      },
-      {
-        "id": "2023032825858",
-        "event_id": "25858",
-        "start_time": "2023-03-28T14:05:00+09:00",
-        "end_time": "2023-03-28T14:30:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "小さな旅　選",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0801",
-          "0800",
-          "0804"
-        ]
-      },
-      {
-        "id": "2023032827180",
-        "event_id": "27180",
-        "start_time": "2023-03-28T14:30:00+09:00",
-        "end_time": "2023-03-28T15:00:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ダーウィンが来た！　選",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0802",
-          "1000"
-        ]
-      },
-      {
-        "id": "2023032825860",
-        "event_id": "25860",
-        "start_time": "2023-03-28T15:00:00+09:00",
-        "end_time": "2023-03-28T15:07:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000",
-          "0001"
-        ]
-      },
-      {
-        "id": "2023032841912",
-        "event_id": "41912",
-        "start_time": "2023-03-28T15:07:00+09:00",
-        "end_time": "2023-03-28T15:10:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "東北地方のニュース・気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0009"
-        ]
-      },
-      {
-        "id": "2023032827862",
-        "event_id": "27862",
-        "start_time": "2023-03-28T15:10:00+09:00",
-        "end_time": "2023-03-28T15:40:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ゆったり温泉ひとり旅",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": []
-      },
-      {
-        "id": "2023032831091",
-        "event_id": "31091",
-        "start_time": "2023-03-28T15:40:00+09:00",
-        "end_time": "2023-03-28T15:55:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "セレクション",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": []
-      },
-      {
-        "id": "2023032825863",
-        "event_id": "25863",
-        "start_time": "2023-03-28T15:55:00+09:00",
-        "end_time": "2023-03-28T16:00:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みんなのうた「わたしのにゃんこ」／「大名ぎょうれつ」",
-        "subtitle": "「わたしのにゃんこ」うた：矢野顕子、ひばり児童合唱団／「大名ぎょうれつ」うた：田中星児",
-        "content": "「わたしのにゃんこ」うた：矢野顕子、ひばり児童合唱団／「大名ぎょうれつ」うた：田中星児",
-        "act": "",
-        "genres": [
-          "0409",
-          "0504"
-        ]
-      },
-      {
-        "id": "2023032825864",
-        "event_id": "25864",
-        "start_time": "2023-03-28T16:00:00+09:00",
-        "end_time": "2023-03-28T16:05:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023032825865",
-        "event_id": "25865",
-        "start_time": "2023-03-28T16:05:00+09:00",
-        "end_time": "2023-03-28T16:30:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "すてきにハンドメイド　ミシン部（４）ジーンズをリペア＆リメイク　前編",
-        "subtitle": "所ジョージが私物ジーンズをリペア！破れや穴あきなどのダメージを、布を当てたり手縫いでステッチしたりして補修。布の柄や糸の色で遊んで自分だけの１本にカスタマイズ！",
-        "content": "破れやすり切れ、穴あきといったダメージを、布を当てたり、手縫いでステッチしたりして補修。スペシャルゲストは所ジョージさん。私物のジーンズをどうリペアする！？布のはぎれで穴をふさぐときには、まず布を○○する！？お直し職人の高畠海さんが、目からウロコのプロの技を教えてくれる。布の柄や糸の色をあえて目立つものを選んで“見せる”補修をしてもＯＫ。自分だけの１本にカスタマイズする。",
-        "act": "【講師】お直し職人…高畠海，【ゲスト】所ジョージ，【司会】洋輔，佐々木希",
-        "genres": [
-          "1001",
-          "0201",
-          "0202"
-        ]
-      },
-      {
-        "id": "2023032825868",
-        "event_id": "25868",
-        "start_time": "2023-03-28T16:30:00+09:00",
-        "end_time": "2023-03-28T16:45:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "【連続テレビ小説】ひらり（６９）",
-        "subtitle": "相撲が大好きな女の子・ひらりは恋に仕事に大忙し！東京・両国を舞台に夢をかなえるためにさまざまな困難に立ち向かうヒロインの下町青春物語。１９９２年の連続テレビ小説",
-        "content": "朝５時。みのり（鍵本景子）は竜太（渡辺いっけい）の診療所の診察ベッドで目を覚まし、誰にも見られないよう早朝に出社していく。ひらり（石田ひかり）はリーチ商会で蛭田（三遊亭楽太郎）から梅若部屋が移転するという噂を聞く。驚いたひらりは梅若（伊東四朗）と明子（池内淳子）に真偽を確かめると、二人とも移転などしないと言う。ゆき子（伊東ゆかり）は秘密のマンションの部屋に花を飾り、ひとりゆっくりワインを飲んで…。",
-        "act": "【作】内館牧子，【出演】石田ひかり，鍵本景子，渡辺いっけい，小林健，阿知波悟美，松田勝，市川勇，石倉三郎，三遊亭円楽，花沢徳衛，伊武雅刀，伊東ゆかり，伊東四朗，池内淳子，【語り】倍賞千恵子，【音楽】中村正人",
-        "genres": [
-          "0300"
-        ]
-      },
-      {
-        "id": "2023032825869",
-        "event_id": "25869",
-        "start_time": "2023-03-28T16:45:00+09:00",
-        "end_time": "2023-03-28T17:00:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "【連続テレビ小説】ひらり（７０）",
-        "subtitle": "相撲が大好きな女の子・ひらりは恋に仕事に大忙し！東京・両国を舞台に夢をかなえるためにさまざまな困難に立ち向かうヒロインの下町青春物語。１９９２年の連続テレビ小説",
-        "content": "ひらり（石田ひかり）はみのり（鍵本景子）が研修旅行とウソをついて、竜太（渡辺いっけい）と一緒にどこかにいるのではないか？と疑う。みのりは夜、診療所に帰って来て、何度断られても一緒に暮らしたいと言い張り、竜太を怒らせてしまう。ひとりになったみのりが診察ベッドで寝る準備をしていると、寒風山（小林健）たちが、盲腸になった力士を連れて駆け込んでくる。パジャマ姿でイスの裏に隠れたみのりは見つかってしまい…。",
-        "act": "【作】内館牧子，【出演】石田ひかり，鍵本景子，渡辺いっけい，小林健，板川光，成瀬富久，小和田貢平，鳴呼拓三，秋田宗好，石橋秀樹，金浜政武，石倉三郎，花沢徳衛，伊武雅刀，伊東ゆかり，池内淳子，【語り】倍賞千恵子，【音楽】中村正人",
-        "genres": [
-          "0300"
-        ]
-      },
-      {
-        "id": "2023032825870",
-        "event_id": "25870",
-        "start_time": "2023-03-28T17:00:00+09:00",
-        "end_time": "2023-03-28T17:57:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュースＬＩＶＥ！ゆう５時",
-        "subtitle": "夕方５時から始まる、ライブ感にこだわった新ニュース番組。その日起こったニュースをいち早くコンパクトに分かりやすく、夕方の日本列島の表情もライブで伝えます！",
-        "content": "夕方５時から始まる、ライブ感にこだわった新ニュース番組。キャスターは高瀬耕造と片山千恵子。その日起こったニュースをいち早くコンパクトに分かりやすく、夕方の日本列島の表情もライブで伝えます！",
-        "act": "【キャスター】高瀬耕造，片山千恵子，【気象キャスター】田中美都，【リポーター】宮崎慶太，佐藤あゆみ，森田茉里恵",
-        "genres": [
-          "0000",
-          "0202",
-          "0205"
-        ]
-      },
-      {
-        "id": "2023032841922",
-        "event_id": "41922",
-        "start_time": "2023-03-28T17:57:00+09:00",
         "end_time": "2023-03-28T18:00:00+09:00",
         "area": {
           "id": "070",
@@ -1503,12 +584,12 @@
             "height": "200"
           }
         },
-        "title": "東北地方の気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
+        "title": "第９５回選抜高校野球大会　準々決勝",
+        "subtitle": "第２試合　第３試合　第４試合　【第２試合】解説…長野哲也，アナウンサー…北嶋右京，【第３試合】解説…杉本真吾，アナウンサー…冨坂和男ほか",
+        "content": "［Ｅテレで放送継続］",
+        "act": "【第２試合】解説…長野哲也，アナウンサー…北嶋右京，【第３試合】解説…杉本真吾，アナウンサー…冨坂和男，【第４試合】解説…青山眞也，アナウンサー…鳥海貴樹",
         "genres": [
-          "0001"
+          "0101"
         ]
       },
       {
@@ -1578,7 +659,7 @@
         "title": "はまなかあいづＴＯＤＡＹ",
         "subtitle": "▽県内のニュース　▽東日本大震災・原発事故関連ニュース　▽気象情報",
         "content": "",
-        "act": "【キャスター】芳賀健太郎，髙石桃子，武田真奈，【気象予報士】本橋淳也",
+        "act": "【キャスター】芳賀健太郎，武田真奈，【気象予報士】本橋淳也",
         "genres": [
           "0009",
           "0001",
@@ -2201,10 +1282,10 @@
             "height": "200"
           }
         },
-        "title": "視点・論点",
-        "subtitle": "▽ニュースや現代社会の諸問題、世界情勢などについて独自の視点から分析し、自らの言葉で語るオピニオン番組。▽各界の第一人者はもちろん、新進気鋭の論客も登場",
-        "content": "",
-        "act": "",
+        "title": "視点・論点　カーリング　なぜ曲がるのか",
+        "subtitle": "「カーリング　なぜ曲がるのか」村田　次郎（立教大学　教授）",
+        "content": "【出演】立教大学教授…村田次郎",
+        "act": "【出演】立教大学　教授…村田次郎",
         "genres": [
           "0006",
           "0800",
@@ -2553,382 +1634,9 @@
         ]
       },
       {
-        "id": "2023032825830",
-        "event_id": "25830",
+        "id": "2023032825370",
+        "event_id": "25370",
         "start_time": "2023-03-28T08:15:00+09:00",
-        "end_time": "2023-03-28T09:55:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "あさイチ　ツイＱ楽ワザ　最初の一歩が肝心ＳＰ",
-        "subtitle": "ツイＱ楽ワザ最初の一歩が肝心ＳＰ▽いまオシ「いちご＠北海道比布町」▽みんな！ゴハンだよ【ゲスト】山口もえ・久保田磨希【キャスター】博多華丸・大吉、鈴木奈穂子",
-        "content": "ツイＱ楽ワザ・最初の一歩が肝心ＳＰ▽ヘアカラーの色落ち防ぐトリートメントの使い方▽観葉植物を枯らさない最初の一歩は「水やり」と「置き場所」▽５分でＯＫ！革カバンのキレイをキープするワザ▽賃貸物件に入居後は浴室のあそこを清掃すべし！▽ティッシュ使い始めに１枚だけ取り出すワザ▽いまオシ！「いちご＠北海道比布町」▽みんな！ゴハンだよ【ゲスト】山口もえ・久保田磨希【キャスター】博多華丸・大吉、鈴木奈穂子",
-        "act": "【ゲスト】山口もえ，久保田磨希，【キャスター】博多華丸，博多大吉，鈴木奈穂子，【リポーター】駒村多恵，副島淳，気象予報士…池田沙耶香，【語り】日髙のり子",
-        "genres": [
-          "0202",
-          "0203",
-          "0800"
-        ]
-      },
-      {
-        "id": "2023032825835",
-        "event_id": "25835",
-        "start_time": "2023-03-28T09:55:00+09:00",
-        "end_time": "2023-03-28T10:00:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みんなの体操",
-        "subtitle": "【出演】鈴木大輔，矢作あかり，戸塚寛子，杉井勇介",
-        "content": "",
-        "act": "【出演】鈴木大輔，矢作あかり，戸塚寛子，杉井勇介",
-        "genres": [
-          "0115",
-          "1015",
-          "0203"
-        ]
-      },
-      {
-        "id": "2023032825836",
-        "event_id": "25836",
-        "start_time": "2023-03-28T10:00:00+09:00",
-        "end_time": "2023-03-28T10:05:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000",
-          "0001"
-        ]
-      },
-      {
-        "id": "2023032825837",
-        "event_id": "25837",
-        "start_time": "2023-03-28T10:05:00+09:00",
-        "end_time": "2023-03-28T10:55:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "キャッチ！世界のトップニュース",
-        "subtitle": "▽各国の放送局が伝える注目ニュースをピックアップ　▽焦点や背景を分かりやすく解説　▽特集ワールド・アイズ　※内容変更の場合あり　【キャスター】望月麻美ほか",
-        "content": "世界のどこで何が起こっているのか、何に注目が集まっているのか。ひとつのニュースでも国が違えば視点も変わってきます。日本時間の深夜から早朝にかけて次々と入ってくる世界のニュースをダイレクトにお伝えし、その背景や経緯をキャスターが詳しく解説。朝一番、世界の最新ニュースを立体的にお伝えします。",
-        "act": "【キャスター】望月麻美，小林雄，別府正一郎，高橋彩，中川栞",
-        "genres": [
-          "0005",
-          "0006",
-          "0200"
-        ]
-      },
-      {
-        "id": "2023032825840",
-        "event_id": "25840",
-        "start_time": "2023-03-28T10:55:00+09:00",
-        "end_time": "2023-03-28T11:00:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みんなのうた「惑星」／「きみがいるから」",
-        "subtitle": "「惑星」うた：Ｓｅｘｙ　Ｚｏｎｅ／「きみがいるから」うた：谷山浩子",
-        "content": "「惑星」うた：Ｓｅｘｙ　Ｚｏｎｅ／「きみがいるから」うた：谷山浩子",
-        "act": "",
-        "genres": [
-          "0409",
-          "0504"
-        ]
-      },
-      {
-        "id": "2023032825841",
-        "event_id": "25841",
-        "start_time": "2023-03-28T11:00:00+09:00",
-        "end_time": "2023-03-28T11:05:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000",
-          "0001"
-        ]
-      },
-      {
-        "id": "2023032825842",
-        "event_id": "25842",
-        "start_time": "2023-03-28T11:05:00+09:00",
-        "end_time": "2023-03-28T11:30:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "レイチェルのおいしい旅レシピ「フランス・ニース」",
-        "subtitle": "レイチェルが訪れるのは南仏コートダジュールのニース。フランス産オリーブオイルやひよこ豆の粉を使った郷土料理をアレンジしたディナーをロンドンの友人たちに振る舞う。",
-        "content": "１品目は郷土料理ソッカ（ひよこ豆の粉を使ったパンケーキのようなスナック）をアレンジした料理。ラタトゥイユを乗せアンチョビ・ソースを垂らして完成。２品目はフランスの上質なオリーブオイルを使った、たらのコンフィとレインボーチャード・グラタン。デザートはオレンジの皮を器に使い、メレンゲをのせたオレンジとキャロットのゼリー。ニースのビストロで食べたプティ・ファルシ（野菜の肉詰め）からアイデアを得た。",
-        "act": "【出演】レイチェル・クー，【声】甲斐田裕子",
-        "genres": [
-          "0205",
-          "0506"
-        ]
-      },
-      {
-        "id": "2023032827864",
-        "event_id": "27864",
-        "start_time": "2023-03-28T11:30:00+09:00",
-        "end_time": "2023-03-28T11:35:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "テレビ体操",
-        "subtitle": "【出演】鈴木大輔，舘野伶奈，矢作あかり，石川裕平，【ピアノ】能條貴大",
-        "content": "",
-        "act": "【出演】鈴木大輔，舘野伶奈，矢作あかり，石川裕平，【ピアノ】能條貴大",
-        "genres": [
-          "0115",
-          "1015",
-          "0203"
-        ]
-      },
-      {
-        "id": "2023032827865",
-        "event_id": "27865",
-        "start_time": "2023-03-28T11:35:00+09:00",
-        "end_time": "2023-03-28T11:40:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ピタゴラスイッチ　ミニ▽新しい生物▽うた",
-        "subtitle": "さまざまな不思議な構造、面白い考え方を、歌、体操、ピタゴラ装置など多彩なコーナーで紹介。今回は「新しい生物」「ピタゴラ装置４１番の歌」など。",
-        "content": "私たちがふだん暮らしている中には、さまざまな不思議な構造や面白い考え方、法則が隠れています。番組では、さまざまな「子どもにとっての“なるほど！”」を紹介します。今回は「新しい生物」のほか、人気の歌コーナーは「ピタゴラ装置４１番の歌」。",
-        "act": "",
-        "genres": [
-          "1008",
-          "0815"
-        ]
-      },
-      {
-        "id": "2023032827867",
-        "event_id": "27867",
-        "start_time": "2023-03-28T11:40:00+09:00",
-        "end_time": "2023-03-28T11:45:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "名曲アルバム「クロイツェル・ソナタ」ベートーベン作曲",
-        "subtitle": "「クロイツェル・ソナタ」（バイオリン）小林美恵，（ピアノ）清水和音　～オーストリア・ウィーン～",
-        "content": "",
-        "act": "【バイオリン】小林美恵，【ピアノ】清水和音",
-        "genres": [
-          "0402"
-        ]
-      },
-      {
-        "id": "2023032827868",
-        "event_id": "27868",
-        "start_time": "2023-03-28T11:45:00+09:00",
         "end_time": "2023-03-28T11:54:00+09:00",
         "area": {
           "id": "070",
@@ -2953,11 +1661,13 @@
             "height": "200"
           }
         },
-        "title": "セレクション",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": []
+        "title": "第９５回選抜高校野球大会　準々決勝",
+        "subtitle": "第１試合　第２試合　【第１試合】解説…飯塚智広，アナウンサー…酒井博司　～甲子園球場から中継～",
+        "content": "［Ｅテレで放送継続］",
+        "act": "【第１試合】解説…飯塚智広，アナウンサー…酒井博司",
+        "genres": [
+          "0101"
+        ]
       },
       {
         "id": "2023032825844",
@@ -3178,557 +1888,9 @@
         ]
       },
       {
-        "id": "2023032825855",
-        "event_id": "25855",
+        "id": "2023032825395",
+        "event_id": "25395",
         "start_time": "2023-03-28T13:05:00+09:00",
-        "end_time": "2023-03-28T13:55:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "列島ニュース",
-        "subtitle": "日本列島の今が見える！ＮＨＫが地域向けに放送しているお昼のニュースを選（え）りすぐって大阪から全国に発信。地域の課題や郷土の話題を盛りだくさんでお届けします。",
-        "content": "「列島各地の地域ニュースを選りすぐって大阪から全国に発信します」。全国に５４あるＮＨＫの各放送局が取材して地域向けに放送したお昼のニュースから地域の課題、地元ならではの話題などを集めて盛りだくさんでお伝えします。今年度は中継で結んで現地の放送局から伝える「列島ニュースアップ」と「ＮＨＫ　ＮＥＷＳ　ＷＥＢ」に掲載された特集記事を紹介するコーナーを新たに開始！ライブ感とネット連携を強化してお届けします",
-        "act": "【キャスター】伊藤雄彦，二宮直輝，牛田茉友，一柳亜矢子，【気象予報士】坂下恵理",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023032825856",
-        "event_id": "25856",
-        "start_time": "2023-03-28T13:55:00+09:00",
-        "end_time": "2023-03-28T14:00:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "テレビ体操",
-        "subtitle": "【出演】鈴木大輔，舘野伶奈，矢作あかり，石川裕平，【ピアノ】能條貴大",
-        "content": "",
-        "act": "【出演】鈴木大輔，舘野伶奈，矢作あかり，石川裕平，【ピアノ】能條貴大",
-        "genres": [
-          "0115",
-          "1015",
-          "0203"
-        ]
-      },
-      {
-        "id": "2023032825857",
-        "event_id": "25857",
-        "start_time": "2023-03-28T14:00:00+09:00",
-        "end_time": "2023-03-28T14:05:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000",
-          "0001"
-        ]
-      },
-      {
-        "id": "2023032825858",
-        "event_id": "25858",
-        "start_time": "2023-03-28T14:05:00+09:00",
-        "end_time": "2023-03-28T14:30:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "小さな旅　選",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0801",
-          "0800",
-          "0804"
-        ]
-      },
-      {
-        "id": "2023032827180",
-        "event_id": "27180",
-        "start_time": "2023-03-28T14:30:00+09:00",
-        "end_time": "2023-03-28T15:00:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ダーウィンが来た！　選",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0802",
-          "1000"
-        ]
-      },
-      {
-        "id": "2023032825860",
-        "event_id": "25860",
-        "start_time": "2023-03-28T15:00:00+09:00",
-        "end_time": "2023-03-28T15:07:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000",
-          "0001"
-        ]
-      },
-      {
-        "id": "2023032841912",
-        "event_id": "41912",
-        "start_time": "2023-03-28T15:07:00+09:00",
-        "end_time": "2023-03-28T15:10:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "東北地方のニュース・気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0009"
-        ]
-      },
-      {
-        "id": "2023032827862",
-        "event_id": "27862",
-        "start_time": "2023-03-28T15:10:00+09:00",
-        "end_time": "2023-03-28T15:40:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ゆったり温泉ひとり旅",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": []
-      },
-      {
-        "id": "2023032831091",
-        "event_id": "31091",
-        "start_time": "2023-03-28T15:40:00+09:00",
-        "end_time": "2023-03-28T15:55:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "セレクション",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": []
-      },
-      {
-        "id": "2023032825863",
-        "event_id": "25863",
-        "start_time": "2023-03-28T15:55:00+09:00",
-        "end_time": "2023-03-28T16:00:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みんなのうた「わたしのにゃんこ」／「大名ぎょうれつ」",
-        "subtitle": "「わたしのにゃんこ」うた：矢野顕子、ひばり児童合唱団／「大名ぎょうれつ」うた：田中星児",
-        "content": "「わたしのにゃんこ」うた：矢野顕子、ひばり児童合唱団／「大名ぎょうれつ」うた：田中星児",
-        "act": "",
-        "genres": [
-          "0409",
-          "0504"
-        ]
-      },
-      {
-        "id": "2023032825864",
-        "event_id": "25864",
-        "start_time": "2023-03-28T16:00:00+09:00",
-        "end_time": "2023-03-28T16:05:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023032825865",
-        "event_id": "25865",
-        "start_time": "2023-03-28T16:05:00+09:00",
-        "end_time": "2023-03-28T16:30:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "すてきにハンドメイド　ミシン部（４）ジーンズをリペア＆リメイク　前編",
-        "subtitle": "所ジョージが私物ジーンズをリペア！破れや穴あきなどのダメージを、布を当てたり手縫いでステッチしたりして補修。布の柄や糸の色で遊んで自分だけの１本にカスタマイズ！",
-        "content": "破れやすり切れ、穴あきといったダメージを、布を当てたり、手縫いでステッチしたりして補修。スペシャルゲストは所ジョージさん。私物のジーンズをどうリペアする！？布のはぎれで穴をふさぐときには、まず布を○○する！？お直し職人の高畠海さんが、目からウロコのプロの技を教えてくれる。布の柄や糸の色をあえて目立つものを選んで“見せる”補修をしてもＯＫ。自分だけの１本にカスタマイズする。",
-        "act": "【講師】お直し職人…高畠海，【ゲスト】所ジョージ，【司会】洋輔，佐々木希",
-        "genres": [
-          "1001",
-          "0201",
-          "0202"
-        ]
-      },
-      {
-        "id": "2023032825868",
-        "event_id": "25868",
-        "start_time": "2023-03-28T16:30:00+09:00",
-        "end_time": "2023-03-28T16:45:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "【連続テレビ小説】ひらり（６９）",
-        "subtitle": "相撲が大好きな女の子・ひらりは恋に仕事に大忙し！東京・両国を舞台に夢をかなえるためにさまざまな困難に立ち向かうヒロインの下町青春物語。１９９２年の連続テレビ小説",
-        "content": "朝５時。みのり（鍵本景子）は竜太（渡辺いっけい）の診療所の診察ベッドで目を覚まし、誰にも見られないよう早朝に出社していく。ひらり（石田ひかり）はリーチ商会で蛭田（三遊亭楽太郎）から梅若部屋が移転するという噂を聞く。驚いたひらりは梅若（伊東四朗）と明子（池内淳子）に真偽を確かめると、二人とも移転などしないと言う。ゆき子（伊東ゆかり）は秘密のマンションの部屋に花を飾り、ひとりゆっくりワインを飲んで…。",
-        "act": "【作】内館牧子，【出演】石田ひかり，鍵本景子，渡辺いっけい，小林健，阿知波悟美，松田勝，市川勇，石倉三郎，三遊亭円楽，花沢徳衛，伊武雅刀，伊東ゆかり，伊東四朗，池内淳子，【語り】倍賞千恵子，【音楽】中村正人",
-        "genres": [
-          "0300"
-        ]
-      },
-      {
-        "id": "2023032825869",
-        "event_id": "25869",
-        "start_time": "2023-03-28T16:45:00+09:00",
-        "end_time": "2023-03-28T17:00:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "【連続テレビ小説】ひらり（７０）",
-        "subtitle": "相撲が大好きな女の子・ひらりは恋に仕事に大忙し！東京・両国を舞台に夢をかなえるためにさまざまな困難に立ち向かうヒロインの下町青春物語。１９９２年の連続テレビ小説",
-        "content": "ひらり（石田ひかり）はみのり（鍵本景子）が研修旅行とウソをついて、竜太（渡辺いっけい）と一緒にどこかにいるのではないか？と疑う。みのりは夜、診療所に帰って来て、何度断られても一緒に暮らしたいと言い張り、竜太を怒らせてしまう。ひとりになったみのりが診察ベッドで寝る準備をしていると、寒風山（小林健）たちが、盲腸になった力士を連れて駆け込んでくる。パジャマ姿でイスの裏に隠れたみのりは見つかってしまい…。",
-        "act": "【作】内館牧子，【出演】石田ひかり，鍵本景子，渡辺いっけい，小林健，板川光，成瀬富久，小和田貢平，鳴呼拓三，秋田宗好，石橋秀樹，金浜政武，石倉三郎，花沢徳衛，伊武雅刀，伊東ゆかり，池内淳子，【語り】倍賞千恵子，【音楽】中村正人",
-        "genres": [
-          "0300"
-        ]
-      },
-      {
-        "id": "2023032825870",
-        "event_id": "25870",
-        "start_time": "2023-03-28T17:00:00+09:00",
-        "end_time": "2023-03-28T17:57:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュースＬＩＶＥ！ゆう５時",
-        "subtitle": "夕方５時から始まる、ライブ感にこだわった新ニュース番組。その日起こったニュースをいち早くコンパクトに分かりやすく、夕方の日本列島の表情もライブで伝えます！",
-        "content": "夕方５時から始まる、ライブ感にこだわった新ニュース番組。キャスターは高瀬耕造と片山千恵子。その日起こったニュースをいち早くコンパクトに分かりやすく、夕方の日本列島の表情もライブで伝えます！",
-        "act": "【キャスター】高瀬耕造，片山千恵子，【気象キャスター】田中美都，【リポーター】宮崎慶太，佐藤あゆみ，森田茉里恵",
-        "genres": [
-          "0000",
-          "0202",
-          "0205"
-        ]
-      },
-      {
-        "id": "2023032841922",
-        "event_id": "41922",
-        "start_time": "2023-03-28T17:57:00+09:00",
         "end_time": "2023-03-28T18:00:00+09:00",
         "area": {
           "id": "070",
@@ -3753,12 +1915,12 @@
             "height": "200"
           }
         },
-        "title": "東北地方の気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
+        "title": "第９５回選抜高校野球大会　準々決勝",
+        "subtitle": "第２試合　第３試合　第４試合　【第２試合】解説…長野哲也，アナウンサー…北嶋右京，【第３試合】解説…杉本真吾，アナウンサー…冨坂和男ほか",
+        "content": "［Ｅテレで放送継続］",
+        "act": "【第２試合】解説…長野哲也，アナウンサー…北嶋右京，【第３試合】解説…杉本真吾，アナウンサー…冨坂和男，【第４試合】解説…青山眞也，アナウンサー…鳥海貴樹",
         "genres": [
-          "0001"
+          "0101"
         ]
       },
       {
@@ -3828,7 +1990,7 @@
         "title": "はまなかあいづＴＯＤＡＹ",
         "subtitle": "▽県内のニュース　▽東日本大震災・原発事故関連ニュース　▽気象情報",
         "content": "",
-        "act": "【キャスター】芳賀健太郎，髙石桃子，武田真奈，【気象予報士】本橋淳也",
+        "act": "【キャスター】芳賀健太郎，武田真奈，【気象予報士】本橋淳也",
         "genres": [
           "0009",
           "0001",
@@ -4451,10 +2613,10 @@
             "height": "200"
           }
         },
-        "title": "視点・論点",
-        "subtitle": "▽ニュースや現代社会の諸問題、世界情勢などについて独自の視点から分析し、自らの言葉で語るオピニオン番組。▽各界の第一人者はもちろん、新進気鋭の論客も登場",
-        "content": "",
-        "act": "",
+        "title": "視点・論点　カーリング　なぜ曲がるのか",
+        "subtitle": "「カーリング　なぜ曲がるのか」村田　次郎（立教大学　教授）",
+        "content": "【出演】立教大学教授…村田次郎",
+        "act": "【出演】立教大学　教授…村田次郎",
         "genres": [
           "0006",
           "0800",
@@ -4947,8 +3109,8 @@
         ]
       },
       {
-        "id": "2023032825925",
-        "event_id": "25925",
+        "id": "2023032832740",
+        "event_id": "32740",
         "start_time": "2023-03-28T07:20:00+09:00",
         "end_time": "2023-03-28T07:30:00+09:00",
         "area": {
@@ -4974,10 +3136,10 @@
             "height": "200"
           }
         },
-        "title": "オハ！よ～いどん",
-        "subtitle": "",
-        "content": "",
-        "act": "",
+        "title": "オハ！よ～いどん　朝の会「わたしのあこがれ（２）」　ゲスト：みやぞん",
+        "subtitle": "「オハ！よ～いどん」はリモートで日本全国の子どもたちを結んで開く朝の会。自分のことを話す、友達の話を聞く。コージ園長と楽しくコミュニケーション力を身につけよう。",
+        "content": "▼ＭＣは“コージ園長”こと今田耕司さん。番組キャラクターのオハローと一緒に子どもたちとさまざまなテーマで楽しくおしゃべりします▼今回のテーマは「わたしのあこがれ」。ゲストのＡＮＺＥＮ漫才・みやぞんさんがビックリのあこがれって何？▼よしお兄さんの「オハどんたいそう」で眠たい頭と体をスッキリさせよう▼番組ホームページでは出演してくれる子どもたちを募集中▼この番組は２０２２年１１月１日に放送したものです",
+        "act": "【出演】今田耕司，小林よしひさ，【ゲスト】みやぞん（ＡＮＺＥＮ漫才），【声】西山宏太朗，【語り】水瀬いのり",
         "genres": [
           "1008",
           "0502"
@@ -5764,7 +3926,7 @@
         "id": "2023032825947",
         "event_id": "25947",
         "start_time": "2023-03-28T11:30:00+09:00",
-        "end_time": "2023-03-28T11:55:00+09:00",
+        "end_time": "2023-03-28T11:54:00+09:00",
         "area": {
           "id": "070",
           "name": "福島"
@@ -5798,10 +3960,10 @@
         ]
       },
       {
-        "id": "2023032825952",
-        "event_id": "25952",
-        "start_time": "2023-03-28T11:55:00+09:00",
-        "end_time": "2023-03-28T12:00:00+09:00",
+        "id": "2023032825481",
+        "event_id": "25481",
+        "start_time": "2023-03-28T11:54:00+09:00",
+        "end_time": "2023-03-28T13:05:00+09:00",
         "area": {
           "id": "070",
           "name": "福島"
@@ -5825,207 +3987,19 @@
             "height": "200"
           }
         },
-        "title": "まる得マガジン　ホットケーキＭＩＸ（２）「誰でもカフェ風　クッキー・スコーン」",
-        "subtitle": "ホットケーキミックスを使って王道のパンケーキからちょっと意外なものまで、いろいろ作ってみませんか？",
-        "content": "一時は品切れも続出したほど大流行したホットケーキミックス。便利なホットケーキミックスを使っていろいろ作ってみませんか？絶品おやつ編は「基本のパンケーキ」「カフェ風スコーン」「本格ケーキ」「ぷっくりドーナツ」など。意外なランチ編は「お好みピザ」「おかずパン」「中華まん」など",
-        "act": "【講師】料理研究家…Ｍｉｚｕｋｉ，【出演】武田航平",
+        "title": "第９５回選抜高校野球大会　準々決勝",
+        "subtitle": "第２試合　【第２試合】解説…長野哲也，アナウンサー…北嶋右京　～甲子園球場から中継～",
+        "content": "［総合テレビで放送継続］",
+        "act": "【第２試合】解説…長野哲也，アナウンサー…北嶋右京",
         "genres": [
-          "0202",
-          "0205"
-        ]
-      },
-      {
-        "id": "2023032825953",
-        "event_id": "25953",
-        "start_time": "2023-03-28T12:00:00+09:00",
-        "end_time": "2023-03-28T12:15:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e1",
-          "name": "ＮＨＫＥテレ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "きょうの健康　男性のがん　最新情報「前立腺がん　治療による合併症を防ぐ」",
-        "subtitle": "「前立腺がん」の治療では、合併症として、排尿・排便の機能や性機能に障害が生じることがある。近年、合併症を防ぐための治療も進歩しており、詳しく紹介する。",
-        "content": "「前立腺がん」の治療では、合併症として、排尿・排便の機能や性機能に障害が生じることがある。一方で、近年は合併症を防ぐための治療も進歩している。定期的な検査で経過観察をする監視療法、前立腺を摘出する手術、放射線治療、ホルモン療法の４つの治療法について、最新情報をお伝えする。",
-        "act": "【講師】がん研有明病院　部長…米瀬淳二，【キャスター】岩田まこ都，小田切千",
-        "genres": [
-          "0203",
-          "0803",
-          "1011"
-        ]
-      },
-      {
-        "id": "2023032825954",
-        "event_id": "25954",
-        "start_time": "2023-03-28T12:15:00+09:00",
-        "end_time": "2023-03-28T12:40:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e1",
-          "name": "ＮＨＫＥテレ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "趣味どきっ！　古武術に学ぶ体の使い方（７）「和装がもたらす体への効用」",
-        "subtitle": "帯やタスキがけ、下駄ばきなど、和装がもたらす体への効用とは？ひもをガイドにして、体を動かすためのエクササイズをご紹介！全身を連動させる古武術の極意を学ぼう！",
-        "content": "着物や武道の道着など、和装に共通するのが、帯や鼻緒といったひも状のものを身に纏（まと）うこと。４０年来、毎日着物姿で過ごす武術研究者の甲野善紀さんは、ひもを上手に活用すれば、効率よく体を動かすことに役立つと語る。番組では、ひもを体に巻き付けて、各部位の可動域を広げるためのエクササイズを実践！講師の林久仁則さんが、その方法をわかりやすく伝授。【出演】鈴木浩介、鈴木亜美",
-        "act": "【講師】武術研究家…甲野善紀，身体教育家…林久仁則，【出演】鈴木浩介，鈴木亜美，【語り】田原アルノ",
-        "genres": [
-          "1000",
-          "1002",
-          "0115"
-        ]
-      },
-      {
-        "id": "2023032825957",
-        "event_id": "25957",
-        "start_time": "2023-03-28T12:40:00+09:00",
-        "end_time": "2023-03-28T12:45:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e1",
-          "name": "ＮＨＫＥテレ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "浮世絵ＥＤＯ－ＬＩＦＥ「花見の名所　珍風景？歌麿“三囲神社の御開帳　向島”」",
-        "subtitle": "浮世絵の世界をのぞいてみれば江戸のリアルな暮らしが見えてくる！　花見の名所、隅田川。その川の土手に、まるでめりこんでいるような短い鳥居を発見！これは一体何！？",
-        "content": "歌麿が描いた“江戸の花見の名所”。大勢の客が、春を満喫している。その客の後ろに、神社の鳥居が地面にめり込んだように見える。この珍しい風景から、この辺りは特に人気を集めたという。その景色の理由をひもとくと…。また、花見客の視線の先をたどっていくと、一人の女性。どうも、酔っ払っているようだ。いつの時代も、ついつい飲みすぎて羽目を外してしまう人はいるようで、お付きの人は大変！周囲の人は、くすくす笑い…。",
-        "act": "【語り】柴田祐規子",
-        "genres": [
-          "0804"
-        ]
-      },
-      {
-        "id": "2023032825958",
-        "event_id": "25958",
-        "start_time": "2023-03-28T12:45:00+09:00",
-        "end_time": "2023-03-28T12:50:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e1",
-          "name": "ＮＨＫＥテレ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みんなのうた「惑星」／「きみがいるから」",
-        "subtitle": "「惑星」うた：Ｓｅｘｙ　Ｚｏｎｅ／「きみがいるから」うた：谷山浩子",
-        "content": "「惑星」うた：Ｓｅｘｙ　Ｚｏｎｅ／「きみがいるから」うた：谷山浩子",
-        "act": "",
-        "genres": [
-          "0409",
-          "0504"
-        ]
-      },
-      {
-        "id": "2023032825959",
-        "event_id": "25959",
-        "start_time": "2023-03-28T12:50:00+09:00",
-        "end_time": "2023-03-28T13:00:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e1",
-          "name": "ＮＨＫＥテレ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "視点・論点",
-        "subtitle": "▽ニュースや現代社会の諸問題、世界情勢などについて独自の視点から分析し、自らの言葉で語るオピニオン番組。▽各界の第一人者はもちろん、新進気鋭の論客も登場",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0006",
-          "0800",
-          "0215"
+          "0101"
         ]
       },
       {
         "id": "2023032825960",
         "event_id": "25960",
-        "start_time": "2023-03-28T13:00:00+09:00",
-        "end_time": "2023-03-28T13:05:00+09:00",
+        "start_time": "2023-03-28T13:05:00+09:00",
+        "end_time": "2023-03-28T13:10:00+09:00",
         "area": {
           "id": "070",
           "name": "福島"
@@ -6061,8 +4035,8 @@
       {
         "id": "2023032825961",
         "event_id": "25961",
-        "start_time": "2023-03-28T13:05:00+09:00",
-        "end_time": "2023-03-28T13:30:00+09:00",
+        "start_time": "2023-03-28T13:10:00+09:00",
+        "end_time": "2023-03-28T13:35:00+09:00",
         "area": {
           "id": "070",
           "name": "福島"
@@ -6098,8 +4072,8 @@
       {
         "id": "2023032825964",
         "event_id": "25964",
-        "start_time": "2023-03-28T13:30:00+09:00",
-        "end_time": "2023-03-28T14:00:00+09:00",
+        "start_time": "2023-03-28T13:35:00+09:00",
+        "end_time": "2023-03-28T14:05:00+09:00",
         "area": {
           "id": "070",
           "name": "福島"
@@ -6134,8 +4108,8 @@
       {
         "id": "2023032825967",
         "event_id": "25967",
-        "start_time": "2023-03-28T14:00:00+09:00",
-        "end_time": "2023-03-28T14:25:00+09:00",
+        "start_time": "2023-03-28T14:05:00+09:00",
+        "end_time": "2023-03-28T14:30:00+09:00",
         "area": {
           "id": "070",
           "name": "福島"
@@ -6167,43 +4141,6 @@
           "1007",
           "1000",
           "1002"
-        ]
-      },
-      {
-        "id": "2023032825968",
-        "event_id": "25968",
-        "start_time": "2023-03-28T14:25:00+09:00",
-        "end_time": "2023-03-28T14:30:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e1",
-          "name": "ＮＨＫＥテレ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "名曲アルバム「パガニーニの主題による狂詩曲」ラフマニノフ作曲",
-        "subtitle": "「パガニーニの主題による狂詩曲」（ピアノ）江口玲，（管弦楽）東京フィルハーモニー交響楽団，（指揮）現田茂夫　～アメリカ・ロサンゼルス、ニューヨーク～",
-        "content": "",
-        "act": "【ピアノ】江口玲，【管弦楽】東京フィルハーモニー交響楽団，【指揮】現田茂夫",
-        "genres": [
-          "0402",
-          "0801"
         ]
       },
       {
@@ -6714,10 +4651,10 @@
             "height": "200"
           }
         },
-        "title": "アイラブみー",
-        "subtitle": "",
-        "content": "",
-        "act": "",
+        "title": "アイラブみー　しんじゃったら、もうあえないの？",
+        "subtitle": "５歳のこどもが「自分」を大切にすることを学ぶ冒険アニメーション▽声の出演・満島ひかり▽音楽・ハンバートハンバート▽脚本・竹村武司▽キャラクターデザインｏｂａｋ",
+        "content": "主人公は５歳の“み―”▽こころやからだ、いのちの疑問をきっかけにじぶん探しの旅が始まる▽アニメーションに登場する４０以上のキャラクターすべてを満島ひかりが演じ分ける。▽大切に飼っていたゲジゲジのゲージが、ある日突然動かなくなってしまった。友達と遊んでいてもごはんを食べていても、ゲージのことを思い浮かべては、涙があふれてしまう。そんなみーをパパは庭に連れ出して…。",
+        "act": "【声】満島ひかり",
         "genres": [
           "1008"
         ]
@@ -6909,10 +4846,46 @@
         ]
       },
       {
+        "id": "2023032825521",
+        "event_id": "25521",
+        "start_time": "2023-03-28T18:00:00+09:00",
+        "end_time": "2023-03-28T18:35:00+09:00",
+        "area": {
+          "id": "070",
+          "name": "福島"
+        },
+        "service": {
+          "id": "e1",
+          "name": "ＮＨＫＥテレ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "第９５回選抜高校野球大会　準々決勝",
+        "subtitle": "第４試合　【第４試合】解説…青山眞也，アナウンサー…鳥海貴樹　～甲子園球場から中継～",
+        "content": "",
+        "act": "【第４試合】解説…青山眞也，アナウンサー…鳥海貴樹",
+        "genres": [
+          "0101"
+        ]
+      },
+      {
         "id": "2023032825989",
         "event_id": "25989",
-        "start_time": "2023-03-28T18:00:00+09:00",
-        "end_time": "2023-03-28T18:24:00+09:00",
+        "start_time": "2023-03-28T18:35:00+09:00",
+        "end_time": "2023-03-28T18:59:00+09:00",
         "area": {
           "id": "070",
           "name": "福島"
@@ -6949,8 +4922,8 @@
       {
         "id": "2023032825990",
         "event_id": "25990",
-        "start_time": "2023-03-28T18:24:00+09:00",
-        "end_time": "2023-03-28T18:25:00+09:00",
+        "start_time": "2023-03-28T18:59:00+09:00",
+        "end_time": "2023-03-28T19:00:00+09:00",
         "area": {
           "id": "070",
           "name": "福島"
@@ -6980,152 +4953,6 @@
         "act": "【声】神木隆之介，二階堂ふみ",
         "genres": [
           "1008"
-        ]
-      },
-      {
-        "id": "2023032825991",
-        "event_id": "25991",
-        "start_time": "2023-03-28T18:25:00+09:00",
-        "end_time": "2023-03-28T18:40:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e1",
-          "name": "ＮＨＫＥテレ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みいつけた！　火曜日",
-        "subtitle": "４～６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」等さまざまな「発見」を通して楽しむことができる番組です。",
-        "content": "今日は、チョコンの「ものしりだーれだ？」。　２つの写真を見比べて、どっちが正解かを当てる遊びだよ。　みんなは当てられるかな？よんだ？では、オフロスキーが紙コップで忍者の技をやってみるよ。　キミもやってみてくれ。　他にも、もじゃもじゃ、いすのまちのコッシーアニメも！　歌は新曲「まいにちがギフト」。　みんなも覚えて、サボさんといっしょに歌ってね。",
-        "act": "【出演】増田梨沙，佐藤貴史，小林顕作，【声】高橋茂雄，篠原ともえ，むたあきこ，古島清孝",
-        "genres": [
-          "1008",
-          "0409",
-          "0515"
-        ]
-      },
-      {
-        "id": "2023032825992",
-        "event_id": "25992",
-        "start_time": "2023-03-28T18:40:00+09:00",
-        "end_time": "2023-03-28T18:45:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e1",
-          "name": "ＮＨＫＥテレ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "青のオーケストラ　５分で楽しいクラシック（３）ヴァイオリンとは？",
-        "subtitle": "音楽に詳しくなくても、見ればアニメ「青のオーケストラ」が１００倍楽しめる！「青オケ」のキャラクターたちとともに、クラシックのさまざまな知識を楽しく学べる５分間。",
-        "content": "「青のオーケストラ」の青野一と秋音律子が、ＳＤキャラになって登場！楽しくおしゃべりしながら、オーケストラやクラシックにまつわる素朴な疑問についていっしょに学んでいくよ！今回のテーマは、「ヴァイオリンとは？」。なぜ、胴体にくぼみや、穴があるのか？ＮＨＫ交響楽団第２ヴァイオリン首席奏者の、大宮臨太郎さんに話を聞いたよ。美しい音色の秘密から、ヴァイオリン演奏にかける思いまで、秋音律子が直撃インタビュー！",
-        "act": "【声】千葉翔也，加隈亜衣，【出演】大宮臨太郎",
-        "genres": [
-          "0207"
-        ]
-      },
-      {
-        "id": "2023032829565",
-        "event_id": "29565",
-        "start_time": "2023-03-28T18:45:00+09:00",
-        "end_time": "2023-03-28T18:50:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e1",
-          "name": "ＮＨＫＥテレ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "オハ！よ～いどん＆夜もオハ！よ～いどん～５分ミニ～　オハぴょんのオハどん放送局",
-        "subtitle": "オハぴょん（声：水瀬いのりさん）がパーソナリティを務める「オハどん放送局」。４月からの「オハ！よ～いどん」と「夜もオハ！よ～いどん」の見どころをまとめてご紹介！",
-        "content": "▼オハぴょんがコージ園長＆よしお兄さんと一緒に「オハ！よ～いどん」「夜もオハ！よ～いどん」の４月からの見どころと知られざる裏側を紹介するよ▼「朝オハ！」には全国４７都道府県を楽しく覚えられる新曲が登場。「夜オハ！」にはおしゃべりな新しいキャラクターたまよちゃんがやってくる！▼Ｅテレで「オハ！よ～いどん」は毎週月～水曜の朝７：２０から、「夜もオハ！よ～いどん」は毎月最終水曜の夜７：２５～から放送中！",
-        "act": "【出演】今田耕司，小林よしひさ，【声】水瀬いのり，西山宏太朗",
-        "genres": [
-          "1008"
-        ]
-      },
-      {
-        "id": "2023032825994",
-        "event_id": "25994",
-        "start_time": "2023-03-28T18:50:00+09:00",
-        "end_time": "2023-03-28T19:00:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e1",
-          "name": "ＮＨＫＥテレ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "アニメ　忍たま乱太郎「普通ってなんだ？の段」",
-        "subtitle": "乱太郎・きり丸・しんべヱは、忍術学園で学ぶ忍者のたまご「忍たま」。ユニークな先生や仲間たちと、明るく・たのしく・ゆかいな毎日がくり広げられる。",
-        "content": "道具管理主任（どうぐかんりしゅにん）の吉野（よしの）先生が、木かげから小松田（こまつだ）さんの様子をうかがっていた。ドジな小松田さんが失敗したら、すぐに注意しに行くために見ているのかと、乱太郎たちは考えるが……。",
-        "act": "【声】高山みなみ，田中真弓，一龍斎貞友，大塚明夫，関俊彦，浦山迅，巴菁子，飯塚昭三，【原作】尼子騒兵衛，【脚本】浦沢義雄",
-        "genres": [
-          "0700"
         ]
       },
       {
@@ -8429,8 +6256,8 @@
         ]
       },
       {
-        "id": "2023032825925",
-        "event_id": "25925",
+        "id": "2023032832740",
+        "event_id": "32740",
         "start_time": "2023-03-28T07:20:00+09:00",
         "end_time": "2023-03-28T07:30:00+09:00",
         "area": {
@@ -8456,10 +6283,10 @@
             "height": "200"
           }
         },
-        "title": "オハ！よ～いどん",
-        "subtitle": "",
-        "content": "",
-        "act": "",
+        "title": "オハ！よ～いどん　朝の会「わたしのあこがれ（２）」　ゲスト：みやぞん",
+        "subtitle": "「オハ！よ～いどん」はリモートで日本全国の子どもたちを結んで開く朝の会。自分のことを話す、友達の話を聞く。コージ園長と楽しくコミュニケーション力を身につけよう。",
+        "content": "▼ＭＣは“コージ園長”こと今田耕司さん。番組キャラクターのオハローと一緒に子どもたちとさまざまなテーマで楽しくおしゃべりします▼今回のテーマは「わたしのあこがれ」。ゲストのＡＮＺＥＮ漫才・みやぞんさんがビックリのあこがれって何？▼よしお兄さんの「オハどんたいそう」で眠たい頭と体をスッキリさせよう▼番組ホームページでは出演してくれる子どもたちを募集中▼この番組は２０２２年１１月１日に放送したものです",
+        "act": "【出演】今田耕司，小林よしひさ，【ゲスト】みやぞん（ＡＮＺＥＮ漫才），【声】西山宏太朗，【語り】水瀬いのり",
         "genres": [
           "1008",
           "0502"
@@ -9246,7 +7073,7 @@
         "id": "2023032825947",
         "event_id": "25947",
         "start_time": "2023-03-28T11:30:00+09:00",
-        "end_time": "2023-03-28T11:55:00+09:00",
+        "end_time": "2023-03-28T11:54:00+09:00",
         "area": {
           "id": "070",
           "name": "福島"
@@ -9280,10 +7107,10 @@
         ]
       },
       {
-        "id": "2023032825952",
-        "event_id": "25952",
-        "start_time": "2023-03-28T11:55:00+09:00",
-        "end_time": "2023-03-28T12:00:00+09:00",
+        "id": "2023032825481",
+        "event_id": "25481",
+        "start_time": "2023-03-28T11:54:00+09:00",
+        "end_time": "2023-03-28T13:05:00+09:00",
         "area": {
           "id": "070",
           "name": "福島"
@@ -9307,207 +7134,19 @@
             "height": "200"
           }
         },
-        "title": "まる得マガジン　ホットケーキＭＩＸ（２）「誰でもカフェ風　クッキー・スコーン」",
-        "subtitle": "ホットケーキミックスを使って王道のパンケーキからちょっと意外なものまで、いろいろ作ってみませんか？",
-        "content": "一時は品切れも続出したほど大流行したホットケーキミックス。便利なホットケーキミックスを使っていろいろ作ってみませんか？絶品おやつ編は「基本のパンケーキ」「カフェ風スコーン」「本格ケーキ」「ぷっくりドーナツ」など。意外なランチ編は「お好みピザ」「おかずパン」「中華まん」など",
-        "act": "【講師】料理研究家…Ｍｉｚｕｋｉ，【出演】武田航平",
+        "title": "第９５回選抜高校野球大会　準々決勝",
+        "subtitle": "第２試合　【第２試合】解説…長野哲也，アナウンサー…北嶋右京　～甲子園球場から中継～",
+        "content": "［総合テレビで放送継続］",
+        "act": "【第２試合】解説…長野哲也，アナウンサー…北嶋右京",
         "genres": [
-          "0202",
-          "0205"
-        ]
-      },
-      {
-        "id": "2023032825953",
-        "event_id": "25953",
-        "start_time": "2023-03-28T12:00:00+09:00",
-        "end_time": "2023-03-28T12:15:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e3",
-          "name": "ＮＨＫＥテレ３",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "きょうの健康　男性のがん　最新情報「前立腺がん　治療による合併症を防ぐ」",
-        "subtitle": "「前立腺がん」の治療では、合併症として、排尿・排便の機能や性機能に障害が生じることがある。近年、合併症を防ぐための治療も進歩しており、詳しく紹介する。",
-        "content": "「前立腺がん」の治療では、合併症として、排尿・排便の機能や性機能に障害が生じることがある。一方で、近年は合併症を防ぐための治療も進歩している。定期的な検査で経過観察をする監視療法、前立腺を摘出する手術、放射線治療、ホルモン療法の４つの治療法について、最新情報をお伝えする。",
-        "act": "【講師】がん研有明病院　部長…米瀬淳二，【キャスター】岩田まこ都，小田切千",
-        "genres": [
-          "0203",
-          "0803",
-          "1011"
-        ]
-      },
-      {
-        "id": "2023032825954",
-        "event_id": "25954",
-        "start_time": "2023-03-28T12:15:00+09:00",
-        "end_time": "2023-03-28T12:40:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e3",
-          "name": "ＮＨＫＥテレ３",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "趣味どきっ！　古武術に学ぶ体の使い方（７）「和装がもたらす体への効用」",
-        "subtitle": "帯やタスキがけ、下駄ばきなど、和装がもたらす体への効用とは？ひもをガイドにして、体を動かすためのエクササイズをご紹介！全身を連動させる古武術の極意を学ぼう！",
-        "content": "着物や武道の道着など、和装に共通するのが、帯や鼻緒といったひも状のものを身に纏（まと）うこと。４０年来、毎日着物姿で過ごす武術研究者の甲野善紀さんは、ひもを上手に活用すれば、効率よく体を動かすことに役立つと語る。番組では、ひもを体に巻き付けて、各部位の可動域を広げるためのエクササイズを実践！講師の林久仁則さんが、その方法をわかりやすく伝授。【出演】鈴木浩介、鈴木亜美",
-        "act": "【講師】武術研究家…甲野善紀，身体教育家…林久仁則，【出演】鈴木浩介，鈴木亜美，【語り】田原アルノ",
-        "genres": [
-          "1000",
-          "1002",
-          "0115"
-        ]
-      },
-      {
-        "id": "2023032825957",
-        "event_id": "25957",
-        "start_time": "2023-03-28T12:40:00+09:00",
-        "end_time": "2023-03-28T12:45:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e3",
-          "name": "ＮＨＫＥテレ３",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "浮世絵ＥＤＯ－ＬＩＦＥ「花見の名所　珍風景？歌麿“三囲神社の御開帳　向島”」",
-        "subtitle": "浮世絵の世界をのぞいてみれば江戸のリアルな暮らしが見えてくる！　花見の名所、隅田川。その川の土手に、まるでめりこんでいるような短い鳥居を発見！これは一体何！？",
-        "content": "歌麿が描いた“江戸の花見の名所”。大勢の客が、春を満喫している。その客の後ろに、神社の鳥居が地面にめり込んだように見える。この珍しい風景から、この辺りは特に人気を集めたという。その景色の理由をひもとくと…。また、花見客の視線の先をたどっていくと、一人の女性。どうも、酔っ払っているようだ。いつの時代も、ついつい飲みすぎて羽目を外してしまう人はいるようで、お付きの人は大変！周囲の人は、くすくす笑い…。",
-        "act": "【語り】柴田祐規子",
-        "genres": [
-          "0804"
-        ]
-      },
-      {
-        "id": "2023032825958",
-        "event_id": "25958",
-        "start_time": "2023-03-28T12:45:00+09:00",
-        "end_time": "2023-03-28T12:50:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e3",
-          "name": "ＮＨＫＥテレ３",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みんなのうた「惑星」／「きみがいるから」",
-        "subtitle": "「惑星」うた：Ｓｅｘｙ　Ｚｏｎｅ／「きみがいるから」うた：谷山浩子",
-        "content": "「惑星」うた：Ｓｅｘｙ　Ｚｏｎｅ／「きみがいるから」うた：谷山浩子",
-        "act": "",
-        "genres": [
-          "0409",
-          "0504"
-        ]
-      },
-      {
-        "id": "2023032825959",
-        "event_id": "25959",
-        "start_time": "2023-03-28T12:50:00+09:00",
-        "end_time": "2023-03-28T13:00:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e3",
-          "name": "ＮＨＫＥテレ３",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "視点・論点",
-        "subtitle": "▽ニュースや現代社会の諸問題、世界情勢などについて独自の視点から分析し、自らの言葉で語るオピニオン番組。▽各界の第一人者はもちろん、新進気鋭の論客も登場",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0006",
-          "0800",
-          "0215"
+          "0101"
         ]
       },
       {
         "id": "2023032825960",
         "event_id": "25960",
-        "start_time": "2023-03-28T13:00:00+09:00",
-        "end_time": "2023-03-28T13:05:00+09:00",
+        "start_time": "2023-03-28T13:05:00+09:00",
+        "end_time": "2023-03-28T13:10:00+09:00",
         "area": {
           "id": "070",
           "name": "福島"
@@ -9543,8 +7182,8 @@
       {
         "id": "2023032825961",
         "event_id": "25961",
-        "start_time": "2023-03-28T13:05:00+09:00",
-        "end_time": "2023-03-28T13:30:00+09:00",
+        "start_time": "2023-03-28T13:10:00+09:00",
+        "end_time": "2023-03-28T13:35:00+09:00",
         "area": {
           "id": "070",
           "name": "福島"
@@ -9580,8 +7219,8 @@
       {
         "id": "2023032825964",
         "event_id": "25964",
-        "start_time": "2023-03-28T13:30:00+09:00",
-        "end_time": "2023-03-28T14:00:00+09:00",
+        "start_time": "2023-03-28T13:35:00+09:00",
+        "end_time": "2023-03-28T14:05:00+09:00",
         "area": {
           "id": "070",
           "name": "福島"
@@ -9616,8 +7255,8 @@
       {
         "id": "2023032825967",
         "event_id": "25967",
-        "start_time": "2023-03-28T14:00:00+09:00",
-        "end_time": "2023-03-28T14:25:00+09:00",
+        "start_time": "2023-03-28T14:05:00+09:00",
+        "end_time": "2023-03-28T14:30:00+09:00",
         "area": {
           "id": "070",
           "name": "福島"
@@ -9649,43 +7288,6 @@
           "1007",
           "1000",
           "1002"
-        ]
-      },
-      {
-        "id": "2023032825968",
-        "event_id": "25968",
-        "start_time": "2023-03-28T14:25:00+09:00",
-        "end_time": "2023-03-28T14:30:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e3",
-          "name": "ＮＨＫＥテレ３",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "名曲アルバム「パガニーニの主題による狂詩曲」ラフマニノフ作曲",
-        "subtitle": "「パガニーニの主題による狂詩曲」（ピアノ）江口玲，（管弦楽）東京フィルハーモニー交響楽団，（指揮）現田茂夫　～アメリカ・ロサンゼルス、ニューヨーク～",
-        "content": "",
-        "act": "【ピアノ】江口玲，【管弦楽】東京フィルハーモニー交響楽団，【指揮】現田茂夫",
-        "genres": [
-          "0402",
-          "0801"
         ]
       },
       {
@@ -10196,10 +7798,10 @@
             "height": "200"
           }
         },
-        "title": "アイラブみー",
-        "subtitle": "",
-        "content": "",
-        "act": "",
+        "title": "アイラブみー　しんじゃったら、もうあえないの？",
+        "subtitle": "５歳のこどもが「自分」を大切にすることを学ぶ冒険アニメーション▽声の出演・満島ひかり▽音楽・ハンバートハンバート▽脚本・竹村武司▽キャラクターデザインｏｂａｋ",
+        "content": "主人公は５歳の“み―”▽こころやからだ、いのちの疑問をきっかけにじぶん探しの旅が始まる▽アニメーションに登場する４０以上のキャラクターすべてを満島ひかりが演じ分ける。▽大切に飼っていたゲジゲジのゲージが、ある日突然動かなくなってしまった。友達と遊んでいてもごはんを食べていても、ゲージのことを思い浮かべては、涙があふれてしまう。そんなみーをパパは庭に連れ出して…。",
+        "act": "【声】満島ひかり",
         "genres": [
           "1008"
         ]
@@ -10391,10 +7993,46 @@
         ]
       },
       {
+        "id": "2023032825521",
+        "event_id": "25521",
+        "start_time": "2023-03-28T18:00:00+09:00",
+        "end_time": "2023-03-28T18:35:00+09:00",
+        "area": {
+          "id": "070",
+          "name": "福島"
+        },
+        "service": {
+          "id": "e3",
+          "name": "ＮＨＫＥテレ３",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "第９５回選抜高校野球大会　準々決勝",
+        "subtitle": "第４試合　【第４試合】解説…青山眞也，アナウンサー…鳥海貴樹　～甲子園球場から中継～",
+        "content": "",
+        "act": "【第４試合】解説…青山眞也，アナウンサー…鳥海貴樹",
+        "genres": [
+          "0101"
+        ]
+      },
+      {
         "id": "2023032825989",
         "event_id": "25989",
-        "start_time": "2023-03-28T18:00:00+09:00",
-        "end_time": "2023-03-28T18:24:00+09:00",
+        "start_time": "2023-03-28T18:35:00+09:00",
+        "end_time": "2023-03-28T18:59:00+09:00",
         "area": {
           "id": "070",
           "name": "福島"
@@ -10431,8 +8069,8 @@
       {
         "id": "2023032825990",
         "event_id": "25990",
-        "start_time": "2023-03-28T18:24:00+09:00",
-        "end_time": "2023-03-28T18:25:00+09:00",
+        "start_time": "2023-03-28T18:59:00+09:00",
+        "end_time": "2023-03-28T19:00:00+09:00",
         "area": {
           "id": "070",
           "name": "福島"
@@ -10462,152 +8100,6 @@
         "act": "【声】神木隆之介，二階堂ふみ",
         "genres": [
           "1008"
-        ]
-      },
-      {
-        "id": "2023032825991",
-        "event_id": "25991",
-        "start_time": "2023-03-28T18:25:00+09:00",
-        "end_time": "2023-03-28T18:40:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e3",
-          "name": "ＮＨＫＥテレ３",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みいつけた！　火曜日",
-        "subtitle": "４～６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」等さまざまな「発見」を通して楽しむことができる番組です。",
-        "content": "今日は、チョコンの「ものしりだーれだ？」。　２つの写真を見比べて、どっちが正解かを当てる遊びだよ。　みんなは当てられるかな？よんだ？では、オフロスキーが紙コップで忍者の技をやってみるよ。　キミもやってみてくれ。　他にも、もじゃもじゃ、いすのまちのコッシーアニメも！　歌は新曲「まいにちがギフト」。　みんなも覚えて、サボさんといっしょに歌ってね。",
-        "act": "【出演】増田梨沙，佐藤貴史，小林顕作，【声】高橋茂雄，篠原ともえ，むたあきこ，古島清孝",
-        "genres": [
-          "1008",
-          "0409",
-          "0515"
-        ]
-      },
-      {
-        "id": "2023032825992",
-        "event_id": "25992",
-        "start_time": "2023-03-28T18:40:00+09:00",
-        "end_time": "2023-03-28T18:45:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e3",
-          "name": "ＮＨＫＥテレ３",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "青のオーケストラ　５分で楽しいクラシック（３）ヴァイオリンとは？",
-        "subtitle": "音楽に詳しくなくても、見ればアニメ「青のオーケストラ」が１００倍楽しめる！「青オケ」のキャラクターたちとともに、クラシックのさまざまな知識を楽しく学べる５分間。",
-        "content": "「青のオーケストラ」の青野一と秋音律子が、ＳＤキャラになって登場！楽しくおしゃべりしながら、オーケストラやクラシックにまつわる素朴な疑問についていっしょに学んでいくよ！今回のテーマは、「ヴァイオリンとは？」。なぜ、胴体にくぼみや、穴があるのか？ＮＨＫ交響楽団第２ヴァイオリン首席奏者の、大宮臨太郎さんに話を聞いたよ。美しい音色の秘密から、ヴァイオリン演奏にかける思いまで、秋音律子が直撃インタビュー！",
-        "act": "【声】千葉翔也，加隈亜衣，【出演】大宮臨太郎",
-        "genres": [
-          "0207"
-        ]
-      },
-      {
-        "id": "2023032829565",
-        "event_id": "29565",
-        "start_time": "2023-03-28T18:45:00+09:00",
-        "end_time": "2023-03-28T18:50:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e3",
-          "name": "ＮＨＫＥテレ３",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "オハ！よ～いどん＆夜もオハ！よ～いどん～５分ミニ～　オハぴょんのオハどん放送局",
-        "subtitle": "オハぴょん（声：水瀬いのりさん）がパーソナリティを務める「オハどん放送局」。４月からの「オハ！よ～いどん」と「夜もオハ！よ～いどん」の見どころをまとめてご紹介！",
-        "content": "▼オハぴょんがコージ園長＆よしお兄さんと一緒に「オハ！よ～いどん」「夜もオハ！よ～いどん」の４月からの見どころと知られざる裏側を紹介するよ▼「朝オハ！」には全国４７都道府県を楽しく覚えられる新曲が登場。「夜オハ！」にはおしゃべりな新しいキャラクターたまよちゃんがやってくる！▼Ｅテレで「オハ！よ～いどん」は毎週月～水曜の朝７：２０から、「夜もオハ！よ～いどん」は毎月最終水曜の夜７：２５～から放送中！",
-        "act": "【出演】今田耕司，小林よしひさ，【声】水瀬いのり，西山宏太朗",
-        "genres": [
-          "1008"
-        ]
-      },
-      {
-        "id": "2023032825994",
-        "event_id": "25994",
-        "start_time": "2023-03-28T18:50:00+09:00",
-        "end_time": "2023-03-28T19:00:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e3",
-          "name": "ＮＨＫＥテレ３",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "アニメ　忍たま乱太郎「普通ってなんだ？の段」",
-        "subtitle": "乱太郎・きり丸・しんべヱは、忍術学園で学ぶ忍者のたまご「忍たま」。ユニークな先生や仲間たちと、明るく・たのしく・ゆかいな毎日がくり広げられる。",
-        "content": "道具管理主任（どうぐかんりしゅにん）の吉野（よしの）先生が、木かげから小松田（こまつだ）さんの様子をうかがっていた。ドジな小松田さんが失敗したら、すぐに注意しに行くために見ているのかと、乱太郎たちは考えるが……。",
-        "act": "【声】高山みなみ，田中真弓，一龍斎貞友，大塚明夫，関俊彦，浦山迅，巴菁子，飯塚昭三，【原作】尼子騒兵衛，【脚本】浦沢義雄",
-        "genres": [
-          "0700"
         ]
       },
       {
@@ -11911,8 +9403,8 @@
         ]
       },
       {
-        "id": "2023032825925",
-        "event_id": "25925",
+        "id": "2023032832740",
+        "event_id": "32740",
         "start_time": "2023-03-28T07:20:00+09:00",
         "end_time": "2023-03-28T07:30:00+09:00",
         "area": {
@@ -11938,10 +9430,10 @@
             "height": "200"
           }
         },
-        "title": "オハ！よ～いどん",
-        "subtitle": "",
-        "content": "",
-        "act": "",
+        "title": "オハ！よ～いどん　朝の会「わたしのあこがれ（２）」　ゲスト：みやぞん",
+        "subtitle": "「オハ！よ～いどん」はリモートで日本全国の子どもたちを結んで開く朝の会。自分のことを話す、友達の話を聞く。コージ園長と楽しくコミュニケーション力を身につけよう。",
+        "content": "▼ＭＣは“コージ園長”こと今田耕司さん。番組キャラクターのオハローと一緒に子どもたちとさまざまなテーマで楽しくおしゃべりします▼今回のテーマは「わたしのあこがれ」。ゲストのＡＮＺＥＮ漫才・みやぞんさんがビックリのあこがれって何？▼よしお兄さんの「オハどんたいそう」で眠たい頭と体をスッキリさせよう▼番組ホームページでは出演してくれる子どもたちを募集中▼この番組は２０２２年１１月１日に放送したものです",
+        "act": "【出演】今田耕司，小林よしひさ，【ゲスト】みやぞん（ＡＮＺＥＮ漫才），【声】西山宏太朗，【語り】水瀬いのり",
         "genres": [
           "1008",
           "0502"
@@ -12728,7 +10220,7 @@
         "id": "2023032825947",
         "event_id": "25947",
         "start_time": "2023-03-28T11:30:00+09:00",
-        "end_time": "2023-03-28T11:55:00+09:00",
+        "end_time": "2023-03-28T11:54:00+09:00",
         "area": {
           "id": "070",
           "name": "福島"
@@ -12762,10 +10254,10 @@
         ]
       },
       {
-        "id": "2023032825952",
-        "event_id": "25952",
-        "start_time": "2023-03-28T11:55:00+09:00",
-        "end_time": "2023-03-28T12:00:00+09:00",
+        "id": "2023032825481",
+        "event_id": "25481",
+        "start_time": "2023-03-28T11:54:00+09:00",
+        "end_time": "2023-03-28T13:05:00+09:00",
         "area": {
           "id": "070",
           "name": "福島"
@@ -12789,207 +10281,19 @@
             "height": "200"
           }
         },
-        "title": "まる得マガジン　ホットケーキＭＩＸ（２）「誰でもカフェ風　クッキー・スコーン」",
-        "subtitle": "ホットケーキミックスを使って王道のパンケーキからちょっと意外なものまで、いろいろ作ってみませんか？",
-        "content": "一時は品切れも続出したほど大流行したホットケーキミックス。便利なホットケーキミックスを使っていろいろ作ってみませんか？絶品おやつ編は「基本のパンケーキ」「カフェ風スコーン」「本格ケーキ」「ぷっくりドーナツ」など。意外なランチ編は「お好みピザ」「おかずパン」「中華まん」など",
-        "act": "【講師】料理研究家…Ｍｉｚｕｋｉ，【出演】武田航平",
+        "title": "第９５回選抜高校野球大会　準々決勝",
+        "subtitle": "第２試合　【第２試合】解説…長野哲也，アナウンサー…北嶋右京　～甲子園球場から中継～",
+        "content": "［総合テレビで放送継続］",
+        "act": "【第２試合】解説…長野哲也，アナウンサー…北嶋右京",
         "genres": [
-          "0202",
-          "0205"
-        ]
-      },
-      {
-        "id": "2023032825953",
-        "event_id": "25953",
-        "start_time": "2023-03-28T12:00:00+09:00",
-        "end_time": "2023-03-28T12:15:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e4",
-          "name": "ＮＨＫワンセグ２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "きょうの健康　男性のがん　最新情報「前立腺がん　治療による合併症を防ぐ」",
-        "subtitle": "「前立腺がん」の治療では、合併症として、排尿・排便の機能や性機能に障害が生じることがある。近年、合併症を防ぐための治療も進歩しており、詳しく紹介する。",
-        "content": "「前立腺がん」の治療では、合併症として、排尿・排便の機能や性機能に障害が生じることがある。一方で、近年は合併症を防ぐための治療も進歩している。定期的な検査で経過観察をする監視療法、前立腺を摘出する手術、放射線治療、ホルモン療法の４つの治療法について、最新情報をお伝えする。",
-        "act": "【講師】がん研有明病院　部長…米瀬淳二，【キャスター】岩田まこ都，小田切千",
-        "genres": [
-          "0203",
-          "0803",
-          "1011"
-        ]
-      },
-      {
-        "id": "2023032825954",
-        "event_id": "25954",
-        "start_time": "2023-03-28T12:15:00+09:00",
-        "end_time": "2023-03-28T12:40:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e4",
-          "name": "ＮＨＫワンセグ２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "趣味どきっ！　古武術に学ぶ体の使い方（７）「和装がもたらす体への効用」",
-        "subtitle": "帯やタスキがけ、下駄ばきなど、和装がもたらす体への効用とは？ひもをガイドにして、体を動かすためのエクササイズをご紹介！全身を連動させる古武術の極意を学ぼう！",
-        "content": "着物や武道の道着など、和装に共通するのが、帯や鼻緒といったひも状のものを身に纏（まと）うこと。４０年来、毎日着物姿で過ごす武術研究者の甲野善紀さんは、ひもを上手に活用すれば、効率よく体を動かすことに役立つと語る。番組では、ひもを体に巻き付けて、各部位の可動域を広げるためのエクササイズを実践！講師の林久仁則さんが、その方法をわかりやすく伝授。【出演】鈴木浩介、鈴木亜美",
-        "act": "【講師】武術研究家…甲野善紀，身体教育家…林久仁則，【出演】鈴木浩介，鈴木亜美，【語り】田原アルノ",
-        "genres": [
-          "1000",
-          "1002",
-          "0115"
-        ]
-      },
-      {
-        "id": "2023032825957",
-        "event_id": "25957",
-        "start_time": "2023-03-28T12:40:00+09:00",
-        "end_time": "2023-03-28T12:45:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e4",
-          "name": "ＮＨＫワンセグ２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "浮世絵ＥＤＯ－ＬＩＦＥ「花見の名所　珍風景？歌麿“三囲神社の御開帳　向島”」",
-        "subtitle": "浮世絵の世界をのぞいてみれば江戸のリアルな暮らしが見えてくる！　花見の名所、隅田川。その川の土手に、まるでめりこんでいるような短い鳥居を発見！これは一体何！？",
-        "content": "歌麿が描いた“江戸の花見の名所”。大勢の客が、春を満喫している。その客の後ろに、神社の鳥居が地面にめり込んだように見える。この珍しい風景から、この辺りは特に人気を集めたという。その景色の理由をひもとくと…。また、花見客の視線の先をたどっていくと、一人の女性。どうも、酔っ払っているようだ。いつの時代も、ついつい飲みすぎて羽目を外してしまう人はいるようで、お付きの人は大変！周囲の人は、くすくす笑い…。",
-        "act": "【語り】柴田祐規子",
-        "genres": [
-          "0804"
-        ]
-      },
-      {
-        "id": "2023032825958",
-        "event_id": "25958",
-        "start_time": "2023-03-28T12:45:00+09:00",
-        "end_time": "2023-03-28T12:50:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e4",
-          "name": "ＮＨＫワンセグ２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みんなのうた「惑星」／「きみがいるから」",
-        "subtitle": "「惑星」うた：Ｓｅｘｙ　Ｚｏｎｅ／「きみがいるから」うた：谷山浩子",
-        "content": "「惑星」うた：Ｓｅｘｙ　Ｚｏｎｅ／「きみがいるから」うた：谷山浩子",
-        "act": "",
-        "genres": [
-          "0409",
-          "0504"
-        ]
-      },
-      {
-        "id": "2023032825959",
-        "event_id": "25959",
-        "start_time": "2023-03-28T12:50:00+09:00",
-        "end_time": "2023-03-28T13:00:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e4",
-          "name": "ＮＨＫワンセグ２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "視点・論点",
-        "subtitle": "▽ニュースや現代社会の諸問題、世界情勢などについて独自の視点から分析し、自らの言葉で語るオピニオン番組。▽各界の第一人者はもちろん、新進気鋭の論客も登場",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0006",
-          "0800",
-          "0215"
+          "0101"
         ]
       },
       {
         "id": "2023032825960",
         "event_id": "25960",
-        "start_time": "2023-03-28T13:00:00+09:00",
-        "end_time": "2023-03-28T13:05:00+09:00",
+        "start_time": "2023-03-28T13:05:00+09:00",
+        "end_time": "2023-03-28T13:10:00+09:00",
         "area": {
           "id": "070",
           "name": "福島"
@@ -13025,8 +10329,8 @@
       {
         "id": "2023032825961",
         "event_id": "25961",
-        "start_time": "2023-03-28T13:05:00+09:00",
-        "end_time": "2023-03-28T13:30:00+09:00",
+        "start_time": "2023-03-28T13:10:00+09:00",
+        "end_time": "2023-03-28T13:35:00+09:00",
         "area": {
           "id": "070",
           "name": "福島"
@@ -13062,8 +10366,8 @@
       {
         "id": "2023032825964",
         "event_id": "25964",
-        "start_time": "2023-03-28T13:30:00+09:00",
-        "end_time": "2023-03-28T14:00:00+09:00",
+        "start_time": "2023-03-28T13:35:00+09:00",
+        "end_time": "2023-03-28T14:05:00+09:00",
         "area": {
           "id": "070",
           "name": "福島"
@@ -13098,8 +10402,8 @@
       {
         "id": "2023032825967",
         "event_id": "25967",
-        "start_time": "2023-03-28T14:00:00+09:00",
-        "end_time": "2023-03-28T14:25:00+09:00",
+        "start_time": "2023-03-28T14:05:00+09:00",
+        "end_time": "2023-03-28T14:30:00+09:00",
         "area": {
           "id": "070",
           "name": "福島"
@@ -13131,43 +10435,6 @@
           "1007",
           "1000",
           "1002"
-        ]
-      },
-      {
-        "id": "2023032825968",
-        "event_id": "25968",
-        "start_time": "2023-03-28T14:25:00+09:00",
-        "end_time": "2023-03-28T14:30:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e4",
-          "name": "ＮＨＫワンセグ２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "名曲アルバム「パガニーニの主題による狂詩曲」ラフマニノフ作曲",
-        "subtitle": "「パガニーニの主題による狂詩曲」（ピアノ）江口玲，（管弦楽）東京フィルハーモニー交響楽団，（指揮）現田茂夫　～アメリカ・ロサンゼルス、ニューヨーク～",
-        "content": "",
-        "act": "【ピアノ】江口玲，【管弦楽】東京フィルハーモニー交響楽団，【指揮】現田茂夫",
-        "genres": [
-          "0402",
-          "0801"
         ]
       },
       {
@@ -13678,10 +10945,10 @@
             "height": "200"
           }
         },
-        "title": "アイラブみー",
-        "subtitle": "",
-        "content": "",
-        "act": "",
+        "title": "アイラブみー　しんじゃったら、もうあえないの？",
+        "subtitle": "５歳のこどもが「自分」を大切にすることを学ぶ冒険アニメーション▽声の出演・満島ひかり▽音楽・ハンバートハンバート▽脚本・竹村武司▽キャラクターデザインｏｂａｋ",
+        "content": "主人公は５歳の“み―”▽こころやからだ、いのちの疑問をきっかけにじぶん探しの旅が始まる▽アニメーションに登場する４０以上のキャラクターすべてを満島ひかりが演じ分ける。▽大切に飼っていたゲジゲジのゲージが、ある日突然動かなくなってしまった。友達と遊んでいてもごはんを食べていても、ゲージのことを思い浮かべては、涙があふれてしまう。そんなみーをパパは庭に連れ出して…。",
+        "act": "【声】満島ひかり",
         "genres": [
           "1008"
         ]
@@ -13873,10 +11140,46 @@
         ]
       },
       {
+        "id": "2023032825521",
+        "event_id": "25521",
+        "start_time": "2023-03-28T18:00:00+09:00",
+        "end_time": "2023-03-28T18:35:00+09:00",
+        "area": {
+          "id": "070",
+          "name": "福島"
+        },
+        "service": {
+          "id": "e4",
+          "name": "ＮＨＫワンセグ２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "第９５回選抜高校野球大会　準々決勝",
+        "subtitle": "第４試合　【第４試合】解説…青山眞也，アナウンサー…鳥海貴樹　～甲子園球場から中継～",
+        "content": "",
+        "act": "【第４試合】解説…青山眞也，アナウンサー…鳥海貴樹",
+        "genres": [
+          "0101"
+        ]
+      },
+      {
         "id": "2023032825989",
         "event_id": "25989",
-        "start_time": "2023-03-28T18:00:00+09:00",
-        "end_time": "2023-03-28T18:24:00+09:00",
+        "start_time": "2023-03-28T18:35:00+09:00",
+        "end_time": "2023-03-28T18:59:00+09:00",
         "area": {
           "id": "070",
           "name": "福島"
@@ -13913,8 +11216,8 @@
       {
         "id": "2023032825990",
         "event_id": "25990",
-        "start_time": "2023-03-28T18:24:00+09:00",
-        "end_time": "2023-03-28T18:25:00+09:00",
+        "start_time": "2023-03-28T18:59:00+09:00",
+        "end_time": "2023-03-28T19:00:00+09:00",
         "area": {
           "id": "070",
           "name": "福島"
@@ -13944,152 +11247,6 @@
         "act": "【声】神木隆之介，二階堂ふみ",
         "genres": [
           "1008"
-        ]
-      },
-      {
-        "id": "2023032825991",
-        "event_id": "25991",
-        "start_time": "2023-03-28T18:25:00+09:00",
-        "end_time": "2023-03-28T18:40:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e4",
-          "name": "ＮＨＫワンセグ２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みいつけた！　火曜日",
-        "subtitle": "４～６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」等さまざまな「発見」を通して楽しむことができる番組です。",
-        "content": "今日は、チョコンの「ものしりだーれだ？」。　２つの写真を見比べて、どっちが正解かを当てる遊びだよ。　みんなは当てられるかな？よんだ？では、オフロスキーが紙コップで忍者の技をやってみるよ。　キミもやってみてくれ。　他にも、もじゃもじゃ、いすのまちのコッシーアニメも！　歌は新曲「まいにちがギフト」。　みんなも覚えて、サボさんといっしょに歌ってね。",
-        "act": "【出演】増田梨沙，佐藤貴史，小林顕作，【声】高橋茂雄，篠原ともえ，むたあきこ，古島清孝",
-        "genres": [
-          "1008",
-          "0409",
-          "0515"
-        ]
-      },
-      {
-        "id": "2023032825992",
-        "event_id": "25992",
-        "start_time": "2023-03-28T18:40:00+09:00",
-        "end_time": "2023-03-28T18:45:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e4",
-          "name": "ＮＨＫワンセグ２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "青のオーケストラ　５分で楽しいクラシック（３）ヴァイオリンとは？",
-        "subtitle": "音楽に詳しくなくても、見ればアニメ「青のオーケストラ」が１００倍楽しめる！「青オケ」のキャラクターたちとともに、クラシックのさまざまな知識を楽しく学べる５分間。",
-        "content": "「青のオーケストラ」の青野一と秋音律子が、ＳＤキャラになって登場！楽しくおしゃべりしながら、オーケストラやクラシックにまつわる素朴な疑問についていっしょに学んでいくよ！今回のテーマは、「ヴァイオリンとは？」。なぜ、胴体にくぼみや、穴があるのか？ＮＨＫ交響楽団第２ヴァイオリン首席奏者の、大宮臨太郎さんに話を聞いたよ。美しい音色の秘密から、ヴァイオリン演奏にかける思いまで、秋音律子が直撃インタビュー！",
-        "act": "【声】千葉翔也，加隈亜衣，【出演】大宮臨太郎",
-        "genres": [
-          "0207"
-        ]
-      },
-      {
-        "id": "2023032829565",
-        "event_id": "29565",
-        "start_time": "2023-03-28T18:45:00+09:00",
-        "end_time": "2023-03-28T18:50:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e4",
-          "name": "ＮＨＫワンセグ２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "オハ！よ～いどん＆夜もオハ！よ～いどん～５分ミニ～　オハぴょんのオハどん放送局",
-        "subtitle": "オハぴょん（声：水瀬いのりさん）がパーソナリティを務める「オハどん放送局」。４月からの「オハ！よ～いどん」と「夜もオハ！よ～いどん」の見どころをまとめてご紹介！",
-        "content": "▼オハぴょんがコージ園長＆よしお兄さんと一緒に「オハ！よ～いどん」「夜もオハ！よ～いどん」の４月からの見どころと知られざる裏側を紹介するよ▼「朝オハ！」には全国４７都道府県を楽しく覚えられる新曲が登場。「夜オハ！」にはおしゃべりな新しいキャラクターたまよちゃんがやってくる！▼Ｅテレで「オハ！よ～いどん」は毎週月～水曜の朝７：２０から、「夜もオハ！よ～いどん」は毎月最終水曜の夜７：２５～から放送中！",
-        "act": "【出演】今田耕司，小林よしひさ，【声】水瀬いのり，西山宏太朗",
-        "genres": [
-          "1008"
-        ]
-      },
-      {
-        "id": "2023032825994",
-        "event_id": "25994",
-        "start_time": "2023-03-28T18:50:00+09:00",
-        "end_time": "2023-03-28T19:00:00+09:00",
-        "area": {
-          "id": "070",
-          "name": "福島"
-        },
-        "service": {
-          "id": "e4",
-          "name": "ＮＨＫワンセグ２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "アニメ　忍たま乱太郎「普通ってなんだ？の段」",
-        "subtitle": "乱太郎・きり丸・しんべヱは、忍術学園で学ぶ忍者のたまご「忍たま」。ユニークな先生や仲間たちと、明るく・たのしく・ゆかいな毎日がくり広げられる。",
-        "content": "道具管理主任（どうぐかんりしゅにん）の吉野（よしの）先生が、木かげから小松田（こまつだ）さんの様子をうかがっていた。ドジな小松田さんが失敗したら、すぐに注意しに行くために見ているのかと、乱太郎たちは考えるが……。",
-        "act": "【声】高山みなみ，田中真弓，一龍斎貞友，大塚明夫，関俊彦，浦山迅，巴菁子，飯塚昭三，【原作】尼子騒兵衛，【脚本】浦沢義雄",
-        "genres": [
-          "0700"
         ]
       },
       {
@@ -15196,9 +12353,9 @@
           }
         },
         "title": "キャッチ！世界のトップニュース",
-        "subtitle": "▽各国の放送局が伝える注目ニュースをピックアップ　▽焦点や背景を分かりやすく解説　▽特集ワールド・アイズ　※内容変更の場合あり　【キャスター】望月麻美ほか",
+        "subtitle": "▽各国の放送局が伝える注目ニュースをピックアップ　▽焦点や背景を分かりやすく解説　▽特集ワールド・アイズ　※内容変更の場合あり　【キャスター】別府正一郎，高橋彩",
         "content": "世界のどこで何が起こっているのか、何に注目が集まっているのか。ひとつのニュースでも国が違えば視点も変わってきます。日本時間の深夜から早朝にかけて次々と入ってくる世界のニュースをダイレクトにお伝えし、その背景や経緯をキャスターが詳しく解説。朝一番、世界の最新ニュースを立体的にお伝えします。",
-        "act": "【キャスター】望月麻美，小林雄，別府正一郎，高橋彩，中川栞",
+        "act": "【キャスター】別府正一郎，高橋彩",
         "genres": [
           "0005",
           "0006",
@@ -15344,9 +12501,9 @@
           }
         },
         "title": "キャッチ！世界のトップニュース",
-        "subtitle": "▽各国の放送局が伝える注目ニュースをピックアップ　▽焦点や背景を分かりやすく解説　▽特集ワールド・アイズ　※内容変更の場合あり　【キャスター】望月麻美ほか",
+        "subtitle": "▽各国の放送局が伝える注目ニュースをピックアップ　▽焦点や背景を分かりやすく解説　▽特集ワールド・アイズ　※内容変更の場合あり　【キャスター】別府正一郎，高橋彩",
         "content": "世界のどこで何が起こっているのか、何に注目が集まっているのか。ひとつのニュースでも国が違えば視点も変わってきます。日本時間の深夜から早朝にかけて次々と入ってくる世界のニュースをダイレクトにお伝えし、その背景や経緯をキャスターが詳しく解説。朝一番、世界の最新ニュースを立体的にお伝えします。",
-        "act": "【キャスター】望月麻美，小林雄，別府正一郎，高橋彩，中川栞",
+        "act": "【キャスター】別府正一郎，高橋彩",
         "genres": [
           "0005",
           "0006",
@@ -15564,10 +12721,10 @@
             "height": "200"
           }
         },
-        "title": "ドキュメンタリー・テラ",
-        "subtitle": "",
-        "content": "",
-        "act": "",
+        "title": "暴力の人類史“悪魔”の誘惑と戦う",
+        "subtitle": "人類は暴力を克服できるのか。考古学、社会学、犯罪心理学などさまざまな分野の研究者たちが、「暴力とは何か」という根源的テーマに迫り、変革への道を探っていく。",
+        "content": "現代社会、日々のニュースには暴力が溢れている。しかし、心理学者は「それでも統計的には私たちは今、人類誕生以来最も平和な時代に生きている」と語る。暴力行為は、何世紀にも渡り減少し続けているというのだ。人類は、果たして暴力を克服することができるのか？考古学、神経生物学、社会学など様々な分野の研究者たちが「暴力とは何か？」という根源的テーマに迫り、変革への道を探る。",
+        "act": "【語り】保村真",
         "genres": [
           "0802"
         ]
@@ -16410,8 +13567,8 @@
             "height": "200"
           }
         },
-        "title": "ワースポ×ＭＬＢ　開幕直前特集（２）",
-        "subtitle": "【解説】井口資仁，川崎宗則，【キャスター】山本萩子",
+        "title": "ワースポ×ＭＬＢ▽前田健太に独占インタ▽ＡＬ・ＮＬ中部戦力分析▽オープン戦詳報",
+        "subtitle": "井口資仁が手術からの再起をめざす前田健太を独占取材▽ア・リーグ＆ナ・リーグ中部地区の戦力を徹底分析！カブス鈴木誠也の近況は？▽オープン戦詳報▽日本選手最新情報も",
         "content": "",
         "act": "【解説】井口資仁，川崎宗則，【キャスター】山本萩子",
         "genres": [
@@ -17072,9 +14229,9 @@
           }
         },
         "title": "キャッチ！世界のトップニュース",
-        "subtitle": "▽各国の放送局が伝える注目ニュースをピックアップ　▽焦点や背景を分かりやすく解説　▽特集ワールド・アイズ　※内容変更の場合あり　【キャスター】望月麻美ほか",
+        "subtitle": "▽各国の放送局が伝える注目ニュースをピックアップ　▽焦点や背景を分かりやすく解説　▽特集ワールド・アイズ　※内容変更の場合あり　【キャスター】別府正一郎，高橋彩",
         "content": "世界のどこで何が起こっているのか、何に注目が集まっているのか。ひとつのニュースでも国が違えば視点も変わってきます。日本時間の深夜から早朝にかけて次々と入ってくる世界のニュースをダイレクトにお伝えし、その背景や経緯をキャスターが詳しく解説。朝一番、世界の最新ニュースを立体的にお伝えします。",
-        "act": "【キャスター】望月麻美，小林雄，別府正一郎，高橋彩，中川栞",
+        "act": "【キャスター】別府正一郎，高橋彩",
         "genres": [
           "0005",
           "0006",
@@ -17220,9 +14377,9 @@
           }
         },
         "title": "キャッチ！世界のトップニュース",
-        "subtitle": "▽各国の放送局が伝える注目ニュースをピックアップ　▽焦点や背景を分かりやすく解説　▽特集ワールド・アイズ　※内容変更の場合あり　【キャスター】望月麻美ほか",
+        "subtitle": "▽各国の放送局が伝える注目ニュースをピックアップ　▽焦点や背景を分かりやすく解説　▽特集ワールド・アイズ　※内容変更の場合あり　【キャスター】別府正一郎，高橋彩",
         "content": "世界のどこで何が起こっているのか、何に注目が集まっているのか。ひとつのニュースでも国が違えば視点も変わってきます。日本時間の深夜から早朝にかけて次々と入ってくる世界のニュースをダイレクトにお伝えし、その背景や経緯をキャスターが詳しく解説。朝一番、世界の最新ニュースを立体的にお伝えします。",
-        "act": "【キャスター】望月麻美，小林雄，別府正一郎，高橋彩，中川栞",
+        "act": "【キャスター】別府正一郎，高橋彩",
         "genres": [
           "0005",
           "0006",
@@ -17440,10 +14597,10 @@
             "height": "200"
           }
         },
-        "title": "ドキュメンタリー・テラ",
-        "subtitle": "",
-        "content": "",
-        "act": "",
+        "title": "暴力の人類史“悪魔”の誘惑と戦う",
+        "subtitle": "人類は暴力を克服できるのか。考古学、社会学、犯罪心理学などさまざまな分野の研究者たちが、「暴力とは何か」という根源的テーマに迫り、変革への道を探っていく。",
+        "content": "現代社会、日々のニュースには暴力が溢れている。しかし、心理学者は「それでも統計的には私たちは今、人類誕生以来最も平和な時代に生きている」と語る。暴力行為は、何世紀にも渡り減少し続けているというのだ。人類は、果たして暴力を克服することができるのか？考古学、神経生物学、社会学など様々な分野の研究者たちが「暴力とは何か？」という根源的テーマに迫り、変革への道を探る。",
+        "act": "【語り】保村真",
         "genres": [
           "0802"
         ]
@@ -18286,8 +15443,8 @@
             "height": "200"
           }
         },
-        "title": "ワースポ×ＭＬＢ　開幕直前特集（２）",
-        "subtitle": "【解説】井口資仁，川崎宗則，【キャスター】山本萩子",
+        "title": "ワースポ×ＭＬＢ▽前田健太に独占インタ▽ＡＬ・ＮＬ中部戦力分析▽オープン戦詳報",
+        "subtitle": "井口資仁が手術からの再起をめざす前田健太を独占取材▽ア・リーグ＆ナ・リーグ中部地区の戦力を徹底分析！カブス鈴木誠也の近況は？▽オープン戦詳報▽日本選手最新情報も",
         "content": "",
         "act": "【解説】井口資仁，川崎宗則，【キャスター】山本萩子",
         "genres": [
@@ -19824,8 +16981,8 @@
           }
         },
         "title": "京都　嵯峨嵐山　錦秋の紅葉狩り　３０ｍｉｎ",
-        "subtitle": "京都　嵯峨嵐山　錦秋の紅葉狩り　３０ｍｉｎ　【語り】岩槻里子",
-        "content": "",
+        "subtitle": "京都・嵯峨嵐山の紅葉はなぜ美しいのか。千年の歴史のなかで自然を借景に取り入れながら、それぞれに趣の異なる景色を楽しむことができる紅葉の名所を見どころとともに紹介",
+        "content": "紅葉の美しさで有名な京都・嵯峨嵐山。源氏物語や平家物語の舞台となり、小倉百人一首も編纂された名勝だ。嵐山の紅葉はなぜ美しいのか。世界遺産にも登録された寺院の庭園から昭和の映画スターが人生をかけてつくった庭まで、千年の歴史のなかで、自然を借景に取り入れながら、それぞれに趣の異なる景色を楽しむことができる「紅葉の名所」を、その見どころととともに紹介する。",
         "act": "【語り】岩槻里子",
         "genres": [
           "0801"
@@ -21066,8 +18223,8 @@
           }
         },
         "title": "京都　嵯峨嵐山　錦秋の紅葉狩り　３０ｍｉｎ",
-        "subtitle": "京都　嵯峨嵐山　錦秋の紅葉狩り　３０ｍｉｎ　【語り】岩槻里子",
-        "content": "",
+        "subtitle": "京都・嵯峨嵐山の紅葉はなぜ美しいのか。千年の歴史のなかで自然を借景に取り入れながら、それぞれに趣の異なる景色を楽しむことができる紅葉の名所を見どころとともに紹介",
+        "content": "紅葉の美しさで有名な京都・嵯峨嵐山。源氏物語や平家物語の舞台となり、小倉百人一首も編纂された名勝だ。嵐山の紅葉はなぜ美しいのか。世界遺産にも登録された寺院の庭園から昭和の映画スターが人生をかけてつくった庭まで、千年の歴史のなかで、自然を借景に取り入れながら、それぞれに趣の異なる景色を楽しむことができる「紅葉の名所」を、その見どころととともに紹介する。",
         "act": "【語り】岩槻里子",
         "genres": [
           "0801"

@@ -605,333 +605,9 @@
         ]
       },
       {
-        "id": "2023032875746",
-        "event_id": "75746",
+        "id": "2023032868699",
+        "event_id": "68699",
         "start_time": "2023-03-28T08:30:00+09:00",
-        "end_time": "2023-03-28T08:55:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ベイビーブーを堪能するだけの時間　８時台",
-        "subtitle": "ベイビーブーのハーモニーをお楽しみください！",
-        "content": "男性５人のコーラスグループ・ベイビーブー。「らじるラボ」の企画「ベイビーブーが歌ってみた」で、２００曲を超えるリスナーからのリクエストに応えてきました。彼らの素敵なハーモニーをお楽しみください！",
-        "act": "【司会】久保田祐佳，【出演】ベイビーブー",
-        "genres": [
-          "0400"
-        ]
-      },
-      {
-        "id": "2023032875747",
-        "event_id": "75747",
-        "start_time": "2023-03-28T08:55:00+09:00",
-        "end_time": "2023-03-28T09:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "全国の天気・全国交通情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023032875749",
-        "event_id": "75749",
-        "start_time": "2023-03-28T09:00:03+09:00",
-        "end_time": "2023-03-28T09:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023032875750",
-        "event_id": "75750",
-        "start_time": "2023-03-28T09:05:00+09:00",
-        "end_time": "2023-03-28T09:55:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ベイビーブーを堪能するだけの時間　９時台",
-        "subtitle": "ベイビーブーのハーモニーをお楽しみください！",
-        "content": "男性５人のコーラスグループ・ベイビーブー。「らじるラボ」の企画「ベイビーブーが歌ってみた」で、２００曲を超えるリスナーからのリクエストに応えてきました。彼らの素敵なハーモニーをお楽しみください！",
-        "act": "【司会】久保田祐佳，【出演】ベイビーブー",
-        "genres": [
-          "0400"
-        ]
-      },
-      {
-        "id": "2023032875751",
-        "event_id": "75751",
-        "start_time": "2023-03-28T09:55:00+09:00",
-        "end_time": "2023-03-28T10:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・天気予報・交通情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023032875753",
-        "event_id": "75753",
-        "start_time": "2023-03-28T10:00:03+09:00",
-        "end_time": "2023-03-28T10:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023032875754",
-        "event_id": "75754",
-        "start_time": "2023-03-28T10:05:00+09:00",
-        "end_time": "2023-03-28T10:55:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ベイビーブーを堪能するだけの時間　１０時台",
-        "subtitle": "ベイビーブーのハーモニーをお楽しみください！",
-        "content": "男性５人のコーラスグループ・ベイビーブー。「らじるラボ」の企画「ベイビーブーが歌ってみた」で、２００曲を超えるリスナーからのリクエストに応えてきました。彼らの素敵なハーモニーをお楽しみください！",
-        "act": "【司会】久保田祐佳，【出演】ベイビーブー",
-        "genres": [
-          "0400"
-        ]
-      },
-      {
-        "id": "2023032875755",
-        "event_id": "75755",
-        "start_time": "2023-03-28T10:55:00+09:00",
-        "end_time": "2023-03-28T11:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "らじるの時間",
-        "subtitle": "ＮＨＫラジオのさまざまな番組情報をお届けします",
-        "content": "大竹しのぶのスピーカーズコーナー▽国語辞典サーフィン▽らじらー！サンデー",
-        "act": "礒野佑子",
-        "genres": [
-          "0207"
-        ]
-      },
-      {
-        "id": "2023032875757",
-        "event_id": "75757",
-        "start_time": "2023-03-28T11:00:03+09:00",
-        "end_time": "2023-03-28T11:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023032875758",
-        "event_id": "75758",
-        "start_time": "2023-03-28T11:05:00+09:00",
         "end_time": "2023-03-28T11:50:00+09:00",
         "area": {
           "id": "130",
@@ -956,18 +632,54 @@
             "height": "200"
           }
         },
-        "title": "ベイビーブーを堪能するだけの時間　１１時台",
-        "subtitle": "ベイビーブーのハーモニーをお楽しみください！",
-        "content": "男性５人のコーラスグループ・ベイビーブー。「らじるラボ」の企画「ベイビーブーが歌ってみた」で、２００曲を超えるリスナーからのリクエストに応えてきました。彼らの素敵なハーモニーをお楽しみください！",
-        "act": "【司会】久保田祐佳，【出演】ベイビーブー",
+        "title": "第９５回選抜高校野球大会　準々決勝",
+        "subtitle": "第１試合　第２試合　【第１試合】解説…坂口裕之，アナウンサー…竹林宏，【第２試合】解説…廣瀬寛，アナウンサー…下境秀幸　～甲子園球場から中継～",
+        "content": "＜中断＞第１試合終了後　ニュース（４分）おしらせ（１分）（９：００）（１０：００）（１１：００）ニュース",
+        "act": "【第１試合】解説…坂口裕之，アナウンサー…竹林宏，【第２試合】解説…廣瀬寛，アナウンサー…下境秀幸",
         "genres": [
-          "0400"
+          "0101"
         ]
       },
       {
         "id": "2023032875759",
         "event_id": "75759",
         "start_time": "2023-03-28T11:50:00+09:00",
+        "end_time": "2023-03-28T11:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "天気予報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2023032868746",
+        "event_id": "68746",
+        "start_time": "2023-03-28T11:55:00+09:00",
         "end_time": "2023-03-28T12:00:03+09:00",
         "area": {
           "id": "130",
@@ -992,13 +704,11 @@
             "height": "200"
           }
         },
-        "title": "天気予報・交通情報",
+        "title": "この時間はＮＨＫネットラジオではお聞き頂けません。ラジオのみで放送しています。",
         "subtitle": "",
         "content": "",
         "act": "",
-        "genres": [
-          "0000"
-        ]
+        "genres": []
       },
       {
         "id": "2023032875761",
@@ -1074,564 +784,9 @@
         ]
       },
       {
-        "id": "2023032875763",
-        "event_id": "75763",
+        "id": "2023032868700",
+        "event_id": "68700",
         "start_time": "2023-03-28T12:20:00+09:00",
-        "end_time": "2023-03-28T13:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ごごカフェ「０時台　ミュージックカフェ」",
-        "subtitle": "番組は、音楽企画「ミュージックカフェ」からスタート。ジャンルや新旧を問わず、番組でご用意したお昼にぴったりの曲を、あなたからのリクエストと合わせてお届けします。",
-        "content": "ごごカフェの店内を、ステキな音楽と皆さんからのメッセージで満たします。季節のおたより、番組へのご意見、日替わりテーマに、皆さんのメッセージをお寄せください。あなたが聴きたいリクエスト曲も募集中。月曜から木曜はテーマフリー。金曜と祝日は、その日のスペシャルテーマに関連した曲でお待ちしています。曲を選んだエピソードもお忘れなく。昼下がりのひととき、リラックス気分でお楽しみ下さい！",
-        "act": "【司会】武内陶子",
-        "genres": [
-          "0202",
-          "0400",
-          "0401"
-        ]
-      },
-      {
-        "id": "2023032875765",
-        "event_id": "75765",
-        "start_time": "2023-03-28T13:00:03+09:00",
-        "end_time": "2023-03-28T13:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023032875766",
-        "event_id": "75766",
-        "start_time": "2023-03-28T13:05:00+09:00",
-        "end_time": "2023-03-28T13:55:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ごごカフェ「１時台　ミュージックカフェ」",
-        "subtitle": "１時台は「ミュージックカフェ」。みなさんからのお便りやリクエスト、お待ちしています。",
-        "content": "この時間も「ミュージックカフェ」。番組でご用意した曲と、あなたからのリクエスト曲をお届けします。お便りもお待ちしています！",
-        "act": "【司会】武内陶子",
-        "genres": [
-          "0202",
-          "0400",
-          "0401"
-        ]
-      },
-      {
-        "id": "2023032875767",
-        "event_id": "75767",
-        "start_time": "2023-03-28T13:55:00+09:00",
-        "end_time": "2023-03-28T14:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・天気予報・交通情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0009",
-          "0000"
-        ]
-      },
-      {
-        "id": "2023032875769",
-        "event_id": "75769",
-        "start_time": "2023-03-28T14:00:03+09:00",
-        "end_time": "2023-03-28T14:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023032875770",
-        "event_id": "75770",
-        "start_time": "2023-03-28T14:05:00+09:00",
-        "end_time": "2023-03-28T14:55:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ごごカフェ「２時台　カフェトークアンコール／空中散歩を楽しもう！」",
-        "subtitle": "この時間は「カフェトーク」。今回はアンコールでお送りします。",
-        "content": "今回のカフェトークは、これまで放送した中からアンコールでお送りします。テーマは「空中散歩を楽しもう！」。全国各地のロープウェイ＆ゴンドラを乗り尽くした達人、鉄道評論家の中島信さんのトークをお楽しみください。",
-        "act": "【司会】武内陶子，【出演】鉄道評論家…中島信",
-        "genres": [
-          "0202",
-          "0400",
-          "0401"
-        ]
-      },
-      {
-        "id": "2023032875771",
-        "event_id": "75771",
-        "start_time": "2023-03-28T14:55:00+09:00",
-        "end_time": "2023-03-28T15:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・天気予報・交通情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0009",
-          "0000"
-        ]
-      },
-      {
-        "id": "2023032875773",
-        "event_id": "75773",
-        "start_time": "2023-03-28T15:00:03+09:00",
-        "end_time": "2023-03-28T15:10:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・天気予報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023032875774",
-        "event_id": "75774",
-        "start_time": "2023-03-28T15:10:00+09:00",
-        "end_time": "2023-03-28T15:55:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ごごカフェ「３時台　ミュージックカフェ」",
-        "subtitle": "この時間も音楽企画「ミュージックカフェ」です。ジャンルや新旧を問わず、番組でご用意したお昼にぴったりの曲を、あなたからのリクエストと合わせてお届けします。",
-        "content": "ごごカフェの店内を、ステキな音楽と皆さんからのメッセージで満たします。季節のおたより、番組へのご意見、日替わりテーマに、皆さんのメッセージをお寄せください。あなたが聴きたいリクエスト曲も募集中。月曜から木曜はテーマフリー。金曜は、その日のスペシャルテーマに関連した曲でお待ちしています。曲を選んだエピソードもお忘れなく。昼下がりのひととき、リラックス気分でお楽しみ下さい！",
-        "act": "【司会】武内陶子",
-        "genres": [
-          "0202",
-          "0400",
-          "0401"
-        ]
-      },
-      {
-        "id": "2023032875775",
-        "event_id": "75775",
-        "start_time": "2023-03-28T15:55:00+09:00",
-        "end_time": "2023-03-28T16:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "全国の天気・全国交通情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023032875777",
-        "event_id": "75777",
-        "start_time": "2023-03-28T16:00:03+09:00",
-        "end_time": "2023-03-28T16:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023032875778",
-        "event_id": "75778",
-        "start_time": "2023-03-28T16:05:00+09:00",
-        "end_time": "2023-03-28T16:55:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "【にっぽん列島夕方ラジオ】関西ラジオワイド",
-        "subtitle": "午後４時台は、毎日、大阪から『関西ラジオワイド』をお送りします。",
-        "content": "「＃シェア防災～シェアしよう！みんなの防災～」、沢田眉香子さんの「関西文化情報」、金水静さんの「アジアワールドリポート～韓国」などをお伝えします。",
-        "act": "【出演】沢田眉香子，金水静，【司会】大山武人，中倉真梨子",
-        "genres": [
-          "0009",
-          "0502",
-          "0202"
-        ]
-      },
-      {
-        "id": "2023032875779",
-        "event_id": "75779",
-        "start_time": "2023-03-28T16:55:00+09:00",
-        "end_time": "2023-03-28T17:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・天気予報・交通情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0009",
-          "0000"
-        ]
-      },
-      {
-        "id": "2023032875781",
-        "event_id": "75781",
-        "start_time": "2023-03-28T17:00:03+09:00",
-        "end_time": "2023-03-28T17:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023032875782",
-        "event_id": "75782",
-        "start_time": "2023-03-28T17:05:00+09:00",
-        "end_time": "2023-03-28T17:55:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "【にっぽん列島夕方ラジオ】関西ラジオワイド",
-        "subtitle": "「にっぽん列島夕方ラジオ」今週の５時台は、引き続き大阪から『関西ラジオワイド』をお送りします。",
-        "content": "関西の「各局リポート（神戸局）」、「中継」、奈良県消費生活センターからの「消費者情報」などをお伝えします。",
-        "act": "【司会】大山武人，中倉真梨子",
-        "genres": [
-          "0009",
-          "0502",
-          "0202"
-        ]
-      },
-      {
-        "id": "2023032875783",
-        "event_id": "75783",
-        "start_time": "2023-03-28T17:55:00+09:00",
         "end_time": "2023-03-28T18:00:03+09:00",
         "area": {
           "id": "130",
@@ -1656,13 +811,12 @@
             "height": "200"
           }
         },
-        "title": "ニュース・天気予報・交通情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
+        "title": "第９５回選抜高校野球大会　準々決勝",
+        "subtitle": "第２試合　第３試合　第４試合　【第２試合】解説…廣瀬寛，アナウンサー…下境秀幸，【第３試合】解説…杉浦正則，アナウンサー…坂梨哲士ほか",
+        "content": "【第４試合】解説…川原崎哲也，アナウンサー…増村聡太　～甲子園球場から中継～＜中断＞第２試合および第３試合終了後　ニュース（４分）おしらせ（１分）（１：００）（２：００）（３：００）（４：００）（５：００）ニュース［延伸のとき以降の番組に変更あり］",
+        "act": "【第２試合】解説…廣瀬寛，アナウンサー…下境秀幸，【第３試合】解説…杉浦正則，アナウンサー…坂梨哲士，【第４試合】解説…川原崎哲也，アナウンサー…増村聡太",
         "genres": [
-          "0009",
-          "0000"
+          "0101"
         ]
       },
       {
@@ -6226,6 +5380,42 @@
         "id": "2023032875759",
         "event_id": "75759",
         "start_time": "2023-03-28T11:50:00+09:00",
+        "end_time": "2023-03-28T11:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n3",
+          "name": "ＮＨＫネットラジオFM",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "天気予報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2023032868747",
+        "event_id": "68747",
+        "start_time": "2023-03-28T11:55:00+09:00",
         "end_time": "2023-03-28T12:00:03+09:00",
         "area": {
           "id": "130",
@@ -6796,10 +5986,10 @@
             "height": "200"
           }
         },
-        "title": "ミュージックライン",
-        "subtitle": "",
-        "content": "",
-        "act": "",
+        "title": "ミュージックライン　矢野顕子",
+        "subtitle": "南波志帆，【ゲスト】矢野顕子",
+        "content": "今夜のゲストは、矢野顕子。まだ宇宙を知らない人へ…音楽のメッセージ、野口聡一が全曲の作詞を手がけた最新アルバム、これまでのポップスとは全く違うアプローチ、詞を受け取り「測量・地図づくり」から始めたという作曲の裏側に迫ります。３日で１４曲の濃密なレコーディング、新曲のために取り組んだ「ピアノの練習」とは？リクエスト・メッセージは番組ホームページから、感想ツイートは＃ミュージックラインで！",
+        "act": "南波志帆，【ゲスト】矢野顕子",
         "genres": [
           "0400",
           "0401"
@@ -6833,10 +6023,10 @@
             "height": "200"
           }
         },
-        "title": "ＧＲｅｅｅｅＮ　ＨＩＤＥの　ミドリの２重スリット",
-        "subtitle": "",
+        "title": "ＧＲｅｅｅｅＮ　ＨＩＤＥの　ミドリの２重スリット（９６）",
+        "subtitle": "卒業・旅立ちシーズンのいま届ける。ＨＩＤＥ厳選！最高の「わしの旅立ちソング・プレイリスト」を紹介！",
         "content": "",
-        "act": "",
+        "act": "ＨＩＤＥ",
         "genres": [
           "0502",
           "0400"
