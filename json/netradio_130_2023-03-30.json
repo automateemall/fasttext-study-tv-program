@@ -2133,7 +2133,7 @@
           }
         },
         "title": "ＮＨＫジャーナル",
-        "subtitle": "　　　　打越裕樹，結野亜希，緒方英俊，福田寛之",
+        "subtitle": "▽競泳日本選手権、大橋・池江・本多・瀬戸は？",
         "content": "",
         "act": "打越裕樹，結野亜希，緒方英俊，福田寛之",
         "genres": [
@@ -2217,7 +2217,7 @@
         "id": "2023033066291",
         "event_id": "66291",
         "start_time": "2023-03-30T23:05:00+09:00",
-        "end_time": "2023-03-31T00:00:03+09:00",
+        "end_time": "2023-03-30T23:59:55+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -2251,10 +2251,10 @@
         ]
       },
       {
-        "id": "2023033066441",
-        "event_id": "66441",
-        "start_time": "2023-03-31T00:00:03+09:00",
-        "end_time": "2023-03-31T00:10:00+09:00",
+        "id": "2023033070388",
+        "event_id": "70388",
+        "start_time": "2023-03-30T23:59:55+09:00",
+        "end_time": "2023-03-31T04:30:00+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -2278,310 +2278,18 @@
             "height": "200"
           }
         },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
+        "title": "ＮＨＫ令和５年度予算審議～参議院総務委員会～",
+        "subtitle": "３０日に第４１委員会室で行われた審議",
+        "content": "３０日に第４１委員会室で行われた審議",
         "act": "",
         "genres": [
-          "0000"
+          "0003"
         ]
       },
       {
-        "id": "2023033066442",
-        "event_id": "66442",
-        "start_time": "2023-03-31T00:10:00+09:00",
-        "end_time": "2023-03-31T01:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ラジオ深夜便▽季刊深夜便・後半",
-        "subtitle": "▽季刊深夜便",
-        "content": "▽季刊深夜便　「声の若返り大作戦！？　後半」　▽天気概況・世界の天気と予想気温",
-        "act": "【アンカー】迎康子，【ゲスト】俳優…杜けあき，声優…関智一，医師・クリニック院長…大谷義夫",
-        "genres": [
-          "1515",
-          "0415"
-        ]
-      },
-      {
-        "id": "2023033066444",
-        "event_id": "66444",
-        "start_time": "2023-03-31T01:00:03+09:00",
-        "end_time": "2023-03-31T01:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023033066445",
-        "event_id": "66445",
-        "start_time": "2023-03-31T01:05:00+09:00",
-        "end_time": "2023-03-31T02:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ラジオ深夜便▽深夜便アーカイブス",
-        "subtitle": "▽深夜便アーカイブス",
-        "content": "▽深夜便アーカイブス　【人権インタビューアンコール】　「人形は私たちの誇り」　（初回放送：２０２２年１２月８日）　▽深夜便のうた・天気概況",
-        "act": "【アンカー】迎康子，【ゲスト】阿波木偶箱まわし保存会　顧問…辻本一英",
-        "genres": [
-          "1515",
-          "0415"
-        ]
-      },
-      {
-        "id": "2023033066446",
-        "event_id": "66446",
-        "start_time": "2023-03-31T02:00:03+09:00",
-        "end_time": "2023-03-31T02:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023033066447",
-        "event_id": "66447",
-        "start_time": "2023-03-31T02:05:00+09:00",
-        "end_time": "2023-03-31T03:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ラジオ深夜便▽ロマンチックコンサート",
-        "subtitle": "▽ロマンチックコンサート",
-        "content": "▽ロマンチックコンサート　「ポピュラー・ヒット年代史～１９５０年代の作品から」　▽天気概況",
-        "act": "【アンカー】迎康子",
-        "genres": [
-          "1515",
-          "0415"
-        ]
-      },
-      {
-        "id": "2023033066448",
-        "event_id": "66448",
-        "start_time": "2023-03-31T03:00:03+09:00",
-        "end_time": "2023-03-31T03:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023033066449",
-        "event_id": "66449",
-        "start_time": "2023-03-31T03:05:00+09:00",
-        "end_time": "2023-03-31T04:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ラジオ深夜便▽にっぽんの歌こころの歌",
-        "subtitle": "▽にっぽんの歌こころの歌",
-        "content": "▽にっぽんの歌こころの歌　「特集～ＮＨＫ連続テレビ小説主題歌作品集」　▽天気概況・各地の天気と予想気温",
-        "act": "【アンカー】迎康子",
-        "genres": [
-          "1515",
-          "0415"
-        ]
-      },
-      {
-        "id": "2023033066450",
-        "event_id": "66450",
-        "start_time": "2023-03-31T04:00:03+09:00",
-        "end_time": "2023-03-31T04:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2023033066451",
-        "event_id": "66451",
-        "start_time": "2023-03-31T04:05:00+09:00",
+        "id": "2023033070389",
+        "event_id": "70389",
+        "start_time": "2023-03-31T04:30:00+09:00",
         "end_time": "2023-03-31T05:00:03+09:00",
         "area": {
           "id": "130",
@@ -7201,10 +6909,10 @@
             "height": "200"
           }
         },
-        "title": "ラジオ深夜便▽ロマンチックコンサート",
-        "subtitle": "▽ロマンチックコンサート",
-        "content": "▽ロマンチックコンサート　「ポピュラー・ヒット年代史～１９５０年代の作品から」　▽天気概況",
-        "act": "【アンカー】迎康子",
+        "title": "ラジオ深夜便▽季刊深夜便・後半",
+        "subtitle": "▽季刊深夜便",
+        "content": "▽季刊深夜便　「声の若返り大作戦！？　後半」　▽天気概況",
+        "act": "【アンカー】迎康子，【ゲスト】俳優…杜けあき，声優…関智一，医師・クリニック院長…大谷義夫",
         "genres": [
           "1515",
           "0415"
