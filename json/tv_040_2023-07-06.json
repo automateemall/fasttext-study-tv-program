@@ -1083,7 +1083,7 @@
         "id": "2023070617358",
         "event_id": "17358",
         "start_time": "2023-07-06T14:05:00+09:00",
-        "end_time": "2023-07-06T14:33:00+09:00",
+        "end_time": "2023-07-06T14:32:00+09:00",
         "area": {
           "id": "040",
           "name": "仙台"
@@ -1115,6 +1115,42 @@
           "0009",
           "0202",
           "0800"
+        ]
+      },
+      {
+        "id": "2023070647456",
+        "event_id": "47456",
+        "start_time": "2023-07-06T14:32:00+09:00",
+        "end_time": "2023-07-06T14:33:00+09:00",
+        "area": {
+          "id": "040",
+          "name": "仙台"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "やっぺぇコレクション",
+        "subtitle": "平日午後６時１０分から総合テレビで放送中の「てれまさ」。その気象コーナーに出演している仙台局キャラクター”やっぺぇ”登場シーンをピックアップしてお届け",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0207"
         ]
       },
       {
@@ -3345,7 +3381,7 @@
         "id": "2023070617358",
         "event_id": "17358",
         "start_time": "2023-07-06T14:05:00+09:00",
-        "end_time": "2023-07-06T14:33:00+09:00",
+        "end_time": "2023-07-06T14:32:00+09:00",
         "area": {
           "id": "040",
           "name": "仙台"
@@ -3377,6 +3413,42 @@
           "0009",
           "0202",
           "0800"
+        ]
+      },
+      {
+        "id": "2023070647456",
+        "event_id": "47456",
+        "start_time": "2023-07-06T14:32:00+09:00",
+        "end_time": "2023-07-06T14:33:00+09:00",
+        "area": {
+          "id": "040",
+          "name": "仙台"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "やっぺぇコレクション",
+        "subtitle": "平日午後６時１０分から総合テレビで放送中の「てれまさ」。その気象コーナーに出演している仙台局キャラクター”やっぺぇ”登場シーンをピックアップしてお届け",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0207"
         ]
       },
       {
