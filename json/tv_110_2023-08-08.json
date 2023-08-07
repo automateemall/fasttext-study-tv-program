@@ -12919,7 +12919,7 @@
         "id": "2023080802626",
         "event_id": "02626",
         "start_time": "2023-08-08T16:00:00+09:00",
-        "end_time": "2023-08-08T17:50:00+09:00",
+        "end_time": "2023-08-08T17:41:00+09:00",
         "area": {
           "id": "110",
           "name": "さいたま"
@@ -12950,6 +12950,40 @@
         "genres": [
           "0105"
         ]
+      },
+      {
+        "id": "2023080812212",
+        "event_id": "12212",
+        "start_time": "2023-08-08T17:41:00+09:00",
+        "end_time": "2023-08-08T17:50:00+09:00",
+        "area": {
+          "id": "110",
+          "name": "さいたま"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫＢＳ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳセレクション",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
       },
       {
         "id": "2023080802627",
@@ -14261,7 +14295,7 @@
         "id": "2023080802626",
         "event_id": "02626",
         "start_time": "2023-08-08T16:00:00+09:00",
-        "end_time": "2023-08-08T17:50:00+09:00",
+        "end_time": "2023-08-08T17:41:00+09:00",
         "area": {
           "id": "110",
           "name": "さいたま"
@@ -14292,6 +14326,40 @@
         "genres": [
           "0105"
         ]
+      },
+      {
+        "id": "2023080812212",
+        "event_id": "12212",
+        "start_time": "2023-08-08T17:41:00+09:00",
+        "end_time": "2023-08-08T17:50:00+09:00",
+        "area": {
+          "id": "110",
+          "name": "さいたま"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳセレクション",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
       },
       {
         "id": "2023080802627",
