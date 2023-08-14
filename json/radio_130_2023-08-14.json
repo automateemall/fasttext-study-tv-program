@@ -2053,42 +2053,6 @@
     ],
     "r2": [
       {
-        "id": "2023081470561",
-        "event_id": "70561",
-        "start_time": "2023-08-14T05:53:00+09:00",
-        "end_time": "2023-08-14T06:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r2",
-          "name": "ＮＨＫラジオ第2",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ラジオ第２開始音楽・減力放送のおことわり",
-        "subtitle": "＜減力放送のおことわり＞　一部の地域では、放送設備の点検・整備のため、本日午前１０時から午後４時の間、通常より出力を下げて放送する予定です。",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0207"
-        ]
-      },
-      {
         "id": "2023081470564",
         "event_id": "70564",
         "start_time": "2023-08-14T06:00:03+09:00",
