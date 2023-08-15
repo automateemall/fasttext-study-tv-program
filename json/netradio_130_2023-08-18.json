@@ -491,9 +491,409 @@
         ]
       },
       {
-        "id": "2023081871487",
-        "event_id": "71487",
+        "id": "2023081871234",
+        "event_id": "71234",
         "start_time": "2023-08-18T08:00:03+09:00",
+        "end_time": "2023-08-18T08:28:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "マイあさ！",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0203",
+          "0800"
+        ]
+      },
+      {
+        "id": "2023081871235",
+        "event_id": "71235",
+        "start_time": "2023-08-18T08:28:00+09:00",
+        "end_time": "2023-08-18T08:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "朝の音楽",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0203",
+          "0800"
+        ]
+      },
+      {
+        "id": "2023081871236",
+        "event_id": "71236",
+        "start_time": "2023-08-18T08:30:00+09:00",
+        "end_time": "2023-08-18T08:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "名曲ヒットパレード　夏うたセレクション　８時台",
+        "subtitle": "誰の記憶にも刻まれた音楽、耳にしただけで当時の思い出がよみがえる歌があります。一時の時間旅行にいざなう、それが「名曲ヒットパレード」です。",
+        "content": "誰の記憶にも刻まれた音楽、耳にしただけで当時の思い出がよみがえる歌があります。一時の時間旅行にいざなう、それが「名曲ヒットパレード」です。今回は生放送で、「夏うたセレクション」をお送りします。",
+        "act": "【司会】稲垣秀人，久保田祐佳",
+        "genres": [
+          "0200"
+        ]
+      },
+      {
+        "id": "2023081871490",
+        "event_id": "71490",
+        "start_time": "2023-08-18T08:55:00+09:00",
+        "end_time": "2023-08-18T09:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "全国気象情報・全国交通情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2023081871492",
+        "event_id": "71492",
+        "start_time": "2023-08-18T09:00:03+09:00",
+        "end_time": "2023-08-18T09:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2023081871240",
+        "event_id": "71240",
+        "start_time": "2023-08-18T09:05:00+09:00",
+        "end_time": "2023-08-18T09:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "名曲ヒットパレード　夏うた～稲垣アナセレクション～　９時台",
+        "subtitle": "誰の記憶にも刻まれた音楽、耳にしただけで当時の思い出がよみがえる歌があります。一時の時間旅行にいざなう、それが「名曲ヒットパレード」です。",
+        "content": "誰の記憶にも刻まれた音楽、耳にしただけで当時の思い出がよみがえる歌があります。一時の時間旅行にいざなう、それが「名曲ヒットパレード」です。今回は生放送でお送りします。９時台は稲垣アナウンサーが選ぶ「夏うたセレクション」です。",
+        "act": "【司会】稲垣秀人，久保田祐佳",
+        "genres": [
+          "0200"
+        ]
+      },
+      {
+        "id": "2023081871494",
+        "event_id": "71494",
+        "start_time": "2023-08-18T09:55:00+09:00",
+        "end_time": "2023-08-18T10:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報・交通情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2023081871496",
+        "event_id": "71496",
+        "start_time": "2023-08-18T10:00:03+09:00",
+        "end_time": "2023-08-18T10:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2023081871244",
+        "event_id": "71244",
+        "start_time": "2023-08-18T10:05:00+09:00",
+        "end_time": "2023-08-18T10:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "名曲ヒットパレード　夏うた～久保田アナセレクション～１０時台",
+        "subtitle": "誰の記憶にも刻まれた音楽、耳にしただけで当時の思い出がよみがえる歌があります。一時の時間旅行にいざなう、それが「名曲ヒットパレード」です。",
+        "content": "誰の記憶にも刻まれた音楽、耳にしただけで当時の思い出がよみがえる歌があります。一時の時間旅行にいざなう、それが「名曲ヒットパレード」です。今回は生放送で「夏うたセレクション」をお送りします。１０時台は久保田アナウンサーが選ぶ夏うたです。",
+        "act": "【司会】稲垣秀人，久保田祐佳",
+        "genres": [
+          "0200"
+        ]
+      },
+      {
+        "id": "2023081871498",
+        "event_id": "71498",
+        "start_time": "2023-08-18T10:55:00+09:00",
+        "end_time": "2023-08-18T11:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "らじるの時間",
+        "subtitle": "ＮＨＫラジオのさまざまな番組情報をお届けします",
+        "content": "東京０３の好きにさせるかッ！２０２３夏のスペシャル▽心を紡ぐコトバたち▽石丸謙二郎の山カフェ",
+        "act": "斎康敬",
+        "genres": [
+          "0207"
+        ]
+      },
+      {
+        "id": "2023081871500",
+        "event_id": "71500",
+        "start_time": "2023-08-18T11:00:03+09:00",
+        "end_time": "2023-08-18T11:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2023081871248",
+        "event_id": "71248",
+        "start_time": "2023-08-18T11:05:00+09:00",
         "end_time": "2023-08-18T11:50:00+09:00",
         "area": {
           "id": "130",
@@ -518,12 +918,12 @@
             "height": "200"
           }
         },
-        "title": "第１０５回全国高校野球選手権大会　準々決勝",
-        "subtitle": "第１試合　第２試合　～甲子園球場から中継～",
-        "content": "＜中断＞第１試合終了後　ニュース（４分）おしらせ（１分）第１試合１回表終了後　ニュース（９：００）（１０：００）（１１：００）ニュース（９：１５）全国交通情報",
-        "act": "",
+        "title": "名曲ヒットパレード　夏うたセレクション　１１時台",
+        "subtitle": "誰の記憶にも刻まれた音楽、耳にしただけで当時の思い出がよみがえる歌があります。一時の時間旅行にいざなう、それが「名曲ヒットパレード」です。",
+        "content": "誰の記憶にも刻まれた音楽、耳にしただけで当時の思い出がよみがえる歌があります。一時の時間旅行にいざなう、それが「名曲ヒットパレード」です。今回は生放送で「夏うたセレクション」をお送りします。",
+        "act": "【司会】稲垣秀人，久保田祐佳",
         "genres": [
-          "0101"
+          "0200"
         ]
       },
       {
@@ -636,9 +1036,556 @@
         ]
       },
       {
-        "id": "2023081871506",
-        "event_id": "71506",
+        "id": "2023081871507",
+        "event_id": "71507",
         "start_time": "2023-08-18T12:20:00+09:00",
+        "end_time": "2023-08-18T13:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ごごカフェ「０時台　ミュージックカフェ」",
+        "subtitle": "音楽と皆さんからのメッセージでごごカフェ店内を満たしましょう。最近のできごとや、聴きたい曲、たくさんのリスナーに聴いてほしい曲のリクエストをお寄せください！",
+        "content": "",
+        "act": "【司会】吾妻謙",
+        "genres": [
+          "0215",
+          "0400",
+          "0401"
+        ]
+      },
+      {
+        "id": "2023081871509",
+        "event_id": "71509",
+        "start_time": "2023-08-18T13:00:03+09:00",
+        "end_time": "2023-08-18T13:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2023081871510",
+        "event_id": "71510",
+        "start_time": "2023-08-18T13:05:00+09:00",
+        "end_time": "2023-08-18T13:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ごごカフェ「１時台　麻生久美子さんインタビュー」",
+        "subtitle": "俳優の麻生久美子さんのインタビューをお送りします。芸能界に入るきっかけや、お子さんとの過ごし方など普段はなかなか聞けないお話です！新作映画についても！",
+        "content": "アイドル歌手を目指して芸能界入りし、映画『カンゾー先生』の演技が高く評価されて日本アカデミー賞新人俳優賞などを受賞した麻生久美子さん。その後は数々の映画やドラマに出演するだけでなく、『オリバーな犬、（Ｇｏｓｈ！！）このヤロウ』などのコメディー作品にも活躍の場を広げています。小学生のお子さんたちと過ごす夏休みや、新作映画の話題も伺います。聞き手は大澤祐治ディレクターです。",
+        "act": "【司会】吾妻謙，麻生久美子，【きき手】大澤祐治",
+        "genres": [
+          "0202",
+          "0400",
+          "0401"
+        ]
+      },
+      {
+        "id": "2023081871511",
+        "event_id": "71511",
+        "start_time": "2023-08-18T13:55:00+09:00",
+        "end_time": "2023-08-18T14:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報・交通情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2023081871513",
+        "event_id": "71513",
+        "start_time": "2023-08-18T14:00:03+09:00",
+        "end_time": "2023-08-18T14:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2023081871514",
+        "event_id": "71514",
+        "start_time": "2023-08-18T14:05:00+09:00",
+        "end_time": "2023-08-18T14:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ごごカフェ「２時台カフェトーク／料理研究家きじまりゅうたの世界（再）」",
+        "subtitle": "この時間は、曜日ごとのテーマ企画「カフェトーク」です。今日はこれまでの放送の中からのアンコール放送です。",
+        "content": "テーマは「料理研究家　きじまりゅうたの世界」６月８日に放送した「カフェトーク」を再びお送りします！台所の残り物で小腹をみたすメニューを作る番組でもおなじみのきじまさんが、物価高騰の中、家計を助けるきじま流節約レシピをご紹介！お家にある材料を使うお手軽レシピ教えてくれます！また、祖母・母も料理研究家として活躍する家庭に育ったきじまさんが料理研究家として活動する上で大切にしていることとは・・・？",
+        "act": "【司会】吾妻謙，【きき手】武内陶子，【出演】料理研究家…きじまりゅうた",
+        "genres": [
+          "0202",
+          "0400",
+          "0401"
+        ]
+      },
+      {
+        "id": "2023081871515",
+        "event_id": "71515",
+        "start_time": "2023-08-18T14:55:00+09:00",
+        "end_time": "2023-08-18T15:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報・交通情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2023081871517",
+        "event_id": "71517",
+        "start_time": "2023-08-18T15:00:03+09:00",
+        "end_time": "2023-08-18T15:10:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2023081871518",
+        "event_id": "71518",
+        "start_time": "2023-08-18T15:10:00+09:00",
+        "end_time": "2023-08-18T15:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ごごカフェ「ミュージックカフェ」",
+        "subtitle": "音楽と皆さんからのメッセージでごごカフェ店内を満たしましょう。最近のできごとや、聴きたい曲、たくさんのリスナーに聴いてほしい曲のリクエストをお寄せください！",
+        "content": "",
+        "act": "【司会】吾妻謙",
+        "genres": [
+          "0202",
+          "0400",
+          "0401"
+        ]
+      },
+      {
+        "id": "2023081871519",
+        "event_id": "71519",
+        "start_time": "2023-08-18T15:55:00+09:00",
+        "end_time": "2023-08-18T16:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "全国気象情報・全国交通情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2023081871521",
+        "event_id": "71521",
+        "start_time": "2023-08-18T16:00:03+09:00",
+        "end_time": "2023-08-18T16:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2023081874835",
+        "event_id": "74835",
+        "start_time": "2023-08-18T16:05:00+09:00",
+        "end_time": "2023-08-18T16:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "セレクション",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
+        "id": "2023081871523",
+        "event_id": "71523",
+        "start_time": "2023-08-18T16:55:00+09:00",
+        "end_time": "2023-08-18T17:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報・交通情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2023081871525",
+        "event_id": "71525",
+        "start_time": "2023-08-18T17:00:03+09:00",
+        "end_time": "2023-08-18T17:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2023081874836",
+        "event_id": "74836",
+        "start_time": "2023-08-18T17:05:00+09:00",
+        "end_time": "2023-08-18T17:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "セレクション",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
+        "id": "2023081871527",
+        "event_id": "71527",
+        "start_time": "2023-08-18T17:55:00+09:00",
         "end_time": "2023-08-18T18:00:03+09:00",
         "area": {
           "id": "130",
@@ -663,12 +1610,13 @@
             "height": "200"
           }
         },
-        "title": "第１０５回全国高校野球選手権大会　準々決勝",
-        "subtitle": "第２試合　第３試合　第４試合　～甲子園球場から中継～",
-        "content": "＜中断＞第２試合および第３試合終了後　ニュース（４分）おしらせ（１分）（１：００）（２：００）（３：００）（４：００）（５：００）ニュース（２：１５）（４：４５）全国交通情報",
+        "title": "ニュース・気象情報・交通情報",
+        "subtitle": "",
+        "content": "",
         "act": "",
         "genres": [
-          "0101"
+          "0009",
+          "0000"
         ]
       },
       {
@@ -708,8 +1656,8 @@
         ]
       },
       {
-        "id": "2023081871530",
-        "event_id": "71530",
+        "id": "2023081874837",
+        "event_id": "74837",
         "start_time": "2023-08-18T18:05:00+09:00",
         "end_time": "2023-08-18T18:50:00+09:00",
         "area": {
@@ -735,15 +1683,11 @@
             "height": "200"
           }
         },
-        "title": "話題と音楽",
+        "title": "エターナル　ソングス",
         "subtitle": "",
         "content": "",
         "act": "",
-        "genres": [
-          "0202",
-          "0400",
-          "0401"
-        ]
+        "genres": []
       },
       {
         "id": "2023081871531",

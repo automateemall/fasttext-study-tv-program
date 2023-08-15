@@ -337,9 +337,672 @@
         ]
       },
       {
-        "id": "2023081809128",
-        "event_id": "09128",
+        "id": "2023081814596",
+        "event_id": "14596",
         "start_time": "2023-08-18T08:15:00+09:00",
+        "end_time": "2023-08-18T08:50:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "あさイチ",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
+        "id": "2023081814315",
+        "event_id": "14315",
+        "start_time": "2023-08-18T08:50:00+09:00",
+        "end_time": "2023-08-18T09:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "どうする家康　虎の巻　天下取りの秘密その八　好敵手　豊臣秀吉",
+        "subtitle": "大河ドラマでは迷ったり弱音を吐いてばかりの家康。史実でも気が小さく神経質だったらしい。そんな家康がなぜ天下をとれたのか？その謎を紐（ひも）解く「虎の巻」！",
+        "content": "家康の天下取りに立ちはだかる最大のライバル、豊臣秀吉。信長が明智光秀に討たれたときいち早く備中から引き返して光秀を倒し、織田家中の主導権を握ります。貧しい農民から身を起こした秀吉は人の心をつかむことに長けており、さらに多くの武将を味方につけていきます。２人の直接対決となる小牧・長久手の戦い。そしてその後３０年にわたって徳川と豊臣の戦いは続くことになるのです。",
+        "act": "【語り】杉浦有紀",
+        "genres": [
+          "0315"
+        ]
+      },
+      {
+        "id": "2023081809131",
+        "event_id": "09131",
+        "start_time": "2023-08-18T09:00:00+09:00",
+        "end_time": "2023-08-18T09:05:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2023081811195",
+        "event_id": "11195",
+        "start_time": "2023-08-18T09:05:00+09:00",
+        "end_time": "2023-08-18T09:50:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "プロフェッショナル　仕事の流儀",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0807",
+          "0800",
+          "0815"
+        ]
+      },
+      {
+        "id": "2023081812928",
+        "event_id": "12928",
+        "start_time": "2023-08-18T09:50:00+09:00",
+        "end_time": "2023-08-18T09:55:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "シチズンラボ　セミ大調査",
+        "subtitle": "市民が研究者とともに研究を進めるシチズンラボ。愛媛県で行ったセミの大調査では、ぬけ殻や成虫の種を子供たちが見極めていく。シチズンラボＨＰに見分け方が載っている。",
+        "content": "市民が研究者とともに本格的な研究を進めるプロジェクト、シチズンラボ。今回は愛媛県でセミの大調査を行った。セミの先生からセミ採集のコツを教わった子供たちが、ぬけ殻や成虫を捕まえてその種を見極めていく。アブラゼミ、クマゼミ、ニイニイゼミを捕まえて、それぞれ種を見分けることができた。その時に役立ったのがシチズンラボＨＰの「見分け方」。羽や体の色から種を学ぶことができる。皆さんもやってみてください！",
+        "act": "【出演】日本セミの会…三好智和，【アナウンサー】宮﨑慶太",
+        "genres": [
+          "0202"
+        ]
+      },
+      {
+        "id": "2023081809133",
+        "event_id": "09133",
+        "start_time": "2023-08-18T09:55:00+09:00",
+        "end_time": "2023-08-18T10:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "みんなの体操",
+        "subtitle": "【出演】鈴木大輔，今井菜津美，矢作あかり，新井庸太",
+        "content": "",
+        "act": "【出演】鈴木大輔，今井菜津美，矢作あかり，新井庸太",
+        "genres": [
+          "0115",
+          "1015",
+          "0203"
+        ]
+      },
+      {
+        "id": "2023081809134",
+        "event_id": "09134",
+        "start_time": "2023-08-18T10:00:00+09:00",
+        "end_time": "2023-08-18T10:05:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2023081812931",
+        "event_id": "12931",
+        "start_time": "2023-08-18T10:05:00+09:00",
+        "end_time": "2023-08-18T10:50:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "街角ピアノ",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0815",
+          "0415",
+          "1002"
+        ]
+      },
+      {
+        "id": "2023081812933",
+        "event_id": "12933",
+        "start_time": "2023-08-18T10:50:00+09:00",
+        "end_time": "2023-08-18T10:55:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "せかほし５ｍｉｎ．「パリ＆ベツレヘム　幻のボタン」",
+        "subtitle": "「世界はほしいモノにあふれてる」えりすぐりの旅を詰め込んだ、「せかほし５ｍｉｎ．」。番組ＭＣの鈴木亮平が、極上のショートトリップにご案内。今回はボタンの世界。",
+        "content": "【語り】鈴木亮平",
+        "act": "【語り】鈴木亮平",
+        "genres": [
+          "0505"
+        ]
+      },
+      {
+        "id": "2023081809136",
+        "event_id": "09136",
+        "start_time": "2023-08-18T10:55:00+09:00",
+        "end_time": "2023-08-18T11:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "みんなのうた「Ｃｈｅｓｓｂｏａｒｄ」",
+        "subtitle": "「Ｃｈｅｓｓｂｏａｒｄ」うた：Ｏｆｆｉｃｉａｌ髭男ｄｉｓｍ",
+        "content": "「Ｃｈｅｓｓｂｏａｒｄ」うた：Ｏｆｆｉｃｉａｌ髭男ｄｉｓｍ",
+        "act": "",
+        "genres": [
+          "0409",
+          "0504"
+        ]
+      },
+      {
+        "id": "2023081809137",
+        "event_id": "09137",
+        "start_time": "2023-08-18T11:00:00+09:00",
+        "end_time": "2023-08-18T11:05:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2023081809138",
+        "event_id": "09138",
+        "start_time": "2023-08-18T11:05:00+09:00",
+        "end_time": "2023-08-18T11:30:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "探検ファクトリー　高級感と癒やし効果　天然クッション材　日本唯一の木毛工場",
+        "subtitle": "漫才コンビ・中川家がモノ作りの現場へ。今回は天然のクッション材・木毛を作る工場。木を糸状に削って美しくカールさせる職人技に迫る。共演はすっちー（吉本新喜劇座長）",
+        "content": "漫才コンビ・中川家と、吉本新喜劇の人気キャラ・すち子が魅力あふれる町工場を探検！「日本のもの作りの底力」「働く人の情熱」を紹介。今回は、木を糸のように削った天然のクッション材・木毛を作る工場を探検。箱入りの果物やワインなどを保護するもので、高知県土佐市には日本唯一の専業工場が。クッション性があって、きれいにカールした木毛はどのように作られるのか？香りを生かした新たな取り組みにも迫る。",
+        "act": "【出演】中川家，すっちー，【語り】橋本のりこ",
+        "genres": [
+          "0505",
+          "0800"
+        ]
+      },
+      {
+        "id": "2023081809140",
+        "event_id": "09140",
+        "start_time": "2023-08-18T11:30:00+09:00",
+        "end_time": "2023-08-18T11:35:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "テレビ体操",
+        "subtitle": "【出演】岡本美佳，舘野伶奈，今井菜津美，石川裕平，【ピアノ】能條貴大",
+        "content": "",
+        "act": "【出演】岡本美佳，舘野伶奈，今井菜津美，石川裕平，【ピアノ】能條貴大",
+        "genres": [
+          "0115",
+          "1015",
+          "0203"
+        ]
+      },
+      {
+        "id": "2023081809141",
+        "event_id": "09141",
+        "start_time": "2023-08-18T11:35:00+09:00",
+        "end_time": "2023-08-18T11:40:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ピタゴラスイッチ　ミニ",
+        "subtitle": "さまざまな法則や不思議な構造、面白い考え方を、人形劇やアニメ、歌、体操、ピタゴラ装置など多彩なコーナーで紹介。今回は「アルゴリズムたいそう」など。",
+        "content": "私たちがふだん暮らしている中には、さまざまな不思議な構造、おもしろい考え方、法則が隠れている。番組では、さまざまな「子どもにとっての“なるほど！”」を紹介する。今回は、アルゴリズムたいそう「サーカス団のみなさん」のほか、「○と△のしゅうだん」「新しい生物」など。【出演】いつもここから　ほか",
+        "act": "【出演】いつもここから",
+        "genres": [
+          "1008",
+          "0815"
+        ]
+      },
+      {
+        "id": "2023081809142",
+        "event_id": "09142",
+        "start_time": "2023-08-18T11:40:00+09:00",
+        "end_time": "2023-08-18T11:45:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "名曲アルバム「アルプスの夕映え」エステン作曲／和田薫・編曲",
+        "subtitle": "「アルプスの夕映え」（ピアノ）角聖子，（管弦楽）東京フィルハーモニー交響楽団，（指揮）円光寺雅彦　～スイス・グリンデルワルトほか～",
+        "content": "",
+        "act": "【ピアノ】角聖子，【管弦楽】東京フィルハーモニー交響楽団，【指揮】円光寺雅彦",
+        "genres": [
+          "0402",
+          "0801"
+        ]
+      },
+      {
+        "id": "2023081812937",
+        "event_id": "12937",
+        "start_time": "2023-08-18T11:45:00+09:00",
+        "end_time": "2023-08-18T11:50:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "Ｎコン９０！みんなで歌おう　祝９０回記念　Ｎコン愛を語る　～柿澤勇人さん～",
+        "subtitle": "ＮＨＫ全国学校音楽コンクール「Ｎコン」は、毎年１６００以上の小・中・高校が参加する国内最大規模の合唱コンクールです。９０回を迎えたＮコンの魅力をご紹介します！",
+        "content": "昭和７年に「児童唱歌コンクール」として始まり、今年、９０回記念イヤーとなるＮコン。今回は、小学生のときＮコンに出場したことがある俳優の柿澤勇人さんが登場！当時の課題曲「ほほう！」や、仲間と一緒にステージに立ったときの思い出などたっぷり語ります。さらに、今年の第９０回Ｎコンに参加する子どもたちへの柿澤さんからのメッセージをお届けします。これまでのＮコンの歴史を振り返るコーナーにもご注目ください。",
+        "act": "【出演】柿澤勇人，【語り】西山宏太朗",
+        "genres": [
+          "1002",
+          "0415"
+        ]
+      },
+      {
+        "id": "2023081812938",
+        "event_id": "12938",
+        "start_time": "2023-08-18T11:50:00+09:00",
+        "end_time": "2023-08-18T11:52:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "【ドラマ１０】しずかちゃんとパパ　第４回ダイジェスト",
+        "subtitle": "ドラマ１０「しずかちゃんとパパ」第４回ダイジェスト。圭一（中島裕翔）に弁当を届ける静（吉岡里帆）。純介（笑福亭鶴瓶）はけんちん祭りで町を盛り上げようとするが…。",
+        "content": "ドラマ１０「しずかちゃんとパパ」第４回ダイジェスト。スマートシティ計画の準備室室長として町に住み始めた圭一（中島裕翔）。純介（笑福亭鶴瓶）は怒り心頭だが、静（吉岡里帆）は圭一のために弁当を作るほど浮かれていた。純介は地元の「けんちん祭り」で町を盛り上げて計画を阻止しようと商店街の面々に提案するが、圭一が「参加したい」と言い出して意外な展開に…。そんな中、圭一の同僚・真琴（藤井美菜）が町に現われ…。",
+        "act": "【出演】吉岡里帆，笑福亭鶴瓶",
+        "genres": [
+          "0300"
+        ]
+      },
+      {
+        "id": "2023081812939",
+        "event_id": "12939",
+        "start_time": "2023-08-18T11:52:00+09:00",
+        "end_time": "2023-08-18T11:53:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "【ＢＳ時代劇】「雲霧仁左衛門６」ＰＲ",
+        "subtitle": "京の都を舞台に繰り広げられる「雲霧仁左衛門」６作目を分かり易（やす）く１分で紹介します！",
+        "content": "京の都を舞台に繰り広げられる「雲霧仁左衛門」６作目を分かり易（やす）く１分で紹介します！大盗賊・雲霧仁左衛門（中井貴一）とその一党が、突如現れたのは京の都であった。京は、およそ１００年振りの将軍上洛の報せに賑（にぎ）わっていた。そして、時を同じくして京へ乗り込んだのは、火付盗賊改長官の安部式部（國村隼）であった。京の都を舞台に繰り広げられる「雲霧仁左衛門」６作目、ご期待ください！",
+        "act": "【出演】中井貴一，國村隼，近藤芳正，手塚とおる，原田美枝子",
+        "genres": [
+          "0300",
+          "0207"
+        ]
+      },
+      {
+        "id": "2023081812940",
+        "event_id": "12940",
+        "start_time": "2023-08-18T11:53:00+09:00",
         "end_time": "2023-08-18T11:54:00+09:00",
         "area": {
           "id": "401",
@@ -364,12 +1027,12 @@
             "height": "200"
           }
         },
-        "title": "第１０５回全国高校野球選手権大会　準々決勝",
-        "subtitle": "第１試合　第２試合　～甲子園球場から中継～",
-        "content": "［Ｅテレで放送継続］",
+        "title": "歴史探偵どうする家康コラボスペシャル１分ＰＲ",
+        "subtitle": "歴史探偵とどうする家康がスペシャルコラボ。家康ＶＳ．秀吉の壮絶なバトル徹底調査する。徳川家康役の松本潤さんと井伊直政役の板垣李光人さんがスタジオに出演。",
+        "content": "歴史探偵とどうする家康がスペシャルコラボ。家康ＶＳ．秀吉の壮絶なバトル徹底調査する。徳川家康役の松本潤さんと井伊直政役の板垣李光人さんがスタジオに出演。",
         "act": "",
         "genres": [
-          "0101"
+          "0801"
         ]
       },
       {
@@ -590,9 +1253,670 @@
         ]
       },
       {
-        "id": "2023081809155",
-        "event_id": "09155",
+        "id": "2023081817318",
+        "event_id": "17318",
         "start_time": "2023-08-18T13:05:00+09:00",
+        "end_time": "2023-08-18T13:55:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "列島ニュース",
+        "subtitle": "日本列島の今が見える！ＮＨＫが地域向けに放送しているお昼のニュースを選（え）りすぐって大阪から全国に発信。地域の課題や郷土の話題を盛りだくさんでお届けします。",
+        "content": "「列島各地の地域ニュースを選（え）りすぐって大阪から全国に発信します」。全国に５４あるＮＨＫの各放送局が取材して地域向けに放送したお昼のニュースから地域の課題、地元ならではの話題などを集めて盛りだくさんでお届けします。現地の放送局から生中継で伝える「列島ニュースアップ」と「ＮＨＫ　ＮＥＷＳＷＥＢ」に掲載された特集記事の紹介コーナーもさらに充実！独自の目線で取材した多彩なコンテンツをお伝えします。",
+        "act": "【キャスター】高瀬耕造，小山径，一柳亜矢子，伊藤雄彦，嶋田ココ，【気象予報士】坂下恵理",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2023081809157",
+        "event_id": "09157",
+        "start_time": "2023-08-18T13:55:00+09:00",
+        "end_time": "2023-08-18T14:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "テレビ体操",
+        "subtitle": "【出演】岡本美佳，吉江晴菜，矢作あかり，石川裕平，【ピアノ】能條貴大",
+        "content": "",
+        "act": "【出演】岡本美佳，吉江晴菜，矢作あかり，石川裕平，【ピアノ】能條貴大",
+        "genres": [
+          "0115",
+          "1015",
+          "0203"
+        ]
+      },
+      {
+        "id": "2023081809158",
+        "event_id": "09158",
+        "start_time": "2023-08-18T14:00:00+09:00",
+        "end_time": "2023-08-18T14:05:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2023081809159",
+        "event_id": "09159",
+        "start_time": "2023-08-18T14:05:00+09:00",
+        "end_time": "2023-08-18T14:33:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "【ＮＨＫ地域局発】えぇトコ　食らわんか！川と街道の町を行く～大阪　枚方市～",
+        "subtitle": "大阪府枚方市は、淀川と京街道、双方の「交通の要衝」として栄えてきた町。枚方出身のお笑いコンビ、アメリカザリガニが故郷の魅力を再発見する旅",
+        "content": "大阪府枚方市は、淀川と京街道、双方の「交通の要衝」として栄えてきた町。枚方出身のお笑いコンビ、アメリカザリガニが故郷の魅力を再発見する旅▼町の名物・くらわんか舟▼冷たい餅に、ごんぼ汁…満腹街道グルメ▼菊人形の伝統を守る　ほか",
+        "act": "【リポーター】アメリカザリガニ，【語り】子守康範，橋本のりこ",
+        "genres": [
+          "0801",
+          "0202",
+          "0505"
+        ]
+      },
+      {
+        "id": "2023081815278",
+        "event_id": "15278",
+        "start_time": "2023-08-18T14:33:00+09:00",
+        "end_time": "2023-08-18T14:35:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＭＥＷＥ－２分で爆速ＳＤＧｓ－（４）「爆速気候変動」",
+        "subtitle": "気候変動を爆速で見てみると…どこが異常なのか見えてきた。",
+        "content": "気候変動を爆速で見てみると…どこが異常なのか見えてきた。",
+        "act": "",
+        "genres": [
+          "0515"
+        ]
+      },
+      {
+        "id": "2023081809161",
+        "event_id": "09161",
+        "start_time": "2023-08-18T14:35:00+09:00",
+        "end_time": "2023-08-18T14:45:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "時論公論　【出演】ＮＨＫ解説委員",
+        "subtitle": "▽混沌（とん）とした時代、次々と押し寄せるニュースの裏に、何があるのか？“明日を生きる指針”を提供する解説番組。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0006",
+          "0000",
+          "0007"
+        ]
+      },
+      {
+        "id": "2023081812945",
+        "event_id": "12945",
+        "start_time": "2023-08-18T14:45:00+09:00",
+        "end_time": "2023-08-18T14:50:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "【夜ドラ】わたしの一番最悪なともだち【８／２１スタート！】",
+        "subtitle": "８月２１日から放送開始の夜ドラ「わたしの一番最悪なともだち」。主人公役の蒔田彩珠さんのインタビューや撮影現場の様子なども交え、番組の魅力をたっぷりお伝えします。",
+        "content": "わたしにとって「こんな自分だったらいいのに」は、幼なじみだった…。８月２１日から放送開始の夜ドラ「わたしの一番最悪なともだち」。友人の仮面をかぶり就職活動に臨むある女性の青春物語だ。この番組では、主人公・笠松ほたる役の蒔田彩珠さん、幼なじみの鍵谷美晴役の髙石あかりさん、同級生の長野慎吾役の倉悠貴さんのインタビューを軸に、今年５月から開始された撮影風景と共に番組の魅力をたっぷりお伝えする。",
+        "act": "【出演】蒔田彩珠，髙石あかり",
+        "genres": [
+          "0300",
+          "0207",
+          "0200"
+        ]
+      },
+      {
+        "id": "2023081813478",
+        "event_id": "13478",
+        "start_time": "2023-08-18T14:50:00+09:00",
+        "end_time": "2023-08-18T15:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "どうする家康　虎の巻　天下取りの秘密その七　策士　本多正信",
+        "subtitle": "大河ドラマでは迷ったり弱音を吐いてばかりの家康。史実でも気が小さく神経質だったらしい。そんな家康がなぜ天下をとれたのか？その謎をひもとく「虎の巻」！",
+        "content": "天下をとれたのは「イカサマ師」のおかげ！？家康が「策士」本多正信の知恵を頼りにしていたことは多くの書物に残されています。三河一向一揆では敵方につきますが、家康は正信を処刑せず追放とします。さらにその後戻ってきた正信を参謀に。一度は裏切った男をそこまで重用したのは、正信の優れた「悪知恵」「敵を欺く策略」が、天下取りにいかに必要かを家康が知ったから。その後秀吉との戦いで正信は本領を発揮していくのです。",
+        "act": "【語り】杉浦有紀",
+        "genres": [
+          "0315"
+        ]
+      },
+      {
+        "id": "2023081809163",
+        "event_id": "09163",
+        "start_time": "2023-08-18T15:00:00+09:00",
+        "end_time": "2023-08-18T15:07:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2023081840830",
+        "event_id": "40830",
+        "start_time": "2023-08-18T15:07:00+09:00",
+        "end_time": "2023-08-18T15:10:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報（九州沖縄）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0001"
+        ]
+      },
+      {
+        "id": "2023081809165",
+        "event_id": "09165",
+        "start_time": "2023-08-18T15:10:00+09:00",
+        "end_time": "2023-08-18T15:55:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "京コトはじめ　選　町家・たんす・きもの　洗いの仕事",
+        "subtitle": "木造建築やたんすの汚れを落とす「洗い屋」という職業が京都にはある。アルカリ性と酸性の薬品を駆使し、美しい木肌をよみがえらせる職人技を紹介。きものの染み抜きも。",
+        "content": "京都には木造建築やたんすの汚れを落とし、美しい木肌をよみがえらせる「洗い屋」とよばれる職業が存在する。アルカリ性の灰汁（あく）を駆使して油分などの汚れを浮かせて落とし、シュウ酸を加えて中和し元の姿に戻すという職人技が要求される仕事だ。町家や寺社建築を手掛ける職人、桐（きり）のたんすを専門とする職人の「洗い」の技を紹介。また中継では、きものの汚れを落とす染み抜き、そして染色補正の様子を紹介する。",
+        "act": "【司会】森田洋平，【ゲスト】京都外国語大学教授…ジェフ・バーグランド，洗い屋…神門幹典，桐たんす修復士…三浦弘晃，【リポーター】佐々木智一，鹿島綾乃",
+        "genres": [
+          "0801"
+        ]
+      },
+      {
+        "id": "2023081809167",
+        "event_id": "09167",
+        "start_time": "2023-08-18T15:55:00+09:00",
+        "end_time": "2023-08-18T16:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "みんなのうた「音楽室は秘密基地」",
+        "subtitle": "「音楽室は秘密基地」うた：ＳＨＩＳＨＡＭＯ",
+        "content": "「音楽室は秘密基地」うた：ＳＨＩＳＨＡＭＯ",
+        "act": "",
+        "genres": [
+          "0409",
+          "0504"
+        ]
+      },
+      {
+        "id": "2023081809168",
+        "event_id": "09168",
+        "start_time": "2023-08-18T16:00:00+09:00",
+        "end_time": "2023-08-18T16:05:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2023081809169",
+        "event_id": "09169",
+        "start_time": "2023-08-18T16:05:00+09:00",
+        "end_time": "2023-08-18T16:52:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＮＨＫ特集「富士山」",
+        "subtitle": "古くから日本人に愛されてきた富士山。春夏秋冬、千変万化する富士の姿を一年間にわたって撮影し、ノーナレーションで絶景に大野雄二の音楽だけが流れる壮大な映像交響詩。",
+        "content": "雪の富士、桜と逆さ富士、柿田川の湧水、夕焼けの雲海、紅葉と富士、めぐる星空、工業地帯と富士、昇る朝日と富士…変幻極まりない富士の魅力を、富士五湖や忍野八海、駿河湾など様々なところから、ハイスピード撮影や微速度撮影、高感度カメラとビデオ技術の限りを駆使して映し出す。葛飾北斎の名作になぞらえ、絵筆をカメラに持ち換えて、季節によって多様な表情を見せる富士山の姿を描いた映像版「富嶽三十六景」である。",
+        "act": "",
+        "genres": [
+          "0807",
+          "0802"
+        ]
+      },
+      {
+        "id": "2023081809174",
+        "event_id": "09174",
+        "start_time": "2023-08-18T16:52:00+09:00",
+        "end_time": "2023-08-18T16:55:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "歴史探偵スピンオフ　歴史再現ドラマを徹底調査！",
+        "subtitle": "「歴史探偵」はじめ歴史番組でおなじみの再現ドラマ。あまり見られないこの歴史再現の撮影メーキングをお送りします！そして「歴史探偵」も毎週水曜夜１０時放送中！！",
+        "content": "現在放送中の「歴史探偵」はじめＮＨＫの歴史番組でしばしば見られる「再現ドラマ」。しかし、再現ドラマの撮影風景をお見せする機会はなかなかありません。そこで２０２３年京都でおこなわれた武田信玄の合戦シーンなどの再現収録を歴史探偵が徹底調査！再現メーキングをあますところなくお送りします！",
+        "act": "【出演】映画監督…宮村敏正，【語り】石橋亜紗",
+        "genres": [
+          "0801"
+        ]
+      },
+      {
+        "id": "2023081809175",
+        "event_id": "09175",
+        "start_time": "2023-08-18T16:55:00+09:00",
+        "end_time": "2023-08-18T17:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "【夜ドラ】わたしの一番最悪なともだち【８／２１スタート！】",
+        "subtitle": "８月２１日から放送開始の夜ドラ「わたしの一番最悪なともだち」。主人公役の蒔田彩珠さんのインタビューや撮影現場の様子なども交え、番組の魅力をたっぷりお伝えします。",
+        "content": "わたしにとって「こんな自分だったらいいのに」は、幼なじみだった…。８月２１日から放送開始の夜ドラ「わたしの一番最悪なともだち」。友人の仮面をかぶり就職活動に臨むある女性の青春物語だ。この番組では、主人公・笠松ほたる役の蒔田彩珠さん、幼なじみの鍵谷美晴役の髙石あかりさん、同級生の長野慎吾役の倉悠貴さんのインタビューを軸に、今年５月から開始された撮影風景と共に番組の魅力をたっぷりお伝えする。",
+        "act": "【出演】蒔田彩珠，髙石あかり",
+        "genres": [
+          "0300",
+          "0207",
+          "0200"
+        ]
+      },
+      {
+        "id": "2023081809176",
+        "event_id": "09176",
+        "start_time": "2023-08-18T17:00:00+09:00",
+        "end_time": "2023-08-18T17:05:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2023081809177",
+        "event_id": "09177",
+        "start_time": "2023-08-18T17:05:00+09:00",
+        "end_time": "2023-08-18T17:57:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "セレクション",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
+        "id": "2023081809178",
+        "event_id": "09178",
+        "start_time": "2023-08-18T17:57:00+09:00",
         "end_time": "2023-08-18T18:00:00+09:00",
         "area": {
           "id": "401",
@@ -617,13 +1941,11 @@
             "height": "200"
           }
         },
-        "title": "第１０５回全国高校野球選手権大会　準々決勝",
-        "subtitle": "第２試合　第３試合　第４試合　～甲子園球場から中継～",
-        "content": "［Ｅテレで放送継続］",
+        "title": "セレクション",
+        "subtitle": "",
+        "content": "",
         "act": "",
-        "genres": [
-          "0101"
-        ]
+        "genres": []
       },
       {
         "id": "2023081809180",
@@ -1511,9 +2833,672 @@
         ]
       },
       {
-        "id": "2023081809128",
-        "event_id": "09128",
+        "id": "2023081814596",
+        "event_id": "14596",
         "start_time": "2023-08-18T08:15:00+09:00",
+        "end_time": "2023-08-18T08:50:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "あさイチ",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
+        "id": "2023081814315",
+        "event_id": "14315",
+        "start_time": "2023-08-18T08:50:00+09:00",
+        "end_time": "2023-08-18T09:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "どうする家康　虎の巻　天下取りの秘密その八　好敵手　豊臣秀吉",
+        "subtitle": "大河ドラマでは迷ったり弱音を吐いてばかりの家康。史実でも気が小さく神経質だったらしい。そんな家康がなぜ天下をとれたのか？その謎を紐（ひも）解く「虎の巻」！",
+        "content": "家康の天下取りに立ちはだかる最大のライバル、豊臣秀吉。信長が明智光秀に討たれたときいち早く備中から引き返して光秀を倒し、織田家中の主導権を握ります。貧しい農民から身を起こした秀吉は人の心をつかむことに長けており、さらに多くの武将を味方につけていきます。２人の直接対決となる小牧・長久手の戦い。そしてその後３０年にわたって徳川と豊臣の戦いは続くことになるのです。",
+        "act": "【語り】杉浦有紀",
+        "genres": [
+          "0315"
+        ]
+      },
+      {
+        "id": "2023081809131",
+        "event_id": "09131",
+        "start_time": "2023-08-18T09:00:00+09:00",
+        "end_time": "2023-08-18T09:05:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2023081811195",
+        "event_id": "11195",
+        "start_time": "2023-08-18T09:05:00+09:00",
+        "end_time": "2023-08-18T09:50:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "プロフェッショナル　仕事の流儀",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0807",
+          "0800",
+          "0815"
+        ]
+      },
+      {
+        "id": "2023081812928",
+        "event_id": "12928",
+        "start_time": "2023-08-18T09:50:00+09:00",
+        "end_time": "2023-08-18T09:55:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "シチズンラボ　セミ大調査",
+        "subtitle": "市民が研究者とともに研究を進めるシチズンラボ。愛媛県で行ったセミの大調査では、ぬけ殻や成虫の種を子供たちが見極めていく。シチズンラボＨＰに見分け方が載っている。",
+        "content": "市民が研究者とともに本格的な研究を進めるプロジェクト、シチズンラボ。今回は愛媛県でセミの大調査を行った。セミの先生からセミ採集のコツを教わった子供たちが、ぬけ殻や成虫を捕まえてその種を見極めていく。アブラゼミ、クマゼミ、ニイニイゼミを捕まえて、それぞれ種を見分けることができた。その時に役立ったのがシチズンラボＨＰの「見分け方」。羽や体の色から種を学ぶことができる。皆さんもやってみてください！",
+        "act": "【出演】日本セミの会…三好智和，【アナウンサー】宮﨑慶太",
+        "genres": [
+          "0202"
+        ]
+      },
+      {
+        "id": "2023081809133",
+        "event_id": "09133",
+        "start_time": "2023-08-18T09:55:00+09:00",
+        "end_time": "2023-08-18T10:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "みんなの体操",
+        "subtitle": "【出演】鈴木大輔，今井菜津美，矢作あかり，新井庸太",
+        "content": "",
+        "act": "【出演】鈴木大輔，今井菜津美，矢作あかり，新井庸太",
+        "genres": [
+          "0115",
+          "1015",
+          "0203"
+        ]
+      },
+      {
+        "id": "2023081809134",
+        "event_id": "09134",
+        "start_time": "2023-08-18T10:00:00+09:00",
+        "end_time": "2023-08-18T10:05:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2023081812931",
+        "event_id": "12931",
+        "start_time": "2023-08-18T10:05:00+09:00",
+        "end_time": "2023-08-18T10:50:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "街角ピアノ",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0815",
+          "0415",
+          "1002"
+        ]
+      },
+      {
+        "id": "2023081812933",
+        "event_id": "12933",
+        "start_time": "2023-08-18T10:50:00+09:00",
+        "end_time": "2023-08-18T10:55:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "せかほし５ｍｉｎ．「パリ＆ベツレヘム　幻のボタン」",
+        "subtitle": "「世界はほしいモノにあふれてる」えりすぐりの旅を詰め込んだ、「せかほし５ｍｉｎ．」。番組ＭＣの鈴木亮平が、極上のショートトリップにご案内。今回はボタンの世界。",
+        "content": "【語り】鈴木亮平",
+        "act": "【語り】鈴木亮平",
+        "genres": [
+          "0505"
+        ]
+      },
+      {
+        "id": "2023081809136",
+        "event_id": "09136",
+        "start_time": "2023-08-18T10:55:00+09:00",
+        "end_time": "2023-08-18T11:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "みんなのうた「Ｃｈｅｓｓｂｏａｒｄ」",
+        "subtitle": "「Ｃｈｅｓｓｂｏａｒｄ」うた：Ｏｆｆｉｃｉａｌ髭男ｄｉｓｍ",
+        "content": "「Ｃｈｅｓｓｂｏａｒｄ」うた：Ｏｆｆｉｃｉａｌ髭男ｄｉｓｍ",
+        "act": "",
+        "genres": [
+          "0409",
+          "0504"
+        ]
+      },
+      {
+        "id": "2023081809137",
+        "event_id": "09137",
+        "start_time": "2023-08-18T11:00:00+09:00",
+        "end_time": "2023-08-18T11:05:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2023081809138",
+        "event_id": "09138",
+        "start_time": "2023-08-18T11:05:00+09:00",
+        "end_time": "2023-08-18T11:30:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "探検ファクトリー　高級感と癒やし効果　天然クッション材　日本唯一の木毛工場",
+        "subtitle": "漫才コンビ・中川家がモノ作りの現場へ。今回は天然のクッション材・木毛を作る工場。木を糸状に削って美しくカールさせる職人技に迫る。共演はすっちー（吉本新喜劇座長）",
+        "content": "漫才コンビ・中川家と、吉本新喜劇の人気キャラ・すち子が魅力あふれる町工場を探検！「日本のもの作りの底力」「働く人の情熱」を紹介。今回は、木を糸のように削った天然のクッション材・木毛を作る工場を探検。箱入りの果物やワインなどを保護するもので、高知県土佐市には日本唯一の専業工場が。クッション性があって、きれいにカールした木毛はどのように作られるのか？香りを生かした新たな取り組みにも迫る。",
+        "act": "【出演】中川家，すっちー，【語り】橋本のりこ",
+        "genres": [
+          "0505",
+          "0800"
+        ]
+      },
+      {
+        "id": "2023081809140",
+        "event_id": "09140",
+        "start_time": "2023-08-18T11:30:00+09:00",
+        "end_time": "2023-08-18T11:35:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "テレビ体操",
+        "subtitle": "【出演】岡本美佳，舘野伶奈，今井菜津美，石川裕平，【ピアノ】能條貴大",
+        "content": "",
+        "act": "【出演】岡本美佳，舘野伶奈，今井菜津美，石川裕平，【ピアノ】能條貴大",
+        "genres": [
+          "0115",
+          "1015",
+          "0203"
+        ]
+      },
+      {
+        "id": "2023081809141",
+        "event_id": "09141",
+        "start_time": "2023-08-18T11:35:00+09:00",
+        "end_time": "2023-08-18T11:40:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ピタゴラスイッチ　ミニ",
+        "subtitle": "さまざまな法則や不思議な構造、面白い考え方を、人形劇やアニメ、歌、体操、ピタゴラ装置など多彩なコーナーで紹介。今回は「アルゴリズムたいそう」など。",
+        "content": "私たちがふだん暮らしている中には、さまざまな不思議な構造、おもしろい考え方、法則が隠れている。番組では、さまざまな「子どもにとっての“なるほど！”」を紹介する。今回は、アルゴリズムたいそう「サーカス団のみなさん」のほか、「○と△のしゅうだん」「新しい生物」など。【出演】いつもここから　ほか",
+        "act": "【出演】いつもここから",
+        "genres": [
+          "1008",
+          "0815"
+        ]
+      },
+      {
+        "id": "2023081809142",
+        "event_id": "09142",
+        "start_time": "2023-08-18T11:40:00+09:00",
+        "end_time": "2023-08-18T11:45:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "名曲アルバム「アルプスの夕映え」エステン作曲／和田薫・編曲",
+        "subtitle": "「アルプスの夕映え」（ピアノ）角聖子，（管弦楽）東京フィルハーモニー交響楽団，（指揮）円光寺雅彦　～スイス・グリンデルワルトほか～",
+        "content": "",
+        "act": "【ピアノ】角聖子，【管弦楽】東京フィルハーモニー交響楽団，【指揮】円光寺雅彦",
+        "genres": [
+          "0402",
+          "0801"
+        ]
+      },
+      {
+        "id": "2023081812937",
+        "event_id": "12937",
+        "start_time": "2023-08-18T11:45:00+09:00",
+        "end_time": "2023-08-18T11:50:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "Ｎコン９０！みんなで歌おう　祝９０回記念　Ｎコン愛を語る　～柿澤勇人さん～",
+        "subtitle": "ＮＨＫ全国学校音楽コンクール「Ｎコン」は、毎年１６００以上の小・中・高校が参加する国内最大規模の合唱コンクールです。９０回を迎えたＮコンの魅力をご紹介します！",
+        "content": "昭和７年に「児童唱歌コンクール」として始まり、今年、９０回記念イヤーとなるＮコン。今回は、小学生のときＮコンに出場したことがある俳優の柿澤勇人さんが登場！当時の課題曲「ほほう！」や、仲間と一緒にステージに立ったときの思い出などたっぷり語ります。さらに、今年の第９０回Ｎコンに参加する子どもたちへの柿澤さんからのメッセージをお届けします。これまでのＮコンの歴史を振り返るコーナーにもご注目ください。",
+        "act": "【出演】柿澤勇人，【語り】西山宏太朗",
+        "genres": [
+          "1002",
+          "0415"
+        ]
+      },
+      {
+        "id": "2023081812938",
+        "event_id": "12938",
+        "start_time": "2023-08-18T11:50:00+09:00",
+        "end_time": "2023-08-18T11:52:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "【ドラマ１０】しずかちゃんとパパ　第４回ダイジェスト",
+        "subtitle": "ドラマ１０「しずかちゃんとパパ」第４回ダイジェスト。圭一（中島裕翔）に弁当を届ける静（吉岡里帆）。純介（笑福亭鶴瓶）はけんちん祭りで町を盛り上げようとするが…。",
+        "content": "ドラマ１０「しずかちゃんとパパ」第４回ダイジェスト。スマートシティ計画の準備室室長として町に住み始めた圭一（中島裕翔）。純介（笑福亭鶴瓶）は怒り心頭だが、静（吉岡里帆）は圭一のために弁当を作るほど浮かれていた。純介は地元の「けんちん祭り」で町を盛り上げて計画を阻止しようと商店街の面々に提案するが、圭一が「参加したい」と言い出して意外な展開に…。そんな中、圭一の同僚・真琴（藤井美菜）が町に現われ…。",
+        "act": "【出演】吉岡里帆，笑福亭鶴瓶",
+        "genres": [
+          "0300"
+        ]
+      },
+      {
+        "id": "2023081812939",
+        "event_id": "12939",
+        "start_time": "2023-08-18T11:52:00+09:00",
+        "end_time": "2023-08-18T11:53:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "【ＢＳ時代劇】「雲霧仁左衛門６」ＰＲ",
+        "subtitle": "京の都を舞台に繰り広げられる「雲霧仁左衛門」６作目を分かり易（やす）く１分で紹介します！",
+        "content": "京の都を舞台に繰り広げられる「雲霧仁左衛門」６作目を分かり易（やす）く１分で紹介します！大盗賊・雲霧仁左衛門（中井貴一）とその一党が、突如現れたのは京の都であった。京は、およそ１００年振りの将軍上洛の報せに賑（にぎ）わっていた。そして、時を同じくして京へ乗り込んだのは、火付盗賊改長官の安部式部（國村隼）であった。京の都を舞台に繰り広げられる「雲霧仁左衛門」６作目、ご期待ください！",
+        "act": "【出演】中井貴一，國村隼，近藤芳正，手塚とおる，原田美枝子",
+        "genres": [
+          "0300",
+          "0207"
+        ]
+      },
+      {
+        "id": "2023081812940",
+        "event_id": "12940",
+        "start_time": "2023-08-18T11:53:00+09:00",
         "end_time": "2023-08-18T11:54:00+09:00",
         "area": {
           "id": "401",
@@ -1538,12 +3523,12 @@
             "height": "200"
           }
         },
-        "title": "第１０５回全国高校野球選手権大会　準々決勝",
-        "subtitle": "第１試合　第２試合　～甲子園球場から中継～",
-        "content": "［Ｅテレで放送継続］",
+        "title": "歴史探偵どうする家康コラボスペシャル１分ＰＲ",
+        "subtitle": "歴史探偵とどうする家康がスペシャルコラボ。家康ＶＳ．秀吉の壮絶なバトル徹底調査する。徳川家康役の松本潤さんと井伊直政役の板垣李光人さんがスタジオに出演。",
+        "content": "歴史探偵とどうする家康がスペシャルコラボ。家康ＶＳ．秀吉の壮絶なバトル徹底調査する。徳川家康役の松本潤さんと井伊直政役の板垣李光人さんがスタジオに出演。",
         "act": "",
         "genres": [
-          "0101"
+          "0801"
         ]
       },
       {
@@ -1764,9 +3749,670 @@
         ]
       },
       {
-        "id": "2023081809155",
-        "event_id": "09155",
+        "id": "2023081817318",
+        "event_id": "17318",
         "start_time": "2023-08-18T13:05:00+09:00",
+        "end_time": "2023-08-18T13:55:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "列島ニュース",
+        "subtitle": "日本列島の今が見える！ＮＨＫが地域向けに放送しているお昼のニュースを選（え）りすぐって大阪から全国に発信。地域の課題や郷土の話題を盛りだくさんでお届けします。",
+        "content": "「列島各地の地域ニュースを選（え）りすぐって大阪から全国に発信します」。全国に５４あるＮＨＫの各放送局が取材して地域向けに放送したお昼のニュースから地域の課題、地元ならではの話題などを集めて盛りだくさんでお届けします。現地の放送局から生中継で伝える「列島ニュースアップ」と「ＮＨＫ　ＮＥＷＳＷＥＢ」に掲載された特集記事の紹介コーナーもさらに充実！独自の目線で取材した多彩なコンテンツをお伝えします。",
+        "act": "【キャスター】高瀬耕造，小山径，一柳亜矢子，伊藤雄彦，嶋田ココ，【気象予報士】坂下恵理",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2023081809157",
+        "event_id": "09157",
+        "start_time": "2023-08-18T13:55:00+09:00",
+        "end_time": "2023-08-18T14:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "テレビ体操",
+        "subtitle": "【出演】岡本美佳，吉江晴菜，矢作あかり，石川裕平，【ピアノ】能條貴大",
+        "content": "",
+        "act": "【出演】岡本美佳，吉江晴菜，矢作あかり，石川裕平，【ピアノ】能條貴大",
+        "genres": [
+          "0115",
+          "1015",
+          "0203"
+        ]
+      },
+      {
+        "id": "2023081809158",
+        "event_id": "09158",
+        "start_time": "2023-08-18T14:00:00+09:00",
+        "end_time": "2023-08-18T14:05:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2023081809159",
+        "event_id": "09159",
+        "start_time": "2023-08-18T14:05:00+09:00",
+        "end_time": "2023-08-18T14:33:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "【ＮＨＫ地域局発】えぇトコ　食らわんか！川と街道の町を行く～大阪　枚方市～",
+        "subtitle": "大阪府枚方市は、淀川と京街道、双方の「交通の要衝」として栄えてきた町。枚方出身のお笑いコンビ、アメリカザリガニが故郷の魅力を再発見する旅",
+        "content": "大阪府枚方市は、淀川と京街道、双方の「交通の要衝」として栄えてきた町。枚方出身のお笑いコンビ、アメリカザリガニが故郷の魅力を再発見する旅▼町の名物・くらわんか舟▼冷たい餅に、ごんぼ汁…満腹街道グルメ▼菊人形の伝統を守る　ほか",
+        "act": "【リポーター】アメリカザリガニ，【語り】子守康範，橋本のりこ",
+        "genres": [
+          "0801",
+          "0202",
+          "0505"
+        ]
+      },
+      {
+        "id": "2023081815278",
+        "event_id": "15278",
+        "start_time": "2023-08-18T14:33:00+09:00",
+        "end_time": "2023-08-18T14:35:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＭＥＷＥ－２分で爆速ＳＤＧｓ－（４）「爆速気候変動」",
+        "subtitle": "気候変動を爆速で見てみると…どこが異常なのか見えてきた。",
+        "content": "気候変動を爆速で見てみると…どこが異常なのか見えてきた。",
+        "act": "",
+        "genres": [
+          "0515"
+        ]
+      },
+      {
+        "id": "2023081809161",
+        "event_id": "09161",
+        "start_time": "2023-08-18T14:35:00+09:00",
+        "end_time": "2023-08-18T14:45:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "時論公論　【出演】ＮＨＫ解説委員",
+        "subtitle": "▽混沌（とん）とした時代、次々と押し寄せるニュースの裏に、何があるのか？“明日を生きる指針”を提供する解説番組。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0006",
+          "0000",
+          "0007"
+        ]
+      },
+      {
+        "id": "2023081812945",
+        "event_id": "12945",
+        "start_time": "2023-08-18T14:45:00+09:00",
+        "end_time": "2023-08-18T14:50:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "【夜ドラ】わたしの一番最悪なともだち【８／２１スタート！】",
+        "subtitle": "８月２１日から放送開始の夜ドラ「わたしの一番最悪なともだち」。主人公役の蒔田彩珠さんのインタビューや撮影現場の様子なども交え、番組の魅力をたっぷりお伝えします。",
+        "content": "わたしにとって「こんな自分だったらいいのに」は、幼なじみだった…。８月２１日から放送開始の夜ドラ「わたしの一番最悪なともだち」。友人の仮面をかぶり就職活動に臨むある女性の青春物語だ。この番組では、主人公・笠松ほたる役の蒔田彩珠さん、幼なじみの鍵谷美晴役の髙石あかりさん、同級生の長野慎吾役の倉悠貴さんのインタビューを軸に、今年５月から開始された撮影風景と共に番組の魅力をたっぷりお伝えする。",
+        "act": "【出演】蒔田彩珠，髙石あかり",
+        "genres": [
+          "0300",
+          "0207",
+          "0200"
+        ]
+      },
+      {
+        "id": "2023081813478",
+        "event_id": "13478",
+        "start_time": "2023-08-18T14:50:00+09:00",
+        "end_time": "2023-08-18T15:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "どうする家康　虎の巻　天下取りの秘密その七　策士　本多正信",
+        "subtitle": "大河ドラマでは迷ったり弱音を吐いてばかりの家康。史実でも気が小さく神経質だったらしい。そんな家康がなぜ天下をとれたのか？その謎をひもとく「虎の巻」！",
+        "content": "天下をとれたのは「イカサマ師」のおかげ！？家康が「策士」本多正信の知恵を頼りにしていたことは多くの書物に残されています。三河一向一揆では敵方につきますが、家康は正信を処刑せず追放とします。さらにその後戻ってきた正信を参謀に。一度は裏切った男をそこまで重用したのは、正信の優れた「悪知恵」「敵を欺く策略」が、天下取りにいかに必要かを家康が知ったから。その後秀吉との戦いで正信は本領を発揮していくのです。",
+        "act": "【語り】杉浦有紀",
+        "genres": [
+          "0315"
+        ]
+      },
+      {
+        "id": "2023081809163",
+        "event_id": "09163",
+        "start_time": "2023-08-18T15:00:00+09:00",
+        "end_time": "2023-08-18T15:07:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2023081840830",
+        "event_id": "40830",
+        "start_time": "2023-08-18T15:07:00+09:00",
+        "end_time": "2023-08-18T15:10:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報（九州沖縄）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0001"
+        ]
+      },
+      {
+        "id": "2023081809165",
+        "event_id": "09165",
+        "start_time": "2023-08-18T15:10:00+09:00",
+        "end_time": "2023-08-18T15:55:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "京コトはじめ　選　町家・たんす・きもの　洗いの仕事",
+        "subtitle": "木造建築やたんすの汚れを落とす「洗い屋」という職業が京都にはある。アルカリ性と酸性の薬品を駆使し、美しい木肌をよみがえらせる職人技を紹介。きものの染み抜きも。",
+        "content": "京都には木造建築やたんすの汚れを落とし、美しい木肌をよみがえらせる「洗い屋」とよばれる職業が存在する。アルカリ性の灰汁（あく）を駆使して油分などの汚れを浮かせて落とし、シュウ酸を加えて中和し元の姿に戻すという職人技が要求される仕事だ。町家や寺社建築を手掛ける職人、桐（きり）のたんすを専門とする職人の「洗い」の技を紹介。また中継では、きものの汚れを落とす染み抜き、そして染色補正の様子を紹介する。",
+        "act": "【司会】森田洋平，【ゲスト】京都外国語大学教授…ジェフ・バーグランド，洗い屋…神門幹典，桐たんす修復士…三浦弘晃，【リポーター】佐々木智一，鹿島綾乃",
+        "genres": [
+          "0801"
+        ]
+      },
+      {
+        "id": "2023081809167",
+        "event_id": "09167",
+        "start_time": "2023-08-18T15:55:00+09:00",
+        "end_time": "2023-08-18T16:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "みんなのうた「音楽室は秘密基地」",
+        "subtitle": "「音楽室は秘密基地」うた：ＳＨＩＳＨＡＭＯ",
+        "content": "「音楽室は秘密基地」うた：ＳＨＩＳＨＡＭＯ",
+        "act": "",
+        "genres": [
+          "0409",
+          "0504"
+        ]
+      },
+      {
+        "id": "2023081809168",
+        "event_id": "09168",
+        "start_time": "2023-08-18T16:00:00+09:00",
+        "end_time": "2023-08-18T16:05:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2023081809169",
+        "event_id": "09169",
+        "start_time": "2023-08-18T16:05:00+09:00",
+        "end_time": "2023-08-18T16:52:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＮＨＫ特集「富士山」",
+        "subtitle": "古くから日本人に愛されてきた富士山。春夏秋冬、千変万化する富士の姿を一年間にわたって撮影し、ノーナレーションで絶景に大野雄二の音楽だけが流れる壮大な映像交響詩。",
+        "content": "雪の富士、桜と逆さ富士、柿田川の湧水、夕焼けの雲海、紅葉と富士、めぐる星空、工業地帯と富士、昇る朝日と富士…変幻極まりない富士の魅力を、富士五湖や忍野八海、駿河湾など様々なところから、ハイスピード撮影や微速度撮影、高感度カメラとビデオ技術の限りを駆使して映し出す。葛飾北斎の名作になぞらえ、絵筆をカメラに持ち換えて、季節によって多様な表情を見せる富士山の姿を描いた映像版「富嶽三十六景」である。",
+        "act": "",
+        "genres": [
+          "0807",
+          "0802"
+        ]
+      },
+      {
+        "id": "2023081809174",
+        "event_id": "09174",
+        "start_time": "2023-08-18T16:52:00+09:00",
+        "end_time": "2023-08-18T16:55:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "歴史探偵スピンオフ　歴史再現ドラマを徹底調査！",
+        "subtitle": "「歴史探偵」はじめ歴史番組でおなじみの再現ドラマ。あまり見られないこの歴史再現の撮影メーキングをお送りします！そして「歴史探偵」も毎週水曜夜１０時放送中！！",
+        "content": "現在放送中の「歴史探偵」はじめＮＨＫの歴史番組でしばしば見られる「再現ドラマ」。しかし、再現ドラマの撮影風景をお見せする機会はなかなかありません。そこで２０２３年京都でおこなわれた武田信玄の合戦シーンなどの再現収録を歴史探偵が徹底調査！再現メーキングをあますところなくお送りします！",
+        "act": "【出演】映画監督…宮村敏正，【語り】石橋亜紗",
+        "genres": [
+          "0801"
+        ]
+      },
+      {
+        "id": "2023081809175",
+        "event_id": "09175",
+        "start_time": "2023-08-18T16:55:00+09:00",
+        "end_time": "2023-08-18T17:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "【夜ドラ】わたしの一番最悪なともだち【８／２１スタート！】",
+        "subtitle": "８月２１日から放送開始の夜ドラ「わたしの一番最悪なともだち」。主人公役の蒔田彩珠さんのインタビューや撮影現場の様子なども交え、番組の魅力をたっぷりお伝えします。",
+        "content": "わたしにとって「こんな自分だったらいいのに」は、幼なじみだった…。８月２１日から放送開始の夜ドラ「わたしの一番最悪なともだち」。友人の仮面をかぶり就職活動に臨むある女性の青春物語だ。この番組では、主人公・笠松ほたる役の蒔田彩珠さん、幼なじみの鍵谷美晴役の髙石あかりさん、同級生の長野慎吾役の倉悠貴さんのインタビューを軸に、今年５月から開始された撮影風景と共に番組の魅力をたっぷりお伝えする。",
+        "act": "【出演】蒔田彩珠，髙石あかり",
+        "genres": [
+          "0300",
+          "0207",
+          "0200"
+        ]
+      },
+      {
+        "id": "2023081809176",
+        "event_id": "09176",
+        "start_time": "2023-08-18T17:00:00+09:00",
+        "end_time": "2023-08-18T17:05:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2023081809177",
+        "event_id": "09177",
+        "start_time": "2023-08-18T17:05:00+09:00",
+        "end_time": "2023-08-18T17:57:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "セレクション",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
+        "id": "2023081809178",
+        "event_id": "09178",
+        "start_time": "2023-08-18T17:57:00+09:00",
         "end_time": "2023-08-18T18:00:00+09:00",
         "area": {
           "id": "401",
@@ -1791,13 +4437,11 @@
             "height": "200"
           }
         },
-        "title": "第１０５回全国高校野球選手権大会　準々決勝",
-        "subtitle": "第２試合　第３試合　第４試合　～甲子園球場から中継～",
-        "content": "［Ｅテレで放送継続］",
+        "title": "セレクション",
+        "subtitle": "",
+        "content": "",
         "act": "",
-        "genres": [
-          "0101"
-        ]
+        "genres": []
       },
       {
         "id": "2023081809180",
@@ -3125,7 +5769,7 @@
           }
         },
         "title": "絶景かな　描いてみるかな",
-        "subtitle": "石川五右衛門の歌舞伎での名ぜりふ「絶景かな、絶景かな」。令和の世になっても驚くべき絶景が各地に。そんな光景を「描いてみるかな」と気軽にスケッチしてみませんか？",
+        "subtitle": "石川五右衛門の歌舞伎での名ぜりふ「絶景かな絶景かな」。令和の世でも驚くべき絶景が各地に。そんな絶景を今注目の柴崎春通画伯が現地を訪ね、ちょいと「描いてみるかな」",
         "content": "今回紹介する絶景は群馬県嬬恋村のキャベツ畑。浅間山麓に超巨大な緑のじゅうたんが広がっています。もう一つは高知県大月町の柏島。船が宙に浮いて見えるほど透明度の高い海に出会えます。絶景を描いてみたいけど、絵は苦手だと嘆いているあなた。心配ご無用！番組は強力な助っ人に来てもらいました。ＹｏｕＴｕｂｅで“おじいちゃん先生”として世界中で大人気になっている水彩画家の柴崎春通さんが易しくレッスンしてくれます！",
         "act": "【出演】柴崎春通，【語り】中山果奈",
         "genres": [
@@ -3396,7 +6040,7 @@
         "id": "2023081809248",
         "event_id": "09248",
         "start_time": "2023-08-18T11:30:00+09:00",
-        "end_time": "2023-08-18T11:54:00+09:00",
+        "end_time": "2023-08-18T11:55:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
@@ -3431,9 +6075,122 @@
         ]
       },
       {
-        "id": "2023081809249",
-        "event_id": "09249",
-        "start_time": "2023-08-18T11:54:00+09:00",
+        "id": "2023081809252",
+        "event_id": "09252",
+        "start_time": "2023-08-18T11:55:00+09:00",
+        "end_time": "2023-08-18T12:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e1",
+          "name": "ＮＨＫＥテレ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "みんなのうた「南の島のハメハメハ大王」／「小さな夢」",
+        "subtitle": "「南の島のハメハメハ大王」うた：ＳＡＫＡＮＡＭＯＮ／「小さな夢」うた：ヒグチアイ",
+        "content": "「南の島のハメハメハ大王」うた：ＳＡＫＡＮＡＭＯＮ／「小さな夢」うた：ヒグチアイ",
+        "act": "",
+        "genres": [
+          "0409",
+          "0504"
+        ]
+      },
+      {
+        "id": "2023081809253",
+        "event_id": "09253",
+        "start_time": "2023-08-18T12:00:00+09:00",
+        "end_time": "2023-08-18T12:45:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e1",
+          "name": "ＮＨＫＥテレ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "チョイス＠病気になったとき",
+        "subtitle": "",
+        "content": "過去の放送をコンパクトにまとめて紹介する「まとめスペシャル」。相談しづらい「月経」のトラブルや月経前の心身の不調「ＰＭＳ（月経前症候群）」についてまとめて伝える。量が多すぎて貧血に、ひどい痛みで生活が困難になってしまうこともある月経。それらの原因として「子宮筋腫」や「子宮腺筋症」が見つかることも。またＰＭＳのせいで、むくみや情緒不安定などが生じることも。それぞれの治療法や対処法を丁寧に解説する。",
+        "act": "",
+        "genres": [
+          "0803",
+          "0800",
+          "1100"
+        ]
+      },
+      {
+        "id": "2023081809256",
+        "event_id": "09256",
+        "start_time": "2023-08-18T12:45:00+09:00",
+        "end_time": "2023-08-18T13:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e1",
+          "name": "ＮＨＫＥテレ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "キソ英語を学んでみたら世界とつながった。　トルコ",
+        "subtitle": "世界各地の家族とオンラインでつながり、小学校で習う英語フレーズなどを使って会話。現地のリアルな暮らしや習慣、地元の様子などをクイズや映像で紹介してもらいます。",
+        "content": "今回はトルコ。Ｈｏｗ　ｄｏ　ｙｏｕ　．．．？を使って、色々なもののやり方について聞いていきます。スタートは首都アンカラのアンカラ城。お城からは街を一望できます。次に地元の大きなバザールへ。羊毛やきれいな模様の手作りじゅうたん、台所用品の店などをめぐり、魚や野菜・果物が並ぶ市場を通って、カツオのサンドイッチを売るフードスタンドへ。最後は家で、お母さんが作る食べものに関するクイズに挑戦します。",
+        "act": "【出演】竹内將人，本田剛文，【語り】有馬ゆみこ",
+        "genres": [
+          "1007",
+          "1008",
+          "0515"
+        ]
+      },
+      {
+        "id": "2023081809257",
+        "event_id": "09257",
+        "start_time": "2023-08-18T13:00:00+09:00",
         "end_time": "2023-08-18T13:05:00+09:00",
         "area": {
           "id": "401",
@@ -3458,12 +6215,12 @@
             "height": "200"
           }
         },
-        "title": "第１０５回全国高校野球選手権大会　準々決勝",
-        "subtitle": "第２試合　～甲子園球場から中継～",
-        "content": "［総合テレビで放送継続］",
-        "act": "",
+        "title": "せかほし５ｍｉｎ．「インテリア世界旅」",
+        "subtitle": "「世界はほしいモノにあふれてる」選（え）りすぐりの旅を詰め込んだ「せかほし５ｍｉｎ．」。番組ＭＣ鈴木亮平が極上のショートトリップにご案内。今回はインテリア世界旅",
+        "content": "トップバイヤーとともに世界をめぐり、そこにしかないステキなモノを探す旅「世界はほしいモノにあふれてる」。番組が見つけた極上の宝物を詰め込んだ５分の旅を、シリーズでお届けします。今回は、おうち時間にピッタリ「インテリア」特集。せかほしが見つけた世界のインテリアアイテムで、くつろぎのひとときを。旅のオトモは、番組ＭＣの鈴木亮平！",
+        "act": "【語り】鈴木亮平",
         "genres": [
-          "0101"
+          "0505"
         ]
       },
       {
@@ -4207,9 +6964,120 @@
         ]
       },
       {
-        "id": "2023081809280",
-        "event_id": "09280",
+        "id": "2023081809281",
+        "event_id": "09281",
         "start_time": "2023-08-18T18:00:00+09:00",
+        "end_time": "2023-08-18T18:10:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e1",
+          "name": "ＮＨＫＥテレ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ピタゴラスイッチ「のりものスペシャル」",
+        "subtitle": "世の中をピタゴラ的なユニークな見方で伝えます。今回は「のりものスペシャル」！",
+        "content": "世の中をピタゴラ的なユニークな見方で伝えます。今回は「のりものスペシャル」子どもが大好きなのりものがいっぱいです。",
+        "act": "【出演】いつもここから，【声】車だん吉，飯尾和樹，【語り】徳田章",
+        "genres": [
+          "1008",
+          "0815"
+        ]
+      },
+      {
+        "id": "2023081809282",
+        "event_id": "09282",
+        "start_time": "2023-08-18T18:10:00+09:00",
+        "end_time": "2023-08-18T18:15:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e1",
+          "name": "ＮＨＫＥテレ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ミニアニメ　チキップダンサーズ「アウトドアでウェイウェイ」",
+        "subtitle": "川辺にやってきたつむちぎゃん。ほねチキンたちも木でテーブルやいすを作りアウトドアを満喫。するとつむぎちゃん一家の車がとつぜん出発！取り残されてしまったみんなは…",
+        "content": "ちょっぴりチキン（こわがり）だけど、好奇心いっぱいの骨つきチキンの「ほねチキン」。スキップしながら近づいてくるダンスの先生「スキップガエル先生」など、個性あふれるキャラクターたちがダンスで大活躍！おうちなどさまざまな場所で「からだがうごくと、こころもおどる♪」おはなしです。",
+        "act": "【声】花江夏樹，石川由依，弓木英梨乃，【脚本】ラレコ",
+        "genres": [
+          "0700",
+          "1008"
+        ]
+      },
+      {
+        "id": "2023081809283",
+        "event_id": "09283",
+        "start_time": "2023-08-18T18:15:00+09:00",
+        "end_time": "2023-08-18T18:20:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e1",
+          "name": "ＮＨＫＥテレ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ミニアニメ　かいじゅうステップ　ワンダバダ「かいじゅうオバケやしき！」",
+        "subtitle": "暑くてたまらない日は、オバケやしきでゾーっとして、涼しくなろう。かいじゅうやさんが作ったオバケやしきには、こわーいオバケがたくさんいるよ！",
+        "content": "とおい宇宙のかなた、Ｋ１０星雲チョーチイ星。こどもかいじゅうたちは、流れ星に願いごと。すきなもの、やりたいこと、かなえたい夢、いっぱいあるよね。いまはまだできないことも、いつかはできる。ひとりじゃできないことも、みんなで力をあわせれば、だいじょうぶ！大きな願い、かなえよう。合言葉は、「かいじゅうー！　ワンダバダー！」",
+        "act": "【声】久野美咲，福圓美里，真堂圭，渡辺明乃，原涼子，潘めぐみ，金田朋子，田中裕二，【語り】中尾明慶",
+        "genres": [
+          "0700",
+          "1008"
+        ]
+      },
+      {
+        "id": "2023081809284",
+        "event_id": "09284",
+        "start_time": "2023-08-18T18:20:00+09:00",
         "end_time": "2023-08-18T18:25:00+09:00",
         "area": {
           "id": "401",
@@ -4234,12 +7102,12 @@
             "height": "200"
           }
         },
-        "title": "第１０５回全国高校野球選手権大会　準々決勝",
-        "subtitle": "第４試合　～甲子園球場から中継～",
-        "content": "",
-        "act": "",
+        "title": "青のオーケストラ　５分で楽しいクラシック（１０）ドヴォルザークは鉄道オタク！？",
+        "subtitle": "音楽に詳しくなくても、見ればアニメ「青のオーケストラ」が１００倍楽しめる！「青オケ」のキャラクターたちとともに、クラシックのさまざまな知識を楽しく学べる５分間。",
+        "content": "「青のオーケストラ」の青野一と秋音律子が、ＳＤキャラになって登場！楽しくおしゃべりしながら、オーケストラやクラシックにまつわる素朴な疑問についていっしょに学んでいくよ！今回のテーマは、アニメでも定期演奏会に向けて重要な曲となってくる「新世界より」を作曲したドヴォルザーク。半端ないくらい、鉄道オタクだったんだとか…。そのことが「新世界より」を聴くとわかる！？名曲の聴き方がちょっと楽しくなる知識満載！",
+        "act": "【声】千葉翔也，加隈亜衣",
         "genres": [
-          "0101"
+          "0207"
         ]
       },
       {
@@ -4605,8 +7473,8 @@
         },
         "title": "スイッチインタビュー　特別編「坂本龍一×福岡伸一」ＥＰ１",
         "subtitle": "今年３月に逝去した音楽家・坂本龍一。ともにニューヨークで活動し、交流があった生物学者・福岡伸一と２０１７年に行った貴重な対談を、特別編集でお届けする。",
-        "content": "２０１７年に坂本龍一が発表したアルバム「ｓｃｙｎｃ」。街の騒音などの「ノイズ」を取り込み、秩序だった既製の音楽とは異なる楽曲に挑んだ。ＥＰ１では、坂本のコンサートが開かれたホールを福岡伸一が訪れ、金属を加工した独特の楽器に触れながら、新たな音楽観に迫る。坂本が「人工に人工を重ねた音楽、楽器を元に戻してあげたい」と語る、その心とは？　＃ＹＭＯ",
-        "act": "【出演】音楽家…坂本龍一，生物学者…福岡伸一，【語り】市川実日子，岡田将生",
+        "content": "２０１７年に坂本龍一が発表したアルバム「ａｓｙｎｃ」。街の騒音などの「ノイズ」を取り込み、秩序だった既製の音楽とは異なる楽曲に挑んだ。ＥＰ１では、坂本のコンサートが開かれたホールを福岡伸一が訪れ、金属を加工した独特の楽器に触れながら、新たな音楽観に迫る。坂本が「人工に人工を重ねた音楽、楽器を元に戻してあげたい」と語る、その心とは？　＃ＹＭＯ",
+        "act": "【出演】音楽家…坂本龍一，【出演】生物学者…福岡伸一，【語り】六角精児，吉田羊",
         "genres": [
           "0808",
           "0807",
@@ -4911,9 +7779,84 @@
         ]
       },
       {
+        "id": "2023081817176",
+        "event_id": "17176",
+        "start_time": "2023-08-19T01:20:00+09:00",
+        "end_time": "2023-08-19T02:05:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e1",
+          "name": "ＮＨＫＥテレ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "日曜美術館　マティス　幸せの色彩",
+        "subtitle": "色彩の魔術師と呼ばれ、伝統を打ち破る革新的な表現を探求した画家アンリ・マティス。初期から最晩年まで傑作の数々を味わいながら、見る者の心に幸せを届ける秘密に迫る。",
+        "content": "ピカソと並び称される２０世紀の巨人アンリ・マティス。大胆な色彩と軽やかなタッチで、それまでの絵画の常識を打ち破る傑作を世に送り出した。しかし、その人生は苦難の連続。長い下積み、二つの大戦、死を覚悟した病との闘い。その中でも常に挑戦と実験を繰り返し、８４歳で亡くなるまで、生涯を絵画の革新に奉げた。東京都美術館で開催中の大規模な展覧会をめぐり、傑作の数々を味わいながら、その奥深い魅力に迫る。",
+        "act": "【出演】作家　キュレーター…原田マハ，芥川賞受賞作家…朝吹真理子，美術家…会田誠，葉っぱ切り絵アーティスト…リト＠葉っぱ切り絵，【司会】小野正嗣，柴田祐規子",
+        "genres": [
+          "1002",
+          "0804"
+        ]
+      },
+      {
+        "id": "2023081817177",
+        "event_id": "17177",
+        "start_time": "2023-08-19T02:05:00+09:00",
+        "end_time": "2023-08-19T02:19:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e1",
+          "name": "ＮＨＫＥテレ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "日曜美術館　アートシーン「スペインのイメージ：版画を通じて写し伝わるすがた」展",
+        "subtitle": "「スペインのイメージ：版画を通じて写し伝わるすがた」（国立西洋美術館　７月４日～９月３日）ほか、展覧会情報",
+        "content": "「スペインのイメージ：版画を通じて写し伝わるすがた」（国立西洋美術館　７月４日～９月３日）ほか、展覧会情報",
+        "act": "",
+        "genres": [
+          "1002",
+          "0804",
+          "0215"
+        ]
+      },
+      {
         "id": "2023081809864",
         "event_id": "09864",
-        "start_time": "2023-08-19T01:20:00+09:00",
+        "start_time": "2023-08-19T02:19:00+09:00",
         "end_time": "2023-08-19T05:30:00+09:00",
         "area": {
           "id": "401",
@@ -5724,7 +8667,7 @@
           }
         },
         "title": "絶景かな　描いてみるかな",
-        "subtitle": "石川五右衛門の歌舞伎での名ぜりふ「絶景かな、絶景かな」。令和の世になっても驚くべき絶景が各地に。そんな光景を「描いてみるかな」と気軽にスケッチしてみませんか？",
+        "subtitle": "石川五右衛門の歌舞伎での名ぜりふ「絶景かな絶景かな」。令和の世でも驚くべき絶景が各地に。そんな絶景を今注目の柴崎春通画伯が現地を訪ね、ちょいと「描いてみるかな」",
         "content": "今回紹介する絶景は群馬県嬬恋村のキャベツ畑。浅間山麓に超巨大な緑のじゅうたんが広がっています。もう一つは高知県大月町の柏島。船が宙に浮いて見えるほど透明度の高い海に出会えます。絶景を描いてみたいけど、絵は苦手だと嘆いているあなた。心配ご無用！番組は強力な助っ人に来てもらいました。ＹｏｕＴｕｂｅで“おじいちゃん先生”として世界中で大人気になっている水彩画家の柴崎春通さんが易しくレッスンしてくれます！",
         "act": "【出演】柴崎春通，【語り】中山果奈",
         "genres": [
@@ -5995,7 +8938,7 @@
         "id": "2023081809248",
         "event_id": "09248",
         "start_time": "2023-08-18T11:30:00+09:00",
-        "end_time": "2023-08-18T11:54:00+09:00",
+        "end_time": "2023-08-18T11:55:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
@@ -6030,9 +8973,122 @@
         ]
       },
       {
-        "id": "2023081809249",
-        "event_id": "09249",
-        "start_time": "2023-08-18T11:54:00+09:00",
+        "id": "2023081809252",
+        "event_id": "09252",
+        "start_time": "2023-08-18T11:55:00+09:00",
+        "end_time": "2023-08-18T12:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e3",
+          "name": "ＮＨＫＥテレ３",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "みんなのうた「南の島のハメハメハ大王」／「小さな夢」",
+        "subtitle": "「南の島のハメハメハ大王」うた：ＳＡＫＡＮＡＭＯＮ／「小さな夢」うた：ヒグチアイ",
+        "content": "「南の島のハメハメハ大王」うた：ＳＡＫＡＮＡＭＯＮ／「小さな夢」うた：ヒグチアイ",
+        "act": "",
+        "genres": [
+          "0409",
+          "0504"
+        ]
+      },
+      {
+        "id": "2023081809253",
+        "event_id": "09253",
+        "start_time": "2023-08-18T12:00:00+09:00",
+        "end_time": "2023-08-18T12:45:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e3",
+          "name": "ＮＨＫＥテレ３",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "チョイス＠病気になったとき",
+        "subtitle": "",
+        "content": "過去の放送をコンパクトにまとめて紹介する「まとめスペシャル」。相談しづらい「月経」のトラブルや月経前の心身の不調「ＰＭＳ（月経前症候群）」についてまとめて伝える。量が多すぎて貧血に、ひどい痛みで生活が困難になってしまうこともある月経。それらの原因として「子宮筋腫」や「子宮腺筋症」が見つかることも。またＰＭＳのせいで、むくみや情緒不安定などが生じることも。それぞれの治療法や対処法を丁寧に解説する。",
+        "act": "",
+        "genres": [
+          "0803",
+          "0800",
+          "1100"
+        ]
+      },
+      {
+        "id": "2023081809256",
+        "event_id": "09256",
+        "start_time": "2023-08-18T12:45:00+09:00",
+        "end_time": "2023-08-18T13:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e3",
+          "name": "ＮＨＫＥテレ３",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "キソ英語を学んでみたら世界とつながった。　トルコ",
+        "subtitle": "世界各地の家族とオンラインでつながり、小学校で習う英語フレーズなどを使って会話。現地のリアルな暮らしや習慣、地元の様子などをクイズや映像で紹介してもらいます。",
+        "content": "今回はトルコ。Ｈｏｗ　ｄｏ　ｙｏｕ　．．．？を使って、色々なもののやり方について聞いていきます。スタートは首都アンカラのアンカラ城。お城からは街を一望できます。次に地元の大きなバザールへ。羊毛やきれいな模様の手作りじゅうたん、台所用品の店などをめぐり、魚や野菜・果物が並ぶ市場を通って、カツオのサンドイッチを売るフードスタンドへ。最後は家で、お母さんが作る食べものに関するクイズに挑戦します。",
+        "act": "【出演】竹内將人，本田剛文，【語り】有馬ゆみこ",
+        "genres": [
+          "1007",
+          "1008",
+          "0515"
+        ]
+      },
+      {
+        "id": "2023081809257",
+        "event_id": "09257",
+        "start_time": "2023-08-18T13:00:00+09:00",
         "end_time": "2023-08-18T13:05:00+09:00",
         "area": {
           "id": "401",
@@ -6057,12 +9113,12 @@
             "height": "200"
           }
         },
-        "title": "第１０５回全国高校野球選手権大会　準々決勝",
-        "subtitle": "第２試合　～甲子園球場から中継～",
-        "content": "［総合テレビで放送継続］",
-        "act": "",
+        "title": "せかほし５ｍｉｎ．「インテリア世界旅」",
+        "subtitle": "「世界はほしいモノにあふれてる」選（え）りすぐりの旅を詰め込んだ「せかほし５ｍｉｎ．」。番組ＭＣ鈴木亮平が極上のショートトリップにご案内。今回はインテリア世界旅",
+        "content": "トップバイヤーとともに世界をめぐり、そこにしかないステキなモノを探す旅「世界はほしいモノにあふれてる」。番組が見つけた極上の宝物を詰め込んだ５分の旅を、シリーズでお届けします。今回は、おうち時間にピッタリ「インテリア」特集。せかほしが見つけた世界のインテリアアイテムで、くつろぎのひとときを。旅のオトモは、番組ＭＣの鈴木亮平！",
+        "act": "【語り】鈴木亮平",
         "genres": [
-          "0101"
+          "0505"
         ]
       },
       {
@@ -6806,9 +9862,120 @@
         ]
       },
       {
-        "id": "2023081809280",
-        "event_id": "09280",
+        "id": "2023081809281",
+        "event_id": "09281",
         "start_time": "2023-08-18T18:00:00+09:00",
+        "end_time": "2023-08-18T18:10:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e3",
+          "name": "ＮＨＫＥテレ３",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ピタゴラスイッチ「のりものスペシャル」",
+        "subtitle": "世の中をピタゴラ的なユニークな見方で伝えます。今回は「のりものスペシャル」！",
+        "content": "世の中をピタゴラ的なユニークな見方で伝えます。今回は「のりものスペシャル」子どもが大好きなのりものがいっぱいです。",
+        "act": "【出演】いつもここから，【声】車だん吉，飯尾和樹，【語り】徳田章",
+        "genres": [
+          "1008",
+          "0815"
+        ]
+      },
+      {
+        "id": "2023081809282",
+        "event_id": "09282",
+        "start_time": "2023-08-18T18:10:00+09:00",
+        "end_time": "2023-08-18T18:15:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e3",
+          "name": "ＮＨＫＥテレ３",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ミニアニメ　チキップダンサーズ「アウトドアでウェイウェイ」",
+        "subtitle": "川辺にやってきたつむちぎゃん。ほねチキンたちも木でテーブルやいすを作りアウトドアを満喫。するとつむぎちゃん一家の車がとつぜん出発！取り残されてしまったみんなは…",
+        "content": "ちょっぴりチキン（こわがり）だけど、好奇心いっぱいの骨つきチキンの「ほねチキン」。スキップしながら近づいてくるダンスの先生「スキップガエル先生」など、個性あふれるキャラクターたちがダンスで大活躍！おうちなどさまざまな場所で「からだがうごくと、こころもおどる♪」おはなしです。",
+        "act": "【声】花江夏樹，石川由依，弓木英梨乃，【脚本】ラレコ",
+        "genres": [
+          "0700",
+          "1008"
+        ]
+      },
+      {
+        "id": "2023081809283",
+        "event_id": "09283",
+        "start_time": "2023-08-18T18:15:00+09:00",
+        "end_time": "2023-08-18T18:20:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e3",
+          "name": "ＮＨＫＥテレ３",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ミニアニメ　かいじゅうステップ　ワンダバダ「かいじゅうオバケやしき！」",
+        "subtitle": "暑くてたまらない日は、オバケやしきでゾーっとして、涼しくなろう。かいじゅうやさんが作ったオバケやしきには、こわーいオバケがたくさんいるよ！",
+        "content": "とおい宇宙のかなた、Ｋ１０星雲チョーチイ星。こどもかいじゅうたちは、流れ星に願いごと。すきなもの、やりたいこと、かなえたい夢、いっぱいあるよね。いまはまだできないことも、いつかはできる。ひとりじゃできないことも、みんなで力をあわせれば、だいじょうぶ！大きな願い、かなえよう。合言葉は、「かいじゅうー！　ワンダバダー！」",
+        "act": "【声】久野美咲，福圓美里，真堂圭，渡辺明乃，原涼子，潘めぐみ，金田朋子，田中裕二，【語り】中尾明慶",
+        "genres": [
+          "0700",
+          "1008"
+        ]
+      },
+      {
+        "id": "2023081809284",
+        "event_id": "09284",
+        "start_time": "2023-08-18T18:20:00+09:00",
         "end_time": "2023-08-18T18:25:00+09:00",
         "area": {
           "id": "401",
@@ -6833,12 +10000,12 @@
             "height": "200"
           }
         },
-        "title": "第１０５回全国高校野球選手権大会　準々決勝",
-        "subtitle": "第４試合　～甲子園球場から中継～",
-        "content": "",
-        "act": "",
+        "title": "青のオーケストラ　５分で楽しいクラシック（１０）ドヴォルザークは鉄道オタク！？",
+        "subtitle": "音楽に詳しくなくても、見ればアニメ「青のオーケストラ」が１００倍楽しめる！「青オケ」のキャラクターたちとともに、クラシックのさまざまな知識を楽しく学べる５分間。",
+        "content": "「青のオーケストラ」の青野一と秋音律子が、ＳＤキャラになって登場！楽しくおしゃべりしながら、オーケストラやクラシックにまつわる素朴な疑問についていっしょに学んでいくよ！今回のテーマは、アニメでも定期演奏会に向けて重要な曲となってくる「新世界より」を作曲したドヴォルザーク。半端ないくらい、鉄道オタクだったんだとか…。そのことが「新世界より」を聴くとわかる！？名曲の聴き方がちょっと楽しくなる知識満載！",
+        "act": "【声】千葉翔也，加隈亜衣",
         "genres": [
-          "0101"
+          "0207"
         ]
       },
       {
@@ -7204,8 +10371,8 @@
         },
         "title": "スイッチインタビュー　特別編「坂本龍一×福岡伸一」ＥＰ１",
         "subtitle": "今年３月に逝去した音楽家・坂本龍一。ともにニューヨークで活動し、交流があった生物学者・福岡伸一と２０１７年に行った貴重な対談を、特別編集でお届けする。",
-        "content": "２０１７年に坂本龍一が発表したアルバム「ｓｃｙｎｃ」。街の騒音などの「ノイズ」を取り込み、秩序だった既製の音楽とは異なる楽曲に挑んだ。ＥＰ１では、坂本のコンサートが開かれたホールを福岡伸一が訪れ、金属を加工した独特の楽器に触れながら、新たな音楽観に迫る。坂本が「人工に人工を重ねた音楽、楽器を元に戻してあげたい」と語る、その心とは？　＃ＹＭＯ",
-        "act": "【出演】音楽家…坂本龍一，生物学者…福岡伸一，【語り】市川実日子，岡田将生",
+        "content": "２０１７年に坂本龍一が発表したアルバム「ａｓｙｎｃ」。街の騒音などの「ノイズ」を取り込み、秩序だった既製の音楽とは異なる楽曲に挑んだ。ＥＰ１では、坂本のコンサートが開かれたホールを福岡伸一が訪れ、金属を加工した独特の楽器に触れながら、新たな音楽観に迫る。坂本が「人工に人工を重ねた音楽、楽器を元に戻してあげたい」と語る、その心とは？　＃ＹＭＯ",
+        "act": "【出演】音楽家…坂本龍一，【出演】生物学者…福岡伸一，【語り】六角精児，吉田羊",
         "genres": [
           "0808",
           "0807",
@@ -7510,9 +10677,84 @@
         ]
       },
       {
+        "id": "2023081817176",
+        "event_id": "17176",
+        "start_time": "2023-08-19T01:20:00+09:00",
+        "end_time": "2023-08-19T02:05:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e3",
+          "name": "ＮＨＫＥテレ３",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "日曜美術館　マティス　幸せの色彩",
+        "subtitle": "色彩の魔術師と呼ばれ、伝統を打ち破る革新的な表現を探求した画家アンリ・マティス。初期から最晩年まで傑作の数々を味わいながら、見る者の心に幸せを届ける秘密に迫る。",
+        "content": "ピカソと並び称される２０世紀の巨人アンリ・マティス。大胆な色彩と軽やかなタッチで、それまでの絵画の常識を打ち破る傑作を世に送り出した。しかし、その人生は苦難の連続。長い下積み、二つの大戦、死を覚悟した病との闘い。その中でも常に挑戦と実験を繰り返し、８４歳で亡くなるまで、生涯を絵画の革新に奉げた。東京都美術館で開催中の大規模な展覧会をめぐり、傑作の数々を味わいながら、その奥深い魅力に迫る。",
+        "act": "【出演】作家　キュレーター…原田マハ，芥川賞受賞作家…朝吹真理子，美術家…会田誠，葉っぱ切り絵アーティスト…リト＠葉っぱ切り絵，【司会】小野正嗣，柴田祐規子",
+        "genres": [
+          "1002",
+          "0804"
+        ]
+      },
+      {
+        "id": "2023081817177",
+        "event_id": "17177",
+        "start_time": "2023-08-19T02:05:00+09:00",
+        "end_time": "2023-08-19T02:19:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e3",
+          "name": "ＮＨＫＥテレ３",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "日曜美術館　アートシーン「スペインのイメージ：版画を通じて写し伝わるすがた」展",
+        "subtitle": "「スペインのイメージ：版画を通じて写し伝わるすがた」（国立西洋美術館　７月４日～９月３日）ほか、展覧会情報",
+        "content": "「スペインのイメージ：版画を通じて写し伝わるすがた」（国立西洋美術館　７月４日～９月３日）ほか、展覧会情報",
+        "act": "",
+        "genres": [
+          "1002",
+          "0804",
+          "0215"
+        ]
+      },
+      {
         "id": "2023081809864",
         "event_id": "09864",
-        "start_time": "2023-08-19T01:20:00+09:00",
+        "start_time": "2023-08-19T02:19:00+09:00",
         "end_time": "2023-08-19T05:30:00+09:00",
         "area": {
           "id": "401",
@@ -8323,7 +11565,7 @@
           }
         },
         "title": "絶景かな　描いてみるかな",
-        "subtitle": "石川五右衛門の歌舞伎での名ぜりふ「絶景かな、絶景かな」。令和の世になっても驚くべき絶景が各地に。そんな光景を「描いてみるかな」と気軽にスケッチしてみませんか？",
+        "subtitle": "石川五右衛門の歌舞伎での名ぜりふ「絶景かな絶景かな」。令和の世でも驚くべき絶景が各地に。そんな絶景を今注目の柴崎春通画伯が現地を訪ね、ちょいと「描いてみるかな」",
         "content": "今回紹介する絶景は群馬県嬬恋村のキャベツ畑。浅間山麓に超巨大な緑のじゅうたんが広がっています。もう一つは高知県大月町の柏島。船が宙に浮いて見えるほど透明度の高い海に出会えます。絶景を描いてみたいけど、絵は苦手だと嘆いているあなた。心配ご無用！番組は強力な助っ人に来てもらいました。ＹｏｕＴｕｂｅで“おじいちゃん先生”として世界中で大人気になっている水彩画家の柴崎春通さんが易しくレッスンしてくれます！",
         "act": "【出演】柴崎春通，【語り】中山果奈",
         "genres": [
@@ -8594,7 +11836,7 @@
         "id": "2023081809248",
         "event_id": "09248",
         "start_time": "2023-08-18T11:30:00+09:00",
-        "end_time": "2023-08-18T11:54:00+09:00",
+        "end_time": "2023-08-18T11:55:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
@@ -8629,9 +11871,122 @@
         ]
       },
       {
-        "id": "2023081809249",
-        "event_id": "09249",
-        "start_time": "2023-08-18T11:54:00+09:00",
+        "id": "2023081809252",
+        "event_id": "09252",
+        "start_time": "2023-08-18T11:55:00+09:00",
+        "end_time": "2023-08-18T12:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e4",
+          "name": "ＮＨＫワンセグ２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "みんなのうた「南の島のハメハメハ大王」／「小さな夢」",
+        "subtitle": "「南の島のハメハメハ大王」うた：ＳＡＫＡＮＡＭＯＮ／「小さな夢」うた：ヒグチアイ",
+        "content": "「南の島のハメハメハ大王」うた：ＳＡＫＡＮＡＭＯＮ／「小さな夢」うた：ヒグチアイ",
+        "act": "",
+        "genres": [
+          "0409",
+          "0504"
+        ]
+      },
+      {
+        "id": "2023081809253",
+        "event_id": "09253",
+        "start_time": "2023-08-18T12:00:00+09:00",
+        "end_time": "2023-08-18T12:45:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e4",
+          "name": "ＮＨＫワンセグ２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "チョイス＠病気になったとき",
+        "subtitle": "",
+        "content": "過去の放送をコンパクトにまとめて紹介する「まとめスペシャル」。相談しづらい「月経」のトラブルや月経前の心身の不調「ＰＭＳ（月経前症候群）」についてまとめて伝える。量が多すぎて貧血に、ひどい痛みで生活が困難になってしまうこともある月経。それらの原因として「子宮筋腫」や「子宮腺筋症」が見つかることも。またＰＭＳのせいで、むくみや情緒不安定などが生じることも。それぞれの治療法や対処法を丁寧に解説する。",
+        "act": "",
+        "genres": [
+          "0803",
+          "0800",
+          "1100"
+        ]
+      },
+      {
+        "id": "2023081809256",
+        "event_id": "09256",
+        "start_time": "2023-08-18T12:45:00+09:00",
+        "end_time": "2023-08-18T13:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e4",
+          "name": "ＮＨＫワンセグ２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "キソ英語を学んでみたら世界とつながった。　トルコ",
+        "subtitle": "世界各地の家族とオンラインでつながり、小学校で習う英語フレーズなどを使って会話。現地のリアルな暮らしや習慣、地元の様子などをクイズや映像で紹介してもらいます。",
+        "content": "今回はトルコ。Ｈｏｗ　ｄｏ　ｙｏｕ　．．．？を使って、色々なもののやり方について聞いていきます。スタートは首都アンカラのアンカラ城。お城からは街を一望できます。次に地元の大きなバザールへ。羊毛やきれいな模様の手作りじゅうたん、台所用品の店などをめぐり、魚や野菜・果物が並ぶ市場を通って、カツオのサンドイッチを売るフードスタンドへ。最後は家で、お母さんが作る食べものに関するクイズに挑戦します。",
+        "act": "【出演】竹内將人，本田剛文，【語り】有馬ゆみこ",
+        "genres": [
+          "1007",
+          "1008",
+          "0515"
+        ]
+      },
+      {
+        "id": "2023081809257",
+        "event_id": "09257",
+        "start_time": "2023-08-18T13:00:00+09:00",
         "end_time": "2023-08-18T13:05:00+09:00",
         "area": {
           "id": "401",
@@ -8656,12 +12011,12 @@
             "height": "200"
           }
         },
-        "title": "第１０５回全国高校野球選手権大会　準々決勝",
-        "subtitle": "第２試合　～甲子園球場から中継～",
-        "content": "［総合テレビで放送継続］",
-        "act": "",
+        "title": "せかほし５ｍｉｎ．「インテリア世界旅」",
+        "subtitle": "「世界はほしいモノにあふれてる」選（え）りすぐりの旅を詰め込んだ「せかほし５ｍｉｎ．」。番組ＭＣ鈴木亮平が極上のショートトリップにご案内。今回はインテリア世界旅",
+        "content": "トップバイヤーとともに世界をめぐり、そこにしかないステキなモノを探す旅「世界はほしいモノにあふれてる」。番組が見つけた極上の宝物を詰め込んだ５分の旅を、シリーズでお届けします。今回は、おうち時間にピッタリ「インテリア」特集。せかほしが見つけた世界のインテリアアイテムで、くつろぎのひとときを。旅のオトモは、番組ＭＣの鈴木亮平！",
+        "act": "【語り】鈴木亮平",
         "genres": [
-          "0101"
+          "0505"
         ]
       },
       {
@@ -9405,9 +12760,120 @@
         ]
       },
       {
-        "id": "2023081809280",
-        "event_id": "09280",
+        "id": "2023081809281",
+        "event_id": "09281",
         "start_time": "2023-08-18T18:00:00+09:00",
+        "end_time": "2023-08-18T18:10:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e4",
+          "name": "ＮＨＫワンセグ２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ピタゴラスイッチ「のりものスペシャル」",
+        "subtitle": "世の中をピタゴラ的なユニークな見方で伝えます。今回は「のりものスペシャル」！",
+        "content": "世の中をピタゴラ的なユニークな見方で伝えます。今回は「のりものスペシャル」子どもが大好きなのりものがいっぱいです。",
+        "act": "【出演】いつもここから，【声】車だん吉，飯尾和樹，【語り】徳田章",
+        "genres": [
+          "1008",
+          "0815"
+        ]
+      },
+      {
+        "id": "2023081809282",
+        "event_id": "09282",
+        "start_time": "2023-08-18T18:10:00+09:00",
+        "end_time": "2023-08-18T18:15:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e4",
+          "name": "ＮＨＫワンセグ２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ミニアニメ　チキップダンサーズ「アウトドアでウェイウェイ」",
+        "subtitle": "川辺にやってきたつむちぎゃん。ほねチキンたちも木でテーブルやいすを作りアウトドアを満喫。するとつむぎちゃん一家の車がとつぜん出発！取り残されてしまったみんなは…",
+        "content": "ちょっぴりチキン（こわがり）だけど、好奇心いっぱいの骨つきチキンの「ほねチキン」。スキップしながら近づいてくるダンスの先生「スキップガエル先生」など、個性あふれるキャラクターたちがダンスで大活躍！おうちなどさまざまな場所で「からだがうごくと、こころもおどる♪」おはなしです。",
+        "act": "【声】花江夏樹，石川由依，弓木英梨乃，【脚本】ラレコ",
+        "genres": [
+          "0700",
+          "1008"
+        ]
+      },
+      {
+        "id": "2023081809283",
+        "event_id": "09283",
+        "start_time": "2023-08-18T18:15:00+09:00",
+        "end_time": "2023-08-18T18:20:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e4",
+          "name": "ＮＨＫワンセグ２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ミニアニメ　かいじゅうステップ　ワンダバダ「かいじゅうオバケやしき！」",
+        "subtitle": "暑くてたまらない日は、オバケやしきでゾーっとして、涼しくなろう。かいじゅうやさんが作ったオバケやしきには、こわーいオバケがたくさんいるよ！",
+        "content": "とおい宇宙のかなた、Ｋ１０星雲チョーチイ星。こどもかいじゅうたちは、流れ星に願いごと。すきなもの、やりたいこと、かなえたい夢、いっぱいあるよね。いまはまだできないことも、いつかはできる。ひとりじゃできないことも、みんなで力をあわせれば、だいじょうぶ！大きな願い、かなえよう。合言葉は、「かいじゅうー！　ワンダバダー！」",
+        "act": "【声】久野美咲，福圓美里，真堂圭，渡辺明乃，原涼子，潘めぐみ，金田朋子，田中裕二，【語り】中尾明慶",
+        "genres": [
+          "0700",
+          "1008"
+        ]
+      },
+      {
+        "id": "2023081809284",
+        "event_id": "09284",
+        "start_time": "2023-08-18T18:20:00+09:00",
         "end_time": "2023-08-18T18:25:00+09:00",
         "area": {
           "id": "401",
@@ -9432,12 +12898,12 @@
             "height": "200"
           }
         },
-        "title": "第１０５回全国高校野球選手権大会　準々決勝",
-        "subtitle": "第４試合　～甲子園球場から中継～",
-        "content": "",
-        "act": "",
+        "title": "青のオーケストラ　５分で楽しいクラシック（１０）ドヴォルザークは鉄道オタク！？",
+        "subtitle": "音楽に詳しくなくても、見ればアニメ「青のオーケストラ」が１００倍楽しめる！「青オケ」のキャラクターたちとともに、クラシックのさまざまな知識を楽しく学べる５分間。",
+        "content": "「青のオーケストラ」の青野一と秋音律子が、ＳＤキャラになって登場！楽しくおしゃべりしながら、オーケストラやクラシックにまつわる素朴な疑問についていっしょに学んでいくよ！今回のテーマは、アニメでも定期演奏会に向けて重要な曲となってくる「新世界より」を作曲したドヴォルザーク。半端ないくらい、鉄道オタクだったんだとか…。そのことが「新世界より」を聴くとわかる！？名曲の聴き方がちょっと楽しくなる知識満載！",
+        "act": "【声】千葉翔也，加隈亜衣",
         "genres": [
-          "0101"
+          "0207"
         ]
       },
       {
@@ -9803,8 +13269,8 @@
         },
         "title": "スイッチインタビュー　特別編「坂本龍一×福岡伸一」ＥＰ１",
         "subtitle": "今年３月に逝去した音楽家・坂本龍一。ともにニューヨークで活動し、交流があった生物学者・福岡伸一と２０１７年に行った貴重な対談を、特別編集でお届けする。",
-        "content": "２０１７年に坂本龍一が発表したアルバム「ｓｃｙｎｃ」。街の騒音などの「ノイズ」を取り込み、秩序だった既製の音楽とは異なる楽曲に挑んだ。ＥＰ１では、坂本のコンサートが開かれたホールを福岡伸一が訪れ、金属を加工した独特の楽器に触れながら、新たな音楽観に迫る。坂本が「人工に人工を重ねた音楽、楽器を元に戻してあげたい」と語る、その心とは？　＃ＹＭＯ",
-        "act": "【出演】音楽家…坂本龍一，生物学者…福岡伸一，【語り】市川実日子，岡田将生",
+        "content": "２０１７年に坂本龍一が発表したアルバム「ａｓｙｎｃ」。街の騒音などの「ノイズ」を取り込み、秩序だった既製の音楽とは異なる楽曲に挑んだ。ＥＰ１では、坂本のコンサートが開かれたホールを福岡伸一が訪れ、金属を加工した独特の楽器に触れながら、新たな音楽観に迫る。坂本が「人工に人工を重ねた音楽、楽器を元に戻してあげたい」と語る、その心とは？　＃ＹＭＯ",
+        "act": "【出演】音楽家…坂本龍一，【出演】生物学者…福岡伸一，【語り】六角精児，吉田羊",
         "genres": [
           "0808",
           "0807",
@@ -10109,9 +13575,84 @@
         ]
       },
       {
+        "id": "2023081817176",
+        "event_id": "17176",
+        "start_time": "2023-08-19T01:20:00+09:00",
+        "end_time": "2023-08-19T02:05:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e4",
+          "name": "ＮＨＫワンセグ２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "日曜美術館　マティス　幸せの色彩",
+        "subtitle": "色彩の魔術師と呼ばれ、伝統を打ち破る革新的な表現を探求した画家アンリ・マティス。初期から最晩年まで傑作の数々を味わいながら、見る者の心に幸せを届ける秘密に迫る。",
+        "content": "ピカソと並び称される２０世紀の巨人アンリ・マティス。大胆な色彩と軽やかなタッチで、それまでの絵画の常識を打ち破る傑作を世に送り出した。しかし、その人生は苦難の連続。長い下積み、二つの大戦、死を覚悟した病との闘い。その中でも常に挑戦と実験を繰り返し、８４歳で亡くなるまで、生涯を絵画の革新に奉げた。東京都美術館で開催中の大規模な展覧会をめぐり、傑作の数々を味わいながら、その奥深い魅力に迫る。",
+        "act": "【出演】作家　キュレーター…原田マハ，芥川賞受賞作家…朝吹真理子，美術家…会田誠，葉っぱ切り絵アーティスト…リト＠葉っぱ切り絵，【司会】小野正嗣，柴田祐規子",
+        "genres": [
+          "1002",
+          "0804"
+        ]
+      },
+      {
+        "id": "2023081817177",
+        "event_id": "17177",
+        "start_time": "2023-08-19T02:05:00+09:00",
+        "end_time": "2023-08-19T02:19:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e4",
+          "name": "ＮＨＫワンセグ２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "日曜美術館　アートシーン「スペインのイメージ：版画を通じて写し伝わるすがた」展",
+        "subtitle": "「スペインのイメージ：版画を通じて写し伝わるすがた」（国立西洋美術館　７月４日～９月３日）ほか、展覧会情報",
+        "content": "「スペインのイメージ：版画を通じて写し伝わるすがた」（国立西洋美術館　７月４日～９月３日）ほか、展覧会情報",
+        "act": "",
+        "genres": [
+          "1002",
+          "0804",
+          "0215"
+        ]
+      },
+      {
         "id": "2023081809864",
         "event_id": "09864",
-        "start_time": "2023-08-19T01:20:00+09:00",
+        "start_time": "2023-08-19T02:19:00+09:00",
         "end_time": "2023-08-19T05:30:00+09:00",
         "area": {
           "id": "401",
@@ -10147,193 +13688,9 @@
     ],
     "s1": [
       {
-        "id": "2023081809051",
-        "event_id": "09051",
+        "id": "2023081817374",
+        "event_id": "17374",
         "start_time": "2023-08-18T05:00:00+09:00",
-        "end_time": "2023-08-18T05:30:00+09:00",
-        "area": {
-          "id": "401",
-          "name": "北九州"
-        },
-        "service": {
-          "id": "s1",
-          "name": "ＮＨＫＢＳ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "Ｔｒａｉｌｓ　ｔｏ　Ｏｉｓｈｉｉ　Ｔｏｋｙｏ　選　ゴーヤー",
-        "subtitle": "沖縄独特の食材を楽しむ▽歴史：地方野菜から全国へ▽最新の栽培方法▽ゴーヤーを考える高校生▽フレンチを堪能",
-        "content": "夏を代表する野菜の一つゴーヤー▽カロリーが低いことから健康食として注目▽ビタミンＣ・カリウム・カルシウム・マグネシウムなどが豊富▽特徴の苦味を生かした料理",
-        "act": "【リポーター】ケイリーン・フォールズ，【語り】宮崎大地",
-        "genres": [
-          "0205"
-        ]
-      },
-      {
-        "id": "2023081809055",
-        "event_id": "09055",
-        "start_time": "2023-08-18T05:30:00+09:00",
-        "end_time": "2023-08-18T06:00:00+09:00",
-        "area": {
-          "id": "401",
-          "name": "北九州"
-        },
-        "service": {
-          "id": "s1",
-          "name": "ＮＨＫＢＳ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "Ａｓｉａ　Ｉｎｓｉｇｈｔ　絵を描くことは生きること～モンゴル～",
-        "subtitle": "モンゴルで唯一、障害者を受け入れる美術学校がウランバートルにある。教育や雇用など課題の多い国で、画家として自立する卒業生が出るなど生徒や家族の希望となっている。",
-        "content": "ウランバートルのアニマ美術学校。現在は５０人の学生のうち１３人が知的障害や身体障害がある。著名な画家のブルガンさんが３０年前に設立。卒業生からは、アメリカや日本で作品が売れるプロの画家も誕生した。一方で、貧しい生徒を学費免除としてきたことなどから財政的には厳しく、間借りしている教会から立ち退きを迫られている。移転費用に役立てようと企画された展覧会の様子を交えて学校の取り組みと生徒たちの夢を描く。",
-        "act": "",
-        "genres": [
-          "0800",
-          "0807",
-          "0215"
-        ]
-      },
-      {
-        "id": "2023081809058",
-        "event_id": "09058",
-        "start_time": "2023-08-18T06:00:00+09:00",
-        "end_time": "2023-08-18T06:50:00+09:00",
-        "area": {
-          "id": "401",
-          "name": "北九州"
-        },
-        "service": {
-          "id": "s1",
-          "name": "ＮＨＫＢＳ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ワールドニュース",
-        "subtitle": "▽イギリス・ＢＢＣ，シンガポール・ＣＮＡ，韓国・ＫＢＳ，中国・ＣＣＴＶ，上海・東方衛視，香港・ＴＶＢ，タイ・ＭＣＯＴ，ベトナム・ＶＴＶ",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0005"
-        ]
-      },
-      {
-        "id": "2023081809060",
-        "event_id": "09060",
-        "start_time": "2023-08-18T06:50:00+09:00",
-        "end_time": "2023-08-18T07:00:00+09:00",
-        "area": {
-          "id": "401",
-          "name": "北九州"
-        },
-        "service": {
-          "id": "s1",
-          "name": "ＮＨＫＢＳ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "時論公論　【出演】ＮＨＫ解説委員",
-        "subtitle": "▽混沌（とん）とした時代、次々と押し寄せるニュースの裏に、何があるのか？“明日を生きる指針”を提供する解説番組。",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0006",
-          "0000",
-          "0007"
-        ]
-      },
-      {
-        "id": "2023081809061",
-        "event_id": "09061",
-        "start_time": "2023-08-18T07:00:00+09:00",
-        "end_time": "2023-08-18T07:50:00+09:00",
-        "area": {
-          "id": "401",
-          "name": "北九州"
-        },
-        "service": {
-          "id": "s1",
-          "name": "ＮＨＫＢＳ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ワールドニュース",
-        "subtitle": "▽ドイツ・ＺＤＦ，フランス・Ｆ２，カタール・アルジャジーラ，オーストラリア・ＡＢＣ，シンガポール・ＣＮＡ，インド・ＮＤＴＶ，タイ・ＭＣＯＴ",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0005"
-        ]
-      },
-      {
-        "id": "2023081811021",
-        "event_id": "11021",
-        "start_time": "2023-08-18T07:50:00+09:00",
         "end_time": "2023-08-18T08:00:00+09:00",
         "area": {
           "id": "401",
@@ -10358,14 +13715,12 @@
             "height": "200"
           }
         },
-        "title": "突撃！ストリートシェフ　＠キューバ・ハバナ「物が無いなら今ある物で作る！」",
-        "subtitle": "胃袋から世界を知る尽くすグルメドキュメンタリー。今回はキューバの首都ハバナ！「今ある物で作る」というシェフが作る料理には、“不屈のキューバ魂”がてんこ盛り！",
-        "content": "胃袋から世界を知り尽くすグルメドキュメンタリー。今回はキューバの首都ハバナ！キューバといえば、クラッシックカーとゲバラ、そんなイメージ？しかし、街を食べ歩くと、超リアルなキューバの姿が見えてくる！登場するのは、「今ある物で作る！」という強気なシェフ。その日仕入れた食材で、キューバの家庭料理「タマル」を作ったり、新作料理に腕を振るう。シェフの料理には、“不屈のキューバ魂”がてんこ盛り！",
-        "act": "【語り】井澤詩織",
+        "title": "吉田出場予定　ＭＬＢ２０２３「レッドソックス」対「ナショナルズ」",
+        "subtitle": "　（試合開始　日本時間　５：０５）▽吉田出場予定　【解説】新井宏昌，【アナウンサー】内山俊哉　～ナショナルズパークから中継～",
+        "content": "",
+        "act": "【解説】新井宏昌，【アナウンサー】内山俊哉",
         "genres": [
-          "0205",
-          "0506",
-          "0807"
+          "0101"
         ]
       },
       {
@@ -11237,10 +14592,10 @@
         ]
       },
       {
-        "id": "2023081809717",
-        "event_id": "09717",
+        "id": "2023081817437",
+        "event_id": "17437",
         "start_time": "2023-08-19T00:15:00+09:00",
-        "end_time": "2023-08-19T01:00:00+09:00",
+        "end_time": "2023-08-19T01:04:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
@@ -11264,19 +14619,18 @@
             "height": "200"
           }
         },
-        "title": "雪の魔法",
-        "subtitle": "",
-        "content": "",
-        "act": "",
+        "title": "熱戦凝縮！　日本陸上選手権２０２３",
+        "subtitle": "「そこで何が起こっていたのか」を、選手たちの証言や解説者の解析から紐解く「熱戦凝縮！」。日本陸上選手権、来年のパリ五輪に向けた選手たちの戦いをお伝えします。",
+        "content": "「そこで何が起こっていたのか」を、選手たちの証言や解説者の解析などから紐（ひも）解く「熱戦凝縮！」。今回は「日本陸上選手権」で繰り広げられた熱戦に注目！です。東京五輪で着実な成長を見せた日本陸上界。選手たちは来年のパリ五輪に向け更に上を目指します。そのパリへ足掛かりとなる世界選手権の出場権をかけて行われたこの大会。選手たちの戦いぶり、その裏側にあったかけ引きを“ギュギュっと”凝縮してお伝えします。",
+        "act": "【解説】髙平慎士，木越清信，【語り】佐藤アサト",
         "genres": [
-          "1015",
-          "0802"
+          "0107"
         ]
       },
       {
         "id": "2023081809718",
         "event_id": "09718",
-        "start_time": "2023-08-19T01:00:00+09:00",
+        "start_time": "2023-08-19T01:04:00+09:00",
         "end_time": "2023-08-19T02:00:00+09:00",
         "area": {
           "id": "401",
@@ -11458,45 +14812,9 @@
     ],
     "s2": [
       {
-        "id": "2023081809051",
-        "event_id": "09051",
+        "id": "2023081817377",
+        "event_id": "17377",
         "start_time": "2023-08-18T05:00:00+09:00",
-        "end_time": "2023-08-18T05:30:00+09:00",
-        "area": {
-          "id": "401",
-          "name": "北九州"
-        },
-        "service": {
-          "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "Ｔｒａｉｌｓ　ｔｏ　Ｏｉｓｈｉｉ　Ｔｏｋｙｏ　選　ゴーヤー",
-        "subtitle": "沖縄独特の食材を楽しむ▽歴史：地方野菜から全国へ▽最新の栽培方法▽ゴーヤーを考える高校生▽フレンチを堪能",
-        "content": "夏を代表する野菜の一つゴーヤー▽カロリーが低いことから健康食として注目▽ビタミンＣ・カリウム・カルシウム・マグネシウムなどが豊富▽特徴の苦味を生かした料理",
-        "act": "【リポーター】ケイリーン・フォールズ，【語り】宮崎大地",
-        "genres": [
-          "0205"
-        ]
-      },
-      {
-        "id": "2023081809055",
-        "event_id": "09055",
-        "start_time": "2023-08-18T05:30:00+09:00",
         "end_time": "2023-08-18T06:00:00+09:00",
         "area": {
           "id": "401",
@@ -11521,21 +14839,17 @@
             "height": "200"
           }
         },
-        "title": "Ａｓｉａ　Ｉｎｓｉｇｈｔ　絵を描くことは生きること～モンゴル～",
-        "subtitle": "モンゴルで唯一、障害者を受け入れる美術学校がウランバートルにある。教育や雇用など課題の多い国で、画家として自立する卒業生が出るなど生徒や家族の希望となっている。",
-        "content": "ウランバートルのアニマ美術学校。現在は５０人の学生のうち１３人が知的障害や身体障害がある。著名な画家のブルガンさんが３０年前に設立。卒業生からは、アメリカや日本で作品が売れるプロの画家も誕生した。一方で、貧しい生徒を学費免除としてきたことなどから財政的には厳しく、間借りしている教会から立ち退きを迫られている。移転費用に役立てようと企画された展覧会の様子を交えて学校の取り組みと生徒たちの夢を描く。",
+        "title": "（この時間帯は１０１ｃｈをご覧ください）",
+        "subtitle": "",
+        "content": "",
         "act": "",
-        "genres": [
-          "0800",
-          "0807",
-          "0215"
-        ]
+        "genres": []
       },
       {
         "id": "2023081809058",
         "event_id": "09058",
         "start_time": "2023-08-18T06:00:00+09:00",
-        "end_time": "2023-08-18T06:50:00+09:00",
+        "end_time": "2023-08-18T06:49:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
@@ -11568,9 +14882,9 @@
         ]
       },
       {
-        "id": "2023081809060",
-        "event_id": "09060",
-        "start_time": "2023-08-18T06:50:00+09:00",
+        "id": "2023081817383",
+        "event_id": "17383",
+        "start_time": "2023-08-18T06:49:00+09:00",
         "end_time": "2023-08-18T07:00:00+09:00",
         "area": {
           "id": "401",
@@ -11595,21 +14909,17 @@
             "height": "200"
           }
         },
-        "title": "時論公論　【出演】ＮＨＫ解説委員",
-        "subtitle": "▽混沌（とん）とした時代、次々と押し寄せるニュースの裏に、何があるのか？“明日を生きる指針”を提供する解説番組。",
+        "title": "（この時間帯は１０１ｃｈをご覧ください）",
+        "subtitle": "",
         "content": "",
         "act": "",
-        "genres": [
-          "0006",
-          "0000",
-          "0007"
-        ]
+        "genres": []
       },
       {
         "id": "2023081809061",
         "event_id": "09061",
         "start_time": "2023-08-18T07:00:00+09:00",
-        "end_time": "2023-08-18T07:50:00+09:00",
+        "end_time": "2023-08-18T07:49:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
@@ -11642,9 +14952,9 @@
         ]
       },
       {
-        "id": "2023081811021",
-        "event_id": "11021",
-        "start_time": "2023-08-18T07:50:00+09:00",
+        "id": "2023081817385",
+        "event_id": "17385",
+        "start_time": "2023-08-18T07:49:00+09:00",
         "end_time": "2023-08-18T08:00:00+09:00",
         "area": {
           "id": "401",
@@ -11669,20 +14979,52 @@
             "height": "200"
           }
         },
-        "title": "突撃！ストリートシェフ　＠キューバ・ハバナ「物が無いなら今ある物で作る！」",
-        "subtitle": "胃袋から世界を知る尽くすグルメドキュメンタリー。今回はキューバの首都ハバナ！「今ある物で作る」というシェフが作る料理には、“不屈のキューバ魂”がてんこ盛り！",
-        "content": "胃袋から世界を知り尽くすグルメドキュメンタリー。今回はキューバの首都ハバナ！キューバといえば、クラッシックカーとゲバラ、そんなイメージ？しかし、街を食べ歩くと、超リアルなキューバの姿が見えてくる！登場するのは、「今ある物で作る！」という強気なシェフ。その日仕入れた食材で、キューバの家庭料理「タマル」を作ったり、新作料理に腕を振るう。シェフの料理には、“不屈のキューバ魂”がてんこ盛り！",
-        "act": "【語り】井澤詩織",
+        "title": "（この時間帯は１０１ｃｈをご覧ください）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
+        "id": "2023081817386",
+        "event_id": "17386",
+        "start_time": "2023-08-18T08:00:00+09:00",
+        "end_time": "2023-08-18T08:30:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "吉田出場予定　ＭＬＢ２０２３「レッドソックス」対「ナショナルズ」",
+        "subtitle": "▽吉田出場予定　【解説】新井宏昌，【アナウンサー】内山俊哉　～ナショナルズパークから中継～",
+        "content": "",
+        "act": "【解説】新井宏昌，【アナウンサー】内山俊哉",
         "genres": [
-          "0205",
-          "0506",
-          "0807"
+          "0101"
         ]
       },
       {
-        "id": "2023081809064",
-        "event_id": "09064",
-        "start_time": "2023-08-18T08:00:00+09:00",
+        "id": "2023081817387",
+        "event_id": "17387",
+        "start_time": "2023-08-18T08:30:00+09:00",
         "end_time": "2023-08-18T08:50:00+09:00",
         "area": {
           "id": "401",
@@ -11707,13 +15049,11 @@
             "height": "200"
           }
         },
-        "title": "ワールドニュース",
-        "subtitle": "▽イギリス・ＢＢＣ，スペイン・ＴＶＥ，フランス・Ｆ２，ドイツ・ＺＤＦ，韓国・ＫＢＳ，中国・ＣＣＴＶ",
+        "title": "（この時間帯は１０１ｃｈをご覧ください）",
+        "subtitle": "",
         "content": "",
         "act": "",
-        "genres": [
-          "0005"
-        ]
+        "genres": []
       },
       {
         "id": "2023081809066",
@@ -12618,10 +15958,10 @@
         ]
       },
       {
-        "id": "2023081809717",
-        "event_id": "09717",
+        "id": "2023081817437",
+        "event_id": "17437",
         "start_time": "2023-08-19T00:15:00+09:00",
-        "end_time": "2023-08-19T01:00:00+09:00",
+        "end_time": "2023-08-19T01:04:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
@@ -12645,19 +15985,18 @@
             "height": "200"
           }
         },
-        "title": "雪の魔法",
-        "subtitle": "",
-        "content": "",
-        "act": "",
+        "title": "熱戦凝縮！　日本陸上選手権２０２３",
+        "subtitle": "「そこで何が起こっていたのか」を、選手たちの証言や解説者の解析から紐解く「熱戦凝縮！」。日本陸上選手権、来年のパリ五輪に向けた選手たちの戦いをお伝えします。",
+        "content": "「そこで何が起こっていたのか」を、選手たちの証言や解説者の解析などから紐（ひも）解く「熱戦凝縮！」。今回は「日本陸上選手権」で繰り広げられた熱戦に注目！です。東京五輪で着実な成長を見せた日本陸上界。選手たちは来年のパリ五輪に向け更に上を目指します。そのパリへ足掛かりとなる世界選手権の出場権をかけて行われたこの大会。選手たちの戦いぶり、その裏側にあったかけ引きを“ギュギュっと”凝縮してお伝えします。",
+        "act": "【解説】髙平慎士，木越清信，【語り】佐藤アサト",
         "genres": [
-          "1015",
-          "0802"
+          "0107"
         ]
       },
       {
         "id": "2023081809718",
         "event_id": "09718",
-        "start_time": "2023-08-19T01:00:00+09:00",
+        "start_time": "2023-08-19T01:04:00+09:00",
         "end_time": "2023-08-19T02:00:00+09:00",
         "area": {
           "id": "401",
@@ -13287,7 +16626,7 @@
         "id": "2023081815261",
         "event_id": "15261",
         "start_time": "2023-08-18T11:24:00+09:00",
-        "end_time": "2023-08-18T11:53:00+09:00",
+        "end_time": "2023-08-18T11:55:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
@@ -13320,9 +16659,46 @@
         ]
       },
       {
-        "id": "2023081809013",
-        "event_id": "09013",
-        "start_time": "2023-08-18T11:53:00+09:00",
+        "id": "2023081809446",
+        "event_id": "09446",
+        "start_time": "2023-08-18T11:55:00+09:00",
+        "end_time": "2023-08-18T11:57:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s3",
+          "name": "ＮＨＫＢＳプレミアム",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bsp-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bsp-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bsp-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "大河ドラマ「どうする家康」２分ダイジェスト　第３１回「どうした家康」",
+        "subtitle": "家康は秀吉との対決を決意。１０万を超える秀吉軍と渡り合うため、日ノ本全土を巻き込む壮大な作戦に打って出る。秀吉側も謀略を巡らせる中、ついに両雄激突の時が訪れる！",
+        "content": "「どうする家康」を２分にまとめたダイジェスト。お市を死に追いやった秀吉（ムロツヨシ）に、家康（松本潤）は激怒、打倒秀吉の意志を固める。だが勢いに乗る秀吉は信長の次男・信雄（浜野謙太）を安土城から追放、着々と天下人への道を進んでいた。信雄からも助けを求められ、１０万を超える秀吉軍と戦う方法を考えあぐねていた家康は、正信（松山ケンイチ）の日ノ本全土を巻き込む壮大な作戦を採用するが……。",
+        "act": "【出演】松本潤，大森南朋，山田裕貴，杉野遥亮，板垣李光人，音尾琢真，小手伸也，岡部大，浜野謙太，ムロツヨシ，松山ケンイチ，松重豊，【作】古沢良太",
+        "genres": [
+          "0300",
+          "0302"
+        ]
+      },
+      {
+        "id": "2023081817185",
+        "event_id": "17185",
+        "start_time": "2023-08-18T11:57:00+09:00",
         "end_time": "2023-08-18T12:00:00+09:00",
         "area": {
           "id": "401",
@@ -13347,11 +16723,13 @@
             "height": "200"
           }
         },
-        "title": "プレミアムセレクション",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": []
+        "title": "にっぽん百名山ミニ　３ｍｉｎ「夏　北岳」",
+        "subtitle": "南アルプスの北岳（３１９３ｍ）は日本第２位の高峰！ミヤマハナシノブなど貴重な花々が咲くお花畑を巡り険しい岩の、りょう線を登り日本一の富士絶景が望める山頂をめざす",
+        "content": "南アルプスの盟主・北岳をめざす山旅！７月中旬、山梨県広河原の登山口を出発！樹林帯を登ると、大樺沢の雪渓が現れる。真夏でも解けずに残る大雪渓の冷気を感じながら進む。さらに、北岳など限られた地域にしか咲かないミヤマハナシノブなどを眺めながら岩尾根を登る。翌朝、日本第２位の頂から富士山を望む。北岳は富士山を望む日本最高所のビュースポットとしても人気を集める！案内するのは、山岳ガイドの今村量紀さん。",
+        "act": "【出演】今村量紀，【語り】鈴木麻里子",
+        "genres": [
+          "0802"
+        ]
       },
       {
         "id": "2023081809014",
@@ -13674,10 +17052,10 @@
             "height": "200"
           }
         },
-        "title": "ザ少年倶楽部プレミアム",
-        "subtitle": "",
+        "title": "ザ少年倶楽部プレミアム「キンプリ×Ｓｎｏｗ　Ｍａｎ歌コラボ▽セクゾライブリポ」",
+        "subtitle": "【ゲスト】Ｓｎｏｗ　Ｍａｎ，【出演】Ｓｅｘｙ　Ｚｏｎｅ，【司会】Ｋｉｎｇ　＆　Ｐｒｉｎｃｅ，岡田圭右",
         "content": "",
-        "act": "",
+        "act": "【ゲスト】Ｓｎｏｗ　Ｍａｎ，【出演】Ｓｅｘｙ　Ｚｏｎｅ，【司会】Ｋｉｎｇ　＆　Ｐｒｉｎｃｅ，岡田圭右",
         "genres": [
           "0400",
           "0504",
@@ -14607,7 +17985,7 @@
         "id": "2023081815261",
         "event_id": "15261",
         "start_time": "2023-08-18T11:24:00+09:00",
-        "end_time": "2023-08-18T11:53:00+09:00",
+        "end_time": "2023-08-18T11:55:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
@@ -14640,9 +18018,46 @@
         ]
       },
       {
-        "id": "2023081809013",
-        "event_id": "09013",
-        "start_time": "2023-08-18T11:53:00+09:00",
+        "id": "2023081809446",
+        "event_id": "09446",
+        "start_time": "2023-08-18T11:55:00+09:00",
+        "end_time": "2023-08-18T11:57:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s4",
+          "name": "ＮＨＫＢＳプレミアム(１０４ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bspm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bspm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bspm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "大河ドラマ「どうする家康」２分ダイジェスト　第３１回「どうした家康」",
+        "subtitle": "家康は秀吉との対決を決意。１０万を超える秀吉軍と渡り合うため、日ノ本全土を巻き込む壮大な作戦に打って出る。秀吉側も謀略を巡らせる中、ついに両雄激突の時が訪れる！",
+        "content": "「どうする家康」を２分にまとめたダイジェスト。お市を死に追いやった秀吉（ムロツヨシ）に、家康（松本潤）は激怒、打倒秀吉の意志を固める。だが勢いに乗る秀吉は信長の次男・信雄（浜野謙太）を安土城から追放、着々と天下人への道を進んでいた。信雄からも助けを求められ、１０万を超える秀吉軍と戦う方法を考えあぐねていた家康は、正信（松山ケンイチ）の日ノ本全土を巻き込む壮大な作戦を採用するが……。",
+        "act": "【出演】松本潤，大森南朋，山田裕貴，杉野遥亮，板垣李光人，音尾琢真，小手伸也，岡部大，浜野謙太，ムロツヨシ，松山ケンイチ，松重豊，【作】古沢良太",
+        "genres": [
+          "0300",
+          "0302"
+        ]
+      },
+      {
+        "id": "2023081817185",
+        "event_id": "17185",
+        "start_time": "2023-08-18T11:57:00+09:00",
         "end_time": "2023-08-18T12:00:00+09:00",
         "area": {
           "id": "401",
@@ -14667,11 +18082,13 @@
             "height": "200"
           }
         },
-        "title": "プレミアムセレクション",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": []
+        "title": "にっぽん百名山ミニ　３ｍｉｎ「夏　北岳」",
+        "subtitle": "南アルプスの北岳（３１９３ｍ）は日本第２位の高峰！ミヤマハナシノブなど貴重な花々が咲くお花畑を巡り険しい岩の、りょう線を登り日本一の富士絶景が望める山頂をめざす",
+        "content": "南アルプスの盟主・北岳をめざす山旅！７月中旬、山梨県広河原の登山口を出発！樹林帯を登ると、大樺沢の雪渓が現れる。真夏でも解けずに残る大雪渓の冷気を感じながら進む。さらに、北岳など限られた地域にしか咲かないミヤマハナシノブなどを眺めながら岩尾根を登る。翌朝、日本第２位の頂から富士山を望む。北岳は富士山を望む日本最高所のビュースポットとしても人気を集める！案内するのは、山岳ガイドの今村量紀さん。",
+        "act": "【出演】今村量紀，【語り】鈴木麻里子",
+        "genres": [
+          "0802"
+        ]
       },
       {
         "id": "2023081809014",
@@ -14994,10 +18411,10 @@
             "height": "200"
           }
         },
-        "title": "ザ少年倶楽部プレミアム",
-        "subtitle": "",
+        "title": "ザ少年倶楽部プレミアム「キンプリ×Ｓｎｏｗ　Ｍａｎ歌コラボ▽セクゾライブリポ」",
+        "subtitle": "【ゲスト】Ｓｎｏｗ　Ｍａｎ，【出演】Ｓｅｘｙ　Ｚｏｎｅ，【司会】Ｋｉｎｇ　＆　Ｐｒｉｎｃｅ，岡田圭右",
         "content": "",
-        "act": "",
+        "act": "【ゲスト】Ｓｎｏｗ　Ｍａｎ，【出演】Ｓｅｘｙ　Ｚｏｎｅ，【司会】Ｋｉｎｇ　＆　Ｐｒｉｎｃｅ，岡田圭右",
         "genres": [
           "0400",
           "0504",
