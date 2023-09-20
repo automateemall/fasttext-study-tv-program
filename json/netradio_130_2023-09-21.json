@@ -305,7 +305,7 @@
         "id": "2023092169996",
         "event_id": "69996",
         "start_time": "2023-09-21T07:00:03+09:00",
-        "end_time": "2023-09-21T07:20:00+09:00",
+        "end_time": "2023-09-21T07:30:00+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -329,7 +329,7 @@
             "height": "200"
           }
         },
-        "title": "マイあさ！　▽ＮＨＫけさのニュース",
+        "title": "マイあさ！　▽岸田首相内外記者会見",
         "subtitle": "",
         "content": "",
         "act": "",
@@ -340,46 +340,9 @@
         ]
       },
       {
-        "id": "2023092169997",
-        "event_id": "69997",
-        "start_time": "2023-09-21T07:20:00+09:00",
-        "end_time": "2023-09-21T07:25:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0009",
-          "0000"
-        ]
-      },
-      {
         "id": "2023092169998",
         "event_id": "69998",
-        "start_time": "2023-09-21T07:25:00+09:00",
+        "start_time": "2023-09-21T07:30:00+09:00",
         "end_time": "2023-09-21T07:50:00+09:00",
         "area": {
           "id": "130",
@@ -5510,10 +5473,10 @@
             "height": "200"
           }
         },
-        "title": "古楽の楽しみ",
-        "subtitle": "",
+        "title": "古楽の楽しみ　ウィリアム・バード　後半生の音楽（４）",
+        "subtitle": "ご案内：藤原一弘／バードの「グラドゥアリア」第２巻から復活祭のための固有文ミサ曲、そして家庭で歌うための英語による作品を中心にご紹介します。",
         "content": "",
-        "act": "",
+        "act": "藤原一弘",
         "genres": [
           "0402",
           "1002"
@@ -5747,81 +5710,6 @@
         "id": "2023092169996",
         "event_id": "69996",
         "start_time": "2023-09-21T07:00:03+09:00",
-        "end_time": "2023-09-21T07:20:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n3",
-          "name": "ＮＨＫネットラジオFM",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "マイあさ！　▽ＮＨＫけさのニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000",
-          "0203",
-          "0800"
-        ]
-      },
-      {
-        "id": "2023092169997",
-        "event_id": "69997",
-        "start_time": "2023-09-21T07:20:00+09:00",
-        "end_time": "2023-09-21T07:25:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n3",
-          "name": "ＮＨＫネットラジオFM",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0009",
-          "0000"
-        ]
-      },
-      {
-        "id": "2023092170278",
-        "event_id": "70278",
-        "start_time": "2023-09-21T07:25:00+09:00",
         "end_time": "2023-09-21T07:30:00+09:00",
         "area": {
           "id": "130",
@@ -5846,12 +5734,14 @@
             "height": "200"
           }
         },
-        "title": "名曲の小箱「歌劇“ナブッコ”から“行けわが思いよ金色の翼に乗って”」",
+        "title": "マイあさ！　▽岸田首相内外記者会見",
         "subtitle": "",
-        "content": "　ヴェルディ作曲　（合唱）二期会合唱団　（管弦楽）東京フィルハーモニー交響楽団　（指揮）円光寺雅彦　＜ＮＳＣ－１００９＞",
-        "act": "円光寺雅彦",
+        "content": "",
+        "act": "",
         "genres": [
-          "0402"
+          "0000",
+          "0203",
+          "0800"
         ]
       },
       {
