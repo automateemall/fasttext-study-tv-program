@@ -2109,9 +2109,46 @@
         ]
       },
       {
+        "id": "2023101617927",
+        "event_id": "17927",
+        "start_time": "2023-10-17T01:30:00+09:00",
+        "end_time": "2023-10-17T01:32:00+09:00",
+        "area": {
+          "id": "470",
+          "name": "沖縄"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "見どころ満載・夜ドラ「ミワさんなりすます」",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0300",
+          "0207"
+        ]
+      },
+      {
         "id": "2023101611376",
         "event_id": "11376",
-        "start_time": "2023-10-17T01:30:00+09:00",
+        "start_time": "2023-10-17T01:32:00+09:00",
         "end_time": "2023-10-17T04:00:00+09:00",
         "area": {
           "id": "470",
@@ -4328,9 +4365,46 @@
         ]
       },
       {
+        "id": "2023101617927",
+        "event_id": "17927",
+        "start_time": "2023-10-17T01:30:00+09:00",
+        "end_time": "2023-10-17T01:32:00+09:00",
+        "area": {
+          "id": "470",
+          "name": "沖縄"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "見どころ満載・夜ドラ「ミワさんなりすます」",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0300",
+          "0207"
+        ]
+      },
+      {
         "id": "2023101611376",
         "event_id": "11376",
-        "start_time": "2023-10-17T01:30:00+09:00",
+        "start_time": "2023-10-17T01:32:00+09:00",
         "end_time": "2023-10-17T04:00:00+09:00",
         "area": {
           "id": "470",
@@ -14554,7 +14628,7 @@
         "id": "2023101610900",
         "event_id": "10900",
         "start_time": "2023-10-16T17:50:00+09:00",
-        "end_time": "2023-10-16T18:00:00+09:00",
+        "end_time": "2023-10-16T17:55:00+09:00",
         "area": {
           "id": "470",
           "name": "沖縄"
@@ -14588,10 +14662,10 @@
         ]
       },
       {
-        "id": "2023101610901",
-        "event_id": "10901",
-        "start_time": "2023-10-16T18:00:00+09:00",
-        "end_time": "2023-10-16T18:50:00+09:00",
+        "id": "2023101618356",
+        "event_id": "18356",
+        "start_time": "2023-10-16T17:55:00+09:00",
+        "end_time": "2023-10-16T21:30:00+09:00",
         "area": {
           "id": "470",
           "name": "沖縄"
@@ -14615,195 +14689,18 @@
             "height": "200"
           }
         },
-        "title": "ＢＳセレクション",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": []
-      },
-      {
-        "id": "2023101610903",
-        "event_id": "10903",
-        "start_time": "2023-10-16T18:50:00+09:00",
-        "end_time": "2023-10-16T19:00:00+09:00",
-        "area": {
-          "id": "470",
-          "name": "沖縄"
-        },
-        "service": {
-          "id": "s1",
-          "name": "ＮＨＫＢＳ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ",
-        "subtitle": "▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000",
-          "0001"
-        ]
-      },
-      {
-        "id": "2023101610904",
-        "event_id": "10904",
-        "start_time": "2023-10-16T19:00:00+09:00",
-        "end_time": "2023-10-16T19:50:00+09:00",
-        "area": {
-          "id": "470",
-          "name": "沖縄"
-        },
-        "service": {
-          "id": "s1",
-          "name": "ＮＨＫＢＳ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ＢＳセレクション",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": []
-      },
-      {
-        "id": "2023101610906",
-        "event_id": "10906",
-        "start_time": "2023-10-16T19:50:00+09:00",
-        "end_time": "2023-10-16T20:00:00+09:00",
-        "area": {
-          "id": "470",
-          "name": "沖縄"
-        },
-        "service": {
-          "id": "s1",
-          "name": "ＮＨＫＢＳ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ",
-        "subtitle": "▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000",
-          "0001"
-        ]
-      },
-      {
-        "id": "2023101610907",
-        "event_id": "10907",
-        "start_time": "2023-10-16T20:00:00+09:00",
-        "end_time": "2023-10-16T20:50:00+09:00",
-        "area": {
-          "id": "470",
-          "name": "沖縄"
-        },
-        "service": {
-          "id": "s1",
-          "name": "ＮＨＫＢＳ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "球辞苑～プロ野球が１００倍楽しくなるキーワードたち～",
+        "title": "プロ野球２０２３",
         "subtitle": "",
         "content": "",
         "act": "",
         "genres": [
-          "0101",
-          "0515"
+          "0101"
         ]
       },
       {
-        "id": "2023101610909",
-        "event_id": "10909",
-        "start_time": "2023-10-16T20:50:00+09:00",
-        "end_time": "2023-10-16T21:00:00+09:00",
-        "area": {
-          "id": "470",
-          "name": "沖縄"
-        },
-        "service": {
-          "id": "s1",
-          "name": "ＮＨＫＢＳ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ＢＳセレクション",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": []
-      },
-      {
-        "id": "2023101610910",
-        "event_id": "10910",
-        "start_time": "2023-10-16T21:00:00+09:00",
+        "id": "2023101618358",
+        "event_id": "18358",
+        "start_time": "2023-10-16T21:30:00+09:00",
         "end_time": "2023-10-16T21:45:00+09:00",
         "area": {
           "id": "470",
@@ -14828,13 +14725,11 @@
             "height": "200"
           }
         },
-        "title": "スポーツ×ヒューマン",
+        "title": "ＢＳセレクション",
         "subtitle": "",
         "content": "",
         "act": "",
-        "genres": [
-          "0806"
-        ]
+        "genres": []
       },
       {
         "id": "2023101610912",
@@ -14937,9 +14832,9 @@
           }
         },
         "title": "ワースポ×ＭＬＢ",
-        "subtitle": "▽日本選手の最新情報",
+        "subtitle": "▽日本選手の最新情報　【解説】川﨑宗則，【キャスター】山本萩子",
         "content": "",
-        "act": "",
+        "act": "【解説】川﨑宗則，【キャスター】山本萩子",
         "genres": [
           "0101",
           "0100"
@@ -16037,7 +15932,7 @@
         "id": "2023101610900",
         "event_id": "10900",
         "start_time": "2023-10-16T17:50:00+09:00",
-        "end_time": "2023-10-16T18:00:00+09:00",
+        "end_time": "2023-10-16T17:55:00+09:00",
         "area": {
           "id": "470",
           "name": "沖縄"
@@ -16071,10 +15966,10 @@
         ]
       },
       {
-        "id": "2023101610901",
-        "event_id": "10901",
-        "start_time": "2023-10-16T18:00:00+09:00",
-        "end_time": "2023-10-16T18:50:00+09:00",
+        "id": "2023101618356",
+        "event_id": "18356",
+        "start_time": "2023-10-16T17:55:00+09:00",
+        "end_time": "2023-10-16T21:30:00+09:00",
         "area": {
           "id": "470",
           "name": "沖縄"
@@ -16098,195 +15993,18 @@
             "height": "200"
           }
         },
-        "title": "ＢＳセレクション",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": []
-      },
-      {
-        "id": "2023101610903",
-        "event_id": "10903",
-        "start_time": "2023-10-16T18:50:00+09:00",
-        "end_time": "2023-10-16T19:00:00+09:00",
-        "area": {
-          "id": "470",
-          "name": "沖縄"
-        },
-        "service": {
-          "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ",
-        "subtitle": "▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000",
-          "0001"
-        ]
-      },
-      {
-        "id": "2023101610904",
-        "event_id": "10904",
-        "start_time": "2023-10-16T19:00:00+09:00",
-        "end_time": "2023-10-16T19:50:00+09:00",
-        "area": {
-          "id": "470",
-          "name": "沖縄"
-        },
-        "service": {
-          "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ＢＳセレクション",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": []
-      },
-      {
-        "id": "2023101610906",
-        "event_id": "10906",
-        "start_time": "2023-10-16T19:50:00+09:00",
-        "end_time": "2023-10-16T20:00:00+09:00",
-        "area": {
-          "id": "470",
-          "name": "沖縄"
-        },
-        "service": {
-          "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ",
-        "subtitle": "▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000",
-          "0001"
-        ]
-      },
-      {
-        "id": "2023101610907",
-        "event_id": "10907",
-        "start_time": "2023-10-16T20:00:00+09:00",
-        "end_time": "2023-10-16T20:50:00+09:00",
-        "area": {
-          "id": "470",
-          "name": "沖縄"
-        },
-        "service": {
-          "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "球辞苑～プロ野球が１００倍楽しくなるキーワードたち～",
+        "title": "プロ野球２０２３",
         "subtitle": "",
         "content": "",
         "act": "",
         "genres": [
-          "0101",
-          "0515"
+          "0101"
         ]
       },
       {
-        "id": "2023101610909",
-        "event_id": "10909",
-        "start_time": "2023-10-16T20:50:00+09:00",
-        "end_time": "2023-10-16T21:00:00+09:00",
-        "area": {
-          "id": "470",
-          "name": "沖縄"
-        },
-        "service": {
-          "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ＢＳセレクション",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": []
-      },
-      {
-        "id": "2023101610910",
-        "event_id": "10910",
-        "start_time": "2023-10-16T21:00:00+09:00",
+        "id": "2023101618358",
+        "event_id": "18358",
+        "start_time": "2023-10-16T21:30:00+09:00",
         "end_time": "2023-10-16T21:45:00+09:00",
         "area": {
           "id": "470",
@@ -16311,13 +16029,11 @@
             "height": "200"
           }
         },
-        "title": "スポーツ×ヒューマン",
+        "title": "ＢＳセレクション",
         "subtitle": "",
         "content": "",
         "act": "",
-        "genres": [
-          "0806"
-        ]
+        "genres": []
       },
       {
         "id": "2023101610912",
@@ -16420,9 +16136,9 @@
           }
         },
         "title": "ワースポ×ＭＬＢ",
-        "subtitle": "▽日本選手の最新情報",
+        "subtitle": "▽日本選手の最新情報　【解説】川﨑宗則，【キャスター】山本萩子",
         "content": "",
-        "act": "",
+        "act": "【解説】川﨑宗則，【キャスター】山本萩子",
         "genres": [
           "0101",
           "0100"
