@@ -6870,9 +6870,46 @@
         ]
       },
       {
-        "id": "2023111172834",
-        "event_id": "72834",
+        "id": "2023111166423",
+        "event_id": "66423",
         "start_time": "2023-11-11T21:00:03+09:00",
+        "end_time": "2023-11-11T21:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n3",
+          "name": "ＮＨＫネットラジオFM",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "伊藤政則のバンド・ラウンジ　‐２‐「ベース編」",
+        "subtitle": "【ＤＪ】伊藤政則",
+        "content": "",
+        "act": "【ＤＪ】伊藤政則",
+        "genres": [
+          "0401",
+          "0400"
+        ]
+      },
+      {
+        "id": "2023111166424",
+        "event_id": "66424",
+        "start_time": "2023-11-11T21:50:00+09:00",
         "end_time": "2023-11-11T22:00:03+09:00",
         "area": {
           "id": "130",
@@ -6897,10 +6934,10 @@
             "height": "200"
           }
         },
-        "title": "ワールドロックナウ",
-        "subtitle": "",
+        "title": "伊藤政則のバンド・ラウンジ　Ｓ　‐３‐「グランド・ファンク・レイルロード」",
+        "subtitle": "【ＤＪ】伊藤政則",
         "content": "",
-        "act": "",
+        "act": "【ＤＪ】伊藤政則",
         "genres": [
           "0401"
         ]
