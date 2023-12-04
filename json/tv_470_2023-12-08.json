@@ -1671,7 +1671,7 @@
         "id": "2023120851881",
         "event_id": "51881",
         "start_time": "2023-12-08T19:30:00+09:00",
-        "end_time": "2023-12-08T20:30:00+09:00",
+        "end_time": "2023-12-08T20:45:00+09:00",
         "area": {
           "id": "470",
           "name": "沖縄"
@@ -1704,40 +1704,6 @@
           "0504",
           "0200"
         ]
-      },
-      {
-        "id": "2023120853297",
-        "event_id": "53297",
-        "start_time": "2023-12-08T20:30:00+09:00",
-        "end_time": "2023-12-08T20:45:00+09:00",
-        "area": {
-          "id": "470",
-          "name": "沖縄"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "セレクション",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": []
       },
       {
         "id": "2023120848722",
@@ -4355,7 +4321,7 @@
         "id": "2023120851881",
         "event_id": "51881",
         "start_time": "2023-12-08T19:30:00+09:00",
-        "end_time": "2023-12-08T20:30:00+09:00",
+        "end_time": "2023-12-08T20:45:00+09:00",
         "area": {
           "id": "470",
           "name": "沖縄"
@@ -4388,40 +4354,6 @@
           "0504",
           "0200"
         ]
-      },
-      {
-        "id": "2023120853297",
-        "event_id": "53297",
-        "start_time": "2023-12-08T20:30:00+09:00",
-        "end_time": "2023-12-08T20:45:00+09:00",
-        "area": {
-          "id": "470",
-          "name": "沖縄"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "セレクション",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": []
       },
       {
         "id": "2023120848722",
