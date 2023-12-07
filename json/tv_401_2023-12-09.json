@@ -2255,7 +2255,7 @@
         "id": "2023120912824",
         "event_id": "12824",
         "start_time": "2023-12-10T00:35:00+09:00",
-        "end_time": "2023-12-10T01:21:00+09:00",
+        "end_time": "2023-12-10T01:22:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
@@ -2288,9 +2288,45 @@
         ]
       },
       {
-        "id": "2023120913314",
-        "event_id": "13314",
-        "start_time": "2023-12-10T01:21:00+09:00",
+        "id": "2023120918123",
+        "event_id": "18123",
+        "start_time": "2023-12-10T01:22:00+09:00",
+        "end_time": "2023-12-10T01:23:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "紅白１分ＰＲ",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0400"
+        ]
+      },
+      {
+        "id": "2023120918124",
+        "event_id": "18124",
+        "start_time": "2023-12-10T01:23:00+09:00",
         "end_time": "2023-12-10T01:25:00+09:00",
         "area": {
           "id": "401",
@@ -2315,11 +2351,14 @@
             "height": "200"
           }
         },
-        "title": "セレクション",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": []
+        "title": "デフ・ヴォイス　法廷の手話通訳士　２分でわかる予告編",
+        "subtitle": "草彅剛主演、心揺さぶる社会派ミステリー「デフ・ヴォイス　法廷の手話通訳士」。物語の概要と世界観を伝える予告編。",
+        "content": "「あなたは、私たちの味方？それとも敵？」　聞こえない両親をもつコーダの荒井尚人（草彅剛）が、法廷での手話通訳をきっかけに過去の事件と対峙する…。現在と過去が複雑に絡みあう社会派サスペンス。",
+        "act": "【出演】草彅剛，橋本愛，松本若菜，遠藤憲一",
+        "genres": [
+          "0300",
+          "0207"
+        ]
       },
       {
         "id": "2023120913315",
@@ -4902,7 +4941,7 @@
         "id": "2023120912824",
         "event_id": "12824",
         "start_time": "2023-12-10T00:35:00+09:00",
-        "end_time": "2023-12-10T01:21:00+09:00",
+        "end_time": "2023-12-10T01:22:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
@@ -4935,9 +4974,45 @@
         ]
       },
       {
-        "id": "2023120913314",
-        "event_id": "13314",
-        "start_time": "2023-12-10T01:21:00+09:00",
+        "id": "2023120918123",
+        "event_id": "18123",
+        "start_time": "2023-12-10T01:22:00+09:00",
+        "end_time": "2023-12-10T01:23:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "紅白１分ＰＲ",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0400"
+        ]
+      },
+      {
+        "id": "2023120918124",
+        "event_id": "18124",
+        "start_time": "2023-12-10T01:23:00+09:00",
         "end_time": "2023-12-10T01:25:00+09:00",
         "area": {
           "id": "401",
@@ -4962,11 +5037,14 @@
             "height": "200"
           }
         },
-        "title": "セレクション",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": []
+        "title": "デフ・ヴォイス　法廷の手話通訳士　２分でわかる予告編",
+        "subtitle": "草彅剛主演、心揺さぶる社会派ミステリー「デフ・ヴォイス　法廷の手話通訳士」。物語の概要と世界観を伝える予告編。",
+        "content": "「あなたは、私たちの味方？それとも敵？」　聞こえない両親をもつコーダの荒井尚人（草彅剛）が、法廷での手話通訳をきっかけに過去の事件と対峙する…。現在と過去が複雑に絡みあう社会派サスペンス。",
+        "act": "【出演】草彅剛，橋本愛，松本若菜，遠藤憲一",
+        "genres": [
+          "0300",
+          "0207"
+        ]
       },
       {
         "id": "2023120913315",
@@ -11960,7 +12038,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -11996,7 +12074,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12032,7 +12110,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12068,7 +12146,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12104,7 +12182,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12142,7 +12220,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12180,7 +12258,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12218,7 +12296,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12256,7 +12334,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12294,7 +12372,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12332,7 +12410,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12370,7 +12448,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12408,7 +12486,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12446,7 +12524,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12483,7 +12561,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12519,7 +12597,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12555,7 +12633,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12593,7 +12671,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12629,7 +12707,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12663,7 +12741,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12699,7 +12777,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12735,7 +12813,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12771,7 +12849,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12807,7 +12885,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12843,7 +12921,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12874,14 +12952,14 @@
         "id": "2023120914685",
         "event_id": "14685",
         "start_time": "2023-12-10T01:10:00+09:00",
-        "end_time": "2023-12-10T01:54:00+09:00",
+        "end_time": "2023-12-10T01:55:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12907,17 +12985,17 @@
         ]
       },
       {
-        "id": "2023120913295",
-        "event_id": "13295",
-        "start_time": "2023-12-10T01:54:00+09:00",
-        "end_time": "2023-12-10T02:40:00+09:00",
+        "id": "2023120917835",
+        "event_id": "17835",
+        "start_time": "2023-12-10T01:55:00+09:00",
+        "end_time": "2023-12-10T02:00:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12934,11 +13012,123 @@
             "height": "200"
           }
         },
-        "title": "ＢＳセレクション",
-        "subtitle": "",
-        "content": "",
+        "title": "Ｊリーグと私　３０年の物語　東京ヴェルディ　フラッグ職人編",
+        "subtitle": "スタジアムに広がる応援の旗。幅１００ｍを超えるビッグフラッグも増えている。その製作の第一人者が、亡き友を思いながら完成させた巨大なフラッグをめぐるエピソード。",
+        "content": "埼玉県蕨市に工房を構える影山洋さんは、これまで３００以上の応援フラッグを作ってきた。そのきっかけになったのは、３０年以上前のある選手との出会いだった。東京ヴェルディの前身である読売クラブに在籍していた奥田卓良選手。Ｊリーグの開幕を楽しみにしていた奥田選手は、親友だった影山さんに応援フラッグの製作を頼んだ。しかしその後、悲劇が襲う。今年、影山さんは親友を思いながら、史上最大のフラッグ製作に挑んだ。",
         "act": "",
-        "genres": []
+        "genres": [
+          "0806"
+        ]
+      },
+      {
+        "id": "2023120917836",
+        "event_id": "17836",
+        "start_time": "2023-12-10T02:00:00+09:00",
+        "end_time": "2023-12-10T02:05:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫ ＢＳ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "Ｊリーグと私　３０年の物語　三笘薫と中村憲剛編",
+        "subtitle": "去年話題になった一枚の写真がある。川崎フロンターレの中村憲剛さんと手をつなぐ少年。その名は三笘薫。時はめぐり、１６歳差の二人が同じピッチで躍動するまでの物語。",
+        "content": "去年、Ｊリーグ公式ＳＮＳで話題になった写真。川崎フロンターレの中村憲剛さんと入場行進で手をつなぐ少年は、１２歳のときの三笘薫選手だった。フロンターレの下部組織に所属していた三笘にとって、中村さんは憧れの存在だった。その思いを原動力に、三笘はドリブルを磨き、目標だったフロンターレに入団。現役最後の中村さんと同じピッチに立つ。そして今や、三笘が子供たちの目標に。Ｊリーグ３０年の世代を越えたドラマ。",
+        "act": "",
+        "genres": [
+          "0806"
+        ]
+      },
+      {
+        "id": "2023120917837",
+        "event_id": "17837",
+        "start_time": "2023-12-10T02:05:00+09:00",
+        "end_time": "2023-12-10T02:10:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫ ＢＳ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "中国・ティーブレイク紀行「食べるお茶」",
+        "subtitle": "【語り】兼清麻美",
+        "content": "",
+        "act": "【語り】兼清麻美",
+        "genres": [
+          "0205",
+          "0801"
+        ]
+      },
+      {
+        "id": "2023120917838",
+        "event_id": "17838",
+        "start_time": "2023-12-10T02:10:00+09:00",
+        "end_time": "2023-12-10T02:40:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s1",
+          "name": "ＮＨＫ ＢＳ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "グランド・グルメ　ヨーロッパ食材紀行「ウナギの味はテムズの流れとともに」",
+        "subtitle": "～イギリス～　▽ロンドンにはテムズ川のウナギを食材とした伝統の名物料理がある。",
+        "content": "～イギリス～　▽ロンドンにはテムズ川のウナギを食材とした伝統の名物料理がある。　ユニークなウナギ料理を紹介しながら、テムズ川の変遷と、時代の変化の中でも変わらぬロンドンっ子の心意気を描く。",
+        "act": "",
+        "genres": [
+          "0801",
+          "0205"
+        ]
       },
       {
         "id": "2023120915313",
@@ -12951,7 +13141,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -12988,7 +13178,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -13024,7 +13214,7 @@
         },
         "service": {
           "id": "s1",
-          "name": "ＮＨＫＢＳ１",
+          "name": "ＮＨＫ ＢＳ",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
             "width": "100",
@@ -13064,7 +13254,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13100,7 +13290,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13136,7 +13326,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13172,7 +13362,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13208,7 +13398,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13246,7 +13436,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13284,7 +13474,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13322,7 +13512,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13360,7 +13550,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13398,7 +13588,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13436,7 +13626,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13474,7 +13664,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13512,7 +13702,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13550,7 +13740,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13587,7 +13777,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13623,7 +13813,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13659,7 +13849,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13697,7 +13887,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13733,7 +13923,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13767,7 +13957,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13803,7 +13993,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13839,7 +14029,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13875,7 +14065,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13911,7 +14101,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13947,7 +14137,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -13978,14 +14168,14 @@
         "id": "2023120914685",
         "event_id": "14685",
         "start_time": "2023-12-10T01:10:00+09:00",
-        "end_time": "2023-12-10T01:54:00+09:00",
+        "end_time": "2023-12-10T01:55:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -14011,17 +14201,17 @@
         ]
       },
       {
-        "id": "2023120913295",
-        "event_id": "13295",
-        "start_time": "2023-12-10T01:54:00+09:00",
-        "end_time": "2023-12-10T02:40:00+09:00",
+        "id": "2023120917835",
+        "event_id": "17835",
+        "start_time": "2023-12-10T01:55:00+09:00",
+        "end_time": "2023-12-10T02:00:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -14038,11 +14228,123 @@
             "height": "200"
           }
         },
-        "title": "ＢＳセレクション",
-        "subtitle": "",
-        "content": "",
+        "title": "Ｊリーグと私　３０年の物語　東京ヴェルディ　フラッグ職人編",
+        "subtitle": "スタジアムに広がる応援の旗。幅１００ｍを超えるビッグフラッグも増えている。その製作の第一人者が、亡き友を思いながら完成させた巨大なフラッグをめぐるエピソード。",
+        "content": "埼玉県蕨市に工房を構える影山洋さんは、これまで３００以上の応援フラッグを作ってきた。そのきっかけになったのは、３０年以上前のある選手との出会いだった。東京ヴェルディの前身である読売クラブに在籍していた奥田卓良選手。Ｊリーグの開幕を楽しみにしていた奥田選手は、親友だった影山さんに応援フラッグの製作を頼んだ。しかしその後、悲劇が襲う。今年、影山さんは親友を思いながら、史上最大のフラッグ製作に挑んだ。",
         "act": "",
-        "genres": []
+        "genres": [
+          "0806"
+        ]
+      },
+      {
+        "id": "2023120917836",
+        "event_id": "17836",
+        "start_time": "2023-12-10T02:00:00+09:00",
+        "end_time": "2023-12-10T02:05:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "Ｊリーグと私　３０年の物語　三笘薫と中村憲剛編",
+        "subtitle": "去年話題になった一枚の写真がある。川崎フロンターレの中村憲剛さんと手をつなぐ少年。その名は三笘薫。時はめぐり、１６歳差の二人が同じピッチで躍動するまでの物語。",
+        "content": "去年、Ｊリーグ公式ＳＮＳで話題になった写真。川崎フロンターレの中村憲剛さんと入場行進で手をつなぐ少年は、１２歳のときの三笘薫選手だった。フロンターレの下部組織に所属していた三笘にとって、中村さんは憧れの存在だった。その思いを原動力に、三笘はドリブルを磨き、目標だったフロンターレに入団。現役最後の中村さんと同じピッチに立つ。そして今や、三笘が子供たちの目標に。Ｊリーグ３０年の世代を越えたドラマ。",
+        "act": "",
+        "genres": [
+          "0806"
+        ]
+      },
+      {
+        "id": "2023120917837",
+        "event_id": "17837",
+        "start_time": "2023-12-10T02:05:00+09:00",
+        "end_time": "2023-12-10T02:10:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "中国・ティーブレイク紀行「食べるお茶」",
+        "subtitle": "【語り】兼清麻美",
+        "content": "",
+        "act": "【語り】兼清麻美",
+        "genres": [
+          "0205",
+          "0801"
+        ]
+      },
+      {
+        "id": "2023120917838",
+        "event_id": "17838",
+        "start_time": "2023-12-10T02:10:00+09:00",
+        "end_time": "2023-12-10T02:40:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "グランド・グルメ　ヨーロッパ食材紀行「ウナギの味はテムズの流れとともに」",
+        "subtitle": "～イギリス～　▽ロンドンにはテムズ川のウナギを食材とした伝統の名物料理がある。",
+        "content": "～イギリス～　▽ロンドンにはテムズ川のウナギを食材とした伝統の名物料理がある。　ユニークなウナギ料理を紹介しながら、テムズ川の変遷と、時代の変化の中でも変わらぬロンドンっ子の心意気を描く。",
+        "act": "",
+        "genres": [
+          "0801",
+          "0205"
+        ]
       },
       {
         "id": "2023120915313",
@@ -14055,7 +14357,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -14092,7 +14394,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -14128,7 +14430,7 @@
         },
         "service": {
           "id": "s2",
-          "name": "ＮＨＫＢＳ１(１０２ｃｈ)",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
           "logo_s": {
             "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
             "width": "100",
@@ -14156,254 +14458,1944 @@
         ]
       }
     ],
-    "s3": [
+    "s5": [
       {
-        "id": "2023120910159",
-        "event_id": "10159",
+        "id": "2023120911055",
+        "event_id": "11055",
         "start_time": "2023-12-09T05:00:00+09:00",
+        "end_time": "2023-12-09T05:15:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "にっぽんカメラアイ「とどけ」",
+        "subtitle": "私たちは、何かに届こうとして生きている。誰かに届けたくて表現する。切なる願いを込め、今日も手を伸ばす。楽しくも切ない表現者たちの日々を珠玉の映像で柔らかくつづる",
+        "content": "ＮＨＫカメラマンが独自の映像美で物語を織り成すシリーズ。今回のテーマは「とどけ」。私たちは、いつも何かに届こうとして生きている。具体的な一つ一つの目標や憧れて思い描いた夢。そして、誰かに届けたくて表現する。努力を重ねて工夫を凝らす。「届いてください」と、切なる願いを込めて、今日も手を伸ばし続ける。そのエネルギーのキラメキと、永遠に届かない切なさを、珠玉の映像で柔らかく表現する。",
+        "act": "",
+        "genres": [
+          "0807"
+        ]
+      },
+      {
+        "id": "2023120911057",
+        "event_id": "11057",
+        "start_time": "2023-12-09T05:15:00+09:00",
+        "end_time": "2023-12-09T05:20:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "もういちど、日本「国立国会図書館と疎開図書」",
+        "subtitle": "永田町に建つ国立国会図書館。国内で出版されたすべての本や雑誌を収集している。地下には戦時中に学徒などが疎開させた貴重な資料が眠っている。その歴史を紹介する。",
+        "content": "東京・永田町のど真ん中に建つ国立国会図書館。国内で出版されたすべての本や雑誌を収集している。地下には戦時中に勤労学徒などが疎開させた貴重な資料が眠っている。その歴史を紹介する。",
+        "act": "【語り】松たか子，井上二郎",
+        "genres": [
+          "0801"
+        ]
+      },
+      {
+        "id": "2023120913301",
+        "event_id": "13301",
+        "start_time": "2023-12-09T05:20:00+09:00",
+        "end_time": "2023-12-09T05:22:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "【特集ドラマ】大岡越前スペシャル　ＰＲ　見どころ一気に紹介！",
+        "subtitle": "年末放送の「大岡越前スペシャル」第４弾の見どころと魅力をたっぷりご紹介する２分ＰＲ。忠臣蔵がカギとなる切なく哀しい事件に、名奉行はどんな裁きを下すのか？",
+        "content": "赤穂浪士討ち入りから二十余年、その事件の亡霊が大岡忠相（東山紀之）に襲い掛かる！？　年末放送の「大岡越前スペシャル」第４弾の見どころと魅力をたっぷりご紹介します。評判の町医者が惨殺され、その下手人として下男（ゴリ）が捕まった。だが唯一の目撃者である女（南沢奈央）は記憶を失ったままで事件の真相は闇の中へ。忠臣蔵がカギとなる切なく哀しい人間模様が絡んだこの事件、大岡越前は一体どんな裁きを下すのか？",
+        "act": "【出演】東山紀之，椎名桔平，勝村政信，寺脇康文，田村亮，高橋光臣，寺田農，松原智恵子，美村里江，高橋長英，金山一彦，室龍太，柄本時生，石井正則，山崎裕太，近藤芳正，堤大二郎，ゴリ，竹下景子，南沢奈央，榎木孝明，小野武彦，中島ひろ子，【脚本】尾西兼一",
+        "genres": [
+          "0207",
+          "0300"
+        ]
+      },
+      {
+        "id": "2023120910457",
+        "event_id": "10457",
+        "start_time": "2023-12-09T05:22:00+09:00",
+        "end_time": "2023-12-09T05:27:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "やまとの季節　二十四節気「大雪」",
+        "subtitle": "奈良在住の映像作家・保山耕一さんが撮影した高精細の映像と、ピアニスト・川上ミネさんが「百年ピアノ」で奏でるオリジナル楽曲。響きあう音と光で、季節を感じる映像詩。",
+        "content": "二十四節気大雪のころ。興福寺の朝のお勤めは、夜の闇の中で始まる。やがて少しずつ辺りが白みはじめると、空は刻々と色を変えていく。青でもあり、同時に赤でもある夜明け前のこの色合いを、文豪ならどう表現するのだろう。飛火野では朝を待ちきれない鹿たちが動き始めていた。そして、日の出…",
+        "act": "【出演】川上ミネ",
+        "genres": [
+          "0802"
+        ]
+      },
+      {
+        "id": "2023120910458",
+        "event_id": "10458",
+        "start_time": "2023-12-09T05:27:00+09:00",
+        "end_time": "2023-12-09T06:05:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "よみがえる新日本紀行「霧のあらし　～愛媛県長浜町・大洲市～」",
+        "subtitle": "四国の大洲市には、晩秋から「肱（ひじ）川あらし」と呼ばれる霧があらわれる。千変万化する霧の景観と人々の暮らしを描いた昭和５１年の番組が４Ｋの映像でよみがえる。",
+        "content": "「肱（ひじ）川あらし」は上流で発生した霧が川沿いに一気に流れ下る現象で、霧が町をつつみこみ、うねりながら海へひろがる景色は幻想的で息をのむ。番組から４７年、地元の人たちがこの霧がいつ発生するかを予報する会を結成した。霧の景観を観光に役立てようというのだ。地元の商店主や中高生が参加し、霧の発生を予測してインターネットで発信する。故郷の美しさを多くの人に知ってもらいたいと活動する人々の熱意を伝える。",
+        "act": "【語り】森田美由紀",
+        "genres": [
+          "0801"
+        ]
+      },
+      {
+        "id": "2023120910459",
+        "event_id": "10459",
+        "start_time": "2023-12-09T06:05:00+09:00",
+        "end_time": "2023-12-09T06:30:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "小さな旅　選　村に清流あり　～福島県　川内村～",
+        "subtitle": "「清流の村」と呼ばれる福島県川内村。原発事故で一時は全村避難を余儀なくされたが、暮らしを取り戻しつつある。イワナに古民家カフェ、豊かな水とともに生きる村の物語。",
+        "content": "阿武隈山地の森が蓄えた水が流れる福島県川内村。原発事故から１２年、一時は全村避難を余儀なくされたが、暮らしを取り戻しつつある。７０年前に父親が裏山から引いた湧き水を使って暮らす家族。澄んだ水にしか生息しないイワナの養殖を続ける男性。避難生活の中で故郷の魅力に気づき、Ｕターンして古民家カフェを開いた女性。清流の恵みとともにある暮らし、その豊かさを受け継ぐ人たちの思いを訪ねる。",
+        "act": "【旅人】山本哲也",
+        "genres": [
+          "0801",
+          "0804",
+          "0807"
+        ]
+      },
+      {
+        "id": "2023120910460",
+        "event_id": "10460",
+        "start_time": "2023-12-09T06:30:00+09:00",
+        "end_time": "2023-12-09T06:45:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "さわやか自然百景　選　鳥取　大山　秋",
+        "subtitle": "日本海に面してそびえる鳥取県の大山。西日本有数のブナの森が広がる。秋、豊かな恵みを求めて鳥たちが集まり、森を流れる沢ではイワナが懸命に次の世代へ命をつなぐ。",
+        "content": "日本海に面してそびえる鳥取県の大山。標高１７２９メートル、山腹には西日本有数のブナの森が広がる。１０月下旬、森の木々は美しく色づき、実りの季節を迎える。その豊かな恵みを求めて、たくさんの鳥が集まってくる。シベリアなどから渡ってきたアトリ。冬に備えて種を蓄えるヤマガラ。そうした鳥を狙うオオタカ。秋の森はにぎやかだ。森を流れる沢ではイワナが繁殖期を迎え、懸命に命をつなぐ。秋、大山で輝く命を見つめる。",
+        "act": "【語り】出田奈々",
+        "genres": [
+          "0802",
+          "1000"
+        ]
+      },
+      {
+        "id": "2023120910462",
+        "event_id": "10462",
+        "start_time": "2023-12-09T06:45:00+09:00",
+        "end_time": "2023-12-09T07:15:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "美の壺　時をつなぐ　橋",
+        "subtitle": "移動の手段だけでなく、人の出会いや別れの場としてさまざまな舞台になってきた「橋」。古典芸術にみられる橋から、現代の橋と人の物語まで時空を超えた橋の物語を紹介。",
+        "content": "祝！国宝「通潤橋」▽嫁入り道具にも「橋」。縁起の良い意匠として珍重される▽もうすぐ百歳！隅田川に架かる「復興橋」▽「永代橋」と「清洲橋」、二つの橋は名コンビ？▽構造美と自然が響き合う「猿橋」▽建築写真家・藤塚光政さん、亡き友・大野美代子さんの代表作「鮎の瀬大橋」を撮る▽創建３５０年！「錦帯橋」を受け継ぎ、守る大工たち▽長崎・出島で橋を「拭く」？▽草刈さんも「橋」造りに挑戦！？＜Ｆｉｌｅ　５９２＞",
+        "act": "【出演】草刈正雄，【語り】木村多江",
+        "genres": [
+          "1002",
+          "0804",
+          "0202"
+        ]
+      },
+      {
+        "id": "2023120910464",
+        "event_id": "10464",
+        "start_time": "2023-12-09T07:15:00+09:00",
+        "end_time": "2023-12-09T07:30:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "【連続テレビ小説】まんぷく（６０）「私は武士の娘の娘！」",
+        "subtitle": "進駐軍から、無実の証拠がない限り軍事裁判にかけると最後通告があり、萬平さんはいよいよ覚悟を決めます。その後、泉大津で待つ福ちゃんの元にやってきたのは…",
+        "content": "福ちゃんから萬平さんたちをいたわる手紙が届き、留置所にひとときの安らぎが。大阪経済界の重鎮・三田村さんも進駐軍にじか談判して後押しします。ところが、進駐軍から、無実の証拠がない限り軍事裁判にかけると最後通告。萬平さんは「構わない」と覚悟を決めます。その後、泉大津で待つ福ちゃんの元に再び進駐軍が現れ…　福子：安藤サクラ／萬平：長谷川博己／鈴：松坂慶子／世良：桐谷健太／三田村：橋爪功／神部：瀬戸康史",
+        "act": "【作】福田靖，【出演】安藤サクラ，長谷川博己，大谷亮平，桐谷健太，瀬戸康史，中尾明慶，岡崎体育，メイナード・プラント，ブレイズ・プラント，橋爪功，松坂慶子，【音楽】川井憲次",
+        "genres": [
+          "0300"
+        ]
+      },
+      {
+        "id": "2023120910465",
+        "event_id": "10465",
+        "start_time": "2023-12-09T07:30:00+09:00",
+        "end_time": "2023-12-09T07:59:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "にっぽん縦断　こころ旅　とうちゃこ　１２１２日目　青森県東通村",
+        "subtitle": "秋の旅、今週は青森県！初日は下北半島、寒立馬で知られる尻屋崎や日本最大級の砂丘が広がる東通村へ！　火～金は朝版と夜７時の「とうちゃこ」を合わせて１日の旅が完結！",
+        "content": "火野正平さんが視聴者から寄せられた“こころの風景”を相棒の自転車チャリオと訪ねる「にっぽん縦断　こころ旅」１３年目の秋の旅！　今回は北海道を出発！春に行けなかった青森県・秋田県と東北地方を走って、山陰・鳥取県へ！そこから島根県・山口県と西に向かい、ゴールの福岡県を目指します！　火～金曜は朝版と夜７時からの「とうちゃこ」を合わせて見れば１日の旅が完結！まるごと楽しめます！　この日は青森県の旅１日目！",
+        "act": "【出演】火野正平",
+        "genres": [
+          "0801",
+          "1000",
+          "0505"
+        ]
+      },
+      {
+        "id": "2023120910466",
+        "event_id": "10466",
+        "start_time": "2023-12-09T07:59:00+09:00",
+        "end_time": "2023-12-09T08:28:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "にっぽん縦断　こころ旅　とうちゃこ　１２１３日目　青森県七戸町",
+        "subtitle": "秋の旅、今週は青森県！この日は八甲田山の東、農業や酪農、競走馬の生産が盛んな七戸町へ！　火～金は朝版と夜７時からの「とうちゃこ」を合わせて見れば１日の旅が完結！",
+        "content": "火野正平さんが視聴者から寄せられた“こころの風景”を相棒の自転車チャリオと訪ねる「にっぽん縦断　こころ旅」１３年目の秋の旅！　今回は北海道を出発！春に行けなかった青森県・秋田県と東北地方を走って、山陰・鳥取県へ！そこから島根県・山口県と西に向かい、ゴールの福岡県を目指します！　火～金曜は朝版と夜７時からの「とうちゃこ」を合わせて見れば１日の旅が完結！まるごと楽しめます！　この日は青森県の旅２日目！",
+        "act": "【出演】火野正平",
+        "genres": [
+          "0801",
+          "1000",
+          "0505"
+        ]
+      },
+      {
+        "id": "2023120913302",
+        "event_id": "13302",
+        "start_time": "2023-12-09T08:28:00+09:00",
+        "end_time": "2023-12-09T08:30:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "【プレミアムドラマ】仮想儀礼　ＰＲ",
+        "subtitle": "「宗教を作ろう。食っていくために」無職の男二人がやけっぱちで始めた“サービス業”は「宗教」だった。ＮＨＫ新ＢＳで放送中のドラマ「仮想儀礼」の２分ＰＲ。",
+        "content": "「宗教を作ろう。食っていくために」無職の男二人がやけっぱちで始めた“サービス業”……それは「宗教」だった。ＮＨＫ新ＢＳで放送中のプレミアムドラマ「仮想儀礼」の見どころを紹介する２分ＰＲ。元エリート公務員・正彦（青柳翔）と元ゲーム会社社員・誠（大東駿介）はある日突然職を失い、でたらめな宗教団体をでっちあげて“ビジネス”を始める。そこへ思いのほか人々が集まってきて……。",
+        "act": "【原作】篠田節子，【脚本】港岳彦，【音楽】岩代太郎，【出演】青柳翔，大東駿介，【声】津田健次郎",
+        "genres": [
+          "0207",
+          "0300"
+        ]
+      },
+      {
+        "id": "2023120910469",
+        "event_id": "10469",
+        "start_time": "2023-12-09T08:30:00+09:00",
+        "end_time": "2023-12-09T09:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "にっぽん百名山「剱岳～“針山地獄”に挑む！～」",
+        "subtitle": "北アルプスの剱岳（２９９９ｍ）、針山のようにそびえる岩の殿堂だ。立山が極楽浄土に例えられるのに対し、剱岳は地獄とされてきた。深まる紅葉の中、その頂を目指す。",
+        "content": "秋の剱岳に挑む２泊３日の山旅。案内は、国際的に高い評価をえているクライマーの馬目弘仁さん。１日目、真っ盛りの紅葉を楽しみながら、剣沢へ。２日目、登り降りを何度も繰り返しながら、剱岳の頂を目指す。最初のピーク・一服劔（２６１８ｍ）、続いてのピーク・前劔（２８１３ｍ）。岩場の登り降り、細い鉄の橋、鎖場などが待ち受ける。そして、最大の難所「カニのタテバイ」、ほぼ垂直の岩壁をよじ登っていく。",
+        "act": "【出演】山岳ガイド…馬目弘仁，【語り】鈴木賢",
+        "genres": [
+          "0802",
+          "0801",
+          "1000"
+        ]
+      },
+      {
+        "id": "2023120910471",
+        "event_id": "10471",
+        "start_time": "2023-12-09T09:00:00+09:00",
+        "end_time": "2023-12-09T09:25:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "週刊４Ｋふるさとだより",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2023120910472",
+        "event_id": "10472",
+        "start_time": "2023-12-09T09:25:00+09:00",
+        "end_time": "2023-12-09T09:40:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "【連続テレビ小説】ブギウギ　第１０週「大空の弟」（４６）",
+        "subtitle": "スズ子（趣里）の自らの楽団「福来スズ子とその楽団」が始動する。しかし、スズ子の歌うジャズは敵性音楽だと言われ、公演の依頼は全く来ないでいた。",
+        "content": "梅丸が解散し、スズ子（趣里）は自らの楽団である「福来スズ子とその楽団」を結成した。マネージャーは五木ひろき（村上新悟）、トランペットは一井（陰山泰）、ピアノは二村（えなりかずき）。少人数だが、腕は確かな面々だ。さらに、以前に弟子にしてほしいと訪ねてきた小林小夜（富田望生）も付き人として加わることになる。しかし、スズ子の歌うジャズは敵性音楽だと言われ、公演の依頼は全く来ないでいた。",
+        "act": "【作】櫻井剛，【出演】趣里，草彅剛，菊地凛子，柳葉敏郎，ふせえり，安井順平，陰山泰，えなりかずき，国木田かっぱ，伊藤えん魔，村上新悟，富田望生，隈本晃俊，や乃えいじ，【語り】高瀬耕造，【音楽】服部隆之",
+        "genres": [
+          "0300",
+          "0315",
+          "0403"
+        ]
+      },
+      {
+        "id": "2023120910473",
+        "event_id": "10473",
+        "start_time": "2023-12-09T09:40:00+09:00",
+        "end_time": "2023-12-09T09:55:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "【連続テレビ小説】ブギウギ　第１０週「大空の弟」（４７）",
+        "subtitle": "梅吉（柳葉敏郎）のもとに、六郎（黒崎煌代）が戦死したとの知らせが届いた。帰宅したスズ子も、六郎の戦死を知る。突然の出来事に、二人は全く受け入れられずにいた。",
+        "content": "役場の職員が梅吉（柳葉敏郎）の元を訪れて手渡した知らせには、六郎（黒崎煌代）が戦死したと記載されていた。しばらくして、家に戻ったスズ子（趣里）もその知らせを読み、六郎が戦死したことを知る。しかし、突然の出来事に、スズ子と梅吉は現実を全く受け入れられずに一晩を過ごす。翌朝、チズ（ふせえり）が心配したり、小夜（富田望生）がスズ子はしばらく休むだろう団員に伝えたりする中、スズ子は楽団の事務所へ向かう。",
+        "act": "【作】櫻井剛，【出演】趣里，柳葉敏郎，ふせえり，陰山泰，えなりかずき，国木田かっぱ，伊藤えん魔，村上新悟，富田望生，隈本晃俊，黒崎煌代，【音楽】服部隆之",
+        "genres": [
+          "0300",
+          "0315",
+          "0403"
+        ]
+      },
+      {
+        "id": "2023120910474",
+        "event_id": "10474",
+        "start_time": "2023-12-09T09:55:00+09:00",
+        "end_time": "2023-12-09T10:10:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "【連続テレビ小説】ブギウギ　第１０週「大空の弟」（４８）",
+        "subtitle": "スズ子（趣里）を心配した羽鳥善一（草彅剛）は、スズ子を自宅に誘う。それには、ある理由があった…。そんな時、梅吉（柳葉敏郎）が突然、香川へ帰ると言い出す。",
+        "content": "弟が戦死してスズ子（趣里）が落ち込んでいるのではないかと心配した羽鳥善一（草彅剛）は、食事でもしようとスズ子を自宅に誘う。後日、スズ子が羽鳥の家を訪れると、そこには茨田りつ子（菊地凛子）も食事に招待されていた。羽鳥が二人を誘ったのには、ある理由があった…。そんな中、梅吉（柳葉敏郎）が突然、香川へ戻り、幼名馴染みの繊維工場を手伝うと言い出す。引き止めるスズ子だが、梅吉は聞く耳を持たずにいた。",
+        "act": "【作】櫻井剛，【出演】趣里，草彅剛，菊地凛子，市川実和子，柳葉敏郎，陰山泰，えなりかずき，国木田かっぱ，伊藤えん魔，村上新悟，富田望生，坂田聡，髙田幸季，【音楽】服部隆之",
+        "genres": [
+          "0300",
+          "0315",
+          "0403"
+        ]
+      },
+      {
+        "id": "2023120910475",
+        "event_id": "10475",
+        "start_time": "2023-12-09T10:10:00+09:00",
+        "end_time": "2023-12-09T10:25:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "【連続テレビ小説】ブギウギ　第１０週「大空の弟」（４９）",
+        "subtitle": "合同コンサートは、りつ子（菊地凛子）とスズ子（趣里）の共演が評判で満席。スズ子は羽鳥善一（草彅剛）からもらった「大空の弟」をたずさえ、ステージへと向かう。",
+        "content": "羽鳥善一（草彅剛）が企画した合同コンサートは、ブルースの女王・茨田りつ子（菊地凛子）とスウィングの女王・福来スズ子（趣里）の共演が評判を呼び、客席は満員。梅吉（柳葉敏郎）もカメを連れて客席にいた。いよいよ開演、りつ子の渾身のスピーチ、そして「雨のブルース」が響き渡る。迎えたスズ子の出番。六郎（黒崎煌代）を思うスズ子のために羽鳥が描き下ろした「大空の弟」をたずさえ、スズ子はステージへと歩みを進める。",
+        "act": "【作】櫻井剛，【出演】趣里，草彅剛，菊地凛子，柳葉敏郎，陰山泰，えなりかずき，国木田かっぱ，伊藤えん魔，村上新悟，富田望生，黒崎煌代，【音楽】服部隆之，【語り】高瀬耕造",
+        "genres": [
+          "0300",
+          "0315",
+          "0403"
+        ]
+      },
+      {
+        "id": "2023120910476",
+        "event_id": "10476",
+        "start_time": "2023-12-09T10:25:00+09:00",
+        "end_time": "2023-12-09T10:40:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "【連続テレビ小説】ブギウギ　第１０週「大空の弟」（５０）",
+        "subtitle": "りつ子（菊地凛子）とスズ子（趣里）の合同コンサートは大盛況のうちに幕を閉じる。その帰り道、おでん屋台で、スズ子と梅吉（柳葉敏郎）は親子水入らずで話をする。",
+        "content": "羽鳥善一（草彅剛）が企画した茨田りつ子（菊地凛子）と福来スズ子（趣里）の合同コンサートは、りつ子の「別れのブルース」も披露され、大盛況のうちに幕を閉じる。コンサートの帰り道、スズ子は、梅吉（柳葉敏郎）がいつもの伝蔵（坂田聡）のおでん屋台で飲んでいるのを見かける。六郎（黒崎煌代）、が戦死してから香川へ帰りたいと言っていた梅吉。スズ子は、屋台に立ち寄り梅吉の隣りに座って、親子水入らずで話をする。",
+        "act": "【作】櫻井剛，【出演】趣里，草彅剛，菊地凛子，市川実和子，柳葉敏郎，ふせえり，陰山泰，えなりかずき，国木田かっぱ，伊藤えん魔，村上新悟，富田望生，隈本晃俊，坂田聡，夙川アトム，【音楽】服部隆之，【語り】高瀬耕造",
+        "genres": [
+          "0300",
+          "0315",
+          "0403"
+        ]
+      },
+      {
+        "id": "2023120910477",
+        "event_id": "10477",
+        "start_time": "2023-12-09T10:40:00+09:00",
+        "end_time": "2023-12-09T11:25:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "４Ｋ国際共同制作　フローズンプラネット　天空の世界",
+        "subtitle": "プラネットシリーズの最新作は氷と雪に支配された真っ白な世界。第３回天空の世界ではピューマをはじめ過酷な環境に見事に適応した知られざる命の営みを極上の映像で描く。",
+        "content": "プラネットシリーズの最新作は氷と雪に支配された真っ白な世界「フローズンプラネット」第３回の舞台は天空の世界。氷と雪に覆われた高山で命をつなぐ生きものたち。ヨーロッパアルプスではイヌワシが披露する命がけの狩り。闇夜にピューマとグアナコの命の攻防が繰り広げられる南米アンデス山脈。赤道直下のアフリカケニア山には過酷な氷点下の夜を耐え忍ぶカメレオンの姿がある。ピューマの珍しい生態を捉えたメイキングも紹介。",
+        "act": "【語り】副島萌生",
+        "genres": [
+          "0802"
+        ]
+      },
+      {
+        "id": "2023120911062",
+        "event_id": "11062",
+        "start_time": "2023-12-09T11:25:00+09:00",
         "end_time": "2023-12-09T11:30:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
         },
         "service": {
-          "id": "s3",
-          "name": "ＮＨＫＢＳプレミアム",
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
           "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bsp-100x50.png",
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
             "width": "100",
             "height": "50"
           },
           "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bsp-200x100.png",
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
             "width": "200",
             "height": "100"
           },
           "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bsp-200x200.png",
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
             "width": "200",
             "height": "200"
           }
         },
-        "title": "ＢＳプレミアムの番組は、１０１チャンネル（ＮＨＫＢＳ）でご覧いただけます。",
-        "subtitle": "",
-        "content": "",
+        "title": "いきもの水中美術館（４）「ヒレの美学」",
+        "subtitle": "日本の川には艶やかな世界がある。淡水の生き物たちの美しい映像とユニークな姿を、作曲家・中島ノブユキによる書下ろし曲と共に、ノーナレーションでお伝えする。",
+        "content": "第４回目は「ヒレの美学」がテーマ。１）色鮮やかな胸ビレをもつカワヨシノボリ　２）ウチワ形の透明な尾ビレを持つトミヨ　３）墨で描いたような漆黒のヒレを持つギギ　４）野性味あふれるオレンジ色の尾びれを持つヤマトイワナ　５）天女の羽衣のような透明なヒレを持つボウズハゼ",
         "act": "",
         "genres": [
-          "1515"
+          "0802"
         ]
       },
       {
-        "id": "2023120910170",
-        "event_id": "10170",
+        "id": "2023120910479",
+        "event_id": "10479",
         "start_time": "2023-12-09T11:30:00+09:00",
-        "end_time": "2023-12-09T19:00:00+09:00",
+        "end_time": "2023-12-09T13:00:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
         },
         "service": {
-          "id": "s3",
-          "name": "ＮＨＫＢＳプレミアム",
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
           "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bsp-100x50.png",
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
             "width": "100",
             "height": "50"
           },
           "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bsp-200x100.png",
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
             "width": "200",
             "height": "100"
           },
           "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bsp-200x200.png",
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
             "width": "200",
             "height": "200"
           }
         },
-        "title": "ＢＳプレミアムの番組は、１０１チャンネル（ＮＨＫＢＳ）でご覧いただけます。",
-        "subtitle": "",
-        "content": "",
-        "act": "",
+        "title": "新・ＢＳ日本のうた▽新時代のキラ星演歌男子！真田・辰巳・新浜・青山・原田",
+        "subtitle": "今を時めくイケメン演歌男子５人が集結。自身のヒット曲はもちろん、影響を受けた思い出ソングを大熱唱。ダンスを踊りながらの楽しいコーナーや先輩からの熱血指導も！？",
+        "content": "【古今東西名曲特選】は「レット・キス（ジェンカ）」「おんな船頭唄」「しのぶ」「青いリンゴ」「どうせひろった恋だもの」「北帰行」「愛ちゃんはお嫁に」「初恋のひと」「北の大地」【スペシャルステージ】は「恋のダイヤル６７００」「ＵＦＯ」「銀座の恋の物語」「浪漫－ＲＯＭＡＮ－」「赤いランプの終列車」「男と女の破片」「もう一度逢いたい」「星空の秋子」「ブルースカイ　ブルー」「忍ぶ雨」「みちのくひとり旅」他",
+        "act": "【出演】青山新，伍代夏子，真田ナオキ，瀬口侑希，辰巳ゆうと，新浜レオン，原田波人，望月琉叶，森山愛子，山本譲二，【司会】渡辺健太，【出演】中尾唱，ＢＳ日本のうた楽団",
         "genres": [
-          "1515"
+          "0404"
         ]
       },
       {
-        "id": "2023120910178",
-        "event_id": "10178",
-        "start_time": "2023-12-09T19:00:00+09:00",
-        "end_time": "2023-12-10T02:00:00+09:00",
+        "id": "2023120910481",
+        "event_id": "10481",
+        "start_time": "2023-12-09T13:00:00+09:00",
+        "end_time": "2023-12-09T14:29:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
         },
         "service": {
-          "id": "s3",
-          "name": "ＮＨＫＢＳプレミアム",
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
           "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bsp-100x50.png",
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
             "width": "100",
             "height": "50"
           },
           "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bsp-200x100.png",
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
             "width": "200",
             "height": "100"
           },
           "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bsp-200x200.png",
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
             "width": "200",
             "height": "200"
           }
         },
-        "title": "ＢＳプレミアムの番組は、１０１チャンネル（ＮＨＫＢＳ）でご覧いただけます。",
-        "subtitle": "",
-        "content": "",
-        "act": "",
+        "title": "ワイルドライフ　地球大劇場！　アメリカ大陸　命の躍動を追う",
+        "subtitle": "舞台は南北アメリカ大陸。パタゴニアの草原で獲物を狙うピューマ、巨大サボテンで子育てするフクロウ、アマゾン川で驚きの狩りをするカワイルカ。珠玉の映像でお届けする！",
+        "content": "南北２万キロに連なるアメリカ大陸が舞台。真っ白な雪と氷に覆われた断崖を駆けるシロイワヤギ、鮮やかな緑広がる熱帯の森で巧みな樹上生活をする個性豊かなサルたち、そして真っ赤な湖で子育てをするフラミンゴ。海には世界最大の魚・ジンベエザメが大集結し、バショウカジキがイワシの大群を狙って迫力の狩りを繰り広げる。変化に富んだ絶景、そしてスペクタクルな決定的瞬間。生きものたちの命のドラマを４Ｋ高精細映像で描く！",
+        "act": "【語り】守本奈実，二宮直輝",
         "genres": [
-          "1515"
+          "0802",
+          "0801",
+          "0807"
         ]
       },
       {
-        "id": "2023120910535",
-        "event_id": "10535",
-        "start_time": "2023-12-10T02:00:00+09:00",
+        "id": "2023120910482",
+        "event_id": "10482",
+        "start_time": "2023-12-09T14:29:00+09:00",
+        "end_time": "2023-12-09T14:30:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "シリーズ古代文明～マヤ　ＰＲ",
+        "subtitle": "ＢＳＰ４Ｋで１２月から始まるシリーズ「はるかなる古代文明」。第１回はメキシコに花開いたマヤ文明の秘密に迫る。数々のミステリーに覆われた密林文明の真実とは？",
+        "content": "【出演】上白石萌音【ナレーション】福山潤",
+        "act": "上白石萌音",
+        "genres": [
+          "0207",
+          "0801"
+        ]
+      },
+      {
+        "id": "2023120910483",
+        "event_id": "10483",
+        "start_time": "2023-12-09T14:30:00+09:00",
+        "end_time": "2023-12-09T16:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "探検！世界の動物園の舞台裏「チェコ・プラハ動物園」",
+        "subtitle": "古都を見下ろす高台にあるチェコ・プラハ動物園は絶景と動物を一度に楽しめる欧州の大人気動物園！アフリカの草原を再現した展示や絶滅危惧種保護の取り組みを徹底紹介！",
+        "content": "チェコにあるプラハ動物園は、旅行サイトの人気投票で常に上位にランクされる超人気動物園！東京ドーム１０個分超の敷地には、アフリカのサバンナを再現したエリアやむき出しの岩で作った断崖エリアが配置され、キリンやシマウマが互いを意識しながら暮らしたり、バーバリーシープが岩から岩へと飛び移ったりする大自然さながらの姿を満喫できる。モウコノウマなどの絶滅危惧種の保護や繁殖に取り組む様子も徹底紹介！",
+        "act": "【語り】上白石萌歌，中谷文彦",
+        "genres": [
+          "0802"
+        ]
+      },
+      {
+        "id": "2023120917827",
+        "event_id": "17827",
+        "start_time": "2023-12-09T16:00:00+09:00",
+        "end_time": "2023-12-09T17:30:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "恐竜超世界２　特別編　前編　巨大恐竜の王国　ゴンドワナ大陸",
+        "subtitle": "ＮＨＫスペシャルで放送した「恐竜超世界２」の特別編。最新研究で見えてきた“未知の恐竜世界”を描くシリーズの前編。舞台はかつて南半球に存在した巨大大陸ゴンドワナ。",
+        "content": "恐竜時代、南半球に存在したゴンドワナ大陸。後に、南米、アフリカ、南極などに分裂した巨大大陸だ。近年、南半球での調査が進む中、恐竜学の常識を揺るがす発見が相次いでいる。全長４０ｍにもなる超巨大種や鬼のような角を生やした大型肉食恐竜など、巨大な恐竜たちが続々と見つかっているのだ。なぜ、恐竜たちは巨大化の道を歩んだのか？恐竜大好き少女「ハルカ」が体験する不思議なドラマを交え、ゴンドワナの恐竜のに迫る。",
+        "act": "【出演】稲垣来泉，田中直樹，原沙知絵，優香，【語り】上白石萌音",
+        "genres": [
+          "0803"
+        ]
+      },
+      {
+        "id": "2023120910485",
+        "event_id": "10485",
+        "start_time": "2023-12-09T17:30:00+09:00",
+        "end_time": "2023-12-09T17:59:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "驚き！地球！グレートネイチャー　氷河が育む大地の鼓動　～極北アラスカ～",
+        "subtitle": "極北アラスカの絶景群…氷河の青い血管、雷の氷河、温暖化の中成長を続ける氷河。さらに氷河の意外な力で誕生した生命の楽園。氷河地帯に秘められた大自然のドラマに迫る！",
+        "content": "極北アラスカ…そこは十万の氷河がひしめく巨大氷河密集地帯だ。氷河の青い血管、雷の氷河、温暖化の中でも前進を続ける世界的にもまれな氷河などを探検！その驚きの絶景とメカニズムに迫る。また後退した氷河の跡地には、広大な森やいきものの楽園が誕生！そこに秘められた氷河の意外な力とは？さらに西側の火山密集地帯にも潜入！そこには氷河と火山が共存する不思議な世界が…。氷と火、そして夕日の織りなす一瞬の絶景とは…？",
+        "act": "【語り】高橋さとみ",
+        "genres": [
+          "0802",
+          "0801",
+          "0803"
+        ]
+      },
+      {
+        "id": "2023120913303",
+        "event_id": "13303",
+        "start_time": "2023-12-09T17:59:00+09:00",
+        "end_time": "2023-12-09T18:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "４Ｋでもう一度会える！『ジェシカおばさんの事件簿』",
+        "subtitle": "アンジェラ・ランズベリーが演じるジェシカの声を名優・森光子が吹き替えて話題になったミステリードラマが、新しくなったＢＳプレミアム４Ｋに帰ってくる！",
+        "content": "田舎町に住む推理小説家ジェシカ・フレッチャー。鋭い観察力と持ち前のおせっかいで、次々と起こる難事件に首を突っ込んでは、あざやかに解決する。「よござんす！」ときっぷのよい森光子の名調子と、ジョージ・クルーニー、オリビア・ハッセー、メル・ファーラーら、豪華ゲストの競演を４Ｋの高画質で。",
+        "act": "【語り】坂本朋彦",
+        "genres": [
+          "0207",
+          "0301"
+        ]
+      },
+      {
+        "id": "2023120910487",
+        "event_id": "10487",
+        "start_time": "2023-12-09T18:00:00+09:00",
+        "end_time": "2023-12-09T19:30:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "はるかなる古代文明　マヤ　生命はめぐり　神は降臨する「マヤ文明」",
+        "subtitle": "メキシコに花開いた古代文明マヤ。紀元前１１００年ごろ姿を現し、スペインに征服されるまで続いた文明は、世界史上類を見ないものだった。その謎と驚くべき実像に迫る。",
+        "content": "密林にそびえるピラミッド。封印された仮面。神秘的な文字や図像。これまでマヤは、謎多き文明とされてきた。先端技術を駆使した考古学によって、実像の解明が進む。石造りの建築群を調査することで見えてきた独特の死生観。最近の発掘によって姿を現した巨大遺跡には、常識を覆す文明の起源が隠されていた。読解されたマヤ文字から見えてきたのは戦争の実態。ダイナミックな文明の興亡を探る旅へ！ナビゲーターは上白石萌音。",
+        "act": "【出演】上白石萌音，茨城大学人文学部　教授…青山和夫",
+        "genres": [
+          "0801"
+        ]
+      },
+      {
+        "id": "2023120910489",
+        "event_id": "10489",
+        "start_time": "2023-12-09T19:30:00+09:00",
+        "end_time": "2023-12-09T21:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "地球（アース）トラベラーグレートヒマラヤトレイル　日本人が愛した山マナスル",
+        "subtitle": "１９５６年日本が初登頂したヒマラヤの８０００ｍ峰マナスル、日本人と深いゆかりを持つ山の絶景を求めて山懐へ！豪雪や多発する雪崩に耐え撮影のチャンスを待ち続けるが…",
+        "content": "２人のカメラマンが究極の絶景を求めて天空のトレイルを行く旅。戦後の日本にとって悲願だったマナスル（８１６３ｍ）初登頂の足跡をたどる。標高５１６０ｍの峠を越えて、７０年前に日本隊が見出した登頂ルートの撮影に挑む。さらに１９７４年、世界初の「女性による８０００ｍ峰登頂」をマナスルで成し遂げた日本女性隊、その栄光と悲劇を初公開の映像で紹介！現地で守護神として崇められるマナスル、さまざまな表情を描く。",
+        "act": "【出演】中島健郎，石井邦彦，貫田宗男，イモトアヤコ，【語り】斉藤茂一",
+        "genres": [
+          "0802"
+        ]
+      },
+      {
+        "id": "2023120910491",
+        "event_id": "10491",
+        "start_time": "2023-12-09T21:00:00+09:00",
+        "end_time": "2023-12-09T21:30:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "Ｔｈｅ　Ｃｏｖｅｒｓ　原田知世と贈る、６０ｓ＆７０ｓ洋楽の世界",
+        "subtitle": "ＭＣ：リリー・フランキー　上白石萌歌／語り：堂本光一／原田知世と贈る６０ｓ＆７０ｓ洋楽の世界カーペンターズ、ロネッツ、モンキーズ名曲を！北大路欣也がエルヴィスを",
+        "content": "ＭＣ：リリー・フランキー　上白石萌歌／語り：堂本光一／ゲスト：原田知世／愛され続ける、往年の洋楽ヒットナンバーをお届け！カーペンターズ「遥かなる影」、モンキーズ「デイドリーム・ビリーバー」、ザ・ロネッツ「ビー・マイ・ベイビー」をカバー！セレクションでは、俳優・北大路欣也がエルヴィス・プレスリー「好きにならずにいられない」、スタレビが「マシュ・ケ・ナダ」、ＧＬＩＭがジャニス・ジョプリン名曲カバー！",
+        "act": "【司会】リリー・フランキー，上白石萌歌，【ゲスト】原田知世，【出演】ＧＬＩＭ　ＳＰＡＮＫＹ，スターダストレビュー（４），北大路欣也，【語り】堂本光一",
+        "genres": [
+          "0400"
+        ]
+      },
+      {
+        "id": "2023120910493",
+        "event_id": "10493",
+        "start_time": "2023-12-09T21:30:00+09:00",
+        "end_time": "2023-12-09T21:59:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "Ｔｈｅ　Ｃｏｖｅｒｓ　スターダスト☆レビュー４０周年・春",
+        "subtitle": "ＭＣ：リリー・フランキー水原希子／語り：堂本光一／『スターダスト☆レビュー４０周年・春ＳＰ』太田裕美「木綿のハンカチーフ」、ユーミン「陰りゆく部屋」「木蘭の涙」",
+        "content": "ＭＣ：リリー・フランキー、水原希子／語り：堂本光一／『スターダスト☆レビュー４０周年・春ＳＰ』／太田裕美「木綿のハンカチーフ」、そしてユーミン「陰りゆく部屋」はアカペラで！更に、歌い継がれるオリジナル名曲「木蘭の涙」をソリッドなバンドアレンジで！メンバー総出演による、爆笑トークも！スタ☆レビの名曲・名カバー・名トーク満載でお届けする、スペシャルナイト！",
+        "act": "【司会】リリー・フランキー，水原希子，【語り】堂本光一，【ゲスト】スターダスト☆レビュー",
+        "genres": [
+          "0400"
+        ]
+      },
+      {
+        "id": "2023120914735",
+        "event_id": "14735",
+        "start_time": "2023-12-09T21:59:00+09:00",
+        "end_time": "2023-12-09T22:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "シリーズ古代文明～アンデス・インカ　ＰＲ",
+        "subtitle": "ＢＳＰ４Ｋで１２月から始まるシリーズ「はるかなる古代文明」。第２回は南米アンデス文明。ヨーロッパ人が追い求めた幻の黄金。インカ帝国に引き継がれた謎の文明とは？",
+        "content": "【ナレーション】福山潤",
+        "act": "",
+        "genres": [
+          "0207",
+          "0801"
+        ]
+      },
+      {
+        "id": "2023120916785",
+        "event_id": "16785",
+        "start_time": "2023-12-09T22:00:00+09:00",
+        "end_time": "2023-12-09T23:30:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "イッピン　スペシャル～火の巻～",
+        "subtitle": "伝統工芸の世界に、新しい風が吹き始めている。中にはネットで評判になるものも。大阪・愛知・山梨から、若手の職人たちが生み出す斬新な焼き物とガラス工芸を紹介する。",
+        "content": "愛知・瀬戸焼の若手職人が、そのユニークな制作過程をＳＮＳで生配信。フォロアーは世界で１８万人に上る。いま全国で、若手の職人たちが、伝統工芸の世界に新風をまき起こしている。大阪で復活した切子ガラス、愛知・瀬戸焼の特殊な技法、そして山梨で生まれた独特な焼き物。それぞれデザインが斬新なだけでなく、制作過程にも工夫が凝らされ、コロナ以後、日常の暮らしを充実させたいと願う人々の志向にかなうものばかりだ。",
+        "act": "【語り】平野義和，【リポーター】黒谷友香，三倉茉奈，中山エミリ",
+        "genres": [
+          "0804"
+        ]
+      },
+      {
+        "id": "2023120910496",
+        "event_id": "10496",
+        "start_time": "2023-12-09T23:30:00+09:00",
+        "end_time": "2023-12-10T02:30:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "世界の祭り「フランス・リヨン　光の祭典」",
+        "subtitle": "フランス中東部の街、リヨンを舞台に、光を使った作品が６０以上も展示される“光の祭典”。８Ｋの高精細映像で、祭りの準備からクライマックスまでリアルにお届けする。",
+        "content": "８Ｋの高精細映像と、５．１ｃｈのリアルな音であたかもその場にいるかのような臨場感あふれる「世界の祭り」。今回の舞台はフランス・リヨン。世界遺産としても知られるこの街は毎年１２月上旬に色とりどりの光に照らされる。光を使った６０以上もの作品は、街のあらゆる通りや広場、象徴的な建築物に映し出される。街や建物の歴史、時代を映した物語のある光のショー。祭りの起源となったキャンドルの大行進も。街が輝く４日間。",
+        "act": "",
+        "genres": [
+          "0801"
+        ]
+      },
+      {
+        "id": "2023120911067",
+        "event_id": "11067",
+        "start_time": "2023-12-10T02:30:00+09:00",
+        "end_time": "2023-12-10T04:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "一本の道「ギリシャ　山の向こうへ　最果ての石畳を行く」",
+        "subtitle": "ＮＨＫアナウンサーと現地で暮らす人が歩いて旅をする紀行番組、「一本の道」の９０分拡大版。ギリシャ最果ての山岳地帯に刻まれた歴史や文化に出会い、絶景の中を旅する。",
+        "content": "ギリシャの北西部に「山の向こう」を意味するザゴリと呼ばれる地域がある。文字通り、急しゅんな山が連なりヨーロッパ一深い渓谷や切り立つ岩山に囲まれた美しい村が点在する。そんな絶景の中をＮＨＫの浅野里香アナウンサーが６日間かけて歩いた。２００メートル続く石の階段や石造りの橋、そして石畳。この地に刻まれた栄枯盛衰の歴史に触れ、厳しい自然と共に暮らしながら、独自の文化や伝統を守り続ける人々の思いにも触れた旅",
+        "act": "【出演】浅野里香，アナスタシア・カチャントニ",
+        "genres": [
+          "1000",
+          "0202",
+          "0804"
+        ]
+      },
+      {
+        "id": "2023120910841",
+        "event_id": "10841",
+        "start_time": "2023-12-10T04:00:00+09:00",
         "end_time": "2023-12-10T05:00:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
         },
         "service": {
-          "id": "s3",
-          "name": "ＮＨＫＢＳプレミアム",
+          "id": "s5",
+          "name": "ＮＨＫ ＢＳプレミアム４Ｋ",
           "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bsp-100x50.png",
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-100x50.png",
             "width": "100",
             "height": "50"
           },
           "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bsp-200x100.png",
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x100.png",
             "width": "200",
             "height": "100"
           },
           "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bsp-200x200.png",
+            "url": "//www.nhk.or.jp/common/img/media/bs4k-200x200.png",
             "width": "200",
             "height": "200"
           }
         },
-        "title": "ＢＳプレミアムの番組は、１０１チャンネル（ＮＨＫＢＳ）でご覧いただけます。",
-        "subtitle": "",
-        "content": "",
-        "act": "",
+        "title": "ワイルドライフ▽ペルー　アマゾン源流域“楽園”の鳥たち　知恵と絆で命を守る",
+        "subtitle": "鳥の王国、ペルーのアマゾン川源流域。ツリスドリは木の枝にぶら下がる団地のような巣を作るなどユニークな天敵対策を誇る。そこに迫る強敵オオハシ！息詰まる攻防を追う。",
+        "content": "ペルーのアマゾン川源流域。世界遺産のマヌー国立公園を始め、水と森が織りなす大自然が広がり、１０００種もの野鳥が暮らす。鳥たちはサルなどの天敵から身を守る数々の作戦を編み出してきた。中でもユニークなのがツリスドリ。木の枝に頑丈な巣が団地のように連なり、ガードマンとしてハチを利用。さらに気性の荒いオスたちが敵を迎え撃つ。しかし巨大なクチバシを持つ鳥・オオハシが防衛網を突破して迫る！息詰まる攻防を追う。",
+        "act": "【語り】礒野佑子",
         "genres": [
-          "1515"
+          "0802"
         ]
       }
     ],
-    "s4": [
+    "s6": [
       {
-        "id": "2023120910159",
-        "event_id": "10159",
-        "start_time": "2023-12-09T05:00:00+09:00",
+        "id": "2023120910497",
+        "event_id": "10497",
+        "start_time": "2023-12-09T00:00:00+09:00",
+        "end_time": "2023-12-09T10:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s6",
+          "name": "ＮＨＫ ＢＳ８Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "（放送休止）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "1515"
+        ]
+      },
+      {
+        "id": "2023120910502",
+        "event_id": "10502",
+        "start_time": "2023-12-09T10:00:00+09:00",
         "end_time": "2023-12-09T11:30:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
         },
         "service": {
-          "id": "s4",
-          "name": "ＮＨＫＢＳプレミアム(１０４ｃｈ)",
+          "id": "s6",
+          "name": "ＮＨＫ ＢＳ８Ｋ",
           "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bspm-100x50.png",
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-100x50.png",
             "width": "100",
             "height": "50"
           },
           "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bspm-200x100.png",
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x100.png",
             "width": "200",
             "height": "100"
           },
           "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bspm-200x200.png",
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x200.png",
             "width": "200",
             "height": "200"
           }
         },
-        "title": "ＢＳプレミアムの番組は、１０１チャンネル（ＮＨＫＢＳ）でご覧いただけます。",
-        "subtitle": "",
-        "content": "",
-        "act": "",
+        "title": "ニューヨーク地下鉄　アート＆パフォーマンス",
+        "subtitle": "１日２４時間、ニューヨーカー８６０万人の足となっている　世界最大規模の地下鉄。この空間はライブステージであり、アートギャラリーでもあるのだ。",
+        "content": "ニューヨークの地下鉄をめぐる旅。各駅のホームなどを飾るモザイクアートは有名アーティストの作品ばかり。７２丁目駅では、オノ・ヨーコが創作した「空」を見ることができる。各駅のホームなどで出会える生演奏も、実力あるプロのミュージシャンによるもの。ロック、ジャズからオペラまで。不思議な音色を奏でる女性が手にしているのは、なんとノコギリだ。日本人のミュージシャンは、静かなギターの音色で乗客たちを魅了する。",
+        "act": "【語り】マックスウェル・パワーズ",
         "genres": [
-          "1515"
+          "0804"
         ]
       },
       {
-        "id": "2023120910170",
-        "event_id": "10170",
+        "id": "2023120910505",
+        "event_id": "10505",
         "start_time": "2023-12-09T11:30:00+09:00",
+        "end_time": "2023-12-09T13:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s6",
+          "name": "ＮＨＫ ＢＳ８Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "オカバンゴ　水の魔法が生み出すアフリカの奇跡",
+        "subtitle": "不毛の大地が一年のうち４か月だけ広大な湿原に変わるオカバンゴ。バッファローやゾウが群れで集まり、ライオンなどの肉食動物が狩りをする。命の躍動を極上の映像で描く。",
+        "content": "“アフリカの奇跡”と言われる絶景、オカバンゴ。不毛の大地が一年のうちわずか４か月の間だけ広大な湿原に変わる。１０００キロ以上も離れた場所で降った雨が、川を氾濫させることで生まれる楽園。そこへバッファローやゾウが群れをなして集まる。大地が水で満たされることで芽吹く草が、たくさんの草食動物を引き寄せるのだ。その生き物たちを狙ってライオンなどの肉食動物が狩りをはじめる。命の躍動を８Ｋの極上の映像で描く。",
+        "act": "【語り】田中泯，池田伸子",
+        "genres": [
+          "0802"
+        ]
+      },
+      {
+        "id": "2023120910508",
+        "event_id": "10508",
+        "start_time": "2023-12-09T13:00:00+09:00",
+        "end_time": "2023-12-09T15:30:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s6",
+          "name": "ＮＨＫ ＢＳ８Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "秋田大曲　全国花火競技大会２０２３",
+        "subtitle": "全国から選び抜かれた花火師たちが日本一を目指して競い合う、全国花火競技大会。伝統と誇りの「大曲の花火」、国内最高峰の華麗な花火を８Ｋでたっぷりと鑑賞！",
+        "content": "明治時代からの伝統を誇る全国花火競技大会「大曲の花火」（秋田県大仙市）。内閣総理大臣賞をかけた迫力の競演を２時間３０分にわたって８Ｋの超高精細で鑑賞する。一発のまるい花火の美しさを競う「芯入割物」と、形を問わない「自由玉」、音楽に合わせた演出力が問われる「創造花火」の三部門。競技の合間に打ち上げられるスターマインなど仕掛け花火や圧巻の迫力で大人気の「大会提供花火」に酔いしれる。ゲスト：佐々木希",
+        "act": "【ゲスト】佐々木希，【解説】日本煙火協会専務理事…河野晴行，【司会】大谷昌弘",
+        "genres": [
+          "0804"
+        ]
+      },
+      {
+        "id": "2023120910511",
+        "event_id": "10511",
+        "start_time": "2023-12-09T15:30:00+09:00",
+        "end_time": "2023-12-09T16:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s6",
+          "name": "ＮＨＫ ＢＳ８Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "厳冬　北海道の野鳥～写真家・嶋田忠が見つめる千歳の森～",
+        "subtitle": "北海道の雄大な自然と野鳥に引かれて、４８年間、野鳥を撮影してきた写真家がいる。日本を代表する動物写真家、嶋田忠。厳冬期、川に飛び込み魚を捕まえるヤマセミを追う。",
+        "content": "嶋田がライフワークにしている鳥がヤマセミ。カワセミの仲間で白と黒のまだら模様が特徴。水中に一直線に突っ込み、一瞬の早業で魚を捕まえる。氷点下の中、水や羽の水滴は、たちまち凍り付く。巧みな狩りと凍てつく姿を８Ｋカメラで狙う。３月に入ると、ヤマセミは繁殖期を迎える。オスが捕まえた魚をメスに見せ、メスに気に入ってもらえるとプレゼントする愛らしい行動が見せる。千歳の森の春も間もなくだ。",
+        "act": "【出演】写真家…嶋田忠",
+        "genres": [
+          "0802"
+        ]
+      },
+      {
+        "id": "2023120910512",
+        "event_id": "10512",
+        "start_time": "2023-12-09T16:00:00+09:00",
+        "end_time": "2023-12-09T17:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s6",
+          "name": "ＮＨＫ ＢＳ８Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "コズミックフロント☆ヒーリング「ランディが挑む　アメリカ　冬の星空」",
+        "subtitle": "宇宙の謎に迫るコズミックフロント☆ＮＥＸＴ。これまで撮影してきた究極の星空映像を極上の音楽とともに紹介する。今夜は空気が澄み星々の輝きが増す「冬の星空」を描く。",
+        "content": "宇宙の謎に迫るコズミックフロント☆ＮＥＸＴ。今夜は空気が澄み、星々の輝きが増す冬の美しい夜空がテーマ。アメリカ、ハワイ、スバールバル諸島、北海道から撮影した冬ならではの星空や、アメリカの星空カメラマン、ランディ・ハルバーソンが「冬のダイヤモンド」の撮影に挑む姿を極上の音楽とともに紹介する。",
+        "act": "",
+        "genres": [
+          "0803"
+        ]
+      },
+      {
+        "id": "2023120910513",
+        "event_id": "10513",
+        "start_time": "2023-12-09T17:00:00+09:00",
+        "end_time": "2023-12-09T18:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s6",
+          "name": "ＮＨＫ ＢＳ８Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "聖なる巡礼路を行く～カミーノ・デ・サンティアゴ　１５００ｋｍ（２）肉体の道",
+        "subtitle": "キリスト教の聖地サンティアゴ・デ・コンポステーラを徒歩で目指す旅「サンティアゴ巡礼」。ピレネー山脈越えからはじまる過酷なルートに挑む巡礼者たちの感動の物語。",
+        "content": "キリスト教の聖地サンティアゴ・デ・コンポステーラを徒歩で目指す旅「サンティアゴ巡礼」。中世に始まったこの旅が、今一大ブームとなっている。最先端の８Ｋカメラを用い、３回シリーズでその全貌に迫る第２話は、フランスとの国境ピレネー山脈越えからはじまる過酷な道のりを追う。急な勾配と悪路がもたらす足への負担を抱えながら、巡礼者たちはなぜ歩き続けるのか。その答えを求めて西に向かう。",
+        "act": "【語り】武内陶子，森川智之",
+        "genres": [
+          "0801",
+          "0804",
+          "1000"
+        ]
+      },
+      {
+        "id": "2023120910515",
+        "event_id": "10515",
+        "start_time": "2023-12-09T18:00:00+09:00",
         "end_time": "2023-12-09T19:00:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
         },
         "service": {
-          "id": "s4",
-          "name": "ＮＨＫＢＳプレミアム(１０４ｃｈ)",
+          "id": "s6",
+          "name": "ＮＨＫ ＢＳ８Ｋ",
           "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bspm-100x50.png",
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-100x50.png",
             "width": "100",
             "height": "50"
           },
           "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bspm-200x100.png",
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x100.png",
             "width": "200",
             "height": "100"
           },
           "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bspm-200x200.png",
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x200.png",
             "width": "200",
             "height": "200"
           }
         },
-        "title": "ＢＳプレミアムの番組は、１０１チャンネル（ＮＨＫＢＳ）でご覧いただけます。",
-        "subtitle": "",
-        "content": "",
-        "act": "",
+        "title": "わくわく！生きもの大集合　よみがえる　みやぎの海へ",
+        "subtitle": "東北、宮城の海辺を高精細の８Ｋ映像で記録しました。東日本大震災から１２年、たくましくよみがえる海辺の生きものと人との物語、ココリコの田中直樹さんがご案内します！",
+        "content": "東北、宮城の海辺を半年にわたり高精細の８Ｋ映像で記録しました。個性豊かな生きものがたくさん暮らす「干潟」や「海藻の森」は、東日本大震災の津波で大きな被害を受けました。しかし生きものたちは、海のネットワークを利用してたくましく復活。その姿に励まされた人たちは、海との暮らしを取り戻し未来につなごうとしています。震災から１２年、よみがえる宮城の海辺を、生きもの大好き、ココリコ田中直樹さんがご案内します！",
+        "act": "【語り】田中直樹",
         "genres": [
-          "1515"
+          "0802"
         ]
       },
       {
-        "id": "2023120910178",
-        "event_id": "10178",
+        "id": "2023120910516",
+        "event_id": "10516",
         "start_time": "2023-12-09T19:00:00+09:00",
-        "end_time": "2023-12-10T02:00:00+09:00",
+        "end_time": "2023-12-09T19:30:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
         },
         "service": {
-          "id": "s4",
-          "name": "ＮＨＫＢＳプレミアム(１０４ｃｈ)",
+          "id": "s6",
+          "name": "ＮＨＫ ＢＳ８Ｋ",
           "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bspm-100x50.png",
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-100x50.png",
             "width": "100",
             "height": "50"
           },
           "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bspm-200x100.png",
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x100.png",
             "width": "200",
             "height": "100"
           },
           "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bspm-200x200.png",
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x200.png",
             "width": "200",
             "height": "200"
           }
         },
-        "title": "ＢＳプレミアムの番組は、１０１チャンネル（ＮＨＫＢＳ）でご覧いただけます。",
+        "title": "８Ｋ鉄路紀行　土屋礼央＆瀧野由美子と楽しむ！８Ｋ鉄路紀行　シーズン２",
+        "subtitle": "今回はＮＨＫのラジオ番組「鉄旅・音旅出発進行！～音で楽しむ鉄道旅～」出演中の土屋礼央さんと瀧野由美子さんがナビゲート。お二人の鉄道愛あふれるトークをお楽しみに！",
+        "content": "今回はＮＨＫのラジオ番組「鉄旅・音旅出発進行！～音で楽しむ鉄道旅～」出演中の土屋礼央さんと瀧野由美子さんがナビゲート。いつもは音で鉄道の魅力を伝えているお二人からどんな話が聞けるのでしょうか？地元の人たちとともに復興を果たす「南阿蘇鉄道」、人気観光地を急こう配でかけ上がる「高尾登山電鉄」、懐かしい列車に再び会える「富山地方鉄道　立山線」。お二人の鉄道愛あふれるトークをお楽しみください！",
+        "act": "【出演】土屋礼央，瀧野由美子，【アナウンサー】渡辺健太",
+        "genres": [
+          "0801"
+        ]
+      },
+      {
+        "id": "2023120910517",
+        "event_id": "10517",
+        "start_time": "2023-12-09T19:30:00+09:00",
+        "end_time": "2023-12-09T19:40:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s6",
+          "name": "ＮＨＫ ＢＳ８Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "８Ｋ鉄路紀行「熊本　南阿蘇鉄道」",
+        "subtitle": "各地のシンボルとなっている鉄道や駅を舞台に沿線の美しい風景などの地域の魅力を８Ｋの超高精細映像で描く「８Ｋ鉄路紀行」。熊本県を走る南阿蘇鉄道です。",
+        "content": "熊本県の高森駅から立野駅の間、１７．７ｋｍを走る南阿蘇鉄道。２０１６年、熊本地震で線路や駅舎が大きな被害を受けて、いまは半分ほどの区間で運行されています。春から初冬の観光シーズンには、トロッコ列車も走ります。沿線では阿蘇の山々の姿や阿蘇のめぐみであるきれいなわき水を楽しむ事ができます。列車からの前面車窓も交えて、沿線に広がる美しい風景を８Ｋの超高精細な映像でお楽しみ下さい。",
+        "act": "",
+        "genres": [
+          "0801"
+        ]
+      },
+      {
+        "id": "2023120910518",
+        "event_id": "10518",
+        "start_time": "2023-12-09T19:40:00+09:00",
+        "end_time": "2023-12-09T19:50:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s6",
+          "name": "ＮＨＫ ＢＳ８Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "８Ｋ鉄路紀行「東京　高尾登山電鉄」",
+        "subtitle": "各地のシンボルとなっている鉄道や駅を舞台に沿線の美しい風景などの地域の魅力を８Ｋの超高精細映像で描く「８Ｋ鉄路紀行」。東京都の高尾山を旅します。",
+        "content": "東京都八王子市の高尾山の清滝駅から高尾山駅の間およそ１ｋｍを６分間で結ぶケーブルカー。１本のケーブルにつながれた２つの車両が年間およそ２００万人の人々を運びます。１年中美しい景色を楽しむ事ができますが、特に秋は紅葉が見事です。また最大こう配は３１度１８分でケーブルカーとしては日本一です。まるでケーブルカーの最前列から見ているかのような高尾山の晩秋の美しい景色を８Ｋの超高精細な映像でお楽しみ下さい。",
+        "act": "",
+        "genres": [
+          "0801"
+        ]
+      },
+      {
+        "id": "2023120910519",
+        "event_id": "10519",
+        "start_time": "2023-12-09T19:50:00+09:00",
+        "end_time": "2023-12-09T20:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s6",
+          "name": "ＮＨＫ ＢＳ８Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "８Ｋ鉄路紀行「富山地方鉄道　立山線」",
+        "subtitle": "各地のシンボルとなっている鉄道や駅を舞台に沿線の美しい風景などの地域の魅力を８Ｋの超高精細映像で描く「８Ｋ鉄路紀行」。富山県を走る富山地方鉄道立山線です。",
+        "content": "富山県の電鉄富山駅から寺田駅を通って立山駅をつなぐ富山地方鉄道立山線。全長３４ｋｍ、２１駅をおよそ１時間で結びます。この路線では首都圏や関西地方で走っていた車両がいまも現役で活躍しています。１月、山に向かう電車からはだんだん深くなる雪の様子や雪に覆われた立山連峰の姿を見ることができます。番組では電車からの前面車窓を中心に雪に覆われた沿線の美しい風景を８Ｋの超高精細な映像でお楽しみいただきます。",
+        "act": "",
+        "genres": [
+          "0801"
+        ]
+      },
+      {
+        "id": "2023120910520",
+        "event_id": "10520",
+        "start_time": "2023-12-09T20:00:00+09:00",
+        "end_time": "2023-12-09T21:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s6",
+          "name": "ＮＨＫ ＢＳ８Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "魅せられて　氷瀑（ばく）～ぐるっと御嶽山～",
+        "subtitle": "真冬の御嶽山の山中で、光り輝く氷の神殿。凍った滝「氷ばく」を求めて女優の南沢奈央さんが体感の旅に。ブルーアイスの幻の滝が放つ光とは？アイスクライミングに初挑戦！",
+        "content": "長野と岐阜にまたがる御嶽山は滝が多く、冬、様々な「氷ばく」が出現する。氷の神殿のような氷柱、複雑な形に氷結した滝つぼ、自然が生み出す多彩な絶景にカメラが入った。美しくもはかない氷ばくを、わずかな手がかりを頼りに登る「アイスクライミング」も人気だ。さらに、一際青く輝く「ブルーアイス」を目指し、幻の氷ばくを探索。女優の南沢奈央さんが、御嶽山をぐるっと巡りながら、氷ばくの楽しみ方を体感する。",
+        "act": "【出演】南沢奈央，【語り】石丸謙二郎",
+        "genres": [
+          "0802"
+        ]
+      },
+      {
+        "id": "2023120910522",
+        "event_id": "10522",
+        "start_time": "2023-12-09T21:00:00+09:00",
+        "end_time": "2023-12-09T21:50:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s6",
+          "name": "ＮＨＫ ＢＳ８Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "８Ｋ医療改革最前線２０２３",
+        "subtitle": "放送技術として開発された８Ｋが、今、医療の現場に大きな革新をもたらそうとしている。その先頭を走る順天堂大学心臓血管外科を舞台に、８Ｋ医療の最前線を描いていく。",
+        "content": "放送技術として開発された８Ｋが、今、医療の現場に大きな革新をもたらそうとしている。内視鏡と８Ｋカメラを結んだ８Ｋ手術、８Ｋ遠隔診断、手術の８Ｋライブ配信による授業など、手術の安全性を高めるだけでなく、次世代への技術伝承・教育についても大きな威力を発揮している。その先頭を走る順天堂大学心臓血管外科を舞台に、８Ｋ医療の最前線を描いていく。",
+        "act": "",
+        "genres": [
+          "0803"
+        ]
+      },
+      {
+        "id": "2023120910524",
+        "event_id": "10524",
+        "start_time": "2023-12-09T21:50:00+09:00",
+        "end_time": "2023-12-09T22:10:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s6",
+          "name": "ＮＨＫ ＢＳ８Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "美ら海散歩～沖縄　八重山諸島～",
+        "subtitle": "世界有数のサンゴの海に生きるさまざまな魚、マンタやウミガメなど多彩な生きものの姿を８Ｋ映像で！あたかも一緒に海に潜っているかのような臨場感をお楽しみください！",
+        "content": "世界初の８Ｋによる本格水中撮影の貴重な記録がここに！２０１３年７月、世界有数のサンゴの海として知られる沖縄・石垣島周辺の海で、８Ｋカメラ用の水中撮影装置を新たに開発して、水中撮影を敢行。色とりどりのサンゴや魚、さらにはマンタやウミガメなど、多彩な生きものの姿を、超高精細の８Ｋ映像で初めて撮影することに成功した。あたかも一緒に海に潜っているかのような臨場感は、まさに８Ｋならでは！",
+        "act": "",
+        "genres": [
+          "0802"
+        ]
+      },
+      {
+        "id": "2023120910526",
+        "event_id": "10526",
+        "start_time": "2023-12-09T22:10:00+09:00",
+        "end_time": "2023-12-10T00:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "s6",
+          "name": "ＮＨＫ ＢＳ８Ｋ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "（放送休止）",
         "subtitle": "",
         "content": "",
         "act": "",
@@ -14412,34 +16404,34 @@
         ]
       },
       {
-        "id": "2023120910535",
-        "event_id": "10535",
-        "start_time": "2023-12-10T02:00:00+09:00",
-        "end_time": "2023-12-10T05:00:00+09:00",
+        "id": "2023120910890",
+        "event_id": "10890",
+        "start_time": "2023-12-10T00:00:00+09:00",
+        "end_time": "2023-12-10T10:00:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
         },
         "service": {
-          "id": "s4",
-          "name": "ＮＨＫＢＳプレミアム(１０４ｃｈ)",
+          "id": "s6",
+          "name": "ＮＨＫ ＢＳ８Ｋ",
           "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bspm-100x50.png",
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-100x50.png",
             "width": "100",
             "height": "50"
           },
           "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bspm-200x100.png",
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x100.png",
             "width": "200",
             "height": "100"
           },
           "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bspm-200x200.png",
+            "url": "//www.nhk.or.jp/common/img/media/bs8k-200x200.png",
             "width": "200",
             "height": "200"
           }
         },
-        "title": "ＢＳプレミアムの番組は、１０１チャンネル（ＮＨＫＢＳ）でご覧いただけます。",
+        "title": "（放送休止）",
         "subtitle": "",
         "content": "",
         "act": "",
