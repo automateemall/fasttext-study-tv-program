@@ -1487,9 +1487,45 @@
         ]
       },
       {
+        "id": "2024013104098",
+        "event_id": "04098",
+        "start_time": "2024-01-31T18:00:00+09:00",
+        "end_time": "2024-01-31T18:10:00+09:00",
+        "area": {
+          "id": "270",
+          "name": "大阪"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
         "id": "2024013150004",
         "event_id": "50004",
-        "start_time": "2024-01-31T18:00:00+09:00",
+        "start_time": "2024-01-31T18:10:00+09:00",
         "end_time": "2024-01-31T19:00:00+09:00",
         "area": {
           "id": "270",
@@ -3636,9 +3672,45 @@
         ]
       },
       {
+        "id": "2024013104098",
+        "event_id": "04098",
+        "start_time": "2024-01-31T18:00:00+09:00",
+        "end_time": "2024-01-31T18:10:00+09:00",
+        "area": {
+          "id": "270",
+          "name": "大阪"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
         "id": "2024013150004",
         "event_id": "50004",
-        "start_time": "2024-01-31T18:00:00+09:00",
+        "start_time": "2024-01-31T18:10:00+09:00",
         "end_time": "2024-01-31T19:00:00+09:00",
         "area": {
           "id": "270",
