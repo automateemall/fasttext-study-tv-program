@@ -530,9 +530,233 @@
         ]
       },
       {
-        "id": "2024032800680",
-        "event_id": "00680",
+        "id": "2024032804845",
+        "event_id": "04845",
         "start_time": "2024-03-28T11:00:00+09:00",
+        "end_time": "2024-03-28T11:05:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "５分であさイチ（１）緒方恵美さん",
+        "subtitle": "【ゲスト】緒方恵美",
+        "content": "",
+        "act": "【ゲスト】緒方恵美",
+        "genres": [
+          "0202"
+        ]
+      },
+      {
+        "id": "2024032800682",
+        "event_id": "00682",
+        "start_time": "2024-03-28T11:05:00+09:00",
+        "end_time": "2024-03-28T11:30:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ふるカフェ系　ハルさんの休日　香川・観音寺～一世紀潤い続けるカフェ",
+        "subtitle": "香川西部の観音寺市に重要文化財のダムがある。今回は干ばつを苦しんだ地域を救った郷土の偉人の元邸宅。名物は豆腐料理。取り壊される予定だった建物を救ったのは…",
+        "content": "銭形砂絵で名高い香川・観音寺市。重要文化財の豊稔池堰堤は昭和初期に完成したダム。干ばつに苦しんでいた地域を救い、今なお田畑を潤している。今回のふるカフェはこのダムの築造に尽力した郷土の偉人・茂治郎さんの元邸宅。１辺５０ｍもある塀。縁側には１本の木の梁桁（はりげた）が１５ｍも続く。店主兼料理人は茂治郎の孫の孫。取り壊される予定だった建物を救い、開店した。名物は目の前でできあがる、とろける豆腐！",
+        "act": "【出演】渡部豪太",
+        "genres": [
+          "0804",
+          "0801",
+          "0300"
+        ]
+      },
+      {
+        "id": "2024032800684",
+        "event_id": "00684",
+        "start_time": "2024-03-28T11:30:00+09:00",
+        "end_time": "2024-03-28T11:35:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "テレビ体操",
+        "subtitle": "【出演】鈴木大輔，今井菜津美，新井庸太，石川裕平，【ピアノ】細貝柊",
+        "content": "",
+        "act": "【出演】鈴木大輔，今井菜津美，新井庸太，石川裕平，【ピアノ】細貝柊",
+        "genres": [
+          "0115",
+          "1015",
+          "0203"
+        ]
+      },
+      {
+        "id": "2024032800685",
+        "event_id": "00685",
+        "start_time": "2024-03-28T11:35:00+09:00",
+        "end_time": "2024-03-28T11:40:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ピタゴラスイッチ　ミニ",
+        "subtitle": "さまざまな法則や不思議な構造、面白い考え方を、アニメ、歌、体操、ピタゴラ装置など多彩なコーナーで紹介。今回は「きょうのスレスレ」、歌「ビーバーのダム」など。",
+        "content": "私たちがふだん暮らしている中には、さまざまな不思議な構造や面白い考え方、法則が隠れている。番組では、さまざまな「子どもにとっての“なるほど！”」を紹介する。今回は「きょうのスレスレ」「なんの動物？」のほか、人気の歌コーナーは「ビーバーのダム」。",
+        "act": "",
+        "genres": [
+          "1008",
+          "0815"
+        ]
+      },
+      {
+        "id": "2024032800686",
+        "event_id": "00686",
+        "start_time": "2024-03-28T11:40:00+09:00",
+        "end_time": "2024-03-28T11:45:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "名曲アルバム　シェルブールの雨傘　ミシェル・ルグラン作曲",
+        "subtitle": "ソプラノ：幸田　浩子　バリトン：坂下　忠弘　管弦楽：東京フィルハーモニー交響楽団　指揮：阪　哲朗　【ロケ地】シェルブール（フランス）",
+        "content": "ヌーベルバーグの一翼を担ったジャック・ドゥミが監督を務め、作曲家でジャズ・ピアニストのミシェル・ルグランが印象的な名旋律の数々を作曲した、１９６４年公開の画期的ミュージカル映画「シェルブールの雨傘」。哀しみと切なる願いをたたえたメロディーを、映画の名シーンのロケ地とともにお届けする。",
+        "act": "【出演】幸田浩子，坂下忠弘，【管弦楽】東京フィルハーモニー交響楽団，【指揮】阪哲朗",
+        "genres": [
+          "0415",
+          "1002",
+          "0801"
+        ]
+      },
+      {
+        "id": "2024032804846",
+        "event_id": "04846",
+        "start_time": "2024-03-28T11:45:00+09:00",
+        "end_time": "2024-03-28T11:50:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ドラマ１０「天使の耳～交通警察の夜」のすべて",
+        "subtitle": "今ままであまり描かれることのなかった交通課捜査係の奮闘と交通事故にまつわる人間模様をドラマチックに描く本作の魅力を５分で紹介します。",
+        "content": "東野圭吾さんの３０年前の名作「天使の耳」を現代に置き換えてドラマ化した、ドラマ１０「天使の耳～交通警察の夜」の放送を前に、今ままであまり描かれることのなかった交通課捜査係の奮闘と、ふとした交通事故が人の運命を変えていく様をドラマチックに描いたヒューマンサスペンスの見どころを５分にまとめて紹介します。",
+        "act": "【原作】東野圭吾，荒井修子，【出演】小芝風花，安田顕，檀れい",
+        "genres": [
+          "0300",
+          "0207"
+        ]
+      },
+      {
+        "id": "2024032804847",
+        "event_id": "04847",
+        "start_time": "2024-03-28T11:50:00+09:00",
         "end_time": "2024-03-28T11:54:00+09:00",
         "area": {
           "id": "401",
@@ -557,12 +781,12 @@
             "height": "200"
           }
         },
-        "title": "第９６回選抜高校野球大会　準決勝",
-        "subtitle": "第１試合　～甲子園球場から中継～",
-        "content": "［Ｅテレで放送継続］",
-        "act": "",
+        "title": "いよいよスタート！虎に翼",
+        "subtitle": "自分の力で生きていきたいと願う寅子（ともこ）が見つけたもの…、それは「法律」でした。連続テレビ小説「虎に翼」は、いよいよ４月１日から始まります！",
+        "content": "自分の力で生きていきたいと願う寅子（ともこ）が見つけたもの…、それは「法律」でした。日本史上初めて法曹の世界に飛び込んだ、一人の女性の実話に基づくオリジナルストーリー。困難な時代に立ち向かい、道なき道を切り開いてきた法曹たちの情熱あふれる姿を描きます。連続テレビ小説「虎に翼」はいよいよ４月１日から始まります！",
+        "act": "【出演】伊藤沙莉，石田ゆり子，岡部たかし，仲野太賀，森田望智，上川周作，土居志央梨，桜井ユキ，平岩紙，ハ・ヨンス，岩田剛典，戸塚純貴，松山ケンイチ，小林薫，【作】吉田恵里香，【音楽】森優太",
         "genres": [
-          "0101"
+          "0300"
         ]
       },
       {
@@ -786,9 +1010,378 @@
         ]
       },
       {
-        "id": "2024032800698",
-        "event_id": "00698",
+        "id": "2024032802188",
+        "event_id": "02188",
         "start_time": "2024-03-28T13:05:00+09:00",
+        "end_time": "2024-03-28T13:55:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳ１スペシャル",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
+        "id": "2024032800700",
+        "event_id": "00700",
+        "start_time": "2024-03-28T13:55:00+09:00",
+        "end_time": "2024-03-28T14:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "テレビ体操",
+        "subtitle": "【出演】鈴木大輔，吉江晴菜，戸塚寛子，今井菜津美，【ピアノ】細貝柊",
+        "content": "",
+        "act": "【出演】鈴木大輔，吉江晴菜，戸塚寛子，今井菜津美，【ピアノ】細貝柊",
+        "genres": [
+          "0115",
+          "1015",
+          "0203"
+        ]
+      },
+      {
+        "id": "2024032800701",
+        "event_id": "00701",
+        "start_time": "2024-03-28T14:00:00+09:00",
+        "end_time": "2024-03-28T14:05:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2024032800702",
+        "event_id": "00702",
+        "start_time": "2024-03-28T14:05:00+09:00",
+        "end_time": "2024-03-28T14:15:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "時論公論　【出演】ＮＨＫ解説委員",
+        "subtitle": "▽混沌（とん）とした時代、次々と押し寄せるニュースの裏に、何があるのか？“明日を生きる指針”を提供する解説番組。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0006",
+          "0000",
+          "0007"
+        ]
+      },
+      {
+        "id": "2024032802191",
+        "event_id": "02191",
+        "start_time": "2024-03-28T14:15:00+09:00",
+        "end_time": "2024-03-28T14:45:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ダーウィンが来た！",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0802",
+          "1000"
+        ]
+      },
+      {
+        "id": "2024032804856",
+        "event_id": "04856",
+        "start_time": "2024-03-28T14:45:00+09:00",
+        "end_time": "2024-03-28T15:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "空旅中国　英雄が駆けた道「戦国　長平の戦い」",
+        "subtitle": "中国古代史上最大の戦いと言われる、長平の戦い。秦の“常勝将軍”白起が趙の大軍を撃破した古戦場の上をドローンで飛行。知略を駆使した激戦と、大自然の絶景を味わう。",
+        "content": "ＢＳプレミアムで放送したドローン映像による歴史紀行番組「空旅中国」から、中国古代史上最大の戦いとして知られる、長平の戦いを紹介する。紀元前３世紀の戦国時代、全国制覇を競った大国・秦と趙が戦い、趙の兵４０万が戦死したとされる。古戦場の上をドローンでくまなく飛び、秦軍を率いた“常勝将軍”白起の知略に富んだ戦いぶりを観戦する。太行山脈の美しい山並みや古戦場の美しい麦畑、地元名物“白起豆腐”も紹介。",
+        "act": "【語り】小谷直子",
+        "genres": [
+          "0801",
+          "1000"
+        ]
+      },
+      {
+        "id": "2024032800704",
+        "event_id": "00704",
+        "start_time": "2024-03-28T15:00:00+09:00",
+        "end_time": "2024-03-28T15:07:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2024032854029",
+        "event_id": "54029",
+        "start_time": "2024-03-28T15:07:00+09:00",
+        "end_time": "2024-03-28T15:10:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報（九州沖縄）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0001"
+        ]
+      },
+      {
+        "id": "2024032800706",
+        "event_id": "00706",
+        "start_time": "2024-03-28T15:10:00+09:00",
+        "end_time": "2024-03-28T15:40:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "にっぽん百名山　伊豆三山　～海底火山が生んだ景観～",
+        "subtitle": "静岡県・伊豆半島の付け根にある「伊豆三山（発端丈山・城山・葛城山）」。標高３００～４００ｍ台の低山だが、かつて海底火山だったことから、独特の景観を味わえる。",
+        "content": "案内は、隣の神奈川県から移り住んだ鈴木達志さん、ガイドとして活動している。今回は日帰りで、３つの山に。まずは、海に近い「発端丈山（４１０ｍ）」へ。途中、駿河湾と富士山の絶景を堪能できる。続いて、内陸にある「城山（３４２ｍ）」へ。海底火山が生んだ大岩壁では、ロッククライミングが盛んに行われている。そして、最高峰の「葛城山（４５２ｍ）」へ。その道中には、海底火山時代を想起させる巨岩が待ち受ける。",
+        "act": "【出演】鈴木達志，【語り】鈴木麻里子",
+        "genres": [
+          "0802",
+          "0801",
+          "1000"
+        ]
+      },
+      {
+        "id": "2024032800709",
+        "event_id": "00709",
+        "start_time": "2024-03-28T15:40:00+09:00",
+        "end_time": "2024-03-28T15:55:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "岩合光昭の世界ネコ歩きｍｉｎｉ「ネコカニ合戦」「肩に乗りたいニャン！」",
+        "subtitle": "岩合光昭が撮るネコ。冒頭は「ネコカニ合戦」。「猫識」は「肩に乗りたいニャン！」。名場面はイタリア・トスカーナのオルチャ渓谷と長崎から。",
+        "content": "動物写真家・岩合光昭が撮る世界のネコの映像。５９分版からの再構成。▽冒頭はカニにちょっかいを出しては時には反撃されるネコたち。▽「猫識」は世界各地でご主人の肩に乗るネコたち。その理由は？▽名場面はイタリア・トスカーナ、世界遺産のオルチャ渓谷で古いお屋敷に暮らすネコたちと、長崎・カフェバーの器用なネコ。",
+        "act": "【出演】岩合光昭，【語り】悠木碧",
+        "genres": [
+          "0801"
+        ]
+      },
+      {
+        "id": "2024032800710",
+        "event_id": "00710",
+        "start_time": "2024-03-28T15:55:00+09:00",
         "end_time": "2024-03-28T16:00:00+09:00",
         "area": {
           "id": "401",
@@ -813,12 +1406,13 @@
             "height": "200"
           }
         },
-        "title": "第９６回選抜高校野球大会　準決勝",
-        "subtitle": "第１試合　第２試合　～甲子園球場から中継～",
-        "content": "",
+        "title": "みんなのうた「シャーロックホームズとワトソン博士」／「しじみのダンス」",
+        "subtitle": "「シャーロックホームズとワトソン博士」うた：谷啓／「しじみのダンス」うた：ゆきまゆこ",
+        "content": "「シャーロックホームズとワトソン博士」うた：谷啓／「しじみのダンス」うた：ゆきまゆこ",
         "act": "",
         "genres": [
-          "0101"
+          "0409",
+          "0504"
         ]
       },
       {
@@ -2343,9 +2937,233 @@
         ]
       },
       {
-        "id": "2024032800680",
-        "event_id": "00680",
+        "id": "2024032804845",
+        "event_id": "04845",
         "start_time": "2024-03-28T11:00:00+09:00",
+        "end_time": "2024-03-28T11:05:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "５分であさイチ（１）緒方恵美さん",
+        "subtitle": "【ゲスト】緒方恵美",
+        "content": "",
+        "act": "【ゲスト】緒方恵美",
+        "genres": [
+          "0202"
+        ]
+      },
+      {
+        "id": "2024032800682",
+        "event_id": "00682",
+        "start_time": "2024-03-28T11:05:00+09:00",
+        "end_time": "2024-03-28T11:30:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ふるカフェ系　ハルさんの休日　香川・観音寺～一世紀潤い続けるカフェ",
+        "subtitle": "香川西部の観音寺市に重要文化財のダムがある。今回は干ばつを苦しんだ地域を救った郷土の偉人の元邸宅。名物は豆腐料理。取り壊される予定だった建物を救ったのは…",
+        "content": "銭形砂絵で名高い香川・観音寺市。重要文化財の豊稔池堰堤は昭和初期に完成したダム。干ばつに苦しんでいた地域を救い、今なお田畑を潤している。今回のふるカフェはこのダムの築造に尽力した郷土の偉人・茂治郎さんの元邸宅。１辺５０ｍもある塀。縁側には１本の木の梁桁（はりげた）が１５ｍも続く。店主兼料理人は茂治郎の孫の孫。取り壊される予定だった建物を救い、開店した。名物は目の前でできあがる、とろける豆腐！",
+        "act": "【出演】渡部豪太",
+        "genres": [
+          "0804",
+          "0801",
+          "0300"
+        ]
+      },
+      {
+        "id": "2024032800684",
+        "event_id": "00684",
+        "start_time": "2024-03-28T11:30:00+09:00",
+        "end_time": "2024-03-28T11:35:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "テレビ体操",
+        "subtitle": "【出演】鈴木大輔，今井菜津美，新井庸太，石川裕平，【ピアノ】細貝柊",
+        "content": "",
+        "act": "【出演】鈴木大輔，今井菜津美，新井庸太，石川裕平，【ピアノ】細貝柊",
+        "genres": [
+          "0115",
+          "1015",
+          "0203"
+        ]
+      },
+      {
+        "id": "2024032800685",
+        "event_id": "00685",
+        "start_time": "2024-03-28T11:35:00+09:00",
+        "end_time": "2024-03-28T11:40:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ピタゴラスイッチ　ミニ",
+        "subtitle": "さまざまな法則や不思議な構造、面白い考え方を、アニメ、歌、体操、ピタゴラ装置など多彩なコーナーで紹介。今回は「きょうのスレスレ」、歌「ビーバーのダム」など。",
+        "content": "私たちがふだん暮らしている中には、さまざまな不思議な構造や面白い考え方、法則が隠れている。番組では、さまざまな「子どもにとっての“なるほど！”」を紹介する。今回は「きょうのスレスレ」「なんの動物？」のほか、人気の歌コーナーは「ビーバーのダム」。",
+        "act": "",
+        "genres": [
+          "1008",
+          "0815"
+        ]
+      },
+      {
+        "id": "2024032800686",
+        "event_id": "00686",
+        "start_time": "2024-03-28T11:40:00+09:00",
+        "end_time": "2024-03-28T11:45:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "名曲アルバム　シェルブールの雨傘　ミシェル・ルグラン作曲",
+        "subtitle": "ソプラノ：幸田　浩子　バリトン：坂下　忠弘　管弦楽：東京フィルハーモニー交響楽団　指揮：阪　哲朗　【ロケ地】シェルブール（フランス）",
+        "content": "ヌーベルバーグの一翼を担ったジャック・ドゥミが監督を務め、作曲家でジャズ・ピアニストのミシェル・ルグランが印象的な名旋律の数々を作曲した、１９６４年公開の画期的ミュージカル映画「シェルブールの雨傘」。哀しみと切なる願いをたたえたメロディーを、映画の名シーンのロケ地とともにお届けする。",
+        "act": "【出演】幸田浩子，坂下忠弘，【管弦楽】東京フィルハーモニー交響楽団，【指揮】阪哲朗",
+        "genres": [
+          "0415",
+          "1002",
+          "0801"
+        ]
+      },
+      {
+        "id": "2024032804846",
+        "event_id": "04846",
+        "start_time": "2024-03-28T11:45:00+09:00",
+        "end_time": "2024-03-28T11:50:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ドラマ１０「天使の耳～交通警察の夜」のすべて",
+        "subtitle": "今ままであまり描かれることのなかった交通課捜査係の奮闘と交通事故にまつわる人間模様をドラマチックに描く本作の魅力を５分で紹介します。",
+        "content": "東野圭吾さんの３０年前の名作「天使の耳」を現代に置き換えてドラマ化した、ドラマ１０「天使の耳～交通警察の夜」の放送を前に、今ままであまり描かれることのなかった交通課捜査係の奮闘と、ふとした交通事故が人の運命を変えていく様をドラマチックに描いたヒューマンサスペンスの見どころを５分にまとめて紹介します。",
+        "act": "【原作】東野圭吾，荒井修子，【出演】小芝風花，安田顕，檀れい",
+        "genres": [
+          "0300",
+          "0207"
+        ]
+      },
+      {
+        "id": "2024032804847",
+        "event_id": "04847",
+        "start_time": "2024-03-28T11:50:00+09:00",
         "end_time": "2024-03-28T11:54:00+09:00",
         "area": {
           "id": "401",
@@ -2370,12 +3188,12 @@
             "height": "200"
           }
         },
-        "title": "第９６回選抜高校野球大会　準決勝",
-        "subtitle": "第１試合　～甲子園球場から中継～",
-        "content": "［Ｅテレで放送継続］",
-        "act": "",
+        "title": "いよいよスタート！虎に翼",
+        "subtitle": "自分の力で生きていきたいと願う寅子（ともこ）が見つけたもの…、それは「法律」でした。連続テレビ小説「虎に翼」は、いよいよ４月１日から始まります！",
+        "content": "自分の力で生きていきたいと願う寅子（ともこ）が見つけたもの…、それは「法律」でした。日本史上初めて法曹の世界に飛び込んだ、一人の女性の実話に基づくオリジナルストーリー。困難な時代に立ち向かい、道なき道を切り開いてきた法曹たちの情熱あふれる姿を描きます。連続テレビ小説「虎に翼」はいよいよ４月１日から始まります！",
+        "act": "【出演】伊藤沙莉，石田ゆり子，岡部たかし，仲野太賀，森田望智，上川周作，土居志央梨，桜井ユキ，平岩紙，ハ・ヨンス，岩田剛典，戸塚純貴，松山ケンイチ，小林薫，【作】吉田恵里香，【音楽】森優太",
         "genres": [
-          "0101"
+          "0300"
         ]
       },
       {
@@ -2599,9 +3417,378 @@
         ]
       },
       {
-        "id": "2024032800698",
-        "event_id": "00698",
+        "id": "2024032802188",
+        "event_id": "02188",
         "start_time": "2024-03-28T13:05:00+09:00",
+        "end_time": "2024-03-28T13:55:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＢＳ１スペシャル",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
+        "id": "2024032800700",
+        "event_id": "00700",
+        "start_time": "2024-03-28T13:55:00+09:00",
+        "end_time": "2024-03-28T14:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "テレビ体操",
+        "subtitle": "【出演】鈴木大輔，吉江晴菜，戸塚寛子，今井菜津美，【ピアノ】細貝柊",
+        "content": "",
+        "act": "【出演】鈴木大輔，吉江晴菜，戸塚寛子，今井菜津美，【ピアノ】細貝柊",
+        "genres": [
+          "0115",
+          "1015",
+          "0203"
+        ]
+      },
+      {
+        "id": "2024032800701",
+        "event_id": "00701",
+        "start_time": "2024-03-28T14:00:00+09:00",
+        "end_time": "2024-03-28T14:05:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2024032800702",
+        "event_id": "00702",
+        "start_time": "2024-03-28T14:05:00+09:00",
+        "end_time": "2024-03-28T14:15:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "時論公論　【出演】ＮＨＫ解説委員",
+        "subtitle": "▽混沌（とん）とした時代、次々と押し寄せるニュースの裏に、何があるのか？“明日を生きる指針”を提供する解説番組。",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0006",
+          "0000",
+          "0007"
+        ]
+      },
+      {
+        "id": "2024032802191",
+        "event_id": "02191",
+        "start_time": "2024-03-28T14:15:00+09:00",
+        "end_time": "2024-03-28T14:45:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ダーウィンが来た！",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0802",
+          "1000"
+        ]
+      },
+      {
+        "id": "2024032804856",
+        "event_id": "04856",
+        "start_time": "2024-03-28T14:45:00+09:00",
+        "end_time": "2024-03-28T15:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "空旅中国　英雄が駆けた道「戦国　長平の戦い」",
+        "subtitle": "中国古代史上最大の戦いと言われる、長平の戦い。秦の“常勝将軍”白起が趙の大軍を撃破した古戦場の上をドローンで飛行。知略を駆使した激戦と、大自然の絶景を味わう。",
+        "content": "ＢＳプレミアムで放送したドローン映像による歴史紀行番組「空旅中国」から、中国古代史上最大の戦いとして知られる、長平の戦いを紹介する。紀元前３世紀の戦国時代、全国制覇を競った大国・秦と趙が戦い、趙の兵４０万が戦死したとされる。古戦場の上をドローンでくまなく飛び、秦軍を率いた“常勝将軍”白起の知略に富んだ戦いぶりを観戦する。太行山脈の美しい山並みや古戦場の美しい麦畑、地元名物“白起豆腐”も紹介。",
+        "act": "【語り】小谷直子",
+        "genres": [
+          "0801",
+          "1000"
+        ]
+      },
+      {
+        "id": "2024032800704",
+        "event_id": "00704",
+        "start_time": "2024-03-28T15:00:00+09:00",
+        "end_time": "2024-03-28T15:07:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0001"
+        ]
+      },
+      {
+        "id": "2024032854029",
+        "event_id": "54029",
+        "start_time": "2024-03-28T15:07:00+09:00",
+        "end_time": "2024-03-28T15:10:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報（九州沖縄）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0001"
+        ]
+      },
+      {
+        "id": "2024032800706",
+        "event_id": "00706",
+        "start_time": "2024-03-28T15:10:00+09:00",
+        "end_time": "2024-03-28T15:40:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "にっぽん百名山　伊豆三山　～海底火山が生んだ景観～",
+        "subtitle": "静岡県・伊豆半島の付け根にある「伊豆三山（発端丈山・城山・葛城山）」。標高３００～４００ｍ台の低山だが、かつて海底火山だったことから、独特の景観を味わえる。",
+        "content": "案内は、隣の神奈川県から移り住んだ鈴木達志さん、ガイドとして活動している。今回は日帰りで、３つの山に。まずは、海に近い「発端丈山（４１０ｍ）」へ。途中、駿河湾と富士山の絶景を堪能できる。続いて、内陸にある「城山（３４２ｍ）」へ。海底火山が生んだ大岩壁では、ロッククライミングが盛んに行われている。そして、最高峰の「葛城山（４５２ｍ）」へ。その道中には、海底火山時代を想起させる巨岩が待ち受ける。",
+        "act": "【出演】鈴木達志，【語り】鈴木麻里子",
+        "genres": [
+          "0802",
+          "0801",
+          "1000"
+        ]
+      },
+      {
+        "id": "2024032800709",
+        "event_id": "00709",
+        "start_time": "2024-03-28T15:40:00+09:00",
+        "end_time": "2024-03-28T15:55:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "岩合光昭の世界ネコ歩きｍｉｎｉ「ネコカニ合戦」「肩に乗りたいニャン！」",
+        "subtitle": "岩合光昭が撮るネコ。冒頭は「ネコカニ合戦」。「猫識」は「肩に乗りたいニャン！」。名場面はイタリア・トスカーナのオルチャ渓谷と長崎から。",
+        "content": "動物写真家・岩合光昭が撮る世界のネコの映像。５９分版からの再構成。▽冒頭はカニにちょっかいを出しては時には反撃されるネコたち。▽「猫識」は世界各地でご主人の肩に乗るネコたち。その理由は？▽名場面はイタリア・トスカーナ、世界遺産のオルチャ渓谷で古いお屋敷に暮らすネコたちと、長崎・カフェバーの器用なネコ。",
+        "act": "【出演】岩合光昭，【語り】悠木碧",
+        "genres": [
+          "0801"
+        ]
+      },
+      {
+        "id": "2024032800710",
+        "event_id": "00710",
+        "start_time": "2024-03-28T15:55:00+09:00",
         "end_time": "2024-03-28T16:00:00+09:00",
         "area": {
           "id": "401",
@@ -2626,12 +3813,13 @@
             "height": "200"
           }
         },
-        "title": "第９６回選抜高校野球大会　準決勝",
-        "subtitle": "第１試合　第２試合　～甲子園球場から中継～",
-        "content": "",
+        "title": "みんなのうた「シャーロックホームズとワトソン博士」／「しじみのダンス」",
+        "subtitle": "「シャーロックホームズとワトソン博士」うた：谷啓／「しじみのダンス」うた：ゆきまゆこ",
+        "content": "「シャーロックホームズとワトソン博士」うた：谷啓／「しじみのダンス」うた：ゆきまゆこ",
         "act": "",
         "genres": [
-          "0101"
+          "0409",
+          "0504"
         ]
       },
       {
@@ -4705,7 +5893,7 @@
         "id": "2024032800782",
         "event_id": "00782",
         "start_time": "2024-03-28T11:20:00+09:00",
-        "end_time": "2024-03-28T11:54:00+09:00",
+        "end_time": "2024-03-28T11:55:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
@@ -4740,9 +5928,123 @@
         ]
       },
       {
-        "id": "2024032800793",
-        "event_id": "00793",
-        "start_time": "2024-03-28T11:54:00+09:00",
+        "id": "2024032800796",
+        "event_id": "00796",
+        "start_time": "2024-03-28T11:55:00+09:00",
+        "end_time": "2024-03-28T12:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e1",
+          "name": "ＮＨＫＥテレ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "まる得マガジン　毎日が食パンフェスタ４　カフェ気分でエッグベネディクト",
+        "subtitle": "家計にやさしい食パン。そんな食パンを驚きの工夫でさまざまな料理に大変身させちゃいましょう。",
+        "content": "家計にやさしい食パン。そんな食パンを驚きの工夫でさまざまな料理に大変身させちゃいましょう。定番のフレンチトーストやサンドイッチから、パン自体を器にしてしまうチーズフォンデュ、さらにサクサク食感のスナックまで。毎日でも食べ飽きない。毎日がパーティー気分の食パンレシピをお届けします。",
+        "act": "【講師】料理研究家…Ｍｉｚｕｋｉ，【出演】石井ブレンド",
+        "genres": [
+          "0205",
+          "0506",
+          "1015"
+        ]
+      },
+      {
+        "id": "2024032800797",
+        "event_id": "00797",
+        "start_time": "2024-03-28T12:00:00+09:00",
+        "end_time": "2024-03-28T12:15:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e1",
+          "name": "ＮＨＫＥテレ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "きょうの健康　あの人の健康法「“ぜんそく”でもあきらめない！大山加奈さん」",
+        "subtitle": "元バレーボール日本代表の大山加奈さんは幼少期からぜんそくに苦しんできた。それでもトッププレイヤーに上り詰められたわけとは。勇気をくれる病気との向き合い方に迫る。",
+        "content": "ぜんそくに苦しみながらもバレーボール日本代表として活躍した大山加奈さん。幼少時代は息が苦しくて横になれず、一晩中、座イスで過ごしたことも。激しい運動をしてはいけないと言われながらもバレーボールを始めたのには理由があった。引退後もスポーツの魅力を伝える活動に、双子の育児に奔走する大山さんが続けているぜんそくケアとは？おすすめのヨガのポーズも大公開！すべての人に勇気をくれる病気との向き合い方に迫る。",
+        "act": "【ゲスト】大山加奈，【キャスター】岩田まこ都，村上由利子",
+        "genres": [
+          "0203",
+          "0803",
+          "1011"
+        ]
+      },
+      {
+        "id": "2024032800798",
+        "event_id": "00798",
+        "start_time": "2024-03-28T12:15:00+09:00",
+        "end_time": "2024-03-28T13:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e1",
+          "name": "ＮＨＫＥテレ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "あしたも晴れ！人生レシピ『枠』を飛び越え　自分らしく生きる",
+        "subtitle": "東京・千葉の二拠点暮らしをする俳優の黒谷友香さん、幅広い世代の女性に支持されるスタイリングディレクター大草直子さん。二人の生き方から前向きに生きるヒントを探る。",
+        "content": "俳優の黒谷友香さんは二十代の頃から東京と千葉の二拠点暮らしをしている。オンとオフの切り替えができる二拠点暮らしこそが、黒谷さんの充実ライフのコツ。身の丈にあったオシャレを追求する人気のスタイリングディレクター大草直子さんは、自らの感性に素直に生きるのが大切なモットー。“他者と比較しない”、“自分を枠に閉じ込めない”などそのメッセージは強烈。二人の生き方・考え方からポジティブに生きるヒントを探る。",
+        "act": "【ゲスト】黒谷友香，【講師】スタイリングディレクター…大草直子，【司会】賀来千香子，小澤康喬，【語り】堀内賢雄",
+        "genres": [
+          "0202",
+          "0203",
+          "0205"
+        ]
+      },
+      {
+        "id": "2024032801079",
+        "event_id": "01079",
+        "start_time": "2024-03-28T13:00:00+09:00",
         "end_time": "2024-03-28T13:05:00+09:00",
         "area": {
           "id": "401",
@@ -4767,12 +6069,13 @@
             "height": "200"
           }
         },
-        "title": "第９６回選抜高校野球大会　準決勝",
-        "subtitle": "第１試合　～甲子園球場から中継～",
-        "content": "［総合テレビで放送継続］",
-        "act": "",
+        "title": "ブレッド図書館（ライブラリー）（５）「フランスパン」",
+        "subtitle": "これを見れば、あなたもパン好きに！パンの魅力を５分にギュッと詰めてお届けする「ブレッド図書館（ライブラリー）」。今回は「フランスパン」。おいしさの秘密に迫る！",
+        "content": "表面はパリッ、中はふわっとした「フランスパン」。シンプルなのに奥深いそのおいしさの秘密を、名店の技から探る。パンのうんちく「パンちく」のコーナーでは、フランスパンの名前の由来を紹介。実はフランスパンにはさまざまな種類が…。さらに、パン職人おすすめのフランスパンをおいしくいただくコツも伝授。実は「冷めたて」が一番おいしいという。食べきれなかった時の保存法もあわせて紹介。これを見てぜひお試しを！",
+        "act": "【語り】安井絵里",
         "genres": [
-          "0101"
+          "0205",
+          "0506"
         ]
       },
       {
@@ -7603,7 +8906,7 @@
         "id": "2024032800782",
         "event_id": "00782",
         "start_time": "2024-03-28T11:20:00+09:00",
-        "end_time": "2024-03-28T11:54:00+09:00",
+        "end_time": "2024-03-28T11:55:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
@@ -7638,9 +8941,123 @@
         ]
       },
       {
-        "id": "2024032800793",
-        "event_id": "00793",
-        "start_time": "2024-03-28T11:54:00+09:00",
+        "id": "2024032800796",
+        "event_id": "00796",
+        "start_time": "2024-03-28T11:55:00+09:00",
+        "end_time": "2024-03-28T12:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e3",
+          "name": "ＮＨＫＥテレ３",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "まる得マガジン　毎日が食パンフェスタ４　カフェ気分でエッグベネディクト",
+        "subtitle": "家計にやさしい食パン。そんな食パンを驚きの工夫でさまざまな料理に大変身させちゃいましょう。",
+        "content": "家計にやさしい食パン。そんな食パンを驚きの工夫でさまざまな料理に大変身させちゃいましょう。定番のフレンチトーストやサンドイッチから、パン自体を器にしてしまうチーズフォンデュ、さらにサクサク食感のスナックまで。毎日でも食べ飽きない。毎日がパーティー気分の食パンレシピをお届けします。",
+        "act": "【講師】料理研究家…Ｍｉｚｕｋｉ，【出演】石井ブレンド",
+        "genres": [
+          "0205",
+          "0506",
+          "1015"
+        ]
+      },
+      {
+        "id": "2024032800797",
+        "event_id": "00797",
+        "start_time": "2024-03-28T12:00:00+09:00",
+        "end_time": "2024-03-28T12:15:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e3",
+          "name": "ＮＨＫＥテレ３",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "きょうの健康　あの人の健康法「“ぜんそく”でもあきらめない！大山加奈さん」",
+        "subtitle": "元バレーボール日本代表の大山加奈さんは幼少期からぜんそくに苦しんできた。それでもトッププレイヤーに上り詰められたわけとは。勇気をくれる病気との向き合い方に迫る。",
+        "content": "ぜんそくに苦しみながらもバレーボール日本代表として活躍した大山加奈さん。幼少時代は息が苦しくて横になれず、一晩中、座イスで過ごしたことも。激しい運動をしてはいけないと言われながらもバレーボールを始めたのには理由があった。引退後もスポーツの魅力を伝える活動に、双子の育児に奔走する大山さんが続けているぜんそくケアとは？おすすめのヨガのポーズも大公開！すべての人に勇気をくれる病気との向き合い方に迫る。",
+        "act": "【ゲスト】大山加奈，【キャスター】岩田まこ都，村上由利子",
+        "genres": [
+          "0203",
+          "0803",
+          "1011"
+        ]
+      },
+      {
+        "id": "2024032800798",
+        "event_id": "00798",
+        "start_time": "2024-03-28T12:15:00+09:00",
+        "end_time": "2024-03-28T13:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e3",
+          "name": "ＮＨＫＥテレ３",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "あしたも晴れ！人生レシピ『枠』を飛び越え　自分らしく生きる",
+        "subtitle": "東京・千葉の二拠点暮らしをする俳優の黒谷友香さん、幅広い世代の女性に支持されるスタイリングディレクター大草直子さん。二人の生き方から前向きに生きるヒントを探る。",
+        "content": "俳優の黒谷友香さんは二十代の頃から東京と千葉の二拠点暮らしをしている。オンとオフの切り替えができる二拠点暮らしこそが、黒谷さんの充実ライフのコツ。身の丈にあったオシャレを追求する人気のスタイリングディレクター大草直子さんは、自らの感性に素直に生きるのが大切なモットー。“他者と比較しない”、“自分を枠に閉じ込めない”などそのメッセージは強烈。二人の生き方・考え方からポジティブに生きるヒントを探る。",
+        "act": "【ゲスト】黒谷友香，【講師】スタイリングディレクター…大草直子，【司会】賀来千香子，小澤康喬，【語り】堀内賢雄",
+        "genres": [
+          "0202",
+          "0203",
+          "0205"
+        ]
+      },
+      {
+        "id": "2024032801079",
+        "event_id": "01079",
+        "start_time": "2024-03-28T13:00:00+09:00",
         "end_time": "2024-03-28T13:05:00+09:00",
         "area": {
           "id": "401",
@@ -7665,12 +9082,13 @@
             "height": "200"
           }
         },
-        "title": "第９６回選抜高校野球大会　準決勝",
-        "subtitle": "第１試合　～甲子園球場から中継～",
-        "content": "［総合テレビで放送継続］",
-        "act": "",
+        "title": "ブレッド図書館（ライブラリー）（５）「フランスパン」",
+        "subtitle": "これを見れば、あなたもパン好きに！パンの魅力を５分にギュッと詰めてお届けする「ブレッド図書館（ライブラリー）」。今回は「フランスパン」。おいしさの秘密に迫る！",
+        "content": "表面はパリッ、中はふわっとした「フランスパン」。シンプルなのに奥深いそのおいしさの秘密を、名店の技から探る。パンのうんちく「パンちく」のコーナーでは、フランスパンの名前の由来を紹介。実はフランスパンにはさまざまな種類が…。さらに、パン職人おすすめのフランスパンをおいしくいただくコツも伝授。実は「冷めたて」が一番おいしいという。食べきれなかった時の保存法もあわせて紹介。これを見てぜひお試しを！",
+        "act": "【語り】安井絵里",
         "genres": [
-          "0101"
+          "0205",
+          "0506"
         ]
       },
       {
@@ -10501,7 +11919,7 @@
         "id": "2024032800782",
         "event_id": "00782",
         "start_time": "2024-03-28T11:20:00+09:00",
-        "end_time": "2024-03-28T11:54:00+09:00",
+        "end_time": "2024-03-28T11:55:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
@@ -10536,9 +11954,123 @@
         ]
       },
       {
-        "id": "2024032800793",
-        "event_id": "00793",
-        "start_time": "2024-03-28T11:54:00+09:00",
+        "id": "2024032800796",
+        "event_id": "00796",
+        "start_time": "2024-03-28T11:55:00+09:00",
+        "end_time": "2024-03-28T12:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e4",
+          "name": "ＮＨＫワンセグ２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "まる得マガジン　毎日が食パンフェスタ４　カフェ気分でエッグベネディクト",
+        "subtitle": "家計にやさしい食パン。そんな食パンを驚きの工夫でさまざまな料理に大変身させちゃいましょう。",
+        "content": "家計にやさしい食パン。そんな食パンを驚きの工夫でさまざまな料理に大変身させちゃいましょう。定番のフレンチトーストやサンドイッチから、パン自体を器にしてしまうチーズフォンデュ、さらにサクサク食感のスナックまで。毎日でも食べ飽きない。毎日がパーティー気分の食パンレシピをお届けします。",
+        "act": "【講師】料理研究家…Ｍｉｚｕｋｉ，【出演】石井ブレンド",
+        "genres": [
+          "0205",
+          "0506",
+          "1015"
+        ]
+      },
+      {
+        "id": "2024032800797",
+        "event_id": "00797",
+        "start_time": "2024-03-28T12:00:00+09:00",
+        "end_time": "2024-03-28T12:15:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e4",
+          "name": "ＮＨＫワンセグ２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "きょうの健康　あの人の健康法「“ぜんそく”でもあきらめない！大山加奈さん」",
+        "subtitle": "元バレーボール日本代表の大山加奈さんは幼少期からぜんそくに苦しんできた。それでもトッププレイヤーに上り詰められたわけとは。勇気をくれる病気との向き合い方に迫る。",
+        "content": "ぜんそくに苦しみながらもバレーボール日本代表として活躍した大山加奈さん。幼少時代は息が苦しくて横になれず、一晩中、座イスで過ごしたことも。激しい運動をしてはいけないと言われながらもバレーボールを始めたのには理由があった。引退後もスポーツの魅力を伝える活動に、双子の育児に奔走する大山さんが続けているぜんそくケアとは？おすすめのヨガのポーズも大公開！すべての人に勇気をくれる病気との向き合い方に迫る。",
+        "act": "【ゲスト】大山加奈，【キャスター】岩田まこ都，村上由利子",
+        "genres": [
+          "0203",
+          "0803",
+          "1011"
+        ]
+      },
+      {
+        "id": "2024032800798",
+        "event_id": "00798",
+        "start_time": "2024-03-28T12:15:00+09:00",
+        "end_time": "2024-03-28T13:00:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "e4",
+          "name": "ＮＨＫワンセグ２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "あしたも晴れ！人生レシピ『枠』を飛び越え　自分らしく生きる",
+        "subtitle": "東京・千葉の二拠点暮らしをする俳優の黒谷友香さん、幅広い世代の女性に支持されるスタイリングディレクター大草直子さん。二人の生き方から前向きに生きるヒントを探る。",
+        "content": "俳優の黒谷友香さんは二十代の頃から東京と千葉の二拠点暮らしをしている。オンとオフの切り替えができる二拠点暮らしこそが、黒谷さんの充実ライフのコツ。身の丈にあったオシャレを追求する人気のスタイリングディレクター大草直子さんは、自らの感性に素直に生きるのが大切なモットー。“他者と比較しない”、“自分を枠に閉じ込めない”などそのメッセージは強烈。二人の生き方・考え方からポジティブに生きるヒントを探る。",
+        "act": "【ゲスト】黒谷友香，【講師】スタイリングディレクター…大草直子，【司会】賀来千香子，小澤康喬，【語り】堀内賢雄",
+        "genres": [
+          "0202",
+          "0203",
+          "0205"
+        ]
+      },
+      {
+        "id": "2024032801079",
+        "event_id": "01079",
+        "start_time": "2024-03-28T13:00:00+09:00",
         "end_time": "2024-03-28T13:05:00+09:00",
         "area": {
           "id": "401",
@@ -10563,12 +12095,13 @@
             "height": "200"
           }
         },
-        "title": "第９６回選抜高校野球大会　準決勝",
-        "subtitle": "第１試合　～甲子園球場から中継～",
-        "content": "［総合テレビで放送継続］",
-        "act": "",
+        "title": "ブレッド図書館（ライブラリー）（５）「フランスパン」",
+        "subtitle": "これを見れば、あなたもパン好きに！パンの魅力を５分にギュッと詰めてお届けする「ブレッド図書館（ライブラリー）」。今回は「フランスパン」。おいしさの秘密に迫る！",
+        "content": "表面はパリッ、中はふわっとした「フランスパン」。シンプルなのに奥深いそのおいしさの秘密を、名店の技から探る。パンのうんちく「パンちく」のコーナーでは、フランスパンの名前の由来を紹介。実はフランスパンにはさまざまな種類が…。さらに、パン職人おすすめのフランスパンをおいしくいただくコツも伝授。実は「冷めたて」が一番おいしいという。食べきれなかった時の保存法もあわせて紹介。これを見てぜひお試しを！",
+        "act": "【語り】安井絵里",
         "genres": [
-          "0101"
+          "0205",
+          "0506"
         ]
       },
       {

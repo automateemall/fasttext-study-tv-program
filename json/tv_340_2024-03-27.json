@@ -305,384 +305,9 @@
         ]
       },
       {
-        "id": "2024032700161",
-        "event_id": "00161",
+        "id": "2024032734757",
+        "event_id": "34757",
         "start_time": "2024-03-27T08:15:00+09:00",
-        "end_time": "2024-03-27T09:55:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "あさイチ　キャッシュレス時代に貯金するには！？",
-        "subtitle": "キャッシュレス時代に財布が進化！小型化！バッグ化！スマホ一体化！キャッシュレスでも年間２００万円貯められる工夫！令和の一円玉が３０００倍の価値になってる！？",
-        "content": "キャッシュレス時代に財布が進化！小型化！バッグ化！スマホ一体化！家計が管理しづらいキャッシュレスでも、年間２００万円貯められる工夫！令和の一円玉が３０００倍の価値になってる！？▽鈴木アナの代行趣味ハジメ『金つぎ』▽いまオシ！リポート『あわら温泉』『チロルリボン』みんな！ゴハンだよ　本田明子さん【ゲスト】とにかく明るい安村・野呂佳代【キャスター】博多華丸・大吉、鈴木奈穂子",
-        "act": "【ゲスト】とにかく明るい安村，野呂佳代，【講師】料理研究家…本田明子，【キャスター】博多華丸，博多大吉，鈴木奈穂子，【リポーター】駒村多恵，角谷直也",
-        "genres": [
-          "0202",
-          "0203",
-          "0800"
-        ]
-      },
-      {
-        "id": "2024032700166",
-        "event_id": "00166",
-        "start_time": "2024-03-27T09:55:00+09:00",
-        "end_time": "2024-03-27T10:00:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みんなの体操",
-        "subtitle": "【出演】鈴木大輔，今井菜津美，杉井勇介，森山雅斗",
-        "content": "",
-        "act": "【出演】鈴木大輔，今井菜津美，杉井勇介，森山雅斗",
-        "genres": [
-          "0115",
-          "1015",
-          "0203"
-        ]
-      },
-      {
-        "id": "2024032700167",
-        "event_id": "00167",
-        "start_time": "2024-03-27T10:00:00+09:00",
-        "end_time": "2024-03-27T10:05:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000",
-          "0001"
-        ]
-      },
-      {
-        "id": "2024032700168",
-        "event_id": "00168",
-        "start_time": "2024-03-27T10:05:00+09:00",
-        "end_time": "2024-03-27T10:45:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "キャッチ！世界のトップニュース　アメリカ　イスラエル",
-        "subtitle": "【特集】培養肉生産の環境負荷　キャスター：別府正一郎／高橋彩",
-        "content": "▽各国の放送局が伝える注目ニュースをピックアップ▽焦点や背景を分かりやすく解説▽特集ワールド・アイズ※内容変更の場合あり　【キャスター】別府正一郎，髙橋彩",
-        "act": "【キャスター】別府正一郎，髙橋彩",
-        "genres": [
-          "0005",
-          "0006"
-        ]
-      },
-      {
-        "id": "2024032700169",
-        "event_id": "00169",
-        "start_time": "2024-03-27T10:45:00+09:00",
-        "end_time": "2024-03-27T10:55:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みみより！くらし解説　【出演】岩渕梢キャスター　ＮＨＫ解説委員",
-        "subtitle": "▽あなたのくらしに、みみより解説！いま気になるニュースをわかりやすく、裏にはこんな深いコトが…！くらしに密着した耳よりな情報をお届けします！",
-        "content": "",
-        "act": "【キャスター】岩渕梢",
-        "genres": [
-          "0006",
-          "0202",
-          "0203"
-        ]
-      },
-      {
-        "id": "2024032700170",
-        "event_id": "00170",
-        "start_time": "2024-03-27T10:55:00+09:00",
-        "end_time": "2024-03-27T11:00:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みんなのうた「きみのたこ焼き」／「おまじない」",
-        "subtitle": "「きみのたこ焼き」うた：木梨憲武／「おまじない」うた：和ぬか",
-        "content": "「きみのたこ焼き」うた：木梨憲武／「おまじない」うた：和ぬか",
-        "act": "",
-        "genres": [
-          "0409",
-          "0504"
-        ]
-      },
-      {
-        "id": "2024032700171",
-        "event_id": "00171",
-        "start_time": "2024-03-27T11:00:00+09:00",
-        "end_time": "2024-03-27T11:05:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000",
-          "0001"
-        ]
-      },
-      {
-        "id": "2024032700172",
-        "event_id": "00172",
-        "start_time": "2024-03-27T11:05:00+09:00",
-        "end_time": "2024-03-27T11:30:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "グレーテルのかまど「銭天堂のふしぎ駄菓子」",
-        "subtitle": "幸運な人だけがたどり着けるという駄菓子屋、銭天堂。ミステリアスな店主紅子さんが売っている、ちょっと不思議な駄菓子の世界をご紹介。ヘンゼルも不思議駄菓子に挑戦！",
-        "content": "Ｅテレで放送中のアニメ“ふしぎ駄菓子屋銭天堂”。原作の児童書はアジア各国でも翻訳され、大人気だ。この店に行けば、客一人一人の望みに合わせてぴったりの駄菓子があり、食べれば望みがかなうという。しかし紅子さんが売る不思議な駄菓子、食べ方を間違えると、思わぬ副作用があるとか…。物語に登場する“カリスマボンボンは、食べるだけでカリスマ性が目覚めるとか！？さあ、ヘンゼルも作ってみよう！効果はいかに！",
-        "act": "【出演】瀬戸康史，【声】キムラ緑子",
-        "genres": [
-          "0506",
-          "0205",
-          "0804"
-        ]
-      },
-      {
-        "id": "2024032700175",
-        "event_id": "00175",
-        "start_time": "2024-03-27T11:30:00+09:00",
-        "end_time": "2024-03-27T11:35:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "テレビ体操",
-        "subtitle": "【出演】岡本美佳，戸塚寛子，杉井勇介，織田一明，【ピアノ】幅しげみ",
-        "content": "",
-        "act": "【出演】岡本美佳，戸塚寛子，杉井勇介，織田一明，【ピアノ】幅しげみ",
-        "genres": [
-          "0115",
-          "1015",
-          "0203"
-        ]
-      },
-      {
-        "id": "2024032700176",
-        "event_id": "00176",
-        "start_time": "2024-03-27T11:35:00+09:00",
-        "end_time": "2024-03-27T11:40:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ピタゴラスイッチ　ミニ",
-        "subtitle": "さまざまな法則や不思議な構造、面白い考え方を、アニメ、歌、体操、ピタゴラ装置など多彩なコーナーで紹介。今回は「こんなことできません」、うた「ビーバーのダム」など",
-        "content": "私たちがふだん暮らしている中には、さまざまな不思議な構造や面白い考え方、法則が隠れている。番組では、さまざまな「子どもにとっての“なるほど！”」を紹介する。今回は「こんなことできません」、うた「ビーバーのダム」など。【出演】関根勤、岩井ジョニ男（イワイガワ）　ほか",
-        "act": "【出演】関根勤，岩井ジョニ男",
-        "genres": [
-          "1008",
-          "0815"
-        ]
-      },
-      {
-        "id": "2024032753348",
-        "event_id": "53348",
-        "start_time": "2024-03-27T11:40:00+09:00",
         "end_time": "2024-03-27T11:54:00+09:00",
         "area": {
           "id": "340",
@@ -707,14 +332,12 @@
             "height": "200"
           }
         },
-        "title": "ひるまえ直送便　▽広島で開かれた映画「オッペンハイマー」の試写会",
-        "subtitle": "エンタメ情報～広島で試写会が開かれた映画「オッペンハイマー」。地元高校生らの受け止めは？案内は映画館支配人の蔵本健太郎さん▽出雲あや乃・出山知樹・勝丸恭子",
-        "content": "「知ってワクワク！ホッとつながる！」をコンセプトに、中国地方の心躍る話題、暮らしに安らぎをもたらす情報をお届けします▽エンタメ情報～アメリカのアカデミー賞の受賞もあって注目されている映画「オッペンハイマー」は原爆の開発を中心になって担った科学者の物語です。広島の高校生はこの映画をどう受け止めたのか？映画監督・森達也さんインタビュー。映画館支配人の蔵本健太郎さん▽出雲あや乃・出山知樹・勝丸恭子",
-        "act": "【キャスター】出山知樹，出雲あや乃，【気象キャスター】勝丸恭子",
+        "title": "第９６回選抜高校野球大会　準々決勝",
+        "subtitle": "第１試合　第２試合　【第１試合】解説…杉本真吾，アナウンサー…西川順一，【第２試合】解説…足達尚人，アナウンサー…坂梨哲士　～甲子園球場から中継～",
+        "content": "［Ｅテレで放送継続］",
+        "act": "【第１試合】解説…杉本真吾，アナウンサー…西川順一，【第２試合】解説…足達尚人，アナウンサー…坂梨哲士",
         "genres": [
-          "0009",
-          "0205",
-          "0206"
+          "0101"
         ]
       },
       {
@@ -937,779 +560,9 @@
         ]
       },
       {
-        "id": "2024032702181",
-        "event_id": "02181",
+        "id": "2024032734783",
+        "event_id": "34783",
         "start_time": "2024-03-27T13:05:00+09:00",
-        "end_time": "2024-03-27T13:55:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ＢＳ１スペシャル",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": []
-      },
-      {
-        "id": "2024032700191",
-        "event_id": "00191",
-        "start_time": "2024-03-27T13:55:00+09:00",
-        "end_time": "2024-03-27T14:00:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "テレビ体操",
-        "subtitle": "【出演】岡本美佳，今井菜津美，石川裕平，吉江晴菜，【ピアノ】幅しげみ",
-        "content": "",
-        "act": "【出演】岡本美佳，今井菜津美，石川裕平，吉江晴菜，【ピアノ】幅しげみ",
-        "genres": [
-          "0115",
-          "1015",
-          "0203"
-        ]
-      },
-      {
-        "id": "2024032700192",
-        "event_id": "00192",
-        "start_time": "2024-03-27T14:00:00+09:00",
-        "end_time": "2024-03-27T14:05:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000",
-          "0001"
-        ]
-      },
-      {
-        "id": "2024032700193",
-        "event_id": "00193",
-        "start_time": "2024-03-27T14:05:00+09:00",
-        "end_time": "2024-03-27T14:15:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "時論公論　【出演】ＮＨＫ解説委員",
-        "subtitle": "▽混沌（とん）とした時代、次々と押し寄せるニュースの裏に、何があるのか？“明日を生きる指針”を提供する解説番組。",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0006",
-          "0000",
-          "0007"
-        ]
-      },
-      {
-        "id": "2024032702185",
-        "event_id": "02185",
-        "start_time": "2024-03-27T14:15:00+09:00",
-        "end_time": "2024-03-27T14:45:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ダーウィンが来た！",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0802",
-          "1000"
-        ]
-      },
-      {
-        "id": "2024032704843",
-        "event_id": "04843",
-        "start_time": "2024-03-27T14:45:00+09:00",
-        "end_time": "2024-03-27T15:00:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "空旅中国　英雄が駆けた道「武帝のシルクロード」",
-        "subtitle": "漢の武帝の時代、使者として西域に向かった張けんの足取りをドローンで追う。張けんは“シルクロードの開拓者”と呼ばれる英雄。砂漠やオアシス、長城の絶景を味わう。",
-        "content": "ＢＳプレミアムで放送したドローン映像による紀行番組「空旅中国」から、紀元前の漢の時代、西域を旅した張けんの冒険を紹介。第七代皇帝・武帝は勢力を拡大する北方遊牧民を抑えるため、西域の大国・大月氏と手を結ぼうとした。張けんはその使者として１０年をこえる旅をし、知られざる西の国々の情報を持ち帰った。“シルクロードの開拓者”。張けんが駆けた道をドローンで飛行、オアシスや砂漠の絶景と心躍る冒険を味わう。",
-        "act": "【語り】小谷直子",
-        "genres": [
-          "0801",
-          "1000"
-        ]
-      },
-      {
-        "id": "2024032700195",
-        "event_id": "00195",
-        "start_time": "2024-03-27T15:00:00+09:00",
-        "end_time": "2024-03-27T15:07:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000",
-          "0001"
-        ]
-      },
-      {
-        "id": "2024032753589",
-        "event_id": "53589",
-        "start_time": "2024-03-27T15:07:00+09:00",
-        "end_time": "2024-03-27T15:10:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・気象情報（中国地方）",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000",
-          "0009"
-        ]
-      },
-      {
-        "id": "2024032700197",
-        "event_id": "00197",
-        "start_time": "2024-03-27T15:10:00+09:00",
-        "end_time": "2024-03-27T15:40:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "美の壺　永遠（とわ）に生きる　木彫",
-        "subtitle": "「木彫」を仏像から最新作家の作品まで大特集！▽京都の女性仏師が作るやわらかな仏▽空想上の動物を木彫に▽世界のオークションで注目の木彫像に迫る▽富山・井波の木彫",
-        "content": "仏像から最新の作家まで「木彫」を特集▽平等院鳳凰堂の阿弥陀如来坐像に刻まれた優美な表情。京都・即成院には笑う菩薩？▽彫刻家・三沢厚彦さんが生み出すユニークな彫刻。様々な動物を一つの体に共存させた「キメラ」に込めた“木彫愛”とは▽圧倒的な存在感を生む、加藤巍山さんの繊細かつたくましい筋肉描写▽まるで本物の柿！？作者が愛する故郷の原風景▽富山・井波の寺に残る欄間には、波を泳ぐ龍の姿＜Ｆｉｌｅ５９７＞",
-        "act": "【出演】草刈正雄，仏絵師・仏師…松久佳遊，彫刻家…三沢厚彦，仏師・彫刻家…加藤巍山，木彫師…野村光雄，木彫家…岩崎努，俳優…梶原善，【語り】木村多江",
-        "genres": [
-          "1002",
-          "0804",
-          "0202"
-        ]
-      },
-      {
-        "id": "2024032700200",
-        "event_id": "00200",
-        "start_time": "2024-03-27T15:40:00+09:00",
-        "end_time": "2024-03-27T15:55:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "さわやか自然百景　鹿児島　沖永良部島の海",
-        "subtitle": "奄美群島の沖永良部島。冬、島を取り囲む青い海に大型魚ギンガメアジの大群が現われ、不思議な行動を見せる。また、北の海からザトウクジラがやってきて、子育てに励む。",
-        "content": "鹿児島市から南西へおよそ５５０キロ、奄美群島の沖永良部島はサンゴ礁が隆起してできた島。周囲の青い海には複雑な海底地形が広がる。冬、海に潜ると、岩場を色鮮やかな魚たちが泳ぎ回っている。水深４０メートルの海で出会ったのは、大型魚ギンガメアジの千匹もの群れ。竜巻のように渦を巻いて泳ぐ不思議な行動を見せる。さらに、北の海からザトウクジラがやってきて、子育てに励む様子も見られる。命躍動する冬の海を訪ねる。",
-        "act": "【語り】豊島実季",
-        "genres": [
-          "0802",
-          "1000"
-        ]
-      },
-      {
-        "id": "2024032700203",
-        "event_id": "00203",
-        "start_time": "2024-03-27T15:55:00+09:00",
-        "end_time": "2024-03-27T16:00:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みんなのうた　ツバメ～石川バージョン／ツバメ～レインボーバージョン",
-        "subtitle": "ツバメ～石川バージョン／ツバメ～レインボーバージョン",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0409",
-          "0504"
-        ]
-      },
-      {
-        "id": "2024032700204",
-        "event_id": "00204",
-        "start_time": "2024-03-27T16:00:00+09:00",
-        "end_time": "2024-03-27T16:05:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2024032700205",
-        "event_id": "00205",
-        "start_time": "2024-03-27T16:05:00+09:00",
-        "end_time": "2024-03-27T16:10:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "巡る世界絶景　中米・マヤ遺跡",
-        "subtitle": "巡る世界絶景。中米のマヤ遺跡に迫る。",
-        "content": "巡る世界絶景。中米のマヤ遺跡に迫る。",
-        "act": "",
-        "genres": [
-          "0801"
-        ]
-      },
-      {
-        "id": "2024032700210",
-        "event_id": "00210",
-        "start_time": "2024-03-27T16:10:00+09:00",
-        "end_time": "2024-03-27T16:15:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "きょうの料理ビギナーズ　菜の花と豚肉の塩炒め",
-        "subtitle": "今回の主役は、春の訪れを告げる「菜の花」です。シンプルに肉と炒めたり、色よくゆでてあえ物にしたり。ほのかな苦み、旬のおいしさを味わいましょう。",
-        "content": "菜の花は、使う前にたっぷりの水につけてシャキッとさせましょう。味も食感もよくなります。「菜の花と豚肉の塩炒め」は、食材のうまみを生かす、シンプルな塩味。パパっと手早くつくれるのもうれしい一品です。「菜の花の白あえ」は、和食の定番。豆腐はフォークでつぶすので、すり鉢がなくてもつくれます。ほろ苦い菜の花を、豆腐の衣がやさしく包み込むみ春の味、ぜひ味わってみてください。",
-        "act": "【語り】佐久間レイ",
-        "genres": [
-          "0205",
-          "1015"
-        ]
-      },
-      {
-        "id": "2024032700211",
-        "event_id": "00211",
-        "start_time": "2024-03-27T16:15:00+09:00",
-        "end_time": "2024-03-27T17:00:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "歴史探偵",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0801"
-        ]
-      },
-      {
-        "id": "2024032700213",
-        "event_id": "00213",
-        "start_time": "2024-03-27T17:00:00+09:00",
-        "end_time": "2024-03-27T17:05:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2024032706236",
-        "event_id": "06236",
-        "start_time": "2024-03-27T17:05:00+09:00",
-        "end_time": "2024-03-27T17:20:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "漫画家イエナガの複雑社会を超定義",
-        "subtitle": "話題！ヨーグルトなどで腸内環境を整える「腸活」を俳優・町田啓太が１５分超速解説。食欲も感情も腸内細菌が影響している！？難しいことを漫画やＣＧで楽しく学ぶ！",
-        "content": "漫画家イエナガ（町田啓太）が、編集者（橋本マナミ）にプレゼンするテーマは「腸内細菌」。いま「腸活」「菌活」が大ブーム！人間のおなかにいる１０００種類１００兆もの超パワー！ビフィズス菌や乳酸菌の驚きの能力とは？キーワードは脳腸相関。イライラ、ウキウキ、おいしい、マズい…実は細菌が操ってる？そして腸内細菌をベストな状態にする食生活のコツは多様性？腸内細菌の世界を知れば、人生が豊かになっちゃうかも！",
-        "act": "【出演】町田啓太，橋本マナミ",
-        "genres": [
-          "0800"
-        ]
-      },
-      {
-        "id": "2024032707517",
-        "event_id": "07517",
-        "start_time": "2024-03-27T17:20:00+09:00",
-        "end_time": "2024-03-27T17:25:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ドラマ１０「天使の耳～交通警察の夜」のすべて",
-        "subtitle": "今ままであまり描かれることのなかった交通課捜査係の奮闘と交通事故にまつわる人間模様をドラマチックに描く本作の魅力を５分で紹介します。",
-        "content": "東野圭吾さんの３０年前の名作「天使の耳」を現代に置き換えてドラマ化した、ドラマ１０「天使の耳～交通警察の夜」の放送を前に、今ままであまり描かれることのなかった交通課捜査係の奮闘と、ふとした交通事故が人の運命を変えていく様をドラマチックに描いたヒューマンサスペンスの見どころを５分にまとめて紹介します。",
-        "act": "【原作】東野圭吾，荒井修子，【出演】小芝風花，安田顕，檀れい",
-        "genres": [
-          "0300",
-          "0207"
-        ]
-      },
-      {
-        "id": "2024032707518",
-        "event_id": "07518",
-        "start_time": "2024-03-27T17:25:00+09:00",
-        "end_time": "2024-03-27T17:30:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "アニメ「烏は主を選ばない」５分ＰＲバトル編　４／６（土）夜１１：４５スタート！",
-        "subtitle": "シリーズ累計２００万部突破の大河ファンタジー「八咫烏シリーズ」ついにアニメ化！后の座をかけた四人の姫のバトルが始まる…＜【総合】４／６（土）夜１１：４５～＞",
-        "content": "バトル編　４／６（土）夜１１：４５スタート！　【原作】阿部智里【出演】本泉莉奈，七海ひろき，福原綾香，釘宮理恵，【声】青山吉能，【語り】板倉光隆「ｐｏｉ」ＳａｕｃｙＤｏｇ",
-        "act": "【出演】本泉莉奈，七海ひろき，福原綾香，釘宮理恵，【声】青山吉能，【語り】板倉光隆，【原作】阿部智里",
-        "genres": [
-          "0700"
-        ]
-      },
-      {
-        "id": "2024032707520",
-        "event_id": "07520",
-        "start_time": "2024-03-27T17:30:00+09:00",
-        "end_time": "2024-03-27T17:55:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "探検ファクトリー",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0505",
-          "0800"
-        ]
-      },
-      {
-        "id": "2024032707523",
-        "event_id": "07523",
-        "start_time": "2024-03-27T17:55:00+09:00",
-        "end_time": "2024-03-27T17:57:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "新プロジェクトＸ　放送直前スペシャルＰＲ",
-        "subtitle": "【語り】八嶋智人",
-        "content": "",
-        "act": "【語り】八嶋智人",
-        "genres": [
-          "0807"
-        ]
-      },
-      {
-        "id": "2024032753593",
-        "event_id": "53593",
-        "start_time": "2024-03-27T17:57:00+09:00",
         "end_time": "2024-03-27T18:00:00+09:00",
         "area": {
           "id": "340",
@@ -1734,12 +587,12 @@
             "height": "200"
           }
         },
-        "title": "気象情報（中国地方）",
-        "subtitle": "",
-        "content": "",
-        "act": "",
+        "title": "第９６回選抜高校野球大会　準々決勝",
+        "subtitle": "第２試合　第３試合　第４試合　【第２試合】解説…足達尚人，アナウンサー…坂梨哲士，【第３試合】解説…長野哲也，アナウンサー…酒井博司ほか",
+        "content": "［Ｅテレで放送継続］",
+        "act": "【第２試合】解説…足達尚人，アナウンサー…坂梨哲士，【第３試合】解説…長野哲也，アナウンサー…酒井博司，【第４試合】解説…飯塚智広，アナウンサー…佐竹祐人",
         "genres": [
-          "0001"
+          "0101"
         ]
       },
       {
@@ -2746,384 +1599,9 @@
         ]
       },
       {
-        "id": "2024032700161",
-        "event_id": "00161",
+        "id": "2024032734757",
+        "event_id": "34757",
         "start_time": "2024-03-27T08:15:00+09:00",
-        "end_time": "2024-03-27T09:55:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "あさイチ　キャッシュレス時代に貯金するには！？",
-        "subtitle": "キャッシュレス時代に財布が進化！小型化！バッグ化！スマホ一体化！キャッシュレスでも年間２００万円貯められる工夫！令和の一円玉が３０００倍の価値になってる！？",
-        "content": "キャッシュレス時代に財布が進化！小型化！バッグ化！スマホ一体化！家計が管理しづらいキャッシュレスでも、年間２００万円貯められる工夫！令和の一円玉が３０００倍の価値になってる！？▽鈴木アナの代行趣味ハジメ『金つぎ』▽いまオシ！リポート『あわら温泉』『チロルリボン』みんな！ゴハンだよ　本田明子さん【ゲスト】とにかく明るい安村・野呂佳代【キャスター】博多華丸・大吉、鈴木奈穂子",
-        "act": "【ゲスト】とにかく明るい安村，野呂佳代，【講師】料理研究家…本田明子，【キャスター】博多華丸，博多大吉，鈴木奈穂子，【リポーター】駒村多恵，角谷直也",
-        "genres": [
-          "0202",
-          "0203",
-          "0800"
-        ]
-      },
-      {
-        "id": "2024032700166",
-        "event_id": "00166",
-        "start_time": "2024-03-27T09:55:00+09:00",
-        "end_time": "2024-03-27T10:00:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みんなの体操",
-        "subtitle": "【出演】鈴木大輔，今井菜津美，杉井勇介，森山雅斗",
-        "content": "",
-        "act": "【出演】鈴木大輔，今井菜津美，杉井勇介，森山雅斗",
-        "genres": [
-          "0115",
-          "1015",
-          "0203"
-        ]
-      },
-      {
-        "id": "2024032700167",
-        "event_id": "00167",
-        "start_time": "2024-03-27T10:00:00+09:00",
-        "end_time": "2024-03-27T10:05:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000",
-          "0001"
-        ]
-      },
-      {
-        "id": "2024032700168",
-        "event_id": "00168",
-        "start_time": "2024-03-27T10:05:00+09:00",
-        "end_time": "2024-03-27T10:45:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "キャッチ！世界のトップニュース　アメリカ　イスラエル",
-        "subtitle": "【特集】培養肉生産の環境負荷　キャスター：別府正一郎／高橋彩",
-        "content": "▽各国の放送局が伝える注目ニュースをピックアップ▽焦点や背景を分かりやすく解説▽特集ワールド・アイズ※内容変更の場合あり　【キャスター】別府正一郎，髙橋彩",
-        "act": "【キャスター】別府正一郎，髙橋彩",
-        "genres": [
-          "0005",
-          "0006"
-        ]
-      },
-      {
-        "id": "2024032700169",
-        "event_id": "00169",
-        "start_time": "2024-03-27T10:45:00+09:00",
-        "end_time": "2024-03-27T10:55:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みみより！くらし解説　【出演】岩渕梢キャスター　ＮＨＫ解説委員",
-        "subtitle": "▽あなたのくらしに、みみより解説！いま気になるニュースをわかりやすく、裏にはこんな深いコトが…！くらしに密着した耳よりな情報をお届けします！",
-        "content": "",
-        "act": "【キャスター】岩渕梢",
-        "genres": [
-          "0006",
-          "0202",
-          "0203"
-        ]
-      },
-      {
-        "id": "2024032700170",
-        "event_id": "00170",
-        "start_time": "2024-03-27T10:55:00+09:00",
-        "end_time": "2024-03-27T11:00:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みんなのうた「きみのたこ焼き」／「おまじない」",
-        "subtitle": "「きみのたこ焼き」うた：木梨憲武／「おまじない」うた：和ぬか",
-        "content": "「きみのたこ焼き」うた：木梨憲武／「おまじない」うた：和ぬか",
-        "act": "",
-        "genres": [
-          "0409",
-          "0504"
-        ]
-      },
-      {
-        "id": "2024032700171",
-        "event_id": "00171",
-        "start_time": "2024-03-27T11:00:00+09:00",
-        "end_time": "2024-03-27T11:05:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000",
-          "0001"
-        ]
-      },
-      {
-        "id": "2024032700172",
-        "event_id": "00172",
-        "start_time": "2024-03-27T11:05:00+09:00",
-        "end_time": "2024-03-27T11:30:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "グレーテルのかまど「銭天堂のふしぎ駄菓子」",
-        "subtitle": "幸運な人だけがたどり着けるという駄菓子屋、銭天堂。ミステリアスな店主紅子さんが売っている、ちょっと不思議な駄菓子の世界をご紹介。ヘンゼルも不思議駄菓子に挑戦！",
-        "content": "Ｅテレで放送中のアニメ“ふしぎ駄菓子屋銭天堂”。原作の児童書はアジア各国でも翻訳され、大人気だ。この店に行けば、客一人一人の望みに合わせてぴったりの駄菓子があり、食べれば望みがかなうという。しかし紅子さんが売る不思議な駄菓子、食べ方を間違えると、思わぬ副作用があるとか…。物語に登場する“カリスマボンボンは、食べるだけでカリスマ性が目覚めるとか！？さあ、ヘンゼルも作ってみよう！効果はいかに！",
-        "act": "【出演】瀬戸康史，【声】キムラ緑子",
-        "genres": [
-          "0506",
-          "0205",
-          "0804"
-        ]
-      },
-      {
-        "id": "2024032700175",
-        "event_id": "00175",
-        "start_time": "2024-03-27T11:30:00+09:00",
-        "end_time": "2024-03-27T11:35:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "テレビ体操",
-        "subtitle": "【出演】岡本美佳，戸塚寛子，杉井勇介，織田一明，【ピアノ】幅しげみ",
-        "content": "",
-        "act": "【出演】岡本美佳，戸塚寛子，杉井勇介，織田一明，【ピアノ】幅しげみ",
-        "genres": [
-          "0115",
-          "1015",
-          "0203"
-        ]
-      },
-      {
-        "id": "2024032700176",
-        "event_id": "00176",
-        "start_time": "2024-03-27T11:35:00+09:00",
-        "end_time": "2024-03-27T11:40:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ピタゴラスイッチ　ミニ",
-        "subtitle": "さまざまな法則や不思議な構造、面白い考え方を、アニメ、歌、体操、ピタゴラ装置など多彩なコーナーで紹介。今回は「こんなことできません」、うた「ビーバーのダム」など",
-        "content": "私たちがふだん暮らしている中には、さまざまな不思議な構造や面白い考え方、法則が隠れている。番組では、さまざまな「子どもにとっての“なるほど！”」を紹介する。今回は「こんなことできません」、うた「ビーバーのダム」など。【出演】関根勤、岩井ジョニ男（イワイガワ）　ほか",
-        "act": "【出演】関根勤，岩井ジョニ男",
-        "genres": [
-          "1008",
-          "0815"
-        ]
-      },
-      {
-        "id": "2024032753348",
-        "event_id": "53348",
-        "start_time": "2024-03-27T11:40:00+09:00",
         "end_time": "2024-03-27T11:54:00+09:00",
         "area": {
           "id": "340",
@@ -3148,14 +1626,12 @@
             "height": "200"
           }
         },
-        "title": "ひるまえ直送便　▽広島で開かれた映画「オッペンハイマー」の試写会",
-        "subtitle": "エンタメ情報～広島で試写会が開かれた映画「オッペンハイマー」。地元高校生らの受け止めは？案内は映画館支配人の蔵本健太郎さん▽出雲あや乃・出山知樹・勝丸恭子",
-        "content": "「知ってワクワク！ホッとつながる！」をコンセプトに、中国地方の心躍る話題、暮らしに安らぎをもたらす情報をお届けします▽エンタメ情報～アメリカのアカデミー賞の受賞もあって注目されている映画「オッペンハイマー」は原爆の開発を中心になって担った科学者の物語です。広島の高校生はこの映画をどう受け止めたのか？映画監督・森達也さんインタビュー。映画館支配人の蔵本健太郎さん▽出雲あや乃・出山知樹・勝丸恭子",
-        "act": "【キャスター】出山知樹，出雲あや乃，【気象キャスター】勝丸恭子",
+        "title": "第９６回選抜高校野球大会　準々決勝",
+        "subtitle": "第１試合　第２試合　【第１試合】解説…杉本真吾，アナウンサー…西川順一，【第２試合】解説…足達尚人，アナウンサー…坂梨哲士　～甲子園球場から中継～",
+        "content": "［Ｅテレで放送継続］",
+        "act": "【第１試合】解説…杉本真吾，アナウンサー…西川順一，【第２試合】解説…足達尚人，アナウンサー…坂梨哲士",
         "genres": [
-          "0009",
-          "0205",
-          "0206"
+          "0101"
         ]
       },
       {
@@ -3378,779 +1854,9 @@
         ]
       },
       {
-        "id": "2024032702181",
-        "event_id": "02181",
+        "id": "2024032734783",
+        "event_id": "34783",
         "start_time": "2024-03-27T13:05:00+09:00",
-        "end_time": "2024-03-27T13:55:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ＢＳ１スペシャル",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": []
-      },
-      {
-        "id": "2024032700191",
-        "event_id": "00191",
-        "start_time": "2024-03-27T13:55:00+09:00",
-        "end_time": "2024-03-27T14:00:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "テレビ体操",
-        "subtitle": "【出演】岡本美佳，今井菜津美，石川裕平，吉江晴菜，【ピアノ】幅しげみ",
-        "content": "",
-        "act": "【出演】岡本美佳，今井菜津美，石川裕平，吉江晴菜，【ピアノ】幅しげみ",
-        "genres": [
-          "0115",
-          "1015",
-          "0203"
-        ]
-      },
-      {
-        "id": "2024032700192",
-        "event_id": "00192",
-        "start_time": "2024-03-27T14:00:00+09:00",
-        "end_time": "2024-03-27T14:05:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000",
-          "0001"
-        ]
-      },
-      {
-        "id": "2024032700193",
-        "event_id": "00193",
-        "start_time": "2024-03-27T14:05:00+09:00",
-        "end_time": "2024-03-27T14:15:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "時論公論　【出演】ＮＨＫ解説委員",
-        "subtitle": "▽混沌（とん）とした時代、次々と押し寄せるニュースの裏に、何があるのか？“明日を生きる指針”を提供する解説番組。",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0006",
-          "0000",
-          "0007"
-        ]
-      },
-      {
-        "id": "2024032702185",
-        "event_id": "02185",
-        "start_time": "2024-03-27T14:15:00+09:00",
-        "end_time": "2024-03-27T14:45:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ダーウィンが来た！",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0802",
-          "1000"
-        ]
-      },
-      {
-        "id": "2024032704843",
-        "event_id": "04843",
-        "start_time": "2024-03-27T14:45:00+09:00",
-        "end_time": "2024-03-27T15:00:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "空旅中国　英雄が駆けた道「武帝のシルクロード」",
-        "subtitle": "漢の武帝の時代、使者として西域に向かった張けんの足取りをドローンで追う。張けんは“シルクロードの開拓者”と呼ばれる英雄。砂漠やオアシス、長城の絶景を味わう。",
-        "content": "ＢＳプレミアムで放送したドローン映像による紀行番組「空旅中国」から、紀元前の漢の時代、西域を旅した張けんの冒険を紹介。第七代皇帝・武帝は勢力を拡大する北方遊牧民を抑えるため、西域の大国・大月氏と手を結ぼうとした。張けんはその使者として１０年をこえる旅をし、知られざる西の国々の情報を持ち帰った。“シルクロードの開拓者”。張けんが駆けた道をドローンで飛行、オアシスや砂漠の絶景と心躍る冒険を味わう。",
-        "act": "【語り】小谷直子",
-        "genres": [
-          "0801",
-          "1000"
-        ]
-      },
-      {
-        "id": "2024032700195",
-        "event_id": "00195",
-        "start_time": "2024-03-27T15:00:00+09:00",
-        "end_time": "2024-03-27T15:07:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000",
-          "0001"
-        ]
-      },
-      {
-        "id": "2024032753589",
-        "event_id": "53589",
-        "start_time": "2024-03-27T15:07:00+09:00",
-        "end_time": "2024-03-27T15:10:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・気象情報（中国地方）",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000",
-          "0009"
-        ]
-      },
-      {
-        "id": "2024032700197",
-        "event_id": "00197",
-        "start_time": "2024-03-27T15:10:00+09:00",
-        "end_time": "2024-03-27T15:40:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "美の壺　永遠（とわ）に生きる　木彫",
-        "subtitle": "「木彫」を仏像から最新作家の作品まで大特集！▽京都の女性仏師が作るやわらかな仏▽空想上の動物を木彫に▽世界のオークションで注目の木彫像に迫る▽富山・井波の木彫",
-        "content": "仏像から最新の作家まで「木彫」を特集▽平等院鳳凰堂の阿弥陀如来坐像に刻まれた優美な表情。京都・即成院には笑う菩薩？▽彫刻家・三沢厚彦さんが生み出すユニークな彫刻。様々な動物を一つの体に共存させた「キメラ」に込めた“木彫愛”とは▽圧倒的な存在感を生む、加藤巍山さんの繊細かつたくましい筋肉描写▽まるで本物の柿！？作者が愛する故郷の原風景▽富山・井波の寺に残る欄間には、波を泳ぐ龍の姿＜Ｆｉｌｅ５９７＞",
-        "act": "【出演】草刈正雄，仏絵師・仏師…松久佳遊，彫刻家…三沢厚彦，仏師・彫刻家…加藤巍山，木彫師…野村光雄，木彫家…岩崎努，俳優…梶原善，【語り】木村多江",
-        "genres": [
-          "1002",
-          "0804",
-          "0202"
-        ]
-      },
-      {
-        "id": "2024032700200",
-        "event_id": "00200",
-        "start_time": "2024-03-27T15:40:00+09:00",
-        "end_time": "2024-03-27T15:55:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "さわやか自然百景　鹿児島　沖永良部島の海",
-        "subtitle": "奄美群島の沖永良部島。冬、島を取り囲む青い海に大型魚ギンガメアジの大群が現われ、不思議な行動を見せる。また、北の海からザトウクジラがやってきて、子育てに励む。",
-        "content": "鹿児島市から南西へおよそ５５０キロ、奄美群島の沖永良部島はサンゴ礁が隆起してできた島。周囲の青い海には複雑な海底地形が広がる。冬、海に潜ると、岩場を色鮮やかな魚たちが泳ぎ回っている。水深４０メートルの海で出会ったのは、大型魚ギンガメアジの千匹もの群れ。竜巻のように渦を巻いて泳ぐ不思議な行動を見せる。さらに、北の海からザトウクジラがやってきて、子育てに励む様子も見られる。命躍動する冬の海を訪ねる。",
-        "act": "【語り】豊島実季",
-        "genres": [
-          "0802",
-          "1000"
-        ]
-      },
-      {
-        "id": "2024032700203",
-        "event_id": "00203",
-        "start_time": "2024-03-27T15:55:00+09:00",
-        "end_time": "2024-03-27T16:00:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みんなのうた　ツバメ～石川バージョン／ツバメ～レインボーバージョン",
-        "subtitle": "ツバメ～石川バージョン／ツバメ～レインボーバージョン",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0409",
-          "0504"
-        ]
-      },
-      {
-        "id": "2024032700204",
-        "event_id": "00204",
-        "start_time": "2024-03-27T16:00:00+09:00",
-        "end_time": "2024-03-27T16:05:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・気象情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2024032700205",
-        "event_id": "00205",
-        "start_time": "2024-03-27T16:05:00+09:00",
-        "end_time": "2024-03-27T16:10:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "巡る世界絶景　中米・マヤ遺跡",
-        "subtitle": "巡る世界絶景。中米のマヤ遺跡に迫る。",
-        "content": "巡る世界絶景。中米のマヤ遺跡に迫る。",
-        "act": "",
-        "genres": [
-          "0801"
-        ]
-      },
-      {
-        "id": "2024032700210",
-        "event_id": "00210",
-        "start_time": "2024-03-27T16:10:00+09:00",
-        "end_time": "2024-03-27T16:15:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "きょうの料理ビギナーズ　菜の花と豚肉の塩炒め",
-        "subtitle": "今回の主役は、春の訪れを告げる「菜の花」です。シンプルに肉と炒めたり、色よくゆでてあえ物にしたり。ほのかな苦み、旬のおいしさを味わいましょう。",
-        "content": "菜の花は、使う前にたっぷりの水につけてシャキッとさせましょう。味も食感もよくなります。「菜の花と豚肉の塩炒め」は、食材のうまみを生かす、シンプルな塩味。パパっと手早くつくれるのもうれしい一品です。「菜の花の白あえ」は、和食の定番。豆腐はフォークでつぶすので、すり鉢がなくてもつくれます。ほろ苦い菜の花を、豆腐の衣がやさしく包み込むみ春の味、ぜひ味わってみてください。",
-        "act": "【語り】佐久間レイ",
-        "genres": [
-          "0205",
-          "1015"
-        ]
-      },
-      {
-        "id": "2024032700211",
-        "event_id": "00211",
-        "start_time": "2024-03-27T16:15:00+09:00",
-        "end_time": "2024-03-27T17:00:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "歴史探偵",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0801"
-        ]
-      },
-      {
-        "id": "2024032700213",
-        "event_id": "00213",
-        "start_time": "2024-03-27T17:00:00+09:00",
-        "end_time": "2024-03-27T17:05:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2024032706236",
-        "event_id": "06236",
-        "start_time": "2024-03-27T17:05:00+09:00",
-        "end_time": "2024-03-27T17:20:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "漫画家イエナガの複雑社会を超定義",
-        "subtitle": "話題！ヨーグルトなどで腸内環境を整える「腸活」を俳優・町田啓太が１５分超速解説。食欲も感情も腸内細菌が影響している！？難しいことを漫画やＣＧで楽しく学ぶ！",
-        "content": "漫画家イエナガ（町田啓太）が、編集者（橋本マナミ）にプレゼンするテーマは「腸内細菌」。いま「腸活」「菌活」が大ブーム！人間のおなかにいる１０００種類１００兆もの超パワー！ビフィズス菌や乳酸菌の驚きの能力とは？キーワードは脳腸相関。イライラ、ウキウキ、おいしい、マズい…実は細菌が操ってる？そして腸内細菌をベストな状態にする食生活のコツは多様性？腸内細菌の世界を知れば、人生が豊かになっちゃうかも！",
-        "act": "【出演】町田啓太，橋本マナミ",
-        "genres": [
-          "0800"
-        ]
-      },
-      {
-        "id": "2024032707517",
-        "event_id": "07517",
-        "start_time": "2024-03-27T17:20:00+09:00",
-        "end_time": "2024-03-27T17:25:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ドラマ１０「天使の耳～交通警察の夜」のすべて",
-        "subtitle": "今ままであまり描かれることのなかった交通課捜査係の奮闘と交通事故にまつわる人間模様をドラマチックに描く本作の魅力を５分で紹介します。",
-        "content": "東野圭吾さんの３０年前の名作「天使の耳」を現代に置き換えてドラマ化した、ドラマ１０「天使の耳～交通警察の夜」の放送を前に、今ままであまり描かれることのなかった交通課捜査係の奮闘と、ふとした交通事故が人の運命を変えていく様をドラマチックに描いたヒューマンサスペンスの見どころを５分にまとめて紹介します。",
-        "act": "【原作】東野圭吾，荒井修子，【出演】小芝風花，安田顕，檀れい",
-        "genres": [
-          "0300",
-          "0207"
-        ]
-      },
-      {
-        "id": "2024032707518",
-        "event_id": "07518",
-        "start_time": "2024-03-27T17:25:00+09:00",
-        "end_time": "2024-03-27T17:30:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "アニメ「烏は主を選ばない」５分ＰＲバトル編　４／６（土）夜１１：４５スタート！",
-        "subtitle": "シリーズ累計２００万部突破の大河ファンタジー「八咫烏シリーズ」ついにアニメ化！后の座をかけた四人の姫のバトルが始まる…＜【総合】４／６（土）夜１１：４５～＞",
-        "content": "バトル編　４／６（土）夜１１：４５スタート！　【原作】阿部智里【出演】本泉莉奈，七海ひろき，福原綾香，釘宮理恵，【声】青山吉能，【語り】板倉光隆「ｐｏｉ」ＳａｕｃｙＤｏｇ",
-        "act": "【出演】本泉莉奈，七海ひろき，福原綾香，釘宮理恵，【声】青山吉能，【語り】板倉光隆，【原作】阿部智里",
-        "genres": [
-          "0700"
-        ]
-      },
-      {
-        "id": "2024032707520",
-        "event_id": "07520",
-        "start_time": "2024-03-27T17:30:00+09:00",
-        "end_time": "2024-03-27T17:55:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "探検ファクトリー",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0505",
-          "0800"
-        ]
-      },
-      {
-        "id": "2024032707523",
-        "event_id": "07523",
-        "start_time": "2024-03-27T17:55:00+09:00",
-        "end_time": "2024-03-27T17:57:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "新プロジェクトＸ　放送直前スペシャルＰＲ",
-        "subtitle": "【語り】八嶋智人",
-        "content": "",
-        "act": "【語り】八嶋智人",
-        "genres": [
-          "0807"
-        ]
-      },
-      {
-        "id": "2024032753593",
-        "event_id": "53593",
-        "start_time": "2024-03-27T17:57:00+09:00",
         "end_time": "2024-03-27T18:00:00+09:00",
         "area": {
           "id": "340",
@@ -4175,12 +1881,12 @@
             "height": "200"
           }
         },
-        "title": "気象情報（中国地方）",
-        "subtitle": "",
-        "content": "",
-        "act": "",
+        "title": "第９６回選抜高校野球大会　準々決勝",
+        "subtitle": "第２試合　第３試合　第４試合　【第２試合】解説…足達尚人，アナウンサー…坂梨哲士，【第３試合】解説…長野哲也，アナウンサー…酒井博司ほか",
+        "content": "［Ｅテレで放送継続］",
+        "act": "【第２試合】解説…足達尚人，アナウンサー…坂梨哲士，【第３試合】解説…長野哲也，アナウンサー…酒井博司，【第４試合】解説…飯塚智広，アナウンサー…佐竹祐人",
         "genres": [
-          "0001"
+          "0101"
         ]
       },
       {
@@ -6067,7 +3773,7 @@
         "id": "2024032700292",
         "event_id": "00292",
         "start_time": "2024-03-27T11:30:00+09:00",
-        "end_time": "2024-03-27T11:55:00+09:00",
+        "end_time": "2024-03-27T11:54:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -6101,10 +3807,10 @@
         ]
       },
       {
-        "id": "2024032700295",
-        "event_id": "00295",
-        "start_time": "2024-03-27T11:55:00+09:00",
-        "end_time": "2024-03-27T12:00:00+09:00",
+        "id": "2024032734884",
+        "event_id": "34884",
+        "start_time": "2024-03-27T11:54:00+09:00",
+        "end_time": "2024-03-27T13:05:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -6128,210 +3834,19 @@
             "height": "200"
           }
         },
-        "title": "まる得マガジン　毎日が食パンフェスタ３　器具なしでホットサンド",
-        "subtitle": "家計にやさしい食パン。そんな食パンを驚きの工夫でさまざまな料理に大変身させちゃいましょう。",
-        "content": "家計にやさしい食パン。そんな食パンを驚きの工夫でさまざまな料理に大変身させちゃいましょう。定番のフレンチトーストやサンドイッチから、パン自体を器にしてしまうチーズフォンデュ、さらにサクサク食感のスナックまで。毎日でも食べ飽きない。毎日がパーティー気分の食パンレシピをお届けします。",
-        "act": "【講師】料理研究家…Ｍｉｚｕｋｉ，【出演】石井ブレンド",
+        "title": "第９６回選抜高校野球大会　準々決勝",
+        "subtitle": "第２試合　【第２試合】解説…足達尚人，アナウンサー…坂梨哲士　～甲子園球場から中継～",
+        "content": "［総合テレビで放送継続］",
+        "act": "【第２試合】解説…足達尚人，アナウンサー…坂梨哲士",
         "genres": [
-          "0205",
-          "0506",
-          "1015"
-        ]
-      },
-      {
-        "id": "2024032700296",
-        "event_id": "00296",
-        "start_time": "2024-03-27T12:00:00+09:00",
-        "end_time": "2024-03-27T12:15:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e1",
-          "name": "ＮＨＫＥテレ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "きょうの健康　放置しないで！身近な“ぜんそく”　日常に潜むぜんそくの“もと”",
-        "subtitle": "日常にはさまざまなぜんそくの原因が潜んでいる。ダニや花粉、タバコに肥満…。咳を誘発する原因を知れば、回避策も見えてくる。すぐに実践できるぜんそくの対策もご紹介！",
-        "content": "日常にはさまざまなぜんそくの原因が潜んでいる。中でも、最も多い原因とされるのが「ダニ」。ダニを手軽に退治する方法は、ダニが嫌がるあるコトだった！この時期に気になる「花粉」との関係は？さらに「タバコ」や「激しい運動」「肥満」など、ぜんそくを誘発する原因を徹底解説！ぜんそくの原因が分かれば、回避する方法が見えてくる。さらに、どのタイプでも効果がある対策も！すぐに実践できる対策満載でお届けします。",
-        "act": "【講師】昭和大学病院　病院長…相良博典，【キャスター】岩田まこ都，佐藤龍文",
-        "genres": [
-          "0203",
-          "0803",
-          "1011"
-        ]
-      },
-      {
-        "id": "2024032700297",
-        "event_id": "00297",
-        "start_time": "2024-03-27T12:15:00+09:00",
-        "end_time": "2024-03-27T12:40:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e1",
-          "name": "ＮＨＫＥテレ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "趣味どきっ！　源氏物語の女君たち（７）女三の宮",
-        "subtitle": "源氏物語の主役は光源氏ではなく女君たち。それぞれの生きざまには現代の私たちも思わず共感してしまう。今回は光源氏の二番目の正妻、女三の宮。",
-        "content": "源氏物語の主役は光源氏ではなく女君たち。それぞれの生きざまには現代の私たちも思わず共感してしまう。今回は光源氏の二番目の正妻、女三の宮。政正妻に迎えてはみたものの、あまりの幼稚さに光源氏は失望。一方彼女は光源氏がかわいがっていた若者柏木と密通してしまい、それを光源氏に知られてしまう。これにより、光源氏はおのが若き日におかした過ちの因果応報を知るのであった。",
-        "act": "【講師】清泉女子大学　教授…藤井由紀子，【語り】神田蘭，【出演】矢作兼，真琴つばさ，峯岸みなみ",
-        "genres": [
-          "0805",
-          "0801",
-          "1015"
-        ]
-      },
-      {
-        "id": "2024032700300",
-        "event_id": "00300",
-        "start_time": "2024-03-27T12:40:00+09:00",
-        "end_time": "2024-03-27T12:45:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e1",
-          "name": "ＮＨＫＥテレ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "名曲アルバム「花かげ」大村主計・作詞／豊田義一・作曲／上柴はじめ・編曲",
-        "subtitle": "「十五夜お月さま　ひとりぼち」。この歌は詩人・大村主計の代表作で、仲良しだった姉が結婚した日の寂しさを歌っている。ふるさと山梨に咲く桜の情景とともにお届けする。",
-        "content": "（歌）川口竜也、（管弦楽）東京フィルハーモニー交響楽団、（指揮）大井剛史　＜ロケ地＞山梨市牧丘町、甲州市（山梨県）　ほか",
-        "act": "【歌】川口竜也，【管弦楽】東京フィルハーモニー交響楽団，【指揮】大井剛史",
-        "genres": [
-          "0402",
-          "1002",
-          "0801"
-        ]
-      },
-      {
-        "id": "2024032700301",
-        "event_id": "00301",
-        "start_time": "2024-03-27T12:45:00+09:00",
-        "end_time": "2024-03-27T12:50:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e1",
-          "name": "ＮＨＫＥテレ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みんなのうた「アニバースデー」／「ポプラの伝言」",
-        "subtitle": "「アニバースデー」うた：スキマスイッチ／「ポプラの伝言」うた：林部智史",
-        "content": "「アニバースデー」うた：スキマスイッチ／「ポプラの伝言」うた：林部智史",
-        "act": "",
-        "genres": [
-          "0409",
-          "0504"
-        ]
-      },
-      {
-        "id": "2024032700302",
-        "event_id": "00302",
-        "start_time": "2024-03-27T12:50:00+09:00",
-        "end_time": "2024-03-27T13:00:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e1",
-          "name": "ＮＨＫＥテレ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "視点・論点　選「小澤征爾さんと共に歩んだ日々」",
-        "subtitle": "ことし２月に亡くなった世界的な指揮者・小澤征爾さん。小澤さんの弟弟子で指揮者の秋山和慶さんに、小澤さんの功績や共に歩んだ日々について聞きます。",
-        "content": "【出演】東京交響楽団　桂冠指揮者　日本指揮者協会…秋山和慶，高橋俊雄",
-        "act": "【出演】東京交響楽団　桂冠指揮者　日本指揮者協会…秋山和慶，高橋俊雄",
-        "genres": [
-          "0006",
-          "0800",
-          "0215"
+          "0101"
         ]
       },
       {
         "id": "2024032700303",
         "event_id": "00303",
-        "start_time": "2024-03-27T13:00:00+09:00",
-        "end_time": "2024-03-27T13:05:00+09:00",
+        "start_time": "2024-03-27T13:05:00+09:00",
+        "end_time": "2024-03-27T13:10:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -6367,8 +3882,8 @@
       {
         "id": "2024032700304",
         "event_id": "00304",
-        "start_time": "2024-03-27T13:05:00+09:00",
-        "end_time": "2024-03-27T13:30:00+09:00",
+        "start_time": "2024-03-27T13:10:00+09:00",
+        "end_time": "2024-03-27T13:35:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -6404,8 +3919,8 @@
       {
         "id": "2024032700306",
         "event_id": "00306",
-        "start_time": "2024-03-27T13:30:00+09:00",
-        "end_time": "2024-03-27T14:00:00+09:00",
+        "start_time": "2024-03-27T13:35:00+09:00",
+        "end_time": "2024-03-27T14:05:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -6441,8 +3956,8 @@
       {
         "id": "2024032700309",
         "event_id": "00309",
-        "start_time": "2024-03-27T14:00:00+09:00",
-        "end_time": "2024-03-27T14:25:00+09:00",
+        "start_time": "2024-03-27T14:05:00+09:00",
+        "end_time": "2024-03-27T14:30:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -6474,42 +3989,6 @@
           "1003",
           "0804",
           "1015"
-        ]
-      },
-      {
-        "id": "2024032702547",
-        "event_id": "02547",
-        "start_time": "2024-03-27T14:25:00+09:00",
-        "end_time": "2024-03-27T14:30:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e1",
-          "name": "ＮＨＫＥテレ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "源氏物語の花　枝垂柳",
-        "subtitle": "「源氏物語」は、多くの草花が登場する“花の物語”。花々の魅力を伝えつつ、その花を詠んだ和歌や文章を交え、当時の美意識など平安貴族の思いに迫る。今回は「枝垂柳」。",
-        "content": "「趣味の園芸」で１月からスタートしたミニ企画「源氏物語の花」がスピンオフ。紫式部が著した「源氏物語」は、たくさんの草花が登場する“花の物語”でもある。登場する花々の魅力を伝えつつ、その花を詠んだ和歌や物語の文章を交えながら、当時の美意識や自然への憧憬など、平安貴族たちの思いに迫る。",
-        "act": "【語り】伊藤敏恵",
-        "genres": [
-          "0200"
         ]
       },
       {
@@ -7105,10 +4584,46 @@
         ]
       },
       {
+        "id": "2024032734922",
+        "event_id": "34922",
+        "start_time": "2024-03-27T18:00:00+09:00",
+        "end_time": "2024-03-27T18:35:00+09:00",
+        "area": {
+          "id": "340",
+          "name": "広島"
+        },
+        "service": {
+          "id": "e1",
+          "name": "ＮＨＫＥテレ１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "第９６回選抜高校野球大会　準々決勝",
+        "subtitle": "第４試合　【第４試合】解説…飯塚智広，アナウンサー…佐竹祐人　～甲子園球場から中継～",
+        "content": "",
+        "act": "【第４試合】解説…飯塚智広，アナウンサー…佐竹祐人",
+        "genres": [
+          "0101"
+        ]
+      },
+      {
         "id": "2024032700327",
         "event_id": "00327",
-        "start_time": "2024-03-27T18:00:00+09:00",
-        "end_time": "2024-03-27T18:24:00+09:00",
+        "start_time": "2024-03-27T18:35:00+09:00",
+        "end_time": "2024-03-27T18:59:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -7145,8 +4660,8 @@
       {
         "id": "2024032700328",
         "event_id": "00328",
-        "start_time": "2024-03-27T18:24:00+09:00",
-        "end_time": "2024-03-27T18:25:00+09:00",
+        "start_time": "2024-03-27T18:59:00+09:00",
+        "end_time": "2024-03-27T19:00:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -7176,117 +4691,6 @@
         "act": "【出演】南野巴那，中村彩玖，川原瑛都，川田秋妃",
         "genres": [
           "1008"
-        ]
-      },
-      {
-        "id": "2024032700329",
-        "event_id": "00329",
-        "start_time": "2024-03-27T18:25:00+09:00",
-        "end_time": "2024-03-27T18:40:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e1",
-          "name": "ＮＨＫＥテレ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みいつけた！　水曜日",
-        "subtitle": "４～６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」等さまざまな「発見」を通して楽しむことができる番組です。",
-        "content": "今日は、サボノミズはかせの「クイズ！この花なんでしょう」。　出てくる花の名前をあてる、春らしいクイズだよ。　みんなもコッシー、スイちゃんと一緒に考えてね。　「デテコデショー」、ダンせんぱいのあつ～い一日をみてみよう！　「コッシーをさがせ」は、植物園のどこかにコッシーがかくれているよ。よ～く見て探してね。　歌は、「ねぇしってる？」そして「きみとイスまでも」はスペシャルバージョン！お楽しみに。",
-        "act": "【声】高橋茂雄，内田慈，山口智充，【出演】増田梨沙，佐藤貴史，小林顕作",
-        "genres": [
-          "1008",
-          "0409",
-          "0515"
-        ]
-      },
-      {
-        "id": "2024032700330",
-        "event_id": "00330",
-        "start_time": "2024-03-27T18:40:00+09:00",
-        "end_time": "2024-03-27T18:50:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e1",
-          "name": "ＮＨＫＥテレ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ピタゴラスイッチ▽ピタゴラ装置　ナゾの円盤　▽１０本アニメ　ハエをとる",
-        "subtitle": "今回は、ピタゴラ装置「ナゾの円盤」が登場！玉がどうやって動くのか？予想してみよう。１０本アニメは「ハエをとる」。",
-        "content": "今回は、ピタゴラ装置「ナゾの円盤」が登場！玉がどうやって動くのか？予想してみよう。１０本アニメは「ハエをとる」。",
-        "act": "【語り】徳田章",
-        "genres": [
-          "1008",
-          "0815"
-        ]
-      },
-      {
-        "id": "2024032700331",
-        "event_id": "00331",
-        "start_time": "2024-03-27T18:50:00+09:00",
-        "end_time": "2024-03-27T19:00:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e1",
-          "name": "ＮＨＫＥテレ１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "アニメ　忍たま乱太郎「ニコニコな土井先生の段」",
-        "subtitle": "乱太郎・きり丸・しんべヱは、忍術学園で学ぶ忍者のたまご「忍たま」。ユニークな先生や仲間たちと、明るく・たのしく・ゆかいな毎日がくり広げられる。",
-        "content": "一年は組の成績（せいせき）の悪さに、胃（い）をいためる土井先生。校医（こうい）の新野（にいの）先生のもとへ行くと、イライラしそうになったらニコニコするようにと言われる。土井先生は、さっそくニコニコしてみようとするのだが……。",
-        "act": "【声】高山みなみ，田中真弓，一龍斎貞友，大塚明夫，関俊彦，浦山迅，巴菁子，【原作】尼子騒兵衛，【脚本】浦沢義雄，山田花名",
-        "genres": [
-          "0700"
         ]
       },
       {
@@ -7990,7 +5394,7 @@
         },
         "title": "小雪と発酵おばあちゃん　土井善晴さんと“発酵”一汁一菜",
         "subtitle": "今回は料理研究家の土井善晴さんも登場する特別編。番組がこれまで出会った全国各地の発酵食を、改めてご紹介したところ、土井さんも知らなかったとびっくりしてました。",
-        "content": "ご飯とみそ汁、漬物などおかず一品だけの「一汁一菜」を提案する土井さん。みそ汁のみそや漬物も発酵食なので小雪さんが出会ってきた各地の発酵食にも興味津々▽なり味噌（奄美大島）の具沢山みそ汁や一休寺の塩辛納豆（京都）のおにぎり・・・まさに一汁一菜で発酵食のおいしさを再発見です▽土井さん流簡単お粥の炊き方も教えてもらいました！",
+        "content": "ご飯とみそ汁、漬物などおかず一品だけの「一汁一菜」を提案する土井さん。みそ汁のみそや漬物も発酵食なので小雪さんが出会ってきた各地の発酵食にも興味津々▽なり味噌（奄美大島）の具沢山みそ汁や一休寺の塩辛納豆（京都）のおにぎり・・・まさに一汁一菜で発酵食のおいしさを再発見です▽土井さん流簡単お粥（かゆ）の炊き方も教えてもらいました！",
         "act": "【出演】小雪，【ゲスト】土井善晴",
         "genres": [
           "0804"
@@ -9256,7 +6660,7 @@
         "id": "2024032700292",
         "event_id": "00292",
         "start_time": "2024-03-27T11:30:00+09:00",
-        "end_time": "2024-03-27T11:55:00+09:00",
+        "end_time": "2024-03-27T11:54:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -9290,10 +6694,10 @@
         ]
       },
       {
-        "id": "2024032700295",
-        "event_id": "00295",
-        "start_time": "2024-03-27T11:55:00+09:00",
-        "end_time": "2024-03-27T12:00:00+09:00",
+        "id": "2024032734884",
+        "event_id": "34884",
+        "start_time": "2024-03-27T11:54:00+09:00",
+        "end_time": "2024-03-27T13:05:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -9317,210 +6721,19 @@
             "height": "200"
           }
         },
-        "title": "まる得マガジン　毎日が食パンフェスタ３　器具なしでホットサンド",
-        "subtitle": "家計にやさしい食パン。そんな食パンを驚きの工夫でさまざまな料理に大変身させちゃいましょう。",
-        "content": "家計にやさしい食パン。そんな食パンを驚きの工夫でさまざまな料理に大変身させちゃいましょう。定番のフレンチトーストやサンドイッチから、パン自体を器にしてしまうチーズフォンデュ、さらにサクサク食感のスナックまで。毎日でも食べ飽きない。毎日がパーティー気分の食パンレシピをお届けします。",
-        "act": "【講師】料理研究家…Ｍｉｚｕｋｉ，【出演】石井ブレンド",
+        "title": "第９６回選抜高校野球大会　準々決勝",
+        "subtitle": "第２試合　【第２試合】解説…足達尚人，アナウンサー…坂梨哲士　～甲子園球場から中継～",
+        "content": "［総合テレビで放送継続］",
+        "act": "【第２試合】解説…足達尚人，アナウンサー…坂梨哲士",
         "genres": [
-          "0205",
-          "0506",
-          "1015"
-        ]
-      },
-      {
-        "id": "2024032700296",
-        "event_id": "00296",
-        "start_time": "2024-03-27T12:00:00+09:00",
-        "end_time": "2024-03-27T12:15:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e3",
-          "name": "ＮＨＫＥテレ３",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "きょうの健康　放置しないで！身近な“ぜんそく”　日常に潜むぜんそくの“もと”",
-        "subtitle": "日常にはさまざまなぜんそくの原因が潜んでいる。ダニや花粉、タバコに肥満…。咳を誘発する原因を知れば、回避策も見えてくる。すぐに実践できるぜんそくの対策もご紹介！",
-        "content": "日常にはさまざまなぜんそくの原因が潜んでいる。中でも、最も多い原因とされるのが「ダニ」。ダニを手軽に退治する方法は、ダニが嫌がるあるコトだった！この時期に気になる「花粉」との関係は？さらに「タバコ」や「激しい運動」「肥満」など、ぜんそくを誘発する原因を徹底解説！ぜんそくの原因が分かれば、回避する方法が見えてくる。さらに、どのタイプでも効果がある対策も！すぐに実践できる対策満載でお届けします。",
-        "act": "【講師】昭和大学病院　病院長…相良博典，【キャスター】岩田まこ都，佐藤龍文",
-        "genres": [
-          "0203",
-          "0803",
-          "1011"
-        ]
-      },
-      {
-        "id": "2024032700297",
-        "event_id": "00297",
-        "start_time": "2024-03-27T12:15:00+09:00",
-        "end_time": "2024-03-27T12:40:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e3",
-          "name": "ＮＨＫＥテレ３",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "趣味どきっ！　源氏物語の女君たち（７）女三の宮",
-        "subtitle": "源氏物語の主役は光源氏ではなく女君たち。それぞれの生きざまには現代の私たちも思わず共感してしまう。今回は光源氏の二番目の正妻、女三の宮。",
-        "content": "源氏物語の主役は光源氏ではなく女君たち。それぞれの生きざまには現代の私たちも思わず共感してしまう。今回は光源氏の二番目の正妻、女三の宮。政正妻に迎えてはみたものの、あまりの幼稚さに光源氏は失望。一方彼女は光源氏がかわいがっていた若者柏木と密通してしまい、それを光源氏に知られてしまう。これにより、光源氏はおのが若き日におかした過ちの因果応報を知るのであった。",
-        "act": "【講師】清泉女子大学　教授…藤井由紀子，【語り】神田蘭，【出演】矢作兼，真琴つばさ，峯岸みなみ",
-        "genres": [
-          "0805",
-          "0801",
-          "1015"
-        ]
-      },
-      {
-        "id": "2024032700300",
-        "event_id": "00300",
-        "start_time": "2024-03-27T12:40:00+09:00",
-        "end_time": "2024-03-27T12:45:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e3",
-          "name": "ＮＨＫＥテレ３",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "名曲アルバム「花かげ」大村主計・作詞／豊田義一・作曲／上柴はじめ・編曲",
-        "subtitle": "「十五夜お月さま　ひとりぼち」。この歌は詩人・大村主計の代表作で、仲良しだった姉が結婚した日の寂しさを歌っている。ふるさと山梨に咲く桜の情景とともにお届けする。",
-        "content": "（歌）川口竜也、（管弦楽）東京フィルハーモニー交響楽団、（指揮）大井剛史　＜ロケ地＞山梨市牧丘町、甲州市（山梨県）　ほか",
-        "act": "【歌】川口竜也，【管弦楽】東京フィルハーモニー交響楽団，【指揮】大井剛史",
-        "genres": [
-          "0402",
-          "1002",
-          "0801"
-        ]
-      },
-      {
-        "id": "2024032700301",
-        "event_id": "00301",
-        "start_time": "2024-03-27T12:45:00+09:00",
-        "end_time": "2024-03-27T12:50:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e3",
-          "name": "ＮＨＫＥテレ３",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みんなのうた「アニバースデー」／「ポプラの伝言」",
-        "subtitle": "「アニバースデー」うた：スキマスイッチ／「ポプラの伝言」うた：林部智史",
-        "content": "「アニバースデー」うた：スキマスイッチ／「ポプラの伝言」うた：林部智史",
-        "act": "",
-        "genres": [
-          "0409",
-          "0504"
-        ]
-      },
-      {
-        "id": "2024032700302",
-        "event_id": "00302",
-        "start_time": "2024-03-27T12:50:00+09:00",
-        "end_time": "2024-03-27T13:00:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e3",
-          "name": "ＮＨＫＥテレ３",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "視点・論点　選「小澤征爾さんと共に歩んだ日々」",
-        "subtitle": "ことし２月に亡くなった世界的な指揮者・小澤征爾さん。小澤さんの弟弟子で指揮者の秋山和慶さんに、小澤さんの功績や共に歩んだ日々について聞きます。",
-        "content": "【出演】東京交響楽団　桂冠指揮者　日本指揮者協会…秋山和慶，高橋俊雄",
-        "act": "【出演】東京交響楽団　桂冠指揮者　日本指揮者協会…秋山和慶，高橋俊雄",
-        "genres": [
-          "0006",
-          "0800",
-          "0215"
+          "0101"
         ]
       },
       {
         "id": "2024032700303",
         "event_id": "00303",
-        "start_time": "2024-03-27T13:00:00+09:00",
-        "end_time": "2024-03-27T13:05:00+09:00",
+        "start_time": "2024-03-27T13:05:00+09:00",
+        "end_time": "2024-03-27T13:10:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -9556,8 +6769,8 @@
       {
         "id": "2024032700304",
         "event_id": "00304",
-        "start_time": "2024-03-27T13:05:00+09:00",
-        "end_time": "2024-03-27T13:30:00+09:00",
+        "start_time": "2024-03-27T13:10:00+09:00",
+        "end_time": "2024-03-27T13:35:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -9593,8 +6806,8 @@
       {
         "id": "2024032700306",
         "event_id": "00306",
-        "start_time": "2024-03-27T13:30:00+09:00",
-        "end_time": "2024-03-27T14:00:00+09:00",
+        "start_time": "2024-03-27T13:35:00+09:00",
+        "end_time": "2024-03-27T14:05:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -9630,8 +6843,8 @@
       {
         "id": "2024032700309",
         "event_id": "00309",
-        "start_time": "2024-03-27T14:00:00+09:00",
-        "end_time": "2024-03-27T14:25:00+09:00",
+        "start_time": "2024-03-27T14:05:00+09:00",
+        "end_time": "2024-03-27T14:30:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -9663,42 +6876,6 @@
           "1003",
           "0804",
           "1015"
-        ]
-      },
-      {
-        "id": "2024032702547",
-        "event_id": "02547",
-        "start_time": "2024-03-27T14:25:00+09:00",
-        "end_time": "2024-03-27T14:30:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e3",
-          "name": "ＮＨＫＥテレ３",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "源氏物語の花　枝垂柳",
-        "subtitle": "「源氏物語」は、多くの草花が登場する“花の物語”。花々の魅力を伝えつつ、その花を詠んだ和歌や文章を交え、当時の美意識など平安貴族の思いに迫る。今回は「枝垂柳」。",
-        "content": "「趣味の園芸」で１月からスタートしたミニ企画「源氏物語の花」がスピンオフ。紫式部が著した「源氏物語」は、たくさんの草花が登場する“花の物語”でもある。登場する花々の魅力を伝えつつ、その花を詠んだ和歌や物語の文章を交えながら、当時の美意識や自然への憧憬など、平安貴族たちの思いに迫る。",
-        "act": "【語り】伊藤敏恵",
-        "genres": [
-          "0200"
         ]
       },
       {
@@ -10294,10 +7471,46 @@
         ]
       },
       {
+        "id": "2024032734922",
+        "event_id": "34922",
+        "start_time": "2024-03-27T18:00:00+09:00",
+        "end_time": "2024-03-27T18:35:00+09:00",
+        "area": {
+          "id": "340",
+          "name": "広島"
+        },
+        "service": {
+          "id": "e3",
+          "name": "ＮＨＫＥテレ３",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "第９６回選抜高校野球大会　準々決勝",
+        "subtitle": "第４試合　【第４試合】解説…飯塚智広，アナウンサー…佐竹祐人　～甲子園球場から中継～",
+        "content": "",
+        "act": "【第４試合】解説…飯塚智広，アナウンサー…佐竹祐人",
+        "genres": [
+          "0101"
+        ]
+      },
+      {
         "id": "2024032700327",
         "event_id": "00327",
-        "start_time": "2024-03-27T18:00:00+09:00",
-        "end_time": "2024-03-27T18:24:00+09:00",
+        "start_time": "2024-03-27T18:35:00+09:00",
+        "end_time": "2024-03-27T18:59:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -10334,8 +7547,8 @@
       {
         "id": "2024032700328",
         "event_id": "00328",
-        "start_time": "2024-03-27T18:24:00+09:00",
-        "end_time": "2024-03-27T18:25:00+09:00",
+        "start_time": "2024-03-27T18:59:00+09:00",
+        "end_time": "2024-03-27T19:00:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -10365,117 +7578,6 @@
         "act": "【出演】南野巴那，中村彩玖，川原瑛都，川田秋妃",
         "genres": [
           "1008"
-        ]
-      },
-      {
-        "id": "2024032700329",
-        "event_id": "00329",
-        "start_time": "2024-03-27T18:25:00+09:00",
-        "end_time": "2024-03-27T18:40:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e3",
-          "name": "ＮＨＫＥテレ３",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みいつけた！　水曜日",
-        "subtitle": "４～６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」等さまざまな「発見」を通して楽しむことができる番組です。",
-        "content": "今日は、サボノミズはかせの「クイズ！この花なんでしょう」。　出てくる花の名前をあてる、春らしいクイズだよ。　みんなもコッシー、スイちゃんと一緒に考えてね。　「デテコデショー」、ダンせんぱいのあつ～い一日をみてみよう！　「コッシーをさがせ」は、植物園のどこかにコッシーがかくれているよ。よ～く見て探してね。　歌は、「ねぇしってる？」そして「きみとイスまでも」はスペシャルバージョン！お楽しみに。",
-        "act": "【声】高橋茂雄，内田慈，山口智充，【出演】増田梨沙，佐藤貴史，小林顕作",
-        "genres": [
-          "1008",
-          "0409",
-          "0515"
-        ]
-      },
-      {
-        "id": "2024032700330",
-        "event_id": "00330",
-        "start_time": "2024-03-27T18:40:00+09:00",
-        "end_time": "2024-03-27T18:50:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e3",
-          "name": "ＮＨＫＥテレ３",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ピタゴラスイッチ▽ピタゴラ装置　ナゾの円盤　▽１０本アニメ　ハエをとる",
-        "subtitle": "今回は、ピタゴラ装置「ナゾの円盤」が登場！玉がどうやって動くのか？予想してみよう。１０本アニメは「ハエをとる」。",
-        "content": "今回は、ピタゴラ装置「ナゾの円盤」が登場！玉がどうやって動くのか？予想してみよう。１０本アニメは「ハエをとる」。",
-        "act": "【語り】徳田章",
-        "genres": [
-          "1008",
-          "0815"
-        ]
-      },
-      {
-        "id": "2024032700331",
-        "event_id": "00331",
-        "start_time": "2024-03-27T18:50:00+09:00",
-        "end_time": "2024-03-27T19:00:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e3",
-          "name": "ＮＨＫＥテレ３",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/etvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "アニメ　忍たま乱太郎「ニコニコな土井先生の段」",
-        "subtitle": "乱太郎・きり丸・しんべヱは、忍術学園で学ぶ忍者のたまご「忍たま」。ユニークな先生や仲間たちと、明るく・たのしく・ゆかいな毎日がくり広げられる。",
-        "content": "一年は組の成績（せいせき）の悪さに、胃（い）をいためる土井先生。校医（こうい）の新野（にいの）先生のもとへ行くと、イライラしそうになったらニコニコするようにと言われる。土井先生は、さっそくニコニコしてみようとするのだが……。",
-        "act": "【声】高山みなみ，田中真弓，一龍斎貞友，大塚明夫，関俊彦，浦山迅，巴菁子，【原作】尼子騒兵衛，【脚本】浦沢義雄，山田花名",
-        "genres": [
-          "0700"
         ]
       },
       {
@@ -11179,7 +8281,7 @@
         },
         "title": "小雪と発酵おばあちゃん　土井善晴さんと“発酵”一汁一菜",
         "subtitle": "今回は料理研究家の土井善晴さんも登場する特別編。番組がこれまで出会った全国各地の発酵食を、改めてご紹介したところ、土井さんも知らなかったとびっくりしてました。",
-        "content": "ご飯とみそ汁、漬物などおかず一品だけの「一汁一菜」を提案する土井さん。みそ汁のみそや漬物も発酵食なので小雪さんが出会ってきた各地の発酵食にも興味津々▽なり味噌（奄美大島）の具沢山みそ汁や一休寺の塩辛納豆（京都）のおにぎり・・・まさに一汁一菜で発酵食のおいしさを再発見です▽土井さん流簡単お粥の炊き方も教えてもらいました！",
+        "content": "ご飯とみそ汁、漬物などおかず一品だけの「一汁一菜」を提案する土井さん。みそ汁のみそや漬物も発酵食なので小雪さんが出会ってきた各地の発酵食にも興味津々▽なり味噌（奄美大島）の具沢山みそ汁や一休寺の塩辛納豆（京都）のおにぎり・・・まさに一汁一菜で発酵食のおいしさを再発見です▽土井さん流簡単お粥（かゆ）の炊き方も教えてもらいました！",
         "act": "【出演】小雪，【ゲスト】土井善晴",
         "genres": [
           "0804"
@@ -12445,7 +9547,7 @@
         "id": "2024032700292",
         "event_id": "00292",
         "start_time": "2024-03-27T11:30:00+09:00",
-        "end_time": "2024-03-27T11:55:00+09:00",
+        "end_time": "2024-03-27T11:54:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -12479,10 +9581,10 @@
         ]
       },
       {
-        "id": "2024032700295",
-        "event_id": "00295",
-        "start_time": "2024-03-27T11:55:00+09:00",
-        "end_time": "2024-03-27T12:00:00+09:00",
+        "id": "2024032734884",
+        "event_id": "34884",
+        "start_time": "2024-03-27T11:54:00+09:00",
+        "end_time": "2024-03-27T13:05:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -12506,210 +9608,19 @@
             "height": "200"
           }
         },
-        "title": "まる得マガジン　毎日が食パンフェスタ３　器具なしでホットサンド",
-        "subtitle": "家計にやさしい食パン。そんな食パンを驚きの工夫でさまざまな料理に大変身させちゃいましょう。",
-        "content": "家計にやさしい食パン。そんな食パンを驚きの工夫でさまざまな料理に大変身させちゃいましょう。定番のフレンチトーストやサンドイッチから、パン自体を器にしてしまうチーズフォンデュ、さらにサクサク食感のスナックまで。毎日でも食べ飽きない。毎日がパーティー気分の食パンレシピをお届けします。",
-        "act": "【講師】料理研究家…Ｍｉｚｕｋｉ，【出演】石井ブレンド",
+        "title": "第９６回選抜高校野球大会　準々決勝",
+        "subtitle": "第２試合　【第２試合】解説…足達尚人，アナウンサー…坂梨哲士　～甲子園球場から中継～",
+        "content": "［総合テレビで放送継続］",
+        "act": "【第２試合】解説…足達尚人，アナウンサー…坂梨哲士",
         "genres": [
-          "0205",
-          "0506",
-          "1015"
-        ]
-      },
-      {
-        "id": "2024032700296",
-        "event_id": "00296",
-        "start_time": "2024-03-27T12:00:00+09:00",
-        "end_time": "2024-03-27T12:15:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e4",
-          "name": "ＮＨＫワンセグ２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "きょうの健康　放置しないで！身近な“ぜんそく”　日常に潜むぜんそくの“もと”",
-        "subtitle": "日常にはさまざまなぜんそくの原因が潜んでいる。ダニや花粉、タバコに肥満…。咳を誘発する原因を知れば、回避策も見えてくる。すぐに実践できるぜんそくの対策もご紹介！",
-        "content": "日常にはさまざまなぜんそくの原因が潜んでいる。中でも、最も多い原因とされるのが「ダニ」。ダニを手軽に退治する方法は、ダニが嫌がるあるコトだった！この時期に気になる「花粉」との関係は？さらに「タバコ」や「激しい運動」「肥満」など、ぜんそくを誘発する原因を徹底解説！ぜんそくの原因が分かれば、回避する方法が見えてくる。さらに、どのタイプでも効果がある対策も！すぐに実践できる対策満載でお届けします。",
-        "act": "【講師】昭和大学病院　病院長…相良博典，【キャスター】岩田まこ都，佐藤龍文",
-        "genres": [
-          "0203",
-          "0803",
-          "1011"
-        ]
-      },
-      {
-        "id": "2024032700297",
-        "event_id": "00297",
-        "start_time": "2024-03-27T12:15:00+09:00",
-        "end_time": "2024-03-27T12:40:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e4",
-          "name": "ＮＨＫワンセグ２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "趣味どきっ！　源氏物語の女君たち（７）女三の宮",
-        "subtitle": "源氏物語の主役は光源氏ではなく女君たち。それぞれの生きざまには現代の私たちも思わず共感してしまう。今回は光源氏の二番目の正妻、女三の宮。",
-        "content": "源氏物語の主役は光源氏ではなく女君たち。それぞれの生きざまには現代の私たちも思わず共感してしまう。今回は光源氏の二番目の正妻、女三の宮。政正妻に迎えてはみたものの、あまりの幼稚さに光源氏は失望。一方彼女は光源氏がかわいがっていた若者柏木と密通してしまい、それを光源氏に知られてしまう。これにより、光源氏はおのが若き日におかした過ちの因果応報を知るのであった。",
-        "act": "【講師】清泉女子大学　教授…藤井由紀子，【語り】神田蘭，【出演】矢作兼，真琴つばさ，峯岸みなみ",
-        "genres": [
-          "0805",
-          "0801",
-          "1015"
-        ]
-      },
-      {
-        "id": "2024032700300",
-        "event_id": "00300",
-        "start_time": "2024-03-27T12:40:00+09:00",
-        "end_time": "2024-03-27T12:45:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e4",
-          "name": "ＮＨＫワンセグ２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "名曲アルバム「花かげ」大村主計・作詞／豊田義一・作曲／上柴はじめ・編曲",
-        "subtitle": "「十五夜お月さま　ひとりぼち」。この歌は詩人・大村主計の代表作で、仲良しだった姉が結婚した日の寂しさを歌っている。ふるさと山梨に咲く桜の情景とともにお届けする。",
-        "content": "（歌）川口竜也、（管弦楽）東京フィルハーモニー交響楽団、（指揮）大井剛史　＜ロケ地＞山梨市牧丘町、甲州市（山梨県）　ほか",
-        "act": "【歌】川口竜也，【管弦楽】東京フィルハーモニー交響楽団，【指揮】大井剛史",
-        "genres": [
-          "0402",
-          "1002",
-          "0801"
-        ]
-      },
-      {
-        "id": "2024032700301",
-        "event_id": "00301",
-        "start_time": "2024-03-27T12:45:00+09:00",
-        "end_time": "2024-03-27T12:50:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e4",
-          "name": "ＮＨＫワンセグ２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みんなのうた「アニバースデー」／「ポプラの伝言」",
-        "subtitle": "「アニバースデー」うた：スキマスイッチ／「ポプラの伝言」うた：林部智史",
-        "content": "「アニバースデー」うた：スキマスイッチ／「ポプラの伝言」うた：林部智史",
-        "act": "",
-        "genres": [
-          "0409",
-          "0504"
-        ]
-      },
-      {
-        "id": "2024032700302",
-        "event_id": "00302",
-        "start_time": "2024-03-27T12:50:00+09:00",
-        "end_time": "2024-03-27T13:00:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e4",
-          "name": "ＮＨＫワンセグ２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "視点・論点　選「小澤征爾さんと共に歩んだ日々」",
-        "subtitle": "ことし２月に亡くなった世界的な指揮者・小澤征爾さん。小澤さんの弟弟子で指揮者の秋山和慶さんに、小澤さんの功績や共に歩んだ日々について聞きます。",
-        "content": "【出演】東京交響楽団　桂冠指揮者　日本指揮者協会…秋山和慶，高橋俊雄",
-        "act": "【出演】東京交響楽団　桂冠指揮者　日本指揮者協会…秋山和慶，高橋俊雄",
-        "genres": [
-          "0006",
-          "0800",
-          "0215"
+          "0101"
         ]
       },
       {
         "id": "2024032700303",
         "event_id": "00303",
-        "start_time": "2024-03-27T13:00:00+09:00",
-        "end_time": "2024-03-27T13:05:00+09:00",
+        "start_time": "2024-03-27T13:05:00+09:00",
+        "end_time": "2024-03-27T13:10:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -12745,8 +9656,8 @@
       {
         "id": "2024032700304",
         "event_id": "00304",
-        "start_time": "2024-03-27T13:05:00+09:00",
-        "end_time": "2024-03-27T13:30:00+09:00",
+        "start_time": "2024-03-27T13:10:00+09:00",
+        "end_time": "2024-03-27T13:35:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -12782,8 +9693,8 @@
       {
         "id": "2024032700306",
         "event_id": "00306",
-        "start_time": "2024-03-27T13:30:00+09:00",
-        "end_time": "2024-03-27T14:00:00+09:00",
+        "start_time": "2024-03-27T13:35:00+09:00",
+        "end_time": "2024-03-27T14:05:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -12819,8 +9730,8 @@
       {
         "id": "2024032700309",
         "event_id": "00309",
-        "start_time": "2024-03-27T14:00:00+09:00",
-        "end_time": "2024-03-27T14:25:00+09:00",
+        "start_time": "2024-03-27T14:05:00+09:00",
+        "end_time": "2024-03-27T14:30:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -12852,42 +9763,6 @@
           "1003",
           "0804",
           "1015"
-        ]
-      },
-      {
-        "id": "2024032702547",
-        "event_id": "02547",
-        "start_time": "2024-03-27T14:25:00+09:00",
-        "end_time": "2024-03-27T14:30:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e4",
-          "name": "ＮＨＫワンセグ２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "源氏物語の花　枝垂柳",
-        "subtitle": "「源氏物語」は、多くの草花が登場する“花の物語”。花々の魅力を伝えつつ、その花を詠んだ和歌や文章を交え、当時の美意識など平安貴族の思いに迫る。今回は「枝垂柳」。",
-        "content": "「趣味の園芸」で１月からスタートしたミニ企画「源氏物語の花」がスピンオフ。紫式部が著した「源氏物語」は、たくさんの草花が登場する“花の物語”でもある。登場する花々の魅力を伝えつつ、その花を詠んだ和歌や物語の文章を交えながら、当時の美意識や自然への憧憬など、平安貴族たちの思いに迫る。",
-        "act": "【語り】伊藤敏恵",
-        "genres": [
-          "0200"
         ]
       },
       {
@@ -13483,10 +10358,46 @@
         ]
       },
       {
+        "id": "2024032734922",
+        "event_id": "34922",
+        "start_time": "2024-03-27T18:00:00+09:00",
+        "end_time": "2024-03-27T18:35:00+09:00",
+        "area": {
+          "id": "340",
+          "name": "広島"
+        },
+        "service": {
+          "id": "e4",
+          "name": "ＮＨＫワンセグ２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "第９６回選抜高校野球大会　準々決勝",
+        "subtitle": "第４試合　【第４試合】解説…飯塚智広，アナウンサー…佐竹祐人　～甲子園球場から中継～",
+        "content": "",
+        "act": "【第４試合】解説…飯塚智広，アナウンサー…佐竹祐人",
+        "genres": [
+          "0101"
+        ]
+      },
+      {
         "id": "2024032700327",
         "event_id": "00327",
-        "start_time": "2024-03-27T18:00:00+09:00",
-        "end_time": "2024-03-27T18:24:00+09:00",
+        "start_time": "2024-03-27T18:35:00+09:00",
+        "end_time": "2024-03-27T18:59:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -13523,8 +10434,8 @@
       {
         "id": "2024032700328",
         "event_id": "00328",
-        "start_time": "2024-03-27T18:24:00+09:00",
-        "end_time": "2024-03-27T18:25:00+09:00",
+        "start_time": "2024-03-27T18:59:00+09:00",
+        "end_time": "2024-03-27T19:00:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -13554,117 +10465,6 @@
         "act": "【出演】南野巴那，中村彩玖，川原瑛都，川田秋妃",
         "genres": [
           "1008"
-        ]
-      },
-      {
-        "id": "2024032700329",
-        "event_id": "00329",
-        "start_time": "2024-03-27T18:25:00+09:00",
-        "end_time": "2024-03-27T18:40:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e4",
-          "name": "ＮＨＫワンセグ２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みいつけた！　水曜日",
-        "subtitle": "４～６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」等さまざまな「発見」を通して楽しむことができる番組です。",
-        "content": "今日は、サボノミズはかせの「クイズ！この花なんでしょう」。　出てくる花の名前をあてる、春らしいクイズだよ。　みんなもコッシー、スイちゃんと一緒に考えてね。　「デテコデショー」、ダンせんぱいのあつ～い一日をみてみよう！　「コッシーをさがせ」は、植物園のどこかにコッシーがかくれているよ。よ～く見て探してね。　歌は、「ねぇしってる？」そして「きみとイスまでも」はスペシャルバージョン！お楽しみに。",
-        "act": "【声】高橋茂雄，内田慈，山口智充，【出演】増田梨沙，佐藤貴史，小林顕作",
-        "genres": [
-          "1008",
-          "0409",
-          "0515"
-        ]
-      },
-      {
-        "id": "2024032700330",
-        "event_id": "00330",
-        "start_time": "2024-03-27T18:40:00+09:00",
-        "end_time": "2024-03-27T18:50:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e4",
-          "name": "ＮＨＫワンセグ２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ピタゴラスイッチ▽ピタゴラ装置　ナゾの円盤　▽１０本アニメ　ハエをとる",
-        "subtitle": "今回は、ピタゴラ装置「ナゾの円盤」が登場！玉がどうやって動くのか？予想してみよう。１０本アニメは「ハエをとる」。",
-        "content": "今回は、ピタゴラ装置「ナゾの円盤」が登場！玉がどうやって動くのか？予想してみよう。１０本アニメは「ハエをとる」。",
-        "act": "【語り】徳田章",
-        "genres": [
-          "1008",
-          "0815"
-        ]
-      },
-      {
-        "id": "2024032700331",
-        "event_id": "00331",
-        "start_time": "2024-03-27T18:50:00+09:00",
-        "end_time": "2024-03-27T19:00:00+09:00",
-        "area": {
-          "id": "340",
-          "name": "広島"
-        },
-        "service": {
-          "id": "e4",
-          "name": "ＮＨＫワンセグ２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/1seg2-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "アニメ　忍たま乱太郎「ニコニコな土井先生の段」",
-        "subtitle": "乱太郎・きり丸・しんべヱは、忍術学園で学ぶ忍者のたまご「忍たま」。ユニークな先生や仲間たちと、明るく・たのしく・ゆかいな毎日がくり広げられる。",
-        "content": "一年は組の成績（せいせき）の悪さに、胃（い）をいためる土井先生。校医（こうい）の新野（にいの）先生のもとへ行くと、イライラしそうになったらニコニコするようにと言われる。土井先生は、さっそくニコニコしてみようとするのだが……。",
-        "act": "【声】高山みなみ，田中真弓，一龍斎貞友，大塚明夫，関俊彦，浦山迅，巴菁子，【原作】尼子騒兵衛，【脚本】浦沢義雄，山田花名",
-        "genres": [
-          "0700"
         ]
       },
       {
@@ -14368,7 +11168,7 @@
         },
         "title": "小雪と発酵おばあちゃん　土井善晴さんと“発酵”一汁一菜",
         "subtitle": "今回は料理研究家の土井善晴さんも登場する特別編。番組がこれまで出会った全国各地の発酵食を、改めてご紹介したところ、土井さんも知らなかったとびっくりしてました。",
-        "content": "ご飯とみそ汁、漬物などおかず一品だけの「一汁一菜」を提案する土井さん。みそ汁のみそや漬物も発酵食なので小雪さんが出会ってきた各地の発酵食にも興味津々▽なり味噌（奄美大島）の具沢山みそ汁や一休寺の塩辛納豆（京都）のおにぎり・・・まさに一汁一菜で発酵食のおいしさを再発見です▽土井さん流簡単お粥の炊き方も教えてもらいました！",
+        "content": "ご飯とみそ汁、漬物などおかず一品だけの「一汁一菜」を提案する土井さん。みそ汁のみそや漬物も発酵食なので小雪さんが出会ってきた各地の発酵食にも興味津々▽なり味噌（奄美大島）の具沢山みそ汁や一休寺の塩辛納豆（京都）のおにぎり・・・まさに一汁一菜で発酵食のおいしさを再発見です▽土井さん流簡単お粥（かゆ）の炊き方も教えてもらいました！",
         "act": "【出演】小雪，【ゲスト】土井善晴",
         "genres": [
           "0804"

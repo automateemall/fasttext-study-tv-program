@@ -819,9 +819,81 @@
         ]
       },
       {
-        "id": "2024032866894",
-        "event_id": "66894",
+        "id": "2024032866895",
+        "event_id": "66895",
         "start_time": "2024-03-28T10:55:00+09:00",
+        "end_time": "2024-03-28T11:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "らじるの時間",
+        "subtitle": "ＮＨＫラジオのさまざまな番組情報をお届けします",
+        "content": "まんまる▽みんなでひきこもりラジオ▽Ｎらじ",
+        "act": "吾妻謙",
+        "genres": [
+          "0207"
+        ]
+      },
+      {
+        "id": "2024032866897",
+        "event_id": "66897",
+        "start_time": "2024-03-28T11:00:03+09:00",
+        "end_time": "2024-03-28T11:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2024032866898",
+        "event_id": "66898",
+        "start_time": "2024-03-28T11:05:00+09:00",
         "end_time": "2024-03-28T11:50:00+09:00",
         "area": {
           "id": "130",
@@ -846,12 +918,12 @@
             "height": "200"
           }
         },
-        "title": "第９６回選抜高校野球大会　準決勝",
-        "subtitle": "第１試合　～甲子園球場から中継～　第１試合１回表終了後　ニュース",
-        "content": "",
-        "act": "",
+        "title": "ベイビーブーを堪能するだけの時間　１１時台",
+        "subtitle": "【ベイビーブーを堪能するだけの時間】",
+        "content": "【ベイビーブーを堪能するだけの時間】男性コーラスグループ、ベイビーブーの素敵なハーモニーをご堪能ください。",
+        "act": "【司会】稲垣秀人",
         "genres": [
-          "0101"
+          "0400"
         ]
       },
       {
@@ -964,9 +1036,305 @@
         ]
       },
       {
-        "id": "2024032866903",
-        "event_id": "66903",
+        "id": "2024032866904",
+        "event_id": "66904",
         "start_time": "2024-03-28T12:20:00+09:00",
+        "end_time": "2024-03-28T13:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "話題と音楽",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0202",
+          "0400",
+          "0401"
+        ]
+      },
+      {
+        "id": "2024032866906",
+        "event_id": "66906",
+        "start_time": "2024-03-28T13:00:03+09:00",
+        "end_time": "2024-03-28T13:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2024032866907",
+        "event_id": "66907",
+        "start_time": "2024-03-28T13:05:00+09:00",
+        "end_time": "2024-03-28T13:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "話題と音楽",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0202",
+          "0400",
+          "0401"
+        ]
+      },
+      {
+        "id": "2024032866908",
+        "event_id": "66908",
+        "start_time": "2024-03-28T13:55:00+09:00",
+        "end_time": "2024-03-28T14:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報・交通情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2024032866910",
+        "event_id": "66910",
+        "start_time": "2024-03-28T14:00:03+09:00",
+        "end_time": "2024-03-28T14:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2024032866911",
+        "event_id": "66911",
+        "start_time": "2024-03-28T14:05:00+09:00",
+        "end_time": "2024-03-28T14:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "話題と音楽",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0202",
+          "0400",
+          "0401"
+        ]
+      },
+      {
+        "id": "2024032866912",
+        "event_id": "66912",
+        "start_time": "2024-03-28T14:55:00+09:00",
+        "end_time": "2024-03-28T15:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報・交通情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2024032866914",
+        "event_id": "66914",
+        "start_time": "2024-03-28T15:00:03+09:00",
+        "end_time": "2024-03-28T15:10:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2024032866915",
+        "event_id": "66915",
+        "start_time": "2024-03-28T15:10:00+09:00",
         "end_time": "2024-03-28T15:55:00+09:00",
         "area": {
           "id": "130",
@@ -991,12 +1359,14 @@
             "height": "200"
           }
         },
-        "title": "第９６回選抜高校野球大会　準決勝",
-        "subtitle": "第１試合　第２試合　～甲子園球場から中継～　第１試合終了後　ニュース（４分）おしらせ（１分）ニュース（１：００）（２：００）（３：００）",
-        "content": "［延伸のとき以降の番組に変更あり］",
+        "title": "話題と音楽",
+        "subtitle": "",
+        "content": "",
         "act": "",
         "genres": [
-          "0101"
+          "0202",
+          "0400",
+          "0401"
         ]
       },
       {
