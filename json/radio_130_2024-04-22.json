@@ -1736,6 +1736,43 @@
         "id": "2024042273457",
         "event_id": "73457",
         "start_time": "2024-04-22T18:50:00+09:00",
+        "end_time": "2024-04-22T18:54:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2024042266066",
+        "event_id": "66066",
+        "start_time": "2024-04-22T18:54:00+09:00",
         "end_time": "2024-04-22T19:00:03+09:00",
         "area": {
           "id": "130",
@@ -1760,13 +1797,12 @@
             "height": "200"
           }
         },
-        "title": "ニュース・気象情報・交通情報",
+        "title": "衆議院小選挙区選出議員補欠選挙候補者　経歴放送「東京都第１５区」",
         "subtitle": "",
         "content": "",
         "act": "",
         "genres": [
-          "0009",
-          "0000"
+          "0003"
         ]
       },
       {
@@ -5845,10 +5881,10 @@
             "height": "200"
           }
         },
-        "title": "古楽の楽しみ",
-        "subtitle": "",
+        "title": "古楽の楽しみ　最近の古楽の公演から「アンサンブル・ポリハルモニーク」の演奏会１",
+        "subtitle": "ご案内：加藤拓未／「プラハ夏の古楽祭２０２３」から“アンサンブル・ポリハルモニーク”による演奏会の前半をお送りします。（録音：チェコ・ラジオ）",
         "content": "",
-        "act": "",
+        "act": "加藤拓未",
         "genres": [
           "0402",
           "1002"
@@ -6398,10 +6434,10 @@
             "height": "200"
           }
         },
-        "title": "クラシックの庭",
-        "subtitle": "",
+        "title": "クラシックの庭　レスピーギの交響詩「ローマの松」",
+        "subtitle": "登レイナ",
         "content": "",
-        "act": "",
+        "act": "登レイナ",
         "genres": [
           "0402"
         ]
@@ -6507,10 +6543,10 @@
             "height": "200"
           }
         },
-        "title": "世界の快適音楽セレクション",
-        "subtitle": "",
+        "title": "世界の快適音楽セレクション　ｙｏｕｎｇの音楽",
+        "subtitle": "ゴンチチ，藤川パパＱ",
         "content": "",
-        "act": "",
+        "act": "ゴンチチ，藤川パパＱ",
         "genres": [
           "0401",
           "0400",
@@ -6593,6 +6629,43 @@
         "id": "2024042273457",
         "event_id": "73457",
         "start_time": "2024-04-22T18:50:00+09:00",
+        "end_time": "2024-04-22T18:54:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2024042266067",
+        "event_id": "66067",
+        "start_time": "2024-04-22T18:54:00+09:00",
         "end_time": "2024-04-22T19:00:03+09:00",
         "area": {
           "id": "130",
@@ -6617,7 +6690,7 @@
             "height": "200"
           }
         },
-        "title": "ニュース・気象情報・交通情報",
+        "title": "気象情報・交通情報",
         "subtitle": "",
         "content": "",
         "act": "",
