@@ -380,7 +380,7 @@
         "id": "2024062572197",
         "event_id": "72197",
         "start_time": "2024-06-25T07:25:00+09:00",
-        "end_time": "2024-06-25T07:55:00+09:00",
+        "end_time": "2024-06-25T07:50:00+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -409,6 +409,44 @@
         "content": "",
         "act": "",
         "genres": []
+      },
+      {
+        "id": "2024062572243",
+        "event_id": "72243",
+        "start_time": "2024-06-25T07:50:00+09:00",
+        "end_time": "2024-06-25T07:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0800",
+          "0203"
+        ]
       },
       {
         "id": "2024062568991",
