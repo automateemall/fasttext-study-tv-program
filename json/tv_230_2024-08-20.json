@@ -14654,45 +14654,9 @@
         ]
       },
       {
-        "id": "2024082012949",
-        "event_id": "12949",
+        "id": "2024082020778",
+        "event_id": "20778",
         "start_time": "2024-08-20T09:00:00+09:00",
-        "end_time": "2024-08-20T09:25:00+09:00",
-        "area": {
-          "id": "230",
-          "name": "名古屋"
-        },
-        "service": {
-          "id": "s1",
-          "name": "ＮＨＫ ＢＳ",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/bs1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ワールドニュース",
-        "subtitle": "▽ドイツ・ＺＤＦ，スペイン・ＴＶＥ，タイ・ＭＣＯＴ，ベトナム・ＶＴＶ",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0005"
-        ]
-      },
-      {
-        "id": "2024082020776",
-        "event_id": "20776",
-        "start_time": "2024-08-20T09:25:00+09:00",
         "end_time": "2024-08-20T12:00:00+09:00",
         "area": {
           "id": "230",
@@ -14717,11 +14681,13 @@
             "height": "200"
           }
         },
-        "title": "ＢＳセレクション",
-        "subtitle": "",
+        "title": "吉田正尚出場予定　ＭＬＢ２０２４「レッドソックス」対「アストロズ」",
+        "subtitle": "　（試合開始　日本時間　９：１０）▽吉田正尚出場予定　【解説】井口資仁，【アナウンサー】竹林宏　～ミニッツメイドパークから中継～",
         "content": "",
-        "act": "",
-        "genres": []
+        "act": "【解説】井口資仁，【アナウンサー】竹林宏",
+        "genres": [
+          "0101"
+        ]
       },
       {
         "id": "2024082015776",
@@ -15949,6 +15915,76 @@
         "genres": [
           "0005"
         ]
+      },
+      {
+        "id": "2024082012949",
+        "event_id": "12949",
+        "start_time": "2024-08-20T09:00:00+09:00",
+        "end_time": "2024-08-20T09:24:00+09:00",
+        "area": {
+          "id": "230",
+          "name": "名古屋"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ワールドニュース",
+        "subtitle": "▽ドイツ・ＺＤＦ，スペイン・ＴＶＥ，タイ・ＭＣＯＴ，ベトナム・ＶＴＶ",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0005"
+        ]
+      },
+      {
+        "id": "2024082020781",
+        "event_id": "20781",
+        "start_time": "2024-08-20T09:24:00+09:00",
+        "end_time": "2024-08-20T12:00:00+09:00",
+        "area": {
+          "id": "230",
+          "name": "名古屋"
+        },
+        "service": {
+          "id": "s2",
+          "name": "ＮＨＫ ＢＳ(１０２ｃｈ)",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/bs1m-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "（この時間帯は１０１ｃｈをご覧ください）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
       },
       {
         "id": "2024082015776",
