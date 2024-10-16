@@ -377,10 +377,10 @@
         ]
       },
       {
-        "id": "2024102168223",
-        "event_id": "68223",
+        "id": "2024102171033",
+        "event_id": "71033",
         "start_time": "2024-10-21T07:25:00+09:00",
-        "end_time": "2024-10-21T07:50:00+09:00",
+        "end_time": "2024-10-21T07:55:00+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -404,20 +404,18 @@
             "height": "200"
           }
         },
-        "title": "マイあさ！",
+        "title": "衆議院小選挙区選出議員選挙　政見放送「神奈川県」（一部）",
         "subtitle": "",
         "content": "",
         "act": "",
         "genres": [
-          "0000",
-          "0800",
-          "0203"
+          "0003"
         ]
       },
       {
-        "id": "2024102168224",
-        "event_id": "68224",
-        "start_time": "2024-10-21T07:50:00+09:00",
+        "id": "2024102171031",
+        "event_id": "71031",
+        "start_time": "2024-10-21T07:55:00+09:00",
         "end_time": "2024-10-21T07:58:00+09:00",
         "area": {
           "id": "130",
@@ -442,7 +440,7 @@
             "height": "200"
           }
         },
-        "title": "ニュース・気象情報",
+        "title": "気象情報",
         "subtitle": "",
         "content": "",
         "act": "",
@@ -491,10 +489,10 @@
         ]
       },
       {
-        "id": "2024102168227",
-        "event_id": "68227",
+        "id": "2024102171028",
+        "event_id": "71028",
         "start_time": "2024-10-21T08:00:03+09:00",
-        "end_time": "2024-10-21T08:28:00+09:00",
+        "end_time": "2024-10-21T08:40:00+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -518,58 +516,18 @@
             "height": "200"
           }
         },
-        "title": "マイあさ！",
+        "title": "衆議院比例代表選出議員選挙　政見放送「北関東選挙区」（一部）",
         "subtitle": "",
         "content": "",
         "act": "",
         "genres": [
-          "0000",
-          "0800",
-          "0203"
+          "0003"
         ]
       },
       {
-        "id": "2024102168228",
-        "event_id": "68228",
-        "start_time": "2024-10-21T08:28:00+09:00",
-        "end_time": "2024-10-21T08:30:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r1",
-          "name": "ＮＨＫラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "朝の音楽",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000",
-          "0800",
-          "0203"
-        ]
-      },
-      {
-        "id": "2024102168229",
-        "event_id": "68229",
-        "start_time": "2024-10-21T08:30:00+09:00",
+        "id": "2024102171027",
+        "event_id": "71027",
+        "start_time": "2024-10-21T08:40:00+09:00",
         "end_time": "2024-10-21T08:55:00+09:00",
         "area": {
           "id": "130",
@@ -675,9 +633,45 @@
         ]
       },
       {
-        "id": "2024102168233",
-        "event_id": "68233",
+        "id": "2024102171066",
+        "event_id": "71066",
         "start_time": "2024-10-21T09:05:00+09:00",
+        "end_time": "2024-10-21T09:45:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "衆議院小選挙区選出議員選挙　政見放送「東京都」（一部）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0003"
+        ]
+      },
+      {
+        "id": "2024102171067",
+        "event_id": "71067",
+        "start_time": "2024-10-21T09:45:00+09:00",
         "end_time": "2024-10-21T09:55:00+09:00",
         "area": {
           "id": "130",
@@ -702,12 +696,12 @@
             "height": "200"
           }
         },
-        "title": "ふんわり",
-        "subtitle": "",
+        "title": "エターナル　ナンバーズ１０ｍｉｎ．　＃３　エンニオ・モリコーネ",
+        "subtitle": "今井翔馬",
         "content": "",
-        "act": "",
+        "act": "今井翔馬",
         "genres": [
-          "0200"
+          "0415"
         ]
       },
       {
@@ -783,9 +777,45 @@
         ]
       },
       {
-        "id": "2024102168237",
-        "event_id": "68237",
+        "id": "2024102171135",
+        "event_id": "71135",
         "start_time": "2024-10-21T10:05:00+09:00",
+        "end_time": "2024-10-21T10:45:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "衆議院比例代表選出議員選挙　政見放送「東京都選挙区」（一部）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0003"
+        ]
+      },
+      {
+        "id": "2024102171136",
+        "event_id": "71136",
+        "start_time": "2024-10-21T10:45:00+09:00",
         "end_time": "2024-10-21T10:55:00+09:00",
         "area": {
           "id": "130",
@@ -810,12 +840,12 @@
             "height": "200"
           }
         },
-        "title": "ふんわり",
-        "subtitle": "",
+        "title": "伊藤政則のバンド・ラウンジ　Ｓ　８ボブ・シーガー／ブルース・スプリングスティーン",
+        "subtitle": "【ＤＪ】伊藤政則",
         "content": "",
-        "act": "",
+        "act": "【ＤＪ】伊藤政則",
         "genres": [
-          "0200"
+          "0401"
         ]
       },
       {
@@ -895,6 +925,114 @@
         "id": "2024102168241",
         "event_id": "68241",
         "start_time": "2024-10-21T11:05:00+09:00",
+        "end_time": "2024-10-21T11:15:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ふんわり",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0200"
+        ]
+      },
+      {
+        "id": "2024102171473",
+        "event_id": "71473",
+        "start_time": "2024-10-21T11:15:00+09:00",
+        "end_time": "2024-10-21T11:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ふんわり",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0200"
+        ]
+      },
+      {
+        "id": "2024102171474",
+        "event_id": "71474",
+        "start_time": "2024-10-21T11:30:00+09:00",
+        "end_time": "2024-10-21T11:35:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2024102171475",
+        "event_id": "71475",
+        "start_time": "2024-10-21T11:35:00+09:00",
         "end_time": "2024-10-21T11:50:00+09:00",
         "area": {
           "id": "130",
@@ -1037,10 +1175,10 @@
         ]
       },
       {
-        "id": "2024102168246",
-        "event_id": "68246",
+        "id": "2024102171024",
+        "event_id": "71024",
         "start_time": "2024-10-21T12:20:00+09:00",
-        "end_time": "2024-10-21T12:30:00+09:00",
+        "end_time": "2024-10-21T13:10:00+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -1064,21 +1202,19 @@
             "height": "200"
           }
         },
-        "title": "ひるのいこい",
+        "title": "衆議院比例代表選出議員選挙　政見放送「南関東選挙区」（一部）",
         "subtitle": "",
         "content": "",
         "act": "",
         "genres": [
-          "0805",
-          "0801",
-          "0415"
+          "0003"
         ]
       },
       {
-        "id": "2024102168247",
-        "event_id": "68247",
-        "start_time": "2024-10-21T12:30:00+09:00",
-        "end_time": "2024-10-21T12:55:00+09:00",
+        "id": "2024102171025",
+        "event_id": "71025",
+        "start_time": "2024-10-21T13:10:00+09:00",
+        "end_time": "2024-10-21T13:40:00+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -1102,90 +1238,18 @@
             "height": "200"
           }
         },
-        "title": "まんまる",
+        "title": "衆議院小選挙区選出議員選挙　政見放送「千葉県」（一部）",
         "subtitle": "",
         "content": "",
         "act": "",
         "genres": [
-          "0202"
+          "0003"
         ]
       },
       {
-        "id": "2024102168248",
-        "event_id": "68248",
-        "start_time": "2024-10-21T12:55:00+09:00",
-        "end_time": "2024-10-21T13:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r1",
-          "name": "ＮＨＫラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "全国気象情報・全国交通情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2024102168250",
-        "event_id": "68250",
-        "start_time": "2024-10-21T13:00:03+09:00",
-        "end_time": "2024-10-21T13:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r1",
-          "name": "ＮＨＫラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2024102168251",
-        "event_id": "68251",
-        "start_time": "2024-10-21T13:05:00+09:00",
+        "id": "2024102171026",
+        "event_id": "71026",
+        "start_time": "2024-10-21T13:40:00+09:00",
         "end_time": "2024-10-21T13:55:00+09:00",
         "area": {
           "id": "130",
@@ -1210,12 +1274,12 @@
             "height": "200"
           }
         },
-        "title": "まんまる",
-        "subtitle": "",
-        "content": "",
-        "act": "",
+        "title": "リラックス・クラシック「ワルツ」",
+        "subtitle": "【出演】粕谷紘世「華麗な大円舞曲」ショパン：作曲，（ピアノ）ダニール・トリフォノフほか",
+        "content": "「ワルツ「スケートをする人々」」ワルトトイフェル：作曲，（管弦楽）ロンドン交響楽団，（指揮）ジョン・ジョージアディス",
+        "act": "【出演】粕谷紘世",
         "genres": [
-          "0202"
+          "0402"
         ]
       },
       {
@@ -1292,10 +1356,10 @@
         ]
       },
       {
-        "id": "2024102168255",
-        "event_id": "68255",
+        "id": "2024102171196",
+        "event_id": "71196",
         "start_time": "2024-10-21T14:05:00+09:00",
-        "end_time": "2024-10-21T14:55:00+09:00",
+        "end_time": "2024-10-21T15:20:00+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -1319,19 +1383,19 @@
             "height": "200"
           }
         },
-        "title": "まんまる",
+        "title": "衆議院小選挙区選出議員候補者　経歴放送「東京都」",
         "subtitle": "",
         "content": "",
         "act": "",
         "genres": [
-          "0202"
+          "0003"
         ]
       },
       {
-        "id": "2024102168256",
-        "event_id": "68256",
-        "start_time": "2024-10-21T14:55:00+09:00",
-        "end_time": "2024-10-21T15:00:03+09:00",
+        "id": "2024102171197",
+        "event_id": "71197",
+        "start_time": "2024-10-21T15:20:00+09:00",
+        "end_time": "2024-10-21T15:50:00+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -1355,55 +1419,18 @@
             "height": "200"
           }
         },
-        "title": "ニュース・気象情報・交通情報",
+        "title": "衆議院小選挙区選出議員候補者　経歴放送「茨城県」「栃木県」「群馬県」",
         "subtitle": "",
         "content": "",
         "act": "",
         "genres": [
-          "0009",
-          "0000"
+          "0003"
         ]
       },
       {
-        "id": "2024102168258",
-        "event_id": "68258",
-        "start_time": "2024-10-21T15:00:03+09:00",
-        "end_time": "2024-10-21T15:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r1",
-          "name": "ＮＨＫラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2024102168259",
-        "event_id": "68259",
-        "start_time": "2024-10-21T15:05:00+09:00",
+        "id": "2024102171198",
+        "event_id": "71198",
+        "start_time": "2024-10-21T15:50:00+09:00",
         "end_time": "2024-10-21T15:55:00+09:00",
         "area": {
           "id": "130",
@@ -1428,12 +1455,12 @@
             "height": "200"
           }
         },
-        "title": "まんまる",
-        "subtitle": "",
+        "title": "エターナル　ナンバーズ５ｍｉｎ．　▽＃１２　アンチェインド・メロディー",
+        "subtitle": "中條誠子",
         "content": "",
-        "act": "",
+        "act": "【アナウンサー】中條誠子",
         "genres": [
-          "0202"
+          "0415"
         ]
       },
       {
@@ -1509,9 +1536,45 @@
         ]
       },
       {
-        "id": "2024102168263",
-        "event_id": "68263",
+        "id": "2024102171078",
+        "event_id": "71078",
         "start_time": "2024-10-21T16:05:00+09:00",
+        "end_time": "2024-10-21T16:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "衆議院小選挙区選出議員候補者　経歴放送「神奈川県」",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0003"
+        ]
+      },
+      {
+        "id": "2024102171079",
+        "event_id": "71079",
+        "start_time": "2024-10-21T16:50:00+09:00",
         "end_time": "2024-10-21T16:55:00+09:00",
         "area": {
           "id": "130",
@@ -1536,14 +1599,12 @@
             "height": "200"
           }
         },
-        "title": "【にっぽん列島夕方ラジオ】関西ラジオワイド",
+        "title": "名曲の小箱「交響曲　第７番」",
         "subtitle": "",
-        "content": "",
-        "act": "",
+        "content": "　ベートーベン作曲　（４分５５秒）　（管弦楽）東京フィルハーモニー交響楽団　（指揮）円光寺雅彦",
+        "act": "円光寺雅彦",
         "genres": [
-          "0009",
-          "0502",
-          "0202"
+          "0402"
         ]
       },
       {
@@ -1620,9 +1681,81 @@
         ]
       },
       {
-        "id": "2024102168267",
-        "event_id": "68267",
+        "id": "2024102171106",
+        "event_id": "71106",
         "start_time": "2024-10-21T17:05:00+09:00",
+        "end_time": "2024-10-21T17:40:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "衆議院小選挙区選出議員候補者　経歴放送「埼玉県」",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0003"
+        ]
+      },
+      {
+        "id": "2024102171107",
+        "event_id": "71107",
+        "start_time": "2024-10-21T17:40:00+09:00",
+        "end_time": "2024-10-21T17:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "伊藤政則のバンド・ラウンジ　Ｓ　‐３‐「グランド・ファンク・レイルロード」",
+        "subtitle": "【ＤＪ】伊藤政則",
+        "content": "",
+        "act": "【ＤＪ】伊藤政則",
+        "genres": [
+          "0401"
+        ]
+      },
+      {
+        "id": "2024102171108",
+        "event_id": "71108",
+        "start_time": "2024-10-21T17:50:00+09:00",
         "end_time": "2024-10-21T17:55:00+09:00",
         "area": {
           "id": "130",
@@ -1647,14 +1780,12 @@
             "height": "200"
           }
         },
-        "title": "【にっぽん列島夕方ラジオ】関西ラジオワイド",
-        "subtitle": "",
+        "title": "ジャズＳＰアワー５ｍｉｎ．「＃１　ドーシー・ブラザーズ」",
+        "subtitle": "【ＤＪ】瀬谷徹",
         "content": "",
-        "act": "",
+        "act": "【ＤＪ】瀬谷徹",
         "genres": [
-          "0009",
-          "0502",
-          "0202"
+          "0403"
         ]
       },
       {
@@ -1695,9 +1826,45 @@
         ]
       },
       {
-        "id": "2024102168270",
-        "event_id": "68270",
+        "id": "2024102171159",
+        "event_id": "71159",
         "start_time": "2024-10-21T18:00:03+09:00",
+        "end_time": "2024-10-21T18:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "衆議院小選挙区選出議員候補者　経歴放送「千葉県」",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0003"
+        ]
+      },
+      {
+        "id": "2024102171158",
+        "event_id": "71158",
+        "start_time": "2024-10-21T18:30:00+09:00",
         "end_time": "2024-10-21T18:45:00+09:00",
         "area": {
           "id": "130",
@@ -1844,9 +2011,45 @@
         ]
       },
       {
-        "id": "2024102168275",
-        "event_id": "68275",
+        "id": "2024102171206",
+        "event_id": "71206",
         "start_time": "2024-10-21T19:30:00+09:00",
+        "end_time": "2024-10-21T19:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "衆議院小選挙区選出議員選挙　政見放送「栃木県」（一部）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0003"
+        ]
+      },
+      {
+        "id": "2024102171207",
+        "event_id": "71207",
+        "start_time": "2024-10-21T19:50:00+09:00",
         "end_time": "2024-10-21T19:55:00+09:00",
         "area": {
           "id": "130",
@@ -1871,14 +2074,12 @@
             "height": "200"
           }
         },
-        "title": "Ｎらじ　きょうのニュースぷらす",
-        "subtitle": "▽特集や企画の内容は「らじる★らじる」の聴き逃し配信でもお聴きいただけます▽放送予定はホームページやＸ（旧ツイッター）＃Ｎらじでご覧いただけます　　　　　　",
-        "content": "▽関心を持ったニュースやニュースの見方についてあなたのご意見をお寄せください。一緒にニュースを語り合いましょう！",
-        "act": "滑川和男",
+        "title": "エターナル　ナンバーズ５ｍｉｎ．　▽＃５　第三の男",
+        "subtitle": "中條誠子",
+        "content": "",
+        "act": "【アナウンサー】中條誠子",
         "genres": [
-          "0000",
-          "0006",
-          "0007"
+          "0415"
         ]
       },
       {
@@ -1955,10 +2156,10 @@
         ]
       },
       {
-        "id": "2024102168279",
-        "event_id": "68279",
+        "id": "2024102171082",
+        "event_id": "71082",
         "start_time": "2024-10-21T20:05:00+09:00",
-        "end_time": "2024-10-21T20:55:00+09:00",
+        "end_time": "2024-10-21T20:45:00+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -1982,128 +2183,18 @@
             "height": "200"
           }
         },
-        "title": "さくらひなたロッチの伸びしろラジオ",
+        "title": "衆議院小選挙区選出議員選挙　政見放送「埼玉県」（一部）",
         "subtitle": "",
         "content": "",
         "act": "",
         "genres": [
-          "0502",
-          "0400",
-          "1009"
+          "0003"
         ]
       },
       {
-        "id": "2024102168280",
-        "event_id": "68280",
-        "start_time": "2024-10-21T20:55:00+09:00",
-        "end_time": "2024-10-21T21:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r1",
-          "name": "ＮＨＫラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "全国気象情報・全国交通情報",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2024102168282",
-        "event_id": "68282",
-        "start_time": "2024-10-21T21:00:03+09:00",
-        "end_time": "2024-10-21T21:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r1",
-          "name": "ＮＨＫラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2024102168283",
-        "event_id": "68283",
-        "start_time": "2024-10-21T21:05:00+09:00",
-        "end_time": "2024-10-21T21:55:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r1",
-          "name": "ＮＨＫラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "又吉・児玉・向井のあとは寝るだけの時間　わたしクイズ",
-        "subtitle": "リスナーから「仕事してないのが良い」とお褒めの言葉を頂く非常に稀有な番組です（笑）３人の仕事モードをオフにした自然体のトークをお楽しみ下さい。",
-        "content": "▽『わたしクイズ』皆さんの人生からクイズを作成して送ってきて下さい。前回で又吉さんが解答者引退を決意したので、向井さんと児玉さんが答えます。▽メッセージテーマは「その時、心が動いた！」です。皆さんの価値観が変わった出来事、出会いなど、大きく心を揺さぶられたことを教えて下さい。",
-        "act": "又吉直樹，児玉智洋，向井慧",
-        "genres": [
-          "0502"
-        ]
-      },
-      {
-        "id": "2024102168284",
-        "event_id": "68284",
-        "start_time": "2024-10-21T21:55:00+09:00",
+        "id": "2024102171083",
+        "event_id": "71083",
+        "start_time": "2024-10-21T20:45:00+09:00",
         "end_time": "2024-10-21T22:00:03+09:00",
         "area": {
           "id": "130",
@@ -2128,12 +2219,12 @@
             "height": "200"
           }
         },
-        "title": "ニュース・気象情報・交通情報",
+        "title": "衆議院小選挙区選出議員候補者　経歴放送「東京都」",
         "subtitle": "",
         "content": "",
         "act": "",
         "genres": [
-          "0000"
+          "0003"
         ]
       },
       {
@@ -6120,9 +6211,9 @@
           }
         },
         "title": "弾き語りフォーユー",
-        "subtitle": "",
-        "content": "",
-        "act": "",
+        "subtitle": "ピアニスト小原孝がリスナーからのリクエストやメッセージを紹介しながら，クラシック，ジャズ，ポップス，映画音楽，歌謡曲，叙情歌などの名曲を独自のアレンジでおくる。",
+        "content": "ピアニスト小原孝がリスナーからのリクエストやメッセージを紹介しながら，年代を問わず，クラシック，ジャズ，ポップス，映画音楽，歌謡曲，叙情歌などの名曲を演奏。小原孝ならではの絶妙のアレンジで聴くものを楽しませる。",
+        "act": "小原孝",
         "genres": [
           "0402"
         ]
@@ -6348,8 +6439,8 @@
         ]
       },
       {
-        "id": "2024102168246",
-        "event_id": "68246",
+        "id": "2024102171029",
+        "event_id": "71029",
         "start_time": "2024-10-21T12:20:00+09:00",
         "end_time": "2024-10-21T12:30:00+09:00",
         "area": {
