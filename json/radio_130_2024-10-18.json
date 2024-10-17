@@ -1619,7 +1619,7 @@
         "id": "2024101871180",
         "event_id": "71180",
         "start_time": "2024-10-18T14:05:00+09:00",
-        "end_time": "2024-10-18T15:20:00+09:00",
+        "end_time": "2024-10-18T15:05:00+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -1652,10 +1652,44 @@
         ]
       },
       {
+        "id": "2024101871493",
+        "event_id": "71493",
+        "start_time": "2024-10-18T15:05:00+09:00",
+        "end_time": "2024-10-18T15:20:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "セレクション",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
         "id": "2024101871181",
         "event_id": "71181",
         "start_time": "2024-10-18T15:20:00+09:00",
-        "end_time": "2024-10-18T15:50:00+09:00",
+        "end_time": "2024-10-18T15:45:00+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -1686,6 +1720,40 @@
         "genres": [
           "0003"
         ]
+      },
+      {
+        "id": "2024101871494",
+        "event_id": "71494",
+        "start_time": "2024-10-18T15:45:00+09:00",
+        "end_time": "2024-10-18T15:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "セレクション",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
       },
       {
         "id": "2024101871182",
@@ -1799,7 +1867,7 @@
         "id": "2024101871068",
         "event_id": "71068",
         "start_time": "2024-10-18T16:05:00+09:00",
-        "end_time": "2024-10-18T16:50:00+09:00",
+        "end_time": "2024-10-18T16:45:00+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -1830,6 +1898,40 @@
         "genres": [
           "0003"
         ]
+      },
+      {
+        "id": "2024101871495",
+        "event_id": "71495",
+        "start_time": "2024-10-18T16:45:00+09:00",
+        "end_time": "2024-10-18T16:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "セレクション",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
       },
       {
         "id": "2024101871069",
@@ -1944,7 +2046,7 @@
         "id": "2024101871118",
         "event_id": "71118",
         "start_time": "2024-10-18T17:05:00+09:00",
-        "end_time": "2024-10-18T17:40:00+09:00",
+        "end_time": "2024-10-18T17:35:00+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -1975,6 +2077,40 @@
         "genres": [
           "0003"
         ]
+      },
+      {
+        "id": "2024101871496",
+        "event_id": "71496",
+        "start_time": "2024-10-18T17:35:00+09:00",
+        "end_time": "2024-10-18T17:40:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "セレクション",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
       },
       {
         "id": "2024101871120",
@@ -7379,7 +7515,7 @@
         },
         "title": "ミュージックライン　ｐａｃｈａｅ",
         "subtitle": "南波志帆，【ゲスト】ｐａｃｈａｅ",
-        "content": "　",
+        "content": "今夜のゲストは、ｐａｃｈａｅ。大阪を中心に活動する３人組バンドが番組初登場。かっこいいより、かわいいを優先したバンド名「パチェ」の由来、「登場人物の感情そのままに」初のアニメ主題歌の手ごたえ、メジャーデビュー曲「チョウチンカップル」制作を通して変化した曲中の２人の関係、作る曲・好きな曲の「日本語らしい」共通点とは？リクエスト・メッセージは番組ホームページから、感想は＃ミュージックラインで！",
         "act": "南波志帆，【ゲスト】ｐａｃｈａｅ",
         "genres": [
           "1515",
