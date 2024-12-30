@@ -5,7 +5,7 @@
         "id": "2025010218818",
         "event_id": "18818",
         "start_time": "2025-01-02T04:00:00+09:00",
-        "end_time": "2025-01-02T04:47:00+09:00",
+        "end_time": "2025-01-02T04:45:00+09:00",
         "area": {
           "id": "270",
           "name": "大阪"
@@ -36,6 +36,42 @@
         "genres": [
           "0300",
           "0302"
+        ]
+      },
+      {
+        "id": "2025010220175",
+        "event_id": "20175",
+        "start_time": "2025-01-02T04:45:00+09:00",
+        "end_time": "2025-01-02T04:47:00+09:00",
+        "area": {
+          "id": "270",
+          "name": "大阪"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "年始おすすめ番組とＮＨＫプラスマイキーワード紹介【スマホアプリ編】",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0207"
         ]
       },
       {
@@ -479,7 +515,7 @@
         "id": "2025010218847",
         "event_id": "18847",
         "start_time": "2025-01-02T07:20:00+09:00",
-        "end_time": "2025-01-02T08:35:00+09:00",
+        "end_time": "2025-01-02T08:34:00+09:00",
         "area": {
           "id": "270",
           "name": "大阪"
@@ -510,6 +546,42 @@
         "genres": [
           "0802",
           "1000"
+        ]
+      },
+      {
+        "id": "2025010220177",
+        "event_id": "20177",
+        "start_time": "2025-01-02T08:34:00+09:00",
+        "end_time": "2025-01-02T08:35:00+09:00",
+        "area": {
+          "id": "270",
+          "name": "大阪"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "年始おすすめ番組とＮＨＫプラスマイキーワード紹介【テレビアプリ編】",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0207"
         ]
       },
       {
@@ -1915,7 +1987,7 @@
         "id": "2025010218818",
         "event_id": "18818",
         "start_time": "2025-01-02T04:00:00+09:00",
-        "end_time": "2025-01-02T04:47:00+09:00",
+        "end_time": "2025-01-02T04:45:00+09:00",
         "area": {
           "id": "270",
           "name": "大阪"
@@ -1946,6 +2018,42 @@
         "genres": [
           "0300",
           "0302"
+        ]
+      },
+      {
+        "id": "2025010220175",
+        "event_id": "20175",
+        "start_time": "2025-01-02T04:45:00+09:00",
+        "end_time": "2025-01-02T04:47:00+09:00",
+        "area": {
+          "id": "270",
+          "name": "大阪"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "年始おすすめ番組とＮＨＫプラスマイキーワード紹介【スマホアプリ編】",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0207"
         ]
       },
       {
@@ -2389,7 +2497,7 @@
         "id": "2025010218847",
         "event_id": "18847",
         "start_time": "2025-01-02T07:20:00+09:00",
-        "end_time": "2025-01-02T08:35:00+09:00",
+        "end_time": "2025-01-02T08:34:00+09:00",
         "area": {
           "id": "270",
           "name": "大阪"
@@ -2420,6 +2528,42 @@
         "genres": [
           "0802",
           "1000"
+        ]
+      },
+      {
+        "id": "2025010220177",
+        "event_id": "20177",
+        "start_time": "2025-01-02T08:34:00+09:00",
+        "end_time": "2025-01-02T08:35:00+09:00",
+        "area": {
+          "id": "270",
+          "name": "大阪"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "年始おすすめ番組とＮＨＫプラスマイキーワード紹介【テレビアプリ編】",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0207"
         ]
       },
       {

@@ -225,7 +225,7 @@
         "id": "2025010324324",
         "event_id": "24324",
         "start_time": "2025-01-03T05:48:00+09:00",
-        "end_time": "2025-01-03T05:50:00+09:00",
+        "end_time": "2025-01-03T05:49:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
@@ -256,6 +256,42 @@
         "genres": [
           "0215",
           "0815"
+        ]
+      },
+      {
+        "id": "2025010320178",
+        "event_id": "20178",
+        "start_time": "2025-01-03T05:49:00+09:00",
+        "end_time": "2025-01-03T05:50:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "年始おすすめ番組とＮＨＫプラスマイキーワード紹介【スマホアプリ編】",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0207"
         ]
       },
       {
@@ -1151,7 +1187,7 @@
         "id": "2025010323427",
         "event_id": "23427",
         "start_time": "2025-01-03T11:51:00+09:00",
-        "end_time": "2025-01-03T11:54:00+09:00",
+        "end_time": "2025-01-03T11:53:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
@@ -1181,6 +1217,42 @@
         "act": "",
         "genres": [
           "0300"
+        ]
+      },
+      {
+        "id": "2025010320179",
+        "event_id": "20179",
+        "start_time": "2025-01-03T11:53:00+09:00",
+        "end_time": "2025-01-03T11:54:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "年始おすすめ番組とＮＨＫプラスマイキーワード紹介【テレビアプリ編】",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0207"
         ]
       },
       {
@@ -2466,7 +2538,7 @@
         "id": "2025010324324",
         "event_id": "24324",
         "start_time": "2025-01-03T05:48:00+09:00",
-        "end_time": "2025-01-03T05:50:00+09:00",
+        "end_time": "2025-01-03T05:49:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
@@ -2497,6 +2569,42 @@
         "genres": [
           "0215",
           "0815"
+        ]
+      },
+      {
+        "id": "2025010320178",
+        "event_id": "20178",
+        "start_time": "2025-01-03T05:49:00+09:00",
+        "end_time": "2025-01-03T05:50:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "年始おすすめ番組とＮＨＫプラスマイキーワード紹介【スマホアプリ編】",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0207"
         ]
       },
       {
@@ -3392,7 +3500,7 @@
         "id": "2025010323427",
         "event_id": "23427",
         "start_time": "2025-01-03T11:51:00+09:00",
-        "end_time": "2025-01-03T11:54:00+09:00",
+        "end_time": "2025-01-03T11:53:00+09:00",
         "area": {
           "id": "401",
           "name": "北九州"
@@ -3422,6 +3530,42 @@
         "act": "",
         "genres": [
           "0300"
+        ]
+      },
+      {
+        "id": "2025010320179",
+        "event_id": "20179",
+        "start_time": "2025-01-03T11:53:00+09:00",
+        "end_time": "2025-01-03T11:54:00+09:00",
+        "area": {
+          "id": "401",
+          "name": "北九州"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "年始おすすめ番組とＮＨＫプラスマイキーワード紹介【テレビアプリ編】",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0207"
         ]
       },
       {
