@@ -1480,7 +1480,7 @@
         "id": "2025020459512",
         "event_id": "59512",
         "start_time": "2025-02-04T18:10:00+09:00",
-        "end_time": "2025-02-04T18:59:00+09:00",
+        "end_time": "2025-02-04T19:00:00+09:00",
         "area": {
           "id": "040",
           "name": "仙台"
@@ -1510,42 +1510,6 @@
         "act": "【キャスター】岩野吉樹，岩間瞳，【気象予報士】篠原正",
         "genres": [
           "0009"
-        ]
-      },
-      {
-        "id": "2025020439749",
-        "event_id": "39749",
-        "start_time": "2025-02-04T18:59:00+09:00",
-        "end_time": "2025-02-04T19:00:00+09:00",
-        "area": {
-          "id": "040",
-          "name": "仙台"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "おしらせ",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0207"
         ]
       },
       {
@@ -3728,7 +3692,7 @@
         "id": "2025020459512",
         "event_id": "59512",
         "start_time": "2025-02-04T18:10:00+09:00",
-        "end_time": "2025-02-04T18:59:00+09:00",
+        "end_time": "2025-02-04T19:00:00+09:00",
         "area": {
           "id": "040",
           "name": "仙台"
@@ -3758,42 +3722,6 @@
         "act": "【キャスター】岩野吉樹，岩間瞳，【気象予報士】篠原正",
         "genres": [
           "0009"
-        ]
-      },
-      {
-        "id": "2025020439749",
-        "event_id": "39749",
-        "start_time": "2025-02-04T18:59:00+09:00",
-        "end_time": "2025-02-04T19:00:00+09:00",
-        "area": {
-          "id": "040",
-          "name": "仙台"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "おしらせ",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0207"
         ]
       },
       {
