@@ -1204,11 +1204,13 @@
             "height": "200"
           }
         },
-        "title": "１００人インタビュー",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": []
+        "title": "ラジオ１００年プロジェクト　１００人インタビュー　２０２５年３月２３日　総集編",
+        "subtitle": "これまで放送したインタビューから、選りすぐりを総集編でお届けします。",
+        "content": "３年前からラジオにかかわる方々のインタビューをお届けしてきたこの番組、これまでに４５人の方々からお話をうかがいました。いよいよ放送１００年を迎えた今月、過去に放送したインタビューを総集編としてご紹介します。【出演】大沢悠里・亀渕昭信・落合恵子・竹下景子・ピーターバラカン・宇田川清江・三宅裕司・小山薫堂・佐野元春・斉藤安弘・秋元康・みのもんた",
+        "act": "大沢悠里，亀渕昭信，落合恵子，竹下景子，ピーター・バラカン，宇田川清江，三宅裕司，小山薫堂，佐野元春，斎藤安弘，秋元康，みのもんた",
+        "genres": [
+          "1515"
+        ]
       },
       {
         "id": "2025032366342",
@@ -5570,7 +5572,7 @@
         "id": "2025032366495",
         "event_id": "66495",
         "start_time": "2025-03-23T23:30:00+09:00",
-        "end_time": "2025-03-24T01:00:03+09:00",
+        "end_time": "2025-03-24T01:01:00+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -5603,10 +5605,10 @@
         ]
       },
       {
-        "id": "2025032366511",
-        "event_id": "66511",
-        "start_time": "2025-03-24T01:00:03+09:00",
-        "end_time": "2025-03-24T01:05:00+09:00",
+        "id": "2025032369140",
+        "event_id": "69140",
+        "start_time": "2025-03-24T01:01:00+09:00",
+        "end_time": "2025-03-24T04:53:00+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -5630,269 +5632,11 @@
             "height": "200"
           }
         },
-        "title": "ニュース",
-        "subtitle": "",
+        "title": "＜放送設備の保守・点検のため放送休止＞",
+        "subtitle": "※放送設備の点検・整備のため、午前５時まで放送をお休みいたします。「ラジオ深夜便」はラジオ第１で放送します。",
         "content": "",
         "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2025032366512",
-        "event_id": "66512",
-        "start_time": "2025-03-24T01:05:00+09:00",
-        "end_time": "2025-03-24T02:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r3",
-          "name": "ＮＨＫＦＭ",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ラジオ深夜便",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "1515",
-          "0415"
-        ]
-      },
-      {
-        "id": "2025032366513",
-        "event_id": "66513",
-        "start_time": "2025-03-24T02:00:03+09:00",
-        "end_time": "2025-03-24T02:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r3",
-          "name": "ＮＨＫＦＭ",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2025032366514",
-        "event_id": "66514",
-        "start_time": "2025-03-24T02:05:00+09:00",
-        "end_time": "2025-03-24T03:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r3",
-          "name": "ＮＨＫＦＭ",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ラジオ深夜便",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "1515",
-          "0415"
-        ]
-      },
-      {
-        "id": "2025032366515",
-        "event_id": "66515",
-        "start_time": "2025-03-24T03:00:03+09:00",
-        "end_time": "2025-03-24T03:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r3",
-          "name": "ＮＨＫＦＭ",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2025032366516",
-        "event_id": "66516",
-        "start_time": "2025-03-24T03:05:00+09:00",
-        "end_time": "2025-03-24T04:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r3",
-          "name": "ＮＨＫＦＭ",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ラジオ深夜便",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "1515",
-          "0415"
-        ]
-      },
-      {
-        "id": "2025032366517",
-        "event_id": "66517",
-        "start_time": "2025-03-24T04:00:03+09:00",
-        "end_time": "2025-03-24T04:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r3",
-          "name": "ＮＨＫＦＭ",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2025032366518",
-        "event_id": "66518",
-        "start_time": "2025-03-24T04:05:00+09:00",
-        "end_time": "2025-03-24T05:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "r3",
-          "name": "ＮＨＫＦＭ",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ラジオ深夜便",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "1515",
-          "0415"
-        ]
+        "genres": []
       }
     ]
   }
