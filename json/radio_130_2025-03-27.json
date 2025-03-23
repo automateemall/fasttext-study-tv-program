@@ -6805,9 +6805,46 @@
         ]
       },
       {
-        "id": "2025032767508",
-        "event_id": "67508",
+        "id": "2025032770574",
+        "event_id": "70574",
         "start_time": "2025-03-27T16:00:03+09:00",
+        "end_time": "2025-03-27T17:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "歌謡スクランブル　選▽髙橋真梨子作品集",
+        "subtitle": "深沢彩子",
+        "content": "",
+        "act": "深沢彩子",
+        "genres": [
+          "0404",
+          "0400"
+        ]
+      },
+      {
+        "id": "2025032770575",
+        "event_id": "70575",
+        "start_time": "2025-03-27T17:30:00+09:00",
         "end_time": "2025-03-27T17:40:00+09:00",
         "area": {
           "id": "130",
@@ -6832,14 +6869,11 @@
             "height": "200"
           }
         },
-        "title": "ウィークエンドサンシャイン",
-        "subtitle": "ピーター・バラカン",
-        "content": "　",
-        "act": "ピーター・バラカン",
-        "genres": [
-          "0401",
-          "0400"
-        ]
+        "title": "セレクション",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
       },
       {
         "id": "2025032767509",
