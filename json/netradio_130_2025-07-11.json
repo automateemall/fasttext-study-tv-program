@@ -997,7 +997,7 @@
         "id": "2025071166699",
         "event_id": "66699",
         "start_time": "2025-07-11T11:05:00+09:00",
-        "end_time": "2025-07-11T11:25:00+09:00",
+        "end_time": "2025-07-11T11:20:00+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -1026,6 +1026,42 @@
         "content": "",
         "act": "",
         "genres": []
+      },
+      {
+        "id": "2025071167533",
+        "event_id": "67533",
+        "start_time": "2025-07-11T11:20:00+09:00",
+        "end_time": "2025-07-11T11:25:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "名曲の小箱「弦楽四重奏曲」",
+        "subtitle": "",
+        "content": "　ラヴェル作曲　（演奏）クァルテット・エクセルシオ",
+        "act": "クァルテット・エクセルシオ",
+        "genres": [
+          "0402"
+        ]
       },
       {
         "id": "2025071166700",

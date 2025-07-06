@@ -1037,7 +1037,7 @@
         "id": "2025070966672",
         "event_id": "66672",
         "start_time": "2025-07-09T11:05:00+09:00",
-        "end_time": "2025-07-09T11:25:00+09:00",
+        "end_time": "2025-07-09T11:20:00+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -1067,6 +1067,42 @@
         "act": "",
         "genres": [
           "0003"
+        ]
+      },
+      {
+        "id": "2025070967531",
+        "event_id": "67531",
+        "start_time": "2025-07-09T11:20:00+09:00",
+        "end_time": "2025-07-09T11:25:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "名曲の小箱「小さな空」",
+        "subtitle": "",
+        "content": "　武満徹・作詞／作曲　（合唱）東京混声合唱団　（指揮）大谷研二",
+        "act": "東京混声合唱団，大谷研二",
+        "genres": [
+          "0402"
         ]
       },
       {

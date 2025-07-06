@@ -416,7 +416,7 @@
         "id": "2025070825962",
         "event_id": "25962",
         "start_time": "2025-07-08T09:05:00+09:00",
-        "end_time": "2025-07-08T10:00:00+09:00",
+        "end_time": "2025-07-08T09:55:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -447,6 +447,40 @@
         "genres": [
           "0003"
         ]
+      },
+      {
+        "id": "2025070827019",
+        "event_id": "27019",
+        "start_time": "2025-07-08T09:55:00+09:00",
+        "end_time": "2025-07-08T10:00:00+09:00",
+        "area": {
+          "id": "340",
+          "name": "広島"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "（編成未定枠）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
       },
       {
         "id": "2025070819398",
@@ -1482,7 +1516,7 @@
         "id": "2025070843267",
         "event_id": "43267",
         "start_time": "2025-07-08T18:25:00+09:00",
-        "end_time": "2025-07-08T18:45:00+09:00",
+        "end_time": "2025-07-08T18:44:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -1517,7 +1551,7 @@
       {
         "id": "2025070843268",
         "event_id": "43268",
-        "start_time": "2025-07-08T18:45:00+09:00",
+        "start_time": "2025-07-08T18:44:00+09:00",
         "end_time": "2025-07-08T19:00:00+09:00",
         "area": {
           "id": "340",
@@ -1853,7 +1887,7 @@
         "id": "2025070825965",
         "event_id": "25965",
         "start_time": "2025-07-08T23:00:00+09:00",
-        "end_time": "2025-07-08T23:38:00+09:00",
+        "end_time": "2025-07-08T23:35:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -1884,6 +1918,40 @@
         "genres": [
           "0003"
         ]
+      },
+      {
+        "id": "2025070827023",
+        "event_id": "27023",
+        "start_time": "2025-07-08T23:35:00+09:00",
+        "end_time": "2025-07-08T23:38:00+09:00",
+        "area": {
+          "id": "340",
+          "name": "広島"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "（編成未定枠）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
       },
       {
         "id": "2025070819472",
@@ -2524,7 +2592,7 @@
         "id": "2025070825962",
         "event_id": "25962",
         "start_time": "2025-07-08T09:05:00+09:00",
-        "end_time": "2025-07-08T10:00:00+09:00",
+        "end_time": "2025-07-08T09:55:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -2555,6 +2623,40 @@
         "genres": [
           "0003"
         ]
+      },
+      {
+        "id": "2025070827019",
+        "event_id": "27019",
+        "start_time": "2025-07-08T09:55:00+09:00",
+        "end_time": "2025-07-08T10:00:00+09:00",
+        "area": {
+          "id": "340",
+          "name": "広島"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "（編成未定枠）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
       },
       {
         "id": "2025070819398",
@@ -3590,7 +3692,7 @@
         "id": "2025070843267",
         "event_id": "43267",
         "start_time": "2025-07-08T18:25:00+09:00",
-        "end_time": "2025-07-08T18:45:00+09:00",
+        "end_time": "2025-07-08T18:44:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -3625,7 +3727,7 @@
       {
         "id": "2025070843268",
         "event_id": "43268",
-        "start_time": "2025-07-08T18:45:00+09:00",
+        "start_time": "2025-07-08T18:44:00+09:00",
         "end_time": "2025-07-08T19:00:00+09:00",
         "area": {
           "id": "340",
@@ -3961,7 +4063,7 @@
         "id": "2025070825965",
         "event_id": "25965",
         "start_time": "2025-07-08T23:00:00+09:00",
-        "end_time": "2025-07-08T23:38:00+09:00",
+        "end_time": "2025-07-08T23:35:00+09:00",
         "area": {
           "id": "340",
           "name": "広島"
@@ -3992,6 +4094,40 @@
         "genres": [
           "0003"
         ]
+      },
+      {
+        "id": "2025070827023",
+        "event_id": "27023",
+        "start_time": "2025-07-08T23:35:00+09:00",
+        "end_time": "2025-07-08T23:38:00+09:00",
+        "area": {
+          "id": "340",
+          "name": "広島"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "（編成未定枠）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
       },
       {
         "id": "2025070819472",
