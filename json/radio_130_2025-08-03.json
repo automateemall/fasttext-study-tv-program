@@ -1,0 +1,6576 @@
+{
+  "list": {
+    "r1": [
+      {
+        "id": "2025080370439",
+        "event_id": "70439",
+        "start_time": "2025-08-03T04:05:00+09:00",
+        "end_time": "2025-08-03T05:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ラジオ深夜便▽インタビュー　▽もっと、べらぼう",
+        "subtitle": "▽インタビュー　▽もっと、べらぼう",
+        "content": "▽インタビュー「南アフリカで、人と自然をつなぐ」　南アフリカ政府公認サファリガイド　太田ゆか　▽もっと、べらぼう　薩摩琵琶奏者　　友吉鶴心　▽誕生日の花・番組予告",
+        "act": "【アンカー】後藤繁榮，【出演】南アフリカ政府公認サファリガイド…太田ゆか，【出演】薩摩琵琶奏者…友吉鶴心，【きき手】池田ちひろ",
+        "genres": [
+          "0202",
+          "0415",
+          "0804"
+        ]
+      },
+      {
+        "id": "2025080370441",
+        "event_id": "70441",
+        "start_time": "2025-08-03T05:00:03+09:00",
+        "end_time": "2025-08-03T05:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "マイあさ！",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0202",
+          "0100"
+        ]
+      },
+      {
+        "id": "2025080370442",
+        "event_id": "70442",
+        "start_time": "2025-08-03T05:55:00+09:00",
+        "end_time": "2025-08-03T06:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "気象情報（関東甲信越）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370444",
+        "event_id": "70444",
+        "start_time": "2025-08-03T06:00:03+09:00",
+        "end_time": "2025-08-03T06:25:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "マイあさ！",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0202",
+          "0100"
+        ]
+      },
+      {
+        "id": "2025080370445",
+        "event_id": "70445",
+        "start_time": "2025-08-03T06:25:00+09:00",
+        "end_time": "2025-08-03T06:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報・交通情報（関東甲信越）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370446",
+        "event_id": "70446",
+        "start_time": "2025-08-03T06:30:00+09:00",
+        "end_time": "2025-08-03T06:40:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ラジオ体操",
+        "subtitle": "鈴木大輔，細貝柊",
+        "content": "",
+        "act": "鈴木大輔，細貝柊",
+        "genres": [
+          "0115",
+          "1015",
+          "0203"
+        ]
+      },
+      {
+        "id": "2025080370447",
+        "event_id": "70447",
+        "start_time": "2025-08-03T06:40:00+09:00",
+        "end_time": "2025-08-03T06:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "マイあさ！",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0202",
+          "0100"
+        ]
+      },
+      {
+        "id": "2025080370448",
+        "event_id": "70448",
+        "start_time": "2025-08-03T06:55:00+09:00",
+        "end_time": "2025-08-03T07:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "気象情報・交通情報（関東甲信越）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370450",
+        "event_id": "70450",
+        "start_time": "2025-08-03T07:00:03+09:00",
+        "end_time": "2025-08-03T07:15:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "マイあさ！　▽ＮＨＫけさのニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0202",
+          "0100"
+        ]
+      },
+      {
+        "id": "2025080370451",
+        "event_id": "70451",
+        "start_time": "2025-08-03T07:15:00+09:00",
+        "end_time": "2025-08-03T07:20:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報（関東甲信越）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370452",
+        "event_id": "70452",
+        "start_time": "2025-08-03T07:20:00+09:00",
+        "end_time": "2025-08-03T07:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "マイあさ！",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0202",
+          "0100"
+        ]
+      },
+      {
+        "id": "2025080370453",
+        "event_id": "70453",
+        "start_time": "2025-08-03T07:55:00+09:00",
+        "end_time": "2025-08-03T08:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報・交通情報（関東甲信越）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370455",
+        "event_id": "70455",
+        "start_time": "2025-08-03T08:00:03+09:00",
+        "end_time": "2025-08-03T08:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370456",
+        "event_id": "70456",
+        "start_time": "2025-08-03T08:05:00+09:00",
+        "end_time": "2025-08-03T08:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "戦後８０年―長崎原爆を体験した看護学生",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0002"
+        ]
+      },
+      {
+        "id": "2025080370457",
+        "event_id": "70457",
+        "start_time": "2025-08-03T08:55:00+09:00",
+        "end_time": "2025-08-03T08:59:55+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "全国気象情報・全国交通情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370458",
+        "event_id": "70458",
+        "start_time": "2025-08-03T08:59:55+09:00",
+        "end_time": "2025-08-03T10:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "日曜討論",
+        "subtitle": "政治はどう動く？経済の先行きは？社会や国際問題の深層は？▽政党や各界の論客をゲストに討論やインタビュー▽「より身近に」「より分かりやすく」皆さんの関心に応えます",
+        "content": "いま旬のテーマを討論やインタビューで「より身近に」「より分かりやすく」伝える日曜討論▽政治はどう動く？重要政策への対応は？気になる経済の先行きは？社会問題の深層に何があるのか？そして激動する国際社会をどう分析？▽政党の幹部や大臣、専門家など各界の論客がスタジオ生出演！▽難解なテーマはキャスターが解説▽白熱した議論を通して今の時代と向き合うヒントを探ります！",
+        "act": "",
+        "genres": [
+          "0007"
+        ]
+      },
+      {
+        "id": "2025080370459",
+        "event_id": "70459",
+        "start_time": "2025-08-03T10:00:03+09:00",
+        "end_time": "2025-08-03T10:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370460",
+        "event_id": "70460",
+        "start_time": "2025-08-03T10:05:00+09:00",
+        "end_time": "2025-08-03T10:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "子ども科学電話相談　夏休みＳＰ「昆虫」「水中の生き物」「鉄道」",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0802",
+          "1008",
+          "0515"
+        ]
+      },
+      {
+        "id": "2025080370461",
+        "event_id": "70461",
+        "start_time": "2025-08-03T10:55:00+09:00",
+        "end_time": "2025-08-03T11:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "みんなのうた「キラキラミライ」／「万有引力」",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0400",
+          "0409",
+          "0504"
+        ]
+      },
+      {
+        "id": "2025080370463",
+        "event_id": "70463",
+        "start_time": "2025-08-03T11:00:03+09:00",
+        "end_time": "2025-08-03T11:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370464",
+        "event_id": "70464",
+        "start_time": "2025-08-03T11:05:00+09:00",
+        "end_time": "2025-08-03T11:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "子ども科学電話相談　夏休みＳＰ「昆虫」「水中の生き物」「鉄道」",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0802",
+          "1008",
+          "0515"
+        ]
+      },
+      {
+        "id": "2025080370465",
+        "event_id": "70465",
+        "start_time": "2025-08-03T11:50:00+09:00",
+        "end_time": "2025-08-03T12:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "気象情報・交通情報（関東甲信越）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370469",
+        "event_id": "70469",
+        "start_time": "2025-08-03T12:00:03+09:00",
+        "end_time": "2025-08-03T12:10:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース　正午のＮＨＫニュース",
+        "subtitle": "▽最新のニュースは「らじる★らじる」やポッドキャスト「ＮＨＫラジオニュース」からもお聴きいただけます",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370470",
+        "event_id": "70470",
+        "start_time": "2025-08-03T12:10:00+09:00",
+        "end_time": "2025-08-03T12:15:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報（関東甲信越）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370471",
+        "event_id": "70471",
+        "start_time": "2025-08-03T12:15:00+09:00",
+        "end_time": "2025-08-03T13:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＮＨＫのど自慢　福井から生放送！▽中村美律子・北山たけし",
+        "subtitle": "福井県越前市から生放送▽ゲスト：中村美律子・北山たけし▽司会：廣瀬智美アナウンサー▽鐘：窪田健志（名古屋フィルハーモニー交響楽団）",
+        "content": "【ゲストの歌】中村美律子「歌だよ！人生」＆北山たけし「月うるる」▽司会は廣瀬智美アナと二宮直輝アナが交互に担当、そして鐘を鳴らすのは全国各地のオーケストラ奏者の皆さんです▽誰かのために歌いたい！思いを届けるために歌いたい！そんなあなたのステージが「のど自慢」です。中学生以上の、原則アマチュアの方ならだれでも応募できます。出場申込は番組ＨＰをご覧ください！",
+        "act": "【出演】中村美律子，北山たけし，【司会】廣瀬智美，【鐘】窪田健志",
+        "genres": [
+          "0407",
+          "0504",
+          "1002"
+        ]
+      },
+      {
+        "id": "2025080370473",
+        "event_id": "70473",
+        "start_time": "2025-08-03T13:00:03+09:00",
+        "end_time": "2025-08-03T13:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370474",
+        "event_id": "70474",
+        "start_time": "2025-08-03T13:05:00+09:00",
+        "end_time": "2025-08-03T13:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "小痴楽の楽屋ぞめき　第９８回",
+        "subtitle": "三代目　柳亭小痴楽，春風亭柳枝，三遊亭ごはんつぶ，九龍ジョー",
+        "content": "若手真打のトップランナー、柳亭小痴楽が仲間たちと「ぞめく」落語トークバラエティー。今回は九龍ジョーの「落語トピックｉｎカルチャー」をお届けする。テーマは「戦争と落語」。戦時中、演じることを禁じられた５３の演目「禁演落語」や、戦意高揚を目的として作られた「国策落語」について探る。紹介する音源は八代目桂文治の「芝浜の革財布」、柳家金語楼の「戦線の金語楼」など。出演はほかに春風亭柳枝と三遊亭ごはんつぶ。",
+        "act": "三代目　柳亭小痴楽，春風亭柳枝，三遊亭ごはんつぶ，九龍ジョー",
+        "genres": [
+          "0503",
+          "0502"
+        ]
+      },
+      {
+        "id": "2025080370475",
+        "event_id": "70475",
+        "start_time": "2025-08-03T13:55:00+09:00",
+        "end_time": "2025-08-03T14:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報・交通情報（関東甲信越）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370477",
+        "event_id": "70477",
+        "start_time": "2025-08-03T14:00:03+09:00",
+        "end_time": "2025-08-03T14:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370478",
+        "event_id": "70478",
+        "start_time": "2025-08-03T14:05:00+09:00",
+        "end_time": "2025-08-03T14:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "アナウンサー百年百話　スペシャル　戦後８０年　アナウンサーの証言から",
+        "subtitle": "アナウンサー百年百話のスペシャル番組。二・二六事件、太平洋戦争開戦、終戦をはじめ、時代の節目を刻んだアナウンサーの貴重な音源や証言から当時の歴史を振り返る。",
+        "content": "戦後８０年。アナウンサーは戦争をどう伝えてきたのかを見つめる。二・二六事件で伝えた「兵に告ぐ」は、クーデターの鎮圧に大きく関わり放送の影響力を知らしめることになった。軍は放送を統制するようになる。戦争が進むにつれて、アナウンサーも戦意高揚を訴える放送に駆り出されていく。当時、放送に携わったアナウンサーの証言からは、時代とともにアナウンスの表現方法が変わっていく様子が見えてくる。",
+        "act": "【ゲスト】齋藤孝，【アナウンサー】後藤理",
+        "genres": [
+          "0801"
+        ]
+      },
+      {
+        "id": "2025080370479",
+        "event_id": "70479",
+        "start_time": "2025-08-03T14:55:00+09:00",
+        "end_time": "2025-08-03T15:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報・交通情報（関東・山梨・長野）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370481",
+        "event_id": "70481",
+        "start_time": "2025-08-03T15:00:03+09:00",
+        "end_time": "2025-08-03T15:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370482",
+        "event_id": "70482",
+        "start_time": "2025-08-03T15:05:00+09:00",
+        "end_time": "2025-08-03T15:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "さまよえるパパたちへ～パパだって話したい子育て話～　８月３日",
+        "subtitle": "ダイアモンド☆ユカイ，山本博，【ゲスト】スギちゃん",
+        "content": "",
+        "act": "ダイアモンド☆ユカイ，山本博，【ゲスト】スギちゃん",
+        "genres": [
+          "0504"
+        ]
+      },
+      {
+        "id": "2025080370483",
+        "event_id": "70483",
+        "start_time": "2025-08-03T15:55:00+09:00",
+        "end_time": "2025-08-03T16:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "全国気象情報・全国交通情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370485",
+        "event_id": "70485",
+        "start_time": "2025-08-03T16:00:03+09:00",
+        "end_time": "2025-08-03T16:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370486",
+        "event_id": "70486",
+        "start_time": "2025-08-03T16:05:00+09:00",
+        "end_time": "2025-08-03T16:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＤＪ日本史",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0502",
+          "0804"
+        ]
+      },
+      {
+        "id": "2025080370487",
+        "event_id": "70487",
+        "start_time": "2025-08-03T16:55:00+09:00",
+        "end_time": "2025-08-03T17:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報・交通情報（関東甲信越）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370489",
+        "event_id": "70489",
+        "start_time": "2025-08-03T17:00:03+09:00",
+        "end_time": "2025-08-03T17:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370490",
+        "event_id": "70490",
+        "start_time": "2025-08-03T17:05:00+09:00",
+        "end_time": "2025-08-03T17:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ちきゅうラジオ　紛争地を見てきた専門家が語る平和とは",
+        "subtitle": "▽戦後８０年特別企画。武装解除の専門家・瀬谷ルミ子さんをスタジオに迎え、世界の紛争地の状況、そして平和の大切さについてうかがいます。",
+        "content": "▽世界各地の紛争地で活動してきた武装解除の専門家・瀬谷ルミ子さんに、現地でのエピソードや、平和の価値についてうかがいます。子ども代表として、９歳の大野りりあなさんも一緒に考えてくれます。戦後８０年。今、日本人には、どんな意識が大事なのでしょうか。▽瀬谷さんへの質問やメッセージ、ご意見ご感想をお待ちしています。　▽ＳＮＳは、＃ちきゅうラジオ",
+        "act": "レ・ロマネスクＴＯＢＩ，中村慶子，瀬谷ルミ子，大野りりあな",
+        "genres": [
+          "0202",
+          "0502",
+          "1002"
+        ]
+      },
+      {
+        "id": "2025080370491",
+        "event_id": "70491",
+        "start_time": "2025-08-03T17:55:00+09:00",
+        "end_time": "2025-08-03T18:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報・交通情報（関東）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370493",
+        "event_id": "70493",
+        "start_time": "2025-08-03T18:00:03+09:00",
+        "end_time": "2025-08-03T18:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370494",
+        "event_id": "70494",
+        "start_time": "2025-08-03T18:05:00+09:00",
+        "end_time": "2025-08-03T18:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ちきゅうラジオ　アフガニスタン、思い出の料理／平和を守るために",
+        "subtitle": "▽戦後８０年特別企画。ゲストは武装解除の専門家・瀬谷ルミ子さんです。瀬谷さんがアフガニスタンで活動していた時の思い出の料理を紹介します。",
+        "content": "▽武装解除の専門家・瀬谷ルミ子さんをスタジオに迎えます。▽この時間は、瀬谷さんが２年間活動していたアフガニスタンでの印象深い料理を紹介。どんな思い出が？　▽世界各地の紛争地で活動してきた瀬谷さんに、引き続き平和の価値をうかがいます。子ども代表として、９歳の大野りりあなさんも参加します。▽戦後８０年、今、日本人には、どんな意識が大事なのでしょうか？　▽ＳＮＳは、＃ちきゅうラジオ",
+        "act": "レ・ロマネスクＴＯＢＩ，中村慶子，瀬谷ルミ子，大野りりあな",
+        "genres": [
+          "0202",
+          "0502",
+          "1002"
+        ]
+      },
+      {
+        "id": "2025080370495",
+        "event_id": "70495",
+        "start_time": "2025-08-03T18:50:00+09:00",
+        "end_time": "2025-08-03T19:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報・交通情報（関東甲信越）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370497",
+        "event_id": "70497",
+        "start_time": "2025-08-03T19:00:03+09:00",
+        "end_time": "2025-08-03T19:20:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース　ＮＨＫきょうのニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370498",
+        "event_id": "70498",
+        "start_time": "2025-08-03T19:20:00+09:00",
+        "end_time": "2025-08-03T19:25:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報（関東・山梨）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370499",
+        "event_id": "70499",
+        "start_time": "2025-08-03T19:25:00+09:00",
+        "end_time": "2025-08-03T19:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "新日曜名作座　選「ひこばえ」（６）",
+        "subtitle": "【原作】重松清，【脚色】入山さと子【演出】小見山佳典【出演】西田敏行，竹下景子【音楽】澁江夏奈",
+        "content": "",
+        "act": "【原作】重松清，【出演】西田敏行，竹下景子，【脚色】入山さと子，【音楽】澁江夏奈，【演出】小見山佳典",
+        "genres": [
+          "0300",
+          "0315"
+        ]
+      },
+      {
+        "id": "2025080370500",
+        "event_id": "70500",
+        "start_time": "2025-08-03T19:55:00+09:00",
+        "end_time": "2025-08-03T20:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "気象情報・交通情報（関東甲信越）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370503",
+        "event_id": "70503",
+        "start_time": "2025-08-03T20:00:03+09:00",
+        "end_time": "2025-08-03T20:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370504",
+        "event_id": "70504",
+        "start_time": "2025-08-03T20:05:00+09:00",
+        "end_time": "2025-08-03T20:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "らじらー！　サンデー",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0502",
+          "0504",
+          "1009"
+        ]
+      },
+      {
+        "id": "2025080370505",
+        "event_id": "70505",
+        "start_time": "2025-08-03T20:55:00+09:00",
+        "end_time": "2025-08-03T21:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "全国気象情報・全国交通情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370507",
+        "event_id": "70507",
+        "start_time": "2025-08-03T21:00:03+09:00",
+        "end_time": "2025-08-03T21:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370508",
+        "event_id": "70508",
+        "start_time": "2025-08-03T21:05:00+09:00",
+        "end_time": "2025-08-03T21:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "らじらー！　サンデー",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0502",
+          "0504",
+          "1009"
+        ]
+      },
+      {
+        "id": "2025080370509",
+        "event_id": "70509",
+        "start_time": "2025-08-03T21:55:00+09:00",
+        "end_time": "2025-08-03T22:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報・交通情報（関東甲信越）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370511",
+        "event_id": "70511",
+        "start_time": "2025-08-03T22:00:03+09:00",
+        "end_time": "2025-08-03T22:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370512",
+        "event_id": "70512",
+        "start_time": "2025-08-03T22:05:00+09:00",
+        "end_time": "2025-08-03T22:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "らじらー！　サンデー",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0502",
+          "0504",
+          "1009"
+        ]
+      },
+      {
+        "id": "2025080370513",
+        "event_id": "70513",
+        "start_time": "2025-08-03T22:55:00+09:00",
+        "end_time": "2025-08-03T23:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報（関東甲信越）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370515",
+        "event_id": "70515",
+        "start_time": "2025-08-03T23:00:03+09:00",
+        "end_time": "2025-08-03T23:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370516",
+        "event_id": "70516",
+        "start_time": "2025-08-03T23:05:00+09:00",
+        "end_time": "2025-08-04T00:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ラジオ深夜便▽日本列島くらしのたより　▽旅の達人・前半",
+        "subtitle": "▽日本列島くらしのたより　▽旅の達人・前半",
+        "content": "▽日本列島くらしのたより　▽旅の達人・前半　▽天気概況・明日の日の出",
+        "act": "【アンカー】徳田章，【リポーター】那覇市…伊敷聡子，【出演】低山トラベラー…大内征",
+        "genres": [
+          "0202",
+          "0415",
+          "0804"
+        ]
+      },
+      {
+        "id": "2025080370669",
+        "event_id": "70669",
+        "start_time": "2025-08-04T00:00:03+09:00",
+        "end_time": "2025-08-04T00:10:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370670",
+        "event_id": "70670",
+        "start_time": "2025-08-04T00:10:00+09:00",
+        "end_time": "2025-08-04T01:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ラジオ深夜便▽旅の達人・後半",
+        "subtitle": "▽旅の達人・後半",
+        "content": "▽旅の達人・後半　▽天気概況・世界の天気と予想気温",
+        "act": "【アンカー】徳田章，【出演】低山トラベラー…大内征",
+        "genres": [
+          "0202",
+          "0415",
+          "0804"
+        ]
+      },
+      {
+        "id": "2025080370672",
+        "event_id": "70672",
+        "start_time": "2025-08-04T01:00:03+09:00",
+        "end_time": "2025-08-04T01:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370673",
+        "event_id": "70673",
+        "start_time": "2025-08-04T01:05:00+09:00",
+        "end_time": "2025-08-04T02:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ラジオ深夜便▽ラジオ文芸館アンコール",
+        "subtitle": "▽ラジオ文芸館アンコール",
+        "content": "▽ラジオ文芸館アンコール「瓶詰地獄」作：夢野久作（初回放送２０２４．４．２２）　▽深夜便のうた・天気概況",
+        "act": "【アンカー】徳田章，【朗読】早坂隆信",
+        "genres": [
+          "0202",
+          "0415",
+          "0804"
+        ]
+      },
+      {
+        "id": "2025080370675",
+        "event_id": "70675",
+        "start_time": "2025-08-04T02:00:03+09:00",
+        "end_time": "2025-08-04T02:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370676",
+        "event_id": "70676",
+        "start_time": "2025-08-04T02:05:00+09:00",
+        "end_time": "2025-08-04T03:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ラジオ深夜便▽ロマンチックコンサート",
+        "subtitle": "▽ロマンチックコンサート",
+        "content": "▽ロマンチックコンサート「エンジョイ・カントリー～ジャパニーズ・カントリー作品集」　▽天気概況",
+        "act": "【アンカー】徳田章",
+        "genres": [
+          "0202",
+          "0415",
+          "0804"
+        ]
+      },
+      {
+        "id": "2025080370677",
+        "event_id": "70677",
+        "start_time": "2025-08-04T03:00:03+09:00",
+        "end_time": "2025-08-04T03:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370678",
+        "event_id": "70678",
+        "start_time": "2025-08-04T03:05:00+09:00",
+        "end_time": "2025-08-04T04:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ラジオ深夜便▽にっぽんの歌こころの歌",
+        "subtitle": "▽にっぽんの歌こころの歌",
+        "content": "▽にっぽんの歌こころの歌「昭和歌年鑑～昭和３３年の流行歌」　▽天気概況・各地の天気と予想気温",
+        "act": "【アンカー】徳田章",
+        "genres": [
+          "0202",
+          "0415",
+          "0804"
+        ]
+      },
+      {
+        "id": "2025080370679",
+        "event_id": "70679",
+        "start_time": "2025-08-04T04:00:03+09:00",
+        "end_time": "2025-08-04T04:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370680",
+        "event_id": "70680",
+        "start_time": "2025-08-04T04:05:00+09:00",
+        "end_time": "2025-08-04T05:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ラジオ深夜便▽戦争平和インタビュー",
+        "subtitle": "▽戦争平和インタビュー",
+        "content": "▽戦争平和インタビュー「わが子を滝に投げた母～地獄の記憶を紡ぐ～」旧満州国開拓移民２世　齋藤幸子　▽誕生日の花・番組予告",
+        "act": "【アンカー】徳田章，【出演】旧満州国開拓移民２世…齋藤幸子，【きき手】伊藤亮太",
+        "genres": [
+          "0202",
+          "0415",
+          "0804"
+        ]
+      }
+    ],
+    "r2": [
+      {
+        "id": "2025080370528",
+        "event_id": "70528",
+        "start_time": "2025-08-03T06:00:03+09:00",
+        "end_time": "2025-08-03T06:45:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "古典講読　光源氏でたどる『源氏物語』（１８）",
+        "subtitle": "第１８回「澪標（みおつくし）の巻（１）」",
+        "content": "【出演】専修大学教授…今井上，【朗読】加賀美幸子",
+        "act": "【出演】専修大学　教授…今井上，【朗読】加賀美幸子",
+        "genres": [
+          "1011"
+        ]
+      },
+      {
+        "id": "2025080370529",
+        "event_id": "70529",
+        "start_time": "2025-08-03T06:45:00+09:00",
+        "end_time": "2025-08-03T07:25:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "こころをよむ　実況ってなんだ！？　第５回　実況×私",
+        "subtitle": "【出演】実況アナウンサー…清野茂樹",
+        "content": "実況アナウンサーの清野茂樹さんは、小学生の時に古舘伊知郎さんのプロレス実況に大きな衝撃を受けました。実況のセリフを丸暗記し真似をする日々だったといいます。そしてプロレス実況をしたい一心でアナウンサーへの道を志しました。実況との出会いから初プロレス中継、民放アナウンサーからフリーへの転向。自身の実況人生を振り返り、現場の面白さ、窮地から脱する際の決め手となった出来事など、実況をめぐる経験を語ります。",
+        "act": "【出演】実況アナウンサー…清野茂樹",
+        "genres": [
+          "0804",
+          "0805",
+          "0800"
+        ]
+      },
+      {
+        "id": "2025080370530",
+        "event_id": "70530",
+        "start_time": "2025-08-03T07:25:00+09:00",
+        "end_time": "2025-08-03T07:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "名曲の小箱「交響詩“海”」",
+        "subtitle": "",
+        "content": "　ドビュッシー作曲　（管弦楽）東京フィルハーモニー交響楽団　（指揮）十束尚宏",
+        "act": "十束尚宏，東京フィルハーモニー交響楽団",
+        "genres": [
+          "0402"
+        ]
+      },
+      {
+        "id": "2025080370531",
+        "event_id": "70531",
+        "start_time": "2025-08-03T07:30:00+09:00",
+        "end_time": "2025-08-03T08:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "視覚障害ナビ・ラジオ　リンク・スクエア　＃６１",
+        "subtitle": "【出演】バイオリニスト…穴澤雄介，和太鼓奏者…富田安紀子",
+        "content": "",
+        "act": "【出演】バイオリニスト…穴澤雄介，【出演】和太鼓奏者…富田安紀子",
+        "genres": [
+          "1101",
+          "0800",
+          "1011"
+        ]
+      },
+      {
+        "id": "2025080370533",
+        "event_id": "70533",
+        "start_time": "2025-08-03T08:00:03+09:00",
+        "end_time": "2025-08-03T08:25:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "社会福祉セミナー　認知症の人とともに「認知症をめぐる歴史と現在」",
+        "subtitle": "【出演】認知症介護研究・研修東京センター副センター長兼研究部長…永田久美子，【司会】河野多紀",
+        "content": "",
+        "act": "【出演】認知症介護研究・研修東京センター…永田久美子，【司会】河野多紀",
+        "genres": [
+          "1102",
+          "1100"
+        ]
+      },
+      {
+        "id": "2025080370534",
+        "event_id": "70534",
+        "start_time": "2025-08-03T08:25:00+09:00",
+        "end_time": "2025-08-03T08:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "音の風景「万博・音さんぽ～大阪～」",
+        "subtitle": "【初回放送】２０２５年７月１４日【語り】江原　啓一郎　▽２０２５年春に開幕した大阪・関西万博。世界の文化が交じり合う万博会場ならではの“音”をお楽しみください",
+        "content": "２０２５年、大阪で５５年ぶりに開催される国際博覧会「大阪・関西万博」。開幕を告げるファンファーレ、ゲートへ一気になだれ込む観客たちの様子。そして、広い会場のあちこちから聞こえてくる国際色豊かな民族音楽や未来を感じさせる音など、世界の文化が交じり合う熱気あふれる万博の“音”を臨場感たっぷりにお届けします。",
+        "act": "【語り】江原啓一郎",
+        "genres": [
+          "0807"
+        ]
+      },
+      {
+        "id": "2025080370535",
+        "event_id": "70535",
+        "start_time": "2025-08-03T08:30:00+09:00",
+        "end_time": "2025-08-03T09:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "宗教の時間　選　人はなぜ戦争をするのか　暴力の世界を問い直す",
+        "subtitle": "暴力と殺戮が続く現代、宗教学者・山折哲雄さんは「人はなぜ戦争をするのか」考える上で重要な往復書簡に出会った。宗教学者として自らの道のりを辿りながら検証してゆく。",
+        "content": "１９３２年に理論物理学者アインシュタインと精神分析学の巨匠フロイトが交わした往復書簡「人はなぜ戦争をするのか」。山折哲雄さんはこの書に出会い、大きな刺激を受けながらも両者に抜け落ちている視点があるのではないかと考える。それは当時、インドでイギリスからの独立運動を進めていたマハトマ・ガンディーの「非暴力」の思想。そこには現代に通じる平和への道しるべがありはしないか。自らの体験をひもときながら語る。",
+        "act": "【出演】宗教学者…山折哲雄，【きき手】鎌倉英也，【語り】守本奈実",
+        "genres": [
+          "0800",
+          "1011",
+          "1102"
+        ]
+      },
+      {
+        "id": "2025080370537",
+        "event_id": "70537",
+        "start_time": "2025-08-03T09:00:03+09:00",
+        "end_time": "2025-08-03T09:15:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "おしゃべりな古典教室「江戸の恋愛事情（１）」",
+        "subtitle": "木ノ下裕一，小野花梨",
+        "content": "今回と次回、古川柳や狂歌を手掛かりに、江戸時代の庶民の「恋愛事情」を探ります。今回は狂歌「わが恋は深草ならで浅草へ通い詰めたる少々の金」と「やる文の返事にくれし薩摩芋夜をふかしても忍び来よとや」を味わい、歌にこめた古典の引用や描かれた恋愛の「現代性」を見ていきます。また「愛、恋、色」という表現が江戸時代の人たちに意味するものはなにか、紹介します。（初回放送２０２４年１２月１４日）",
+        "act": "木ノ下裕一，小野花梨",
+        "genres": [
+          "0804"
+        ]
+      },
+      {
+        "id": "2025080370538",
+        "event_id": "70538",
+        "start_time": "2025-08-03T09:15:00+09:00",
+        "end_time": "2025-08-03T09:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "おしゃべりな古典教室「江戸の恋愛事情（２）」",
+        "subtitle": "木ノ下裕一，小野花梨",
+        "content": "「江戸の恋愛事情」２回目は川柳に描かれた恋愛模様を味わいます。「涼みたがるは虫付いた娘なり」という川柳からは「虫」とは何か理解するほか当時の江戸庶民の住宅事情について知っていきます。また「針箱を探すと女房とんで出る」からは「針箱」が意味することがわかります。川柳の作者は男性が多いからか男目線の作品が多く、今となっては伝わりにくい状況が多いことにも気づかされます。（初回放送２０２４年１２月１４日）",
+        "act": "木ノ下裕一，小野花梨",
+        "genres": [
+          "0804"
+        ]
+      },
+      {
+        "id": "2025080370539",
+        "event_id": "70539",
+        "start_time": "2025-08-03T09:30:00+09:00",
+        "end_time": "2025-08-03T10:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "カルチャーラジオ　科学と人間　池澤春菜のフェーズチェンジ　生物模倣技術（１）",
+        "subtitle": "生物模倣技術（１）面ファスナー　【出演】声優・作家・元日本ＳＦ作家クラブ会長…池澤春菜，浜松医科大学名誉教授…針山孝彦",
+        "content": "４回シリーズで「生物模倣技術」を取り上げます。サメ肌をまねて競泳用水着が作られ、カワセミのくちばしの形から新幹線のノーズが考え出されるなど、生物を模倣した製品が開発されています。「生物模倣技術」とは何か？面ファスナー開発秘話をドラマ化し、声優の池澤春菜さんが演じます。解説は浜松医科大学・名誉教授の針山孝彦さんです。３８億年もの時間をかけて、生物が獲得した形をいかにして生活に役立てるかを考えます。",
+        "act": "【出演】声優・作家・元日本ＳＦ作家クラブ会長…池澤春菜，浜松医科大学　名誉教授…針山孝彦",
+        "genres": [
+          "0804",
+          "0800",
+          "1011"
+        ]
+      },
+      {
+        "id": "2025080370541",
+        "event_id": "70541",
+        "start_time": "2025-08-03T10:00:03+09:00",
+        "end_time": "2025-08-03T11:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "日曜カルチャー　名優たちが紡いできた戦後　歌舞伎（４）三代目　市川猿之助",
+        "subtitle": "社会が大きく変わった戦後、伝統芸能・歌舞伎はどのように継承されてきたのか？戦後歌舞伎を代表する名優たちの芸や生き方を歌舞伎・文楽解説者の高木秀樹さんが伝えます。",
+        "content": "“反骨と革新”の家柄に生まれた三代目・市川猿之助さんは、「宙乗り」の復活やスーパー歌舞伎の創作など、革新的な芸で歌舞伎界を牽引してきました。初代から受け継がれる“進取の精神”を体現し、海外での演劇視察も積極的に行い、新作に取り入れてきました。今回は、三代目・猿之助さんの足跡とその革新性に迫ります。番組の最後には、『義経千本桜』川面法眼館の場（平成４年）の舞台音声を、解説付きでお届けします。",
+        "act": "【講師】文楽・歌舞伎解説者…高木秀樹",
+        "genres": [
+          "1011",
+          "1015"
+        ]
+      },
+      {
+        "id": "2025080370543",
+        "event_id": "70543",
+        "start_time": "2025-08-03T11:00:03+09:00",
+        "end_time": "2025-08-03T11:15:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "まいにち中国語　言いたいことを「完コピ」しよう！（４９）予約したいのですが。",
+        "subtitle": "第４９課　予約したいのですが。",
+        "content": "第４９課　予約したいのですが。",
+        "act": "【講師】早稲田大学講師…高木美鳥，【出演】呉志剛，劉セイラ",
+        "genres": [
+          "1007",
+          "1011",
+          "1010"
+        ]
+      },
+      {
+        "id": "2025080370544",
+        "event_id": "70544",
+        "start_time": "2025-08-03T11:15:00+09:00",
+        "end_time": "2025-08-03T11:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "まいにち中国語　言いたいことを「完コピ」しよう！（５０）",
+        "subtitle": "第５０課　メニューをちょっと見せてください。",
+        "content": "第５０課　メニューをちょっと見せてください。",
+        "act": "【講師】早稲田大学講師…高木美鳥，【出演】呉志剛，劉セイラ",
+        "genres": [
+          "1007",
+          "1011",
+          "1010"
+        ]
+      },
+      {
+        "id": "2025080370545",
+        "event_id": "70545",
+        "start_time": "2025-08-03T11:30:00+09:00",
+        "end_time": "2025-08-03T11:45:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "まいにち中国語　言いたいことを「完コピ」しよう！（５１）",
+        "subtitle": "第５１課　とりあえずビールを２本ください。",
+        "content": "第５１課　とりあえずビールを２本ください。",
+        "act": "【講師】早稲田大学講師…高木美鳥，【出演】呉志剛，劉セイラ",
+        "genres": [
+          "1007",
+          "1011",
+          "1010"
+        ]
+      },
+      {
+        "id": "2025080370546",
+        "event_id": "70546",
+        "start_time": "2025-08-03T11:45:00+09:00",
+        "end_time": "2025-08-03T12:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "まいにち中国語　言いたいことを「完コピ」しよう！（５２）",
+        "subtitle": "第５２課　わたしたちの友情に、乾杯！",
+        "content": "第５２課　わたしたちの友情に、乾杯！",
+        "act": "【講師】早稲田大学講師…高木美鳥，【出演】呉志剛，劉セイラ",
+        "genres": [
+          "1007",
+          "1011",
+          "1010"
+        ]
+      },
+      {
+        "id": "2025080370548",
+        "event_id": "70548",
+        "start_time": "2025-08-03T12:00:03+09:00",
+        "end_time": "2025-08-03T12:15:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "まいにち中国語　言いたいことを「完コピ」しよう！　８月第１週の復習",
+        "subtitle": "８月第１週の復習",
+        "content": "８月第１週の復習",
+        "act": "【講師】早稲田大学講師…高木美鳥，【出演】呉志剛，劉セイラ",
+        "genres": [
+          "1007",
+          "1011",
+          "1010"
+        ]
+      },
+      {
+        "id": "2025080370549",
+        "event_id": "70549",
+        "start_time": "2025-08-03T12:15:00+09:00",
+        "end_time": "2025-08-03T12:45:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "アラビア語講座　話そう！アラビア語（１７）",
+        "subtitle": "アラビア文字をやさしく紹介しながら、単語と表現を身につける講座です。",
+        "content": "【講師】慶應義塾大学講師…榮谷温子，【出演】イサム・ブカーリ，カリン・エルフェガーリ",
+        "act": "【講師】慶應義塾大学　講師…榮谷温子，【出演】イサム・ブカーリ，カリン・エルフェガーリ",
+        "genres": [
+          "1007",
+          "1011",
+          "1010"
+        ]
+      },
+      {
+        "id": "2025080370550",
+        "event_id": "70550",
+        "start_time": "2025-08-03T12:45:00+09:00",
+        "end_time": "2025-08-03T13:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ポルトガル語講座　入門　聴いて・覚えて・話してみよう！（１７）",
+        "subtitle": "声に出す練習をたくさんして、ポルトガル語の基礎的な文法や表現を身につけます。",
+        "content": "【講師】拓殖大学講師…中川ソニア，上智大学助教…宮入亮",
+        "act": "【講師】拓殖大学　講師…中川ソニア，上智大学　助教…宮入亮",
+        "genres": [
+          "1010",
+          "1007",
+          "1011"
+        ]
+      },
+      {
+        "id": "2025080370552",
+        "event_id": "70552",
+        "start_time": "2025-08-03T13:00:03+09:00",
+        "end_time": "2025-08-03T13:20:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "Ｌｉｖｉｎｇ　ｉｎ　Ｊａｐａｎ",
+        "subtitle": "在留外国人の皆さんに役立つ情報をお届けします。毎週日曜１３時００分～（週替わりで英語、中国語、ベトナム語、ポルトガル語）　再放送：翌土曜１３時００分～",
+        "content": "外国語を学ぶ日本人の皆さんも学習にご活用下さい！　番組ＭＣ　英語：スチュアート・オー（タレント／声優）、ルース・ジャーマン（コンサルティング会社ＣＥＯ）、ポルトガル語：エリカ・オカザキ（ジャーナリスト）ほか　※言語によって内容が異なります。",
+        "act": "",
+        "genres": [
+          "1007"
+        ]
+      },
+      {
+        "id": "2025080370553",
+        "event_id": "70553",
+        "start_time": "2025-08-03T13:20:00+09:00",
+        "end_time": "2025-08-03T13:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "やさしい日本語▽レッスン２６",
+        "subtitle": "【アナウンサー】小島エリ子，マイケル・リース",
+        "content": "",
+        "act": "【アナウンサー】小島エリ子，マイケル・リース",
+        "genres": [
+          "1007"
+        ]
+      },
+      {
+        "id": "2025080370554",
+        "event_id": "70554",
+        "start_time": "2025-08-03T13:30:00+09:00",
+        "end_time": "2025-08-03T13:40:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "小学生の基礎英語（４９）",
+        "subtitle": "【やりたい人！】",
+        "content": "【講師】拓殖大学言語教育研究科教授…居村啓子，【出演】サンシャイン池崎，カイル・カード",
+        "act": "【講師】拓殖大学　言語教育研究科　教授…居村啓子，【出演】サンシャイン池崎，カイル・カード",
+        "genres": [
+          "1008",
+          "1007",
+          "0502"
+        ]
+      },
+      {
+        "id": "2025080370555",
+        "event_id": "70555",
+        "start_time": "2025-08-03T13:40:00+09:00",
+        "end_time": "2025-08-03T13:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "小学生の基礎英語（５０）",
+        "subtitle": "【ぜひやりたいです】",
+        "content": "【講師】拓殖大学言語教育研究科教授…居村啓子，【出演】サンシャイン池崎，カイル・カード",
+        "act": "【講師】拓殖大学　言語教育研究科　教授…居村啓子，【出演】サンシャイン池崎，カイル・カード",
+        "genres": [
+          "1008",
+          "1007",
+          "0502"
+        ]
+      },
+      {
+        "id": "2025080370556",
+        "event_id": "70556",
+        "start_time": "2025-08-03T13:50:00+09:00",
+        "end_time": "2025-08-03T14:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "小学生の基礎英語（５１）",
+        "subtitle": "【子ども電話相談】",
+        "content": "【講師】拓殖大学言語教育研究科教授…居村啓子，【出演】サンシャイン池崎，花音，【ゲスト】歌手…ヤナ",
+        "act": "【講師】拓殖大学　言語教育研究科　教授…居村啓子，【出演】サンシャイン池崎，花音，【ゲスト】歌手…ヤナ",
+        "genres": [
+          "1008",
+          "1007",
+          "0502"
+        ]
+      },
+      {
+        "id": "2025080370558",
+        "event_id": "70558",
+        "start_time": "2025-08-03T14:00:03+09:00",
+        "end_time": "2025-08-03T14:10:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "Ａｓｉａｎ　Ｖｉｅｗ",
+        "subtitle": "日本とアジアの今がわかる英語ラジオニュース。ＮＨＫワールド　ＪＡＰＡＮの英語キャスター陣がテンポよく伝えます。英語学習にも役立ちます。",
+        "content": "日本とアジアの最新のニュースと深堀りインタビューなどをコンパクトにお伝えする英語ラジオニュース。英語を学ぶ日本人の皆さんも学習にご活用ください！５分版：毎週月～金２３：２０～２３：２５、週末１０分版：毎週土１４：００～１４：１０（再放送毎週日１４：００～１４：１０）",
+        "act": "",
+        "genres": [
+          "0005"
+        ]
+      },
+      {
+        "id": "2025080370559",
+        "event_id": "70559",
+        "start_time": "2025-08-03T14:10:00+09:00",
+        "end_time": "2025-08-03T14:15:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "みんなのうた「ラーメン地球号」／「愛を着て」",
+        "subtitle": "【２０年代】「ラーメン地球号」うた：広瀬香美（２０２４）／「愛を着て」うた：コレサワ（２０２１）",
+        "content": "「ラーメン地球号」作詞・作曲：広瀬香美／「愛を着て」作詞・作曲：コレサワ　編曲：渡辺シュンスケ（Ｓｃｈｒｏｅｄｅｒ－Ｈｅａｄｚ）",
+        "act": "【出演】広瀬香美，コレサワ",
+        "genres": [
+          "0400",
+          "0409",
+          "0504"
+        ]
+      },
+      {
+        "id": "2025080370560",
+        "event_id": "70560",
+        "start_time": "2025-08-03T14:15:00+09:00",
+        "end_time": "2025-08-03T14:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "まいにちハングル講座　あなたと語る１００のことば（８１）",
+        "subtitle": "フレーズ６７　要領が分かればチケッティングは難しくないです",
+        "content": "【講師】九州大学大学院准教授…辻野裕紀，【出演】イ・ユンジョン，イ・ドンホン",
+        "act": "【講師】九州大学大学院准教授…辻野裕紀，【出演】イ・ユンジョン，イ・ドンホン",
+        "genres": [
+          "1007",
+          "1011",
+          "1010"
+        ]
+      },
+      {
+        "id": "2025080370561",
+        "event_id": "70561",
+        "start_time": "2025-08-03T14:30:00+09:00",
+        "end_time": "2025-08-03T14:45:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "まいにちハングル講座　あなたと語る１００のことば（８２）",
+        "subtitle": "フレーズ６８　絶対忘れられないと思います",
+        "content": "【講師】九州大学大学院准教授…辻野裕紀，【出演】イ・ユンジョン，イ・ドンホン",
+        "act": "【講師】九州大学大学院准教授…辻野裕紀，【出演】イ・ユンジョン，イ・ドンホン",
+        "genres": [
+          "1007",
+          "1011",
+          "1010"
+        ]
+      },
+      {
+        "id": "2025080370562",
+        "event_id": "70562",
+        "start_time": "2025-08-03T14:45:00+09:00",
+        "end_time": "2025-08-03T15:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "まいにちハングル講座　あなたと語る１００のことば（８３）",
+        "subtitle": "フレーズ６９　どうしてフランス語を勉強するようになったのですか？",
+        "content": "【講師】九州大学大学院准教授…辻野裕紀，【出演】イ・ユンジョン，イ・ドンホン",
+        "act": "【講師】九州大学大学院准教授…辻野裕紀，【出演】イ・ユンジョン，イ・ドンホン",
+        "genres": [
+          "1007",
+          "1011",
+          "1010"
+        ]
+      },
+      {
+        "id": "2025080370564",
+        "event_id": "70564",
+        "start_time": "2025-08-03T15:00:03+09:00",
+        "end_time": "2025-08-03T15:15:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "まいにちハングル講座　あなたと語る１００のことば（８４）",
+        "subtitle": "フレーズ７０　今がチャンスなのでひとつご購入ください",
+        "content": "【講師】九州大学大学院准教授…辻野裕紀，【出演】イ・ユンジョン，イ・ドンホン",
+        "act": "【講師】九州大学大学院准教授…辻野裕紀，【出演】イ・ユンジョン，イ・ドンホン",
+        "genres": [
+          "1007",
+          "1011",
+          "1010"
+        ]
+      },
+      {
+        "id": "2025080370565",
+        "event_id": "70565",
+        "start_time": "2025-08-03T15:15:00+09:00",
+        "end_time": "2025-08-03T15:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "まいにちハングル講座　あなたと語る１００のことば（８５）",
+        "subtitle": "今週の復習",
+        "content": "【講師】九州大学大学院准教授…辻野裕紀，【出演】イ・ユンジョン，イ・ドンホン",
+        "act": "【講師】九州大学大学院准教授…辻野裕紀，【出演】イ・ユンジョン，イ・ドンホン",
+        "genres": [
+          "1007",
+          "1011",
+          "1010"
+        ]
+      },
+      {
+        "id": "2025080370566",
+        "event_id": "70566",
+        "start_time": "2025-08-03T15:30:00+09:00",
+        "end_time": "2025-08-03T15:40:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "中国語ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370567",
+        "event_id": "70567",
+        "start_time": "2025-08-03T15:40:00+09:00",
+        "end_time": "2025-08-03T15:45:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "音の風景「世界自然遺産　小笠原の旅　海編～東京～」",
+        "subtitle": "【２０１２年７月２８日初回放送のアーカイブ】【語り】阿部陽子　▽東京都小笠原諸島、母島の美しく澄んだ海辺の音風景。",
+        "content": "世界自然遺産・小笠原諸島。竹芝桟橋から遠く長い船旅の終着地、母島。美しい海にはサンゴ礁が見られ、熱帯魚が泳ぎます。丸い石で覆われた浜に打ち寄せる波の音。母島ならではの海の響きです。",
+        "act": "【語り】阿部陽子",
+        "genres": [
+          "0807"
+        ]
+      },
+      {
+        "id": "2025080370568",
+        "event_id": "70568",
+        "start_time": "2025-08-03T15:45:00+09:00",
+        "end_time": "2025-08-03T15:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ハングルニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370569",
+        "event_id": "70569",
+        "start_time": "2025-08-03T15:55:00+09:00",
+        "end_time": "2025-08-03T16:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "名曲の小箱「サウンド・オブ・ミュージックから」",
+        "subtitle": "",
+        "content": "　リチャード・ロジャーズ作曲、栗山和樹・編曲　オスカー・ハマースタイン２世・作詞　（４分５７秒）　（ソプラノ）森麻季　（合唱）二期会合唱団　（管弦楽）東京フィルハーモニー交響楽団　（指揮）円光寺雅彦",
+        "act": "森麻季，二期会合唱団，円光寺雅彦，東京フィルハーモニー交響楽団",
+        "genres": [
+          "0402"
+        ]
+      },
+      {
+        "id": "2025080370571",
+        "event_id": "70571",
+        "start_time": "2025-08-03T16:00:03+09:00",
+        "end_time": "2025-08-03T16:20:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "気象通報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0001"
+        ]
+      },
+      {
+        "id": "2025080370572",
+        "event_id": "70572",
+        "start_time": "2025-08-03T16:20:00+09:00",
+        "end_time": "2025-08-03T16:25:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "音の風景「ねぶた、光と音の祭り～青森～」",
+        "subtitle": "【２０１６年９月３日初回放送のアーカイブ】【語り】中川緑　▽青森ねぶた祭りの音の風景。光と音と人々の熱気が夏の夜を彩ります。",
+        "content": "武者たちを威勢良く描いた大型の灯籠山車。独特のお囃子とかけ声。光と音と人々の熱気が、夏の夜の青森の街にとどろきます。",
+        "act": "【語り】中川緑",
+        "genres": [
+          "0807"
+        ]
+      },
+      {
+        "id": "2025080370573",
+        "event_id": "70573",
+        "start_time": "2025-08-03T16:25:00+09:00",
+        "end_time": "2025-08-03T16:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "みんなのうた「タン・タン・タン」／「ｍｏｏｎｆｅｓｔａ」",
+        "subtitle": "【１０年代】「タン・タン・タン」うた：ワタナベフラワー＆ゆーゆ（２０１３）／「ｍｏｏｎｆｅｓｔａ　～ムーンフェスタ～」うた：Ｋａｌａｆｉｎａ（２０１２）",
+        "content": "「タン・タン・タン」作詞・作曲：イクロー　編曲：ワタナベフラワー／「ｍｏｏｎｆｅｓｔａ　～ムーンフェスタ～」作詞・作曲・編曲：梶浦由記",
+        "act": "【出演】ワタナベフラワー，Ｋａｌａｆｉｎａ",
+        "genres": [
+          "0400",
+          "0409",
+          "0504"
+        ]
+      },
+      {
+        "id": "2025080370574",
+        "event_id": "70574",
+        "start_time": "2025-08-03T16:30:00+09:00",
+        "end_time": "2025-08-03T16:45:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ラジオ英会話　ハートでつかめ！英語の極意（８１）",
+        "subtitle": "【講師】東洋学園大学教授…大西泰斗，【出演】デイビット・エバンス，秋乃ろーざ",
+        "content": "",
+        "act": "【講師】東洋学園大学教授…大西泰斗，【出演】デイビット・エバンス，秋乃ろーざ",
+        "genres": [
+          "1009",
+          "1010",
+          "1011"
+        ]
+      },
+      {
+        "id": "2025080370575",
+        "event_id": "70575",
+        "start_time": "2025-08-03T16:45:00+09:00",
+        "end_time": "2025-08-03T17:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ラジオ英会話　ハートでつかめ！英語の極意（８２）",
+        "subtitle": "【講師】東洋学園大学教授…大西泰斗，【出演】デイビット・エバンス，秋乃ろーざ",
+        "content": "",
+        "act": "【講師】東洋学園大学教授…大西泰斗，【出演】デイビット・エバンス，秋乃ろーざ",
+        "genres": [
+          "1009",
+          "1010",
+          "1011"
+        ]
+      },
+      {
+        "id": "2025080370577",
+        "event_id": "70577",
+        "start_time": "2025-08-03T17:00:03+09:00",
+        "end_time": "2025-08-03T17:15:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ラジオ英会話　ハートでつかめ！英語の極意（８３）",
+        "subtitle": "【講師】東洋学園大学教授…大西泰斗，【出演】デイビット・エバンス，秋乃ろーざ",
+        "content": "",
+        "act": "【講師】東洋学園大学教授…大西泰斗，【出演】デイビット・エバンス，秋乃ろーざ",
+        "genres": [
+          "1009",
+          "1010",
+          "1011"
+        ]
+      },
+      {
+        "id": "2025080370578",
+        "event_id": "70578",
+        "start_time": "2025-08-03T17:15:00+09:00",
+        "end_time": "2025-08-03T17:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ラジオ英会話　ハートでつかめ！英語の極意（８４）",
+        "subtitle": "【講師】東洋学園大学教授…大西泰斗，【出演】デイビット・エバンス，秋乃ろーざ",
+        "content": "",
+        "act": "【講師】東洋学園大学教授…大西泰斗，【出演】デイビット・エバンス，秋乃ろーざ",
+        "genres": [
+          "1009",
+          "1010",
+          "1011"
+        ]
+      },
+      {
+        "id": "2025080370579",
+        "event_id": "70579",
+        "start_time": "2025-08-03T17:30:00+09:00",
+        "end_time": "2025-08-03T17:45:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ラジオ英会話　ハートでつかめ！英語の極意（８５）",
+        "subtitle": "【講師】東洋学園大学教授…大西泰斗，【出演】デイビット・エバンス，秋乃ろーざ",
+        "content": "",
+        "act": "【講師】東洋学園大学教授…大西泰斗，【出演】デイビット・エバンス，秋乃ろーざ",
+        "genres": [
+          "1009",
+          "1010",
+          "1011"
+        ]
+      },
+      {
+        "id": "2025080370580",
+        "event_id": "70580",
+        "start_time": "2025-08-03T17:45:00+09:00",
+        "end_time": "2025-08-03T18:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "アナウンサー百年百話　ラジオが伝えた戦争　第１回「ラジオ太郎」と戦意高揚の時代",
+        "subtitle": "女性や子どもたちの戦意高揚のために「ラジオ太郎」として日々の放送で語りかけたアナウンサー。巧みな放送テクニックで戦争への意識を高めていく姿があった。",
+        "content": "１９４１年９月、太平洋戦争が始まる３か月前に「ラジオ太郎」は始まった。番組と番組の間の宣伝枠で日々の生活で節約することや戦地に赴く人たちへの応援の思いを親しみやすい言葉で語りかけた。ラジオ太郎はウイットに富んだ教養ある紳士というキャラクターで、聴取者に身近に感じてもらおうと生み出されたた。人々の心を戦争に向かわせるために様々な工夫が詰め込まれた番組をもとに放送が戦意高揚に使われた時代を見つめる。",
+        "act": "齋藤孝，小林千恵，後藤理",
+        "genres": [
+          "0804",
+          "0200"
+        ]
+      },
+      {
+        "id": "2025080370582",
+        "event_id": "70582",
+        "start_time": "2025-08-03T18:00:03+09:00",
+        "end_time": "2025-08-03T18:15:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "おしゃべりな古典教室「江戸の恋愛事情（１）」",
+        "subtitle": "木ノ下裕一，小野花梨",
+        "content": "今回と次回、古川柳や狂歌を手掛かりに、江戸時代の庶民の「恋愛事情」を探ります。今回は狂歌「わが恋は深草ならで浅草へ通い詰めたる少々の金」と「やる文の返事にくれし薩摩芋夜をふかしても忍び来よとや」を味わい、歌にこめた古典の引用や描かれた恋愛の「現代性」を見ていきます。また「愛、恋、色」という表現が江戸時代の人たちに意味するものはなにか、紹介します。（初回放送２０２４年１２月１４日）",
+        "act": "木ノ下裕一，小野花梨",
+        "genres": [
+          "0804"
+        ]
+      },
+      {
+        "id": "2025080370583",
+        "event_id": "70583",
+        "start_time": "2025-08-03T18:15:00+09:00",
+        "end_time": "2025-08-03T18:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "おしゃべりな古典教室「江戸の恋愛事情（２）」",
+        "subtitle": "木ノ下裕一，小野花梨",
+        "content": "「江戸の恋愛事情」２回目は川柳に描かれた恋愛模様を味わいます。「涼みたがるは虫付いた娘なり」という川柳からは「虫」とは何か理解するほか当時の江戸庶民の住宅事情について知っていきます。また「針箱を探すと女房とんで出る」からは「針箱」が意味することがわかります。川柳の作者は男性が多いからか男目線の作品が多く、今となっては伝わりにくい状況が多いことにも気づかされます。（初回放送２０２４年１２月１４日）",
+        "act": "木ノ下裕一，小野花梨",
+        "genres": [
+          "0804"
+        ]
+      },
+      {
+        "id": "2025080370584",
+        "event_id": "70584",
+        "start_time": "2025-08-03T18:30:00+09:00",
+        "end_time": "2025-08-03T19:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "宗教の時間　私のイエス研究　後編",
+        "subtitle": "新約聖書学者の大貫隆さんは、キリスト教からは異端とされる「グノーシス主義」なども手がかりに、新しいイエス像を探求してきた。その研究の歩みに迫る２回シリーズの後編",
+        "content": "大貫隆さんは東京大学大学院とミュンヘン大学大学院で学んだ新約聖書学者。キリスト教からは異端とされる「グノーシス主義」と呼ばれる宗教思想なども手がかりに、ヨハネ福音書の研究を始め、幅広い視野から新しいイエス像を探求してきた。２回シリーズの後編は、イエスが到来を説いた神の国について、イエス自身がいかなるイメージを持っていたかをうかがう。アンコール放送。【出演　新約聖書学者・東京大学名誉教授　大貫隆】",
+        "act": "【出演】東京大学名誉教授…大貫隆，【きき手】鈴木健次",
+        "genres": [
+          "0800",
+          "1011",
+          "1102"
+        ]
+      },
+      {
+        "id": "2025080370586",
+        "event_id": "70586",
+        "start_time": "2025-08-03T19:00:03+09:00",
+        "end_time": "2025-08-03T19:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "放送１００年　保阪正康が語る昭和人物史　下村宏　第１回",
+        "subtitle": "「戦争秘話」ラジオ第２、１９５２年２月１９日",
+        "content": "元情報局総裁の下村宏は明治８年、和歌山県に生まれ、東京帝国大学を卒業後、逓信省に入省。その後、朝日新聞・副社長や日本放送協会で会長などをした後、昭和２０年に情報局総裁に就任。昭和２７年２月にラジオ第２で放送された「戦争秘話」では、終戦間際のことを振り返っています。８月１３日の夜の閣議がまとまらず、聖壇を仰ぐまでの経緯。翌１４日の午前に開かれた御前会議の様子など、終戦直前の緊迫の話を語っています。",
+        "act": "【出演】ノンフィクション作家・評論家…保阪正康，ノンフィクション作家…梯久美子",
+        "genres": [
+          "0801",
+          "1011"
+        ]
+      },
+      {
+        "id": "2025080370587",
+        "event_id": "70587",
+        "start_time": "2025-08-03T19:30:00+09:00",
+        "end_time": "2025-08-03T20:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "視覚障害ナビ・ラジオ　リンク・スクエア　＃６１",
+        "subtitle": "【出演】バイオリニスト…穴澤雄介，和太鼓奏者…富田安紀子",
+        "content": "",
+        "act": "【出演】バイオリニスト…穴澤雄介，【出演】和太鼓奏者…富田安紀子",
+        "genres": [
+          "1101",
+          "0800",
+          "1011"
+        ]
+      },
+      {
+        "id": "2025080370589",
+        "event_id": "70589",
+        "start_time": "2025-08-03T20:00:03+09:00",
+        "end_time": "2025-08-03T21:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "日曜カルチャー“怪異”の民俗学～妖怪・俗信・怪談～（１）もし妖怪に出会ったら",
+        "subtitle": "【出演】国立歴史民俗博物館名誉教授・総合研…常光徹",
+        "content": "",
+        "act": "【出演】国立歴史民俗博物館　名誉教授・総合研…常光徹",
+        "genres": [
+          "1011",
+          "1015"
+        ]
+      },
+      {
+        "id": "2025080370591",
+        "event_id": "70591",
+        "start_time": "2025-08-03T21:00:03+09:00",
+        "end_time": "2025-08-03T21:10:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "小学生の基礎英語（４９）",
+        "subtitle": "【やりたい人！】",
+        "content": "【講師】拓殖大学言語教育研究科教授…居村啓子，【出演】サンシャイン池崎，カイル・カード",
+        "act": "【講師】拓殖大学　言語教育研究科　教授…居村啓子，【出演】サンシャイン池崎，カイル・カード",
+        "genres": [
+          "1008",
+          "1007",
+          "0502"
+        ]
+      },
+      {
+        "id": "2025080370592",
+        "event_id": "70592",
+        "start_time": "2025-08-03T21:10:00+09:00",
+        "end_time": "2025-08-03T21:20:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "小学生の基礎英語（５０）",
+        "subtitle": "【ぜひやりたいです】",
+        "content": "【講師】拓殖大学言語教育研究科教授…居村啓子，【出演】サンシャイン池崎，カイル・カード",
+        "act": "【講師】拓殖大学　言語教育研究科　教授…居村啓子，【出演】サンシャイン池崎，カイル・カード",
+        "genres": [
+          "1008",
+          "1007",
+          "0502"
+        ]
+      },
+      {
+        "id": "2025080370593",
+        "event_id": "70593",
+        "start_time": "2025-08-03T21:20:00+09:00",
+        "end_time": "2025-08-03T21:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "小学生の基礎英語（５１）",
+        "subtitle": "【子ども電話相談】",
+        "content": "【講師】拓殖大学言語教育研究科教授…居村啓子，【出演】サンシャイン池崎，花音，【ゲスト】歌手…ヤナ",
+        "act": "【講師】拓殖大学　言語教育研究科　教授…居村啓子，【出演】サンシャイン池崎，花音，【ゲスト】歌手…ヤナ",
+        "genres": [
+          "1008",
+          "1007",
+          "0502"
+        ]
+      },
+      {
+        "id": "2025080370594",
+        "event_id": "70594",
+        "start_time": "2025-08-03T21:30:00+09:00",
+        "end_time": "2025-08-03T21:35:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "エンジョイ・シンプル・イングリッシュ「スペイン　ラ・トマティーナ」",
+        "subtitle": "【司会】森崎ウィン",
+        "content": "",
+        "act": "【司会】森崎ウィン",
+        "genres": [
+          "1007",
+          "1009",
+          "1011"
+        ]
+      },
+      {
+        "id": "2025080370595",
+        "event_id": "70595",
+        "start_time": "2025-08-03T21:35:00+09:00",
+        "end_time": "2025-08-03T21:40:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "エンジョイ・シンプル・イングリッシュ「激辛ラーメン」",
+        "subtitle": "【司会】森崎ウィン",
+        "content": "",
+        "act": "【司会】森崎ウィン",
+        "genres": [
+          "1007",
+          "1009",
+          "1011"
+        ]
+      },
+      {
+        "id": "2025080370596",
+        "event_id": "70596",
+        "start_time": "2025-08-03T21:40:00+09:00",
+        "end_time": "2025-08-03T21:45:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "エンジョイ・シンプル・イングリッシュ「４００年前の財宝を探せ」",
+        "subtitle": "【司会】森崎ウィン",
+        "content": "",
+        "act": "【司会】森崎ウィン",
+        "genres": [
+          "1007",
+          "1009",
+          "1011"
+        ]
+      },
+      {
+        "id": "2025080370597",
+        "event_id": "70597",
+        "start_time": "2025-08-03T21:45:00+09:00",
+        "end_time": "2025-08-03T21:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "エンジョイ・シンプル・イングリッシュ「将来の夢を決めないといけないの？」",
+        "subtitle": "【司会】森崎ウィン",
+        "content": "",
+        "act": "【司会】森崎ウィン",
+        "genres": [
+          "1007",
+          "1009",
+          "1011"
+        ]
+      },
+      {
+        "id": "2025080370598",
+        "event_id": "70598",
+        "start_time": "2025-08-03T21:50:00+09:00",
+        "end_time": "2025-08-03T21:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "エンジョイ・シンプル・イングリッシュ「おかめのはなし　前編」",
+        "subtitle": "【司会】森崎ウィン",
+        "content": "",
+        "act": "【司会】森崎ウィン",
+        "genres": [
+          "1007",
+          "1009",
+          "1011"
+        ]
+      },
+      {
+        "id": "2025080370599",
+        "event_id": "70599",
+        "start_time": "2025-08-03T21:55:00+09:00",
+        "end_time": "2025-08-03T22:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "音の風景「ローイング　水をつかんで　強く、大きく～長崎～」",
+        "subtitle": "【２０２３年１２月４日初回放送のアーカイブ】【語り】中條誠子　▽長崎県諫早市・本明川。“究極の団体競技”とも呼ばれるボート競技・ローイングの練習風景です。",
+        "content": "一糸乱れぬオールさばきで水上を進むボート競技・ローイング。長崎県諫早市にある本明川で大会に向けた最後の練習を行う高校生女子チームを取材しました。“究極の団体競技”と呼ばれるその魅力を音でお届けします。",
+        "act": "【語り】中條誠子",
+        "genres": [
+          "0807"
+        ]
+      },
+      {
+        "id": "2025080370601",
+        "event_id": "70601",
+        "start_time": "2025-08-03T22:00:03+09:00",
+        "end_time": "2025-08-03T22:15:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュースで学ぶ「現代英語」　トランプ大統領　対ロ姿勢を転換",
+        "subtitle": "「現代英語」とは、世界で実際に使われている英語です。最新の英語ニュースを通して、生きた英語を身につけます。講師：伊藤サム　パートナー：クリスティ・ウェスト",
+        "content": "「現代英語」とは、世界で実際に使われている英語です。ＮＨＫワールドＪＡＰＡＮの英語ニュースを教材に、「現代の世界で実際に使われている英語」をよりよく理解できるようになっていただく、そして英語で発信できるようになっていただくための総合講座です。▽講師・総合監修：伊藤サム　パートナー：クリスティ・ウェスト▽ウエブサイトから皆さんの質問や番組活用法をお寄せください！",
+        "act": "【講師】伊藤サム，【出演】クリスティ・ウェスト",
+        "genres": [
+          "1007",
+          "1011",
+          "1010"
+        ]
+      },
+      {
+        "id": "2025080370602",
+        "event_id": "70602",
+        "start_time": "2025-08-03T22:15:00+09:00",
+        "end_time": "2025-08-03T22:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュースで学ぶ「現代英語」　ウィンブルドン車いすテニス　小田凱人が優勝",
+        "subtitle": "「現代英語」とは、世界で実際に使われている英語です。最新の英語ニュースを通して、生きた英語を身につけます。講師：伊藤サム　パートナー：クリスティ・ウェスト",
+        "content": "「現代英語」とは、世界で実際に使われている英語です。ＮＨＫワールドＪＡＰＡＮの英語ニュースを教材に、「現代の世界で実際に使われている英語」をよりよく理解できるようになっていただく、そして英語で発信できるようになっていただくための総合講座です。▽講師・総合監修：伊藤サム　パートナー：クリスティ・ウェスト▽ウエブサイトから皆さんの質問や番組活用法をお寄せください！",
+        "act": "【講師】伊藤サム，【出演】クリスティ・ウェスト",
+        "genres": [
+          "1007",
+          "1011",
+          "1010"
+        ]
+      },
+      {
+        "id": "2025080370603",
+        "event_id": "70603",
+        "start_time": "2025-08-03T22:30:00+09:00",
+        "end_time": "2025-08-03T22:45:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュースで学ぶ「現代英語」　航空機バードストライク　“最も危険な鳥”急増",
+        "subtitle": "ニュースや研究の現場で活躍している専門家が、「実際に現場で使っている英語」をニュースの背景とともに解説します。ＭＣ：トラウデン直美　講師：大島希巳江",
+        "content": "ＮＨＫワールドＪＡＰＡＮの英語ニュースを教材に、ニュースや研究の現場で活躍している専門家が、「実際に現場で使っている英語」をニュースの背景とともに解説します。「生きた英語『現代英語』もニュースもまるっと学べる」番組内容です。▽ＭＣ：トラウデン直美　講師：大島希巳江（神奈川大学教授）　パートナー：トム・ケイン▽ウエブサイトから皆さんの質問や番組活用法をお寄せください！",
+        "act": "【司会】トラウデン直美，【出演】トム・ケイン，大島希巳江",
+        "genres": [
+          "1007",
+          "1011",
+          "1010"
+        ]
+      },
+      {
+        "id": "2025080370604",
+        "event_id": "70604",
+        "start_time": "2025-08-03T22:45:00+09:00",
+        "end_time": "2025-08-03T23:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュースで学ぶ「現代英語」　生成ＡＩの個人利用　米中と比べ低水準",
+        "subtitle": "ニュースや研究の現場で活躍している専門家が、「実際に現場で使っている英語」をニュースの背景とともに解説します。ＭＣ：トラウデン直美　講師：大島希巳江",
+        "content": "ＮＨＫワールドＪＡＰＡＮの英語ニュースを教材に、ニュースや研究の現場で活躍している専門家が、「実際に現場で使っている英語」をニュースの背景とともに解説します。「生きた英語『現代英語』もニュースもまるっと学べる」番組内容です。▽ＭＣ：トラウデン直美　講師：大島希巳江（神奈川大学教授）　パートナー：トム・ケイン▽ウエブサイトから皆さんの質問や番組活用法をお寄せください！",
+        "act": "【司会】トラウデン直美，【出演】トム・ケイン，大島希巳江",
+        "genres": [
+          "1007",
+          "1011",
+          "1010"
+        ]
+      },
+      {
+        "id": "2025080370606",
+        "event_id": "70606",
+        "start_time": "2025-08-03T23:00:03+09:00",
+        "end_time": "2025-08-03T23:15:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュースで学ぶ「現代英語」　今週のスピーキング練習",
+        "subtitle": "ニュースや研究の現場で活躍している専門家が、スピーキングやディスカッションで使える語句・フレーズを、解説します。ＭＣ：トラウデン直美　講師：大島希巳江",
+        "content": "ニュースや研究の現場で活躍している専門家が、ニュースの中で出てきた「スピーキングで使える語句・フレーズ」を解説し、リスナーのみなさんといっしょに練習します。ディスカッションや現場で英語が話せるようになるのが目標です。▽ＭＣ：トラウデン直美　講師：大島希巳江（神奈川大学教授）　パートナー：トム・ケイン▽ウエブサイトから皆さんの質問や番組活用法をお寄せください！",
+        "act": "【司会】トラウデン直美，【出演】トム・ケイン，大島希巳江",
+        "genres": [
+          "1007",
+          "1011",
+          "1010"
+        ]
+      },
+      {
+        "id": "2025080370607",
+        "event_id": "70607",
+        "start_time": "2025-08-03T23:15:00+09:00",
+        "end_time": "2025-08-03T23:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ポルトガル語講座　入門　聴いて・覚えて・話してみよう！（１７）",
+        "subtitle": "声に出す練習をたくさんして、ポルトガル語の基礎的な文法や表現を身につけます。",
+        "content": "【講師】拓殖大学講師…中川ソニア，上智大学助教…宮入亮",
+        "act": "【講師】拓殖大学　講師…中川ソニア，上智大学　助教…宮入亮",
+        "genres": [
+          "1010",
+          "1007",
+          "1011"
+        ]
+      },
+      {
+        "id": "2025080370608",
+        "event_id": "70608",
+        "start_time": "2025-08-03T23:30:00+09:00",
+        "end_time": "2025-08-04T00:00:08+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "アラビア語講座　話そう！アラビア語（１７）",
+        "subtitle": "アラビア文字をやさしく紹介しながら、単語と表現を身につける講座です。",
+        "content": "【講師】慶應義塾大学講師…榮谷温子，【出演】イサム・ブカーリ，カリン・エルフェガーリ",
+        "act": "【講師】慶應義塾大学　講師…榮谷温子，【出演】イサム・ブカーリ，カリン・エルフェガーリ",
+        "genres": [
+          "1007",
+          "1011",
+          "1010"
+        ]
+      }
+    ],
+    "r3": [
+      {
+        "id": "2025080370439",
+        "event_id": "70439",
+        "start_time": "2025-08-03T04:05:00+09:00",
+        "end_time": "2025-08-03T05:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ラジオ深夜便▽インタビュー　▽もっと、べらぼう",
+        "subtitle": "▽インタビュー　▽もっと、べらぼう",
+        "content": "▽インタビュー「南アフリカで、人と自然をつなぐ」　南アフリカ政府公認サファリガイド　太田ゆか　▽もっと、べらぼう　薩摩琵琶奏者　　友吉鶴心　▽誕生日の花・番組予告",
+        "act": "【アンカー】後藤繁榮，【出演】南アフリカ政府公認サファリガイド…太田ゆか，【出演】薩摩琵琶奏者…友吉鶴心，【きき手】池田ちひろ",
+        "genres": [
+          "0202",
+          "0415",
+          "0804"
+        ]
+      },
+      {
+        "id": "2025080370615",
+        "event_id": "70615",
+        "start_time": "2025-08-03T05:00:03+09:00",
+        "end_time": "2025-08-03T05:35:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "リサイタル・パッシオ　山際きみ佳（メゾ・ソプラノ）",
+        "subtitle": "歌劇「フィガロの結婚」から「自分で自分がわからない」（モーツァルト）、歌劇「セビリアの理髪師」から「今の歌声は」（ロッシーニ）ほか",
+        "content": "曲目：歌劇「フィガロの結婚」から「自分で自分がわからない」（モーツァルト）、歌劇「セビリアの理髪師」から「今の歌声は」（ロッシーニ）ほか　メゾ・ソプラノ：山際きみ佳　愛知県立芸術大学大学院修了。Ｄ・バルチェッローナ氏に師事。トリエステ・ヴェルディ歌劇場「ボリス・ゴドノフ」にてイタリアデビュー。同歌劇場「セビリアの理髪師」出演。びわ湖ホール声楽アンサンブル・ソロ登録メンバー。ピアノ：越知晴子",
+        "act": "【出演】メゾ・ソプラノ歌手…山際きみ佳，【出演】ピアニスト…越知晴子，【司会】金子三勇士",
+        "genres": [
+          "0402",
+          "0405"
+        ]
+      },
+      {
+        "id": "2025080370616",
+        "event_id": "70616",
+        "start_time": "2025-08-03T05:35:00+09:00",
+        "end_time": "2025-08-03T05:40:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "音の風景「初夏の秩父を行く～埼玉～」",
+        "subtitle": "【初回放送】２０２５年６月３０日【語り】荒木　さくら▽深緑の秩父に響く、生き生きとした夏の始まり。生き物とＳＬの汽笛が溶け合う、いろどり豊かな５分をお届けします",
+        "content": "深緑の季節。みずみずしい里山では、生き物の声とＳＬの汽笛が呼応しています。埼玉県、秩父。東京都心から二時間足らずの山間には、自然と人が織り成す豊かな響きがありました。晴天の賑わいから暗闇の静けさまで。秩父に芽吹く、生き生きとした夏の始まりを聴きます。",
+        "act": "【語り】荒木さくら",
+        "genres": [
+          "0807"
+        ]
+      },
+      {
+        "id": "2025080370617",
+        "event_id": "70617",
+        "start_time": "2025-08-03T05:40:00+09:00",
+        "end_time": "2025-08-03T05:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "名曲スケッチ「ハンガリー行進曲」　「ハンガリー舞曲　第５番、第６番」",
+        "subtitle": "",
+        "content": "　ブラームス作曲、シュメリング編曲　（管弦楽）ＮＨＫ交響楽団　（指揮）外山雄三",
+        "act": "十束尚宏，外山雄三",
+        "genres": [
+          "0402"
+        ]
+      },
+      {
+        "id": "2025080370618",
+        "event_id": "70618",
+        "start_time": "2025-08-03T05:50:00+09:00",
+        "end_time": "2025-08-03T05:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "みんなのうた「五匹のこぶたとチャールストン」／「進め！しんじ君」",
+        "subtitle": "【６０－７０年代（１）】「五匹のこぶたとチャールストン」うた：東京放送児童合唱団（１９６４）／「進め！しんじ君」うた：芹洋子（１９７９）",
+        "content": "「五匹のこぶたとチャールストン」作詞・作曲：Ｆ．モーガン　Ｎ．マルキン　訳詞：漣健児　編曲越部信義／「進め！しんじ君」作詞・作曲：時崎久夫　編曲：若松正司",
+        "act": "",
+        "genres": [
+          "0400",
+          "0409",
+          "0504"
+        ]
+      },
+      {
+        "id": "2025080370442",
+        "event_id": "70442",
+        "start_time": "2025-08-03T05:55:00+09:00",
+        "end_time": "2025-08-03T06:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "気象情報（関東甲信越）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370620",
+        "event_id": "70620",
+        "start_time": "2025-08-03T06:00:03+09:00",
+        "end_time": "2025-08-03T06:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "江﨑文武のＢｏｒｄｅｒｌｅｓｓ　Ｍｕｓｉｃ　Ｄｉｇ！「ＲＯＳＥ」をＤｉｇ！",
+        "subtitle": "江﨑文武",
+        "content": "今回はヒット曲を出発点にその影響やルーツをたどる「Ｈｉｔ　Ｍｕｓｉｃ　Ｄｉｇ！」。オーディションから誕生したガールズグループＨＡＮＡの「ＲＯＳＥ」をＤｉｇっていきます。デビュー曲にして異例のチャート１位をマークした「ＲＯＳＥ］の背景に潜むさまざまな音楽的な要素や文脈を探っていきます。",
+        "act": "江﨑文武",
+        "genres": [
+          "0400",
+          "0401",
+          "1002"
+        ]
+      },
+      {
+        "id": "2025080370621",
+        "event_id": "70621",
+        "start_time": "2025-08-03T06:50:00+09:00",
+        "end_time": "2025-08-03T06:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "みんなのうた「キラキラミライ」／「万有引力」",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0400",
+          "0409",
+          "0504"
+        ]
+      },
+      {
+        "id": "2025080370448",
+        "event_id": "70448",
+        "start_time": "2025-08-03T06:55:00+09:00",
+        "end_time": "2025-08-03T07:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "気象情報・交通情報（関東甲信越）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370450",
+        "event_id": "70450",
+        "start_time": "2025-08-03T07:00:03+09:00",
+        "end_time": "2025-08-03T07:15:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "マイあさ！　▽ＮＨＫけさのニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000",
+          "0202",
+          "0100"
+        ]
+      },
+      {
+        "id": "2025080370451",
+        "event_id": "70451",
+        "start_time": "2025-08-03T07:15:00+09:00",
+        "end_time": "2025-08-03T07:20:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報（関東甲信越）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370623",
+        "event_id": "70623",
+        "start_time": "2025-08-03T07:20:00+09:00",
+        "end_time": "2025-08-03T08:10:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ビバ！合唱",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0402",
+          "0410",
+          "1002"
+        ]
+      },
+      {
+        "id": "2025080370624",
+        "event_id": "70624",
+        "start_time": "2025-08-03T08:10:00+09:00",
+        "end_time": "2025-08-03T09:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "現代の音楽",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0402"
+        ]
+      },
+      {
+        "id": "2025080370626",
+        "event_id": "70626",
+        "start_time": "2025-08-03T09:00:03+09:00",
+        "end_time": "2025-08-03T10:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "名演奏ライブラリー　ブラジルの名チェリスト　アントニオ・メネセス",
+        "subtitle": "",
+        "content": "",
+        "act": "【ご案内】音楽評論家…満津岡信育",
+        "genres": [
+          "0402"
+        ]
+      },
+      {
+        "id": "2025080370627",
+        "event_id": "70627",
+        "start_time": "2025-08-03T10:55:00+09:00",
+        "end_time": "2025-08-03T11:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "みんなのうた「しっぽのきもち」／「ドン・キホーテ」",
+        "subtitle": "【８０年代】「しっぽのきもち」うた：谷山浩子（１９８６）／「ドン・キホーテ」うた：佐々木功（１９８１）",
+        "content": "「しっぽのきもち」作詞・作曲：谷山浩子　編曲：岡崎リンテン／「ドン・キホーテ」作詞：仲倉重郎　作曲：吉岡しげ美",
+        "act": "",
+        "genres": [
+          "0400",
+          "0409",
+          "0504"
+        ]
+      },
+      {
+        "id": "2025080370629",
+        "event_id": "70629",
+        "start_time": "2025-08-03T11:00:03+09:00",
+        "end_time": "2025-08-03T11:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "伊集院光の百年ラヂオ　戦後８０年特集（１）　水木しげる・戦争と妖怪",
+        "subtitle": "ラジオ放送が始まり１００年を迎えました。ＮＨＫが保管する膨大な資料から歴史的価値のあるお宝音源を伊集院光さんと一緒に味わいましょう。",
+        "content": "８月の百年ラヂオは、貴重な音源の数々で「戦争」を考えます。今回は、昭和５９年に放送された【漫画家・水木しげる】さんが戦争体験について語った音源です。　▽南方の激戦地・ラバウルにて水木さんが見た地獄　▽ぬりかべで命拾い！？戦地で出会った妖怪イロイロ　▽復員後の暮らしは…　▼ご意見・ご感想は番組ホームページからお送りください！　出演：伊集院光、大谷舞風",
+        "act": "伊集院光，大谷舞風",
+        "genres": [
+          "1515"
+        ]
+      },
+      {
+        "id": "2025080370630",
+        "event_id": "70630",
+        "start_time": "2025-08-03T11:50:00+09:00",
+        "end_time": "2025-08-03T12:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "気象情報・交通情報（関東甲信越）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370469",
+        "event_id": "70469",
+        "start_time": "2025-08-03T12:00:03+09:00",
+        "end_time": "2025-08-03T12:10:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース　正午のＮＨＫニュース",
+        "subtitle": "▽最新のニュースは「らじる★らじる」やポッドキャスト「ＮＨＫラジオニュース」からもお聴きいただけます",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370470",
+        "event_id": "70470",
+        "start_time": "2025-08-03T12:10:00+09:00",
+        "end_time": "2025-08-03T12:15:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報（関東甲信越）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370471",
+        "event_id": "70471",
+        "start_time": "2025-08-03T12:15:00+09:00",
+        "end_time": "2025-08-03T13:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＮＨＫのど自慢　福井から生放送！▽中村美律子・北山たけし",
+        "subtitle": "福井県越前市から生放送▽ゲスト：中村美律子・北山たけし▽司会：廣瀬智美アナウンサー▽鐘：窪田健志（名古屋フィルハーモニー交響楽団）",
+        "content": "【ゲストの歌】中村美律子「歌だよ！人生」＆北山たけし「月うるる」▽司会は廣瀬智美アナと二宮直輝アナが交互に担当、そして鐘を鳴らすのは全国各地のオーケストラ奏者の皆さんです▽誰かのために歌いたい！思いを届けるために歌いたい！そんなあなたのステージが「のど自慢」です。中学生以上の、原則アマチュアの方ならだれでも応募できます。出場申込は番組ＨＰをご覧ください！",
+        "act": "【出演】中村美律子，北山たけし，【司会】廣瀬智美，【鐘】窪田健志",
+        "genres": [
+          "0407",
+          "0504",
+          "1002"
+        ]
+      },
+      {
+        "id": "2025080370635",
+        "event_id": "70635",
+        "start_time": "2025-08-03T13:00:03+09:00",
+        "end_time": "2025-08-03T13:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＦＭシネマサウンズ　結束と友情",
+        "subtitle": "洞口依子",
+        "content": "",
+        "act": "洞口依子",
+        "genres": [
+          "0415"
+        ]
+      },
+      {
+        "id": "2025080370636",
+        "event_id": "70636",
+        "start_time": "2025-08-03T13:50:00+09:00",
+        "end_time": "2025-08-03T13:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "音の風景「Ｄｉｓｃｏｖｅｒ　Ｎｉｐｐｏｎ　庭」",
+        "subtitle": "【２０２１年２月１５日初回放送のアーカイブ】【語り】井上あさひ▽日本の庭の風景。音を楽しむ先人の感性の豊かさに思いを馳せ、そこにある空間に身を委ねてみませんか。",
+        "content": "日本の伝統的な「庭」。ししおどし、水琴窟、枯山水のある風景をお楽しみください。",
+        "act": "【語り】井上あさひ",
+        "genres": [
+          "0807"
+        ]
+      },
+      {
+        "id": "2025080370637",
+        "event_id": "70637",
+        "start_time": "2025-08-03T13:55:00+09:00",
+        "end_time": "2025-08-03T14:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "みんなのうた「さとうきび畑」",
+        "subtitle": "【９０年代】「さとうきび畑」うた：森山良子（１９９７）",
+        "content": "「さとうきび畑」作詞・作曲・編曲：寺島尚彦",
+        "act": "",
+        "genres": [
+          "0400",
+          "0409",
+          "0504"
+        ]
+      },
+      {
+        "id": "2025080370639",
+        "event_id": "70639",
+        "start_time": "2025-08-03T14:00:03+09:00",
+        "end_time": "2025-08-03T15:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "×（かける）クラシック",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0402"
+        ]
+      },
+      {
+        "id": "2025080370640",
+        "event_id": "70640",
+        "start_time": "2025-08-03T15:50:00+09:00",
+        "end_time": "2025-08-03T15:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "音の風景「大きな湖の小さな島で～滋賀～」",
+        "subtitle": "【初回放送】２０２５年７月２１日【語り】江原　啓一郎　▽琵琶湖にある日本で唯一の淡水湖上の有人島・沖島。この島ならではの、ゆったりとした時の流れを感じる。",
+        "content": "朝７時、滋賀県・琵琶湖畔の港から子どもたちとともに連絡船に乗り、およそ１０分で沖島に到着。子どもたちは島の小学校へ。降り立つと、道が狭いため自動車も信号もない。岸壁には多くの漁船が係留されアユやウナギ、琵琶湖固有のビワマスやニゴロブナなどが豊富に獲れているようだ。聴こえてくるのは琵琶湖のさざなみ、船のエンジン音、トンビやカイツブリの鳴き声。この島独特のゆったりとした穏やかな時が流れている。",
+        "act": "【語り】江原啓一郎",
+        "genres": [
+          "0807"
+        ]
+      },
+      {
+        "id": "2025080370641",
+        "event_id": "70641",
+        "start_time": "2025-08-03T15:55:00+09:00",
+        "end_time": "2025-08-03T16:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "みんなのうた「校長センセ宇宙人説」／「ともだちのともだち」",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0400",
+          "0409",
+          "0504"
+        ]
+      },
+      {
+        "id": "2025080370643",
+        "event_id": "70643",
+        "start_time": "2025-08-03T16:00:03+09:00",
+        "end_time": "2025-08-03T16:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "吹奏楽のひびき　選　夏によせて",
+        "subtitle": "中橋愛生",
+        "content": "",
+        "act": "中橋愛生",
+        "genres": [
+          "0402",
+          "0405",
+          "1002"
+        ]
+      },
+      {
+        "id": "2025080370644",
+        "event_id": "70644",
+        "start_time": "2025-08-03T16:50:00+09:00",
+        "end_time": "2025-08-03T16:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "音の風景「和ろうそく　伝統のともしび～埼玉～」",
+        "subtitle": "【初回放送】２０２５年７月７日【語り】荒木　さくら　▽木の実から搾りだした蝋（ろう）でつくる和蝋燭（わろうそく）。職人のひとりを小江戸・川越にたずねました。",
+        "content": "ウルシ科の木・櫨（はぜ）の実から搾った蝋（ろう）でつくる和蝋燭（わろうそく）。イグサでできた芯に蝋を手で塗り固めてつくります。江戸時代から受け継がれてきた伝統のものづくり、その担い手のひとりを小江戸・川越にたずねました。",
+        "act": "【語り】荒木さくら",
+        "genres": [
+          "0807"
+        ]
+      },
+      {
+        "id": "2025080370645",
+        "event_id": "70645",
+        "start_time": "2025-08-03T16:55:00+09:00",
+        "end_time": "2025-08-03T17:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "みんなのうた「大きな古時計」／「王様のたからもの」",
+        "subtitle": "【００年代】「大きな古時計」うた：平井堅（２００２）／「王様のたからもの」うた：サクラメリーメン（２００９）",
+        "content": "「大きな古時計」作詞・作曲：ＨＥＮＲＹ　Ｃ．　ＷＯＲＫ　訳詞：保富康午　編曲：亀田誠治／「王様のたからもの」作詞・作曲：小西透太",
+        "act": "",
+        "genres": [
+          "0400",
+          "0409",
+          "0504"
+        ]
+      },
+      {
+        "id": "2025080370647",
+        "event_id": "70647",
+        "start_time": "2025-08-03T17:00:03+09:00",
+        "end_time": "2025-08-03T18:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ＭＩＳＩＡ　星空のラジオ　～Ｓｕｎｄａｙ　Ｓｕｎｓｅｔ～",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0400",
+          "0410",
+          "0401"
+        ]
+      },
+      {
+        "id": "2025080370649",
+        "event_id": "70649",
+        "start_time": "2025-08-03T18:00:03+09:00",
+        "end_time": "2025-08-03T18:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "サカナクション・山口一郎～Ｎｉｇｈｔ　Ｆｉｓｈｉｎｇ　Ｒａｄｉｏ～",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0400",
+          "0401"
+        ]
+      },
+      {
+        "id": "2025080370495",
+        "event_id": "70495",
+        "start_time": "2025-08-03T18:50:00+09:00",
+        "end_time": "2025-08-03T19:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報・交通情報（関東甲信越）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370497",
+        "event_id": "70497",
+        "start_time": "2025-08-03T19:00:03+09:00",
+        "end_time": "2025-08-03T19:20:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース　ＮＨＫきょうのニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370498",
+        "event_id": "70498",
+        "start_time": "2025-08-03T19:20:00+09:00",
+        "end_time": "2025-08-03T19:25:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報（関東・山梨）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370651",
+        "event_id": "70651",
+        "start_time": "2025-08-03T19:25:00+09:00",
+        "end_time": "2025-08-03T20:25:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ブラボー！オーケストラ　選　音楽監督ジョナサン・ノットが指揮する東京交響楽団１",
+        "subtitle": "柴辻純子",
+        "content": "",
+        "act": "柴辻純子",
+        "genres": [
+          "0402",
+          "0405"
+        ]
+      },
+      {
+        "id": "2025080370652",
+        "event_id": "70652",
+        "start_time": "2025-08-03T20:25:00+09:00",
+        "end_time": "2025-08-03T21:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "リサイタル・パッシオ　山田唯雄（ギター）",
+        "subtitle": "曲目：組曲「プラテーロとわたし」から「プラテーロ」（マーサ）、ティエント（オアナ）、ロンド　作品１２９（カステルヌオーヴォ・テデスコ）ほか",
+        "content": "曲目：組曲「プラテーロとわたし」から「プラテーロ」（マーサ）、ティエント（オアナ）、ロンド　作品１２９（カステルヌオーヴォ・テデスコ）ほか　ギター：山田唯雄　大阪府柏原市出身。ワイマールのフランツ・リスト音楽大学演奏家資格課程に在学中。２０２３年ミケーレ・ピッタルーガ国際ギターコンクール第１位。２０２４年ルイス・シガール国際音楽コンクール　ギター部門第１位。",
+        "act": "【司会】金子三勇士，【出演】ギタリスト…山田唯雄",
+        "genres": [
+          "0402",
+          "0405"
+        ]
+      },
+      {
+        "id": "2025080370654",
+        "event_id": "70654",
+        "start_time": "2025-08-03T21:00:03+09:00",
+        "end_time": "2025-08-03T21:50:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "望海風斗のサウンドイマジン　＃１０１　ゲスト：朝夏まなと",
+        "subtitle": "今回のゲストは、元宝塚歌劇団宙組トップスターで俳優の朝夏まなとさんです。花組時代に同じステージに立っていたお二人の懐かしエピソードが満載です。貴重音源も！",
+        "content": "望海風斗，【ゲスト】朝夏まなと",
+        "act": "望海風斗，【ゲスト】朝夏まなと",
+        "genres": [
+          "1515",
+          "0901"
+        ]
+      },
+      {
+        "id": "2025080370655",
+        "event_id": "70655",
+        "start_time": "2025-08-03T21:50:00+09:00",
+        "end_time": "2025-08-03T22:40:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "挾間美帆のジャズ・ヴォヤージュ",
+        "subtitle": "",
+        "content": "２０２５年８月で生誕１００年を迎える”鍵盤の皇帝”こと、ジャズピアニストのオスカー・ピーターソンの音楽を特集する。カナダのモントリオールでピアニストとして活動していたピーターソンは、プロデューサーのノーマン・グランツとの出会いを経てニューヨークへ進出。超絶技巧でも知られるが、歌心あふれる演奏こそがオスカー・ピーターソンの魅力だと語る挾間美帆。厳選した名演奏の数々をお楽しみください。",
+        "act": "",
+        "genres": [
+          "1515"
+        ]
+      },
+      {
+        "id": "2025080370656",
+        "event_id": "70656",
+        "start_time": "2025-08-03T22:40:00+09:00",
+        "end_time": "2025-08-03T23:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "古家正亨のＰＯＰ★Ａ",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0401"
+        ]
+      },
+      {
+        "id": "2025080370657",
+        "event_id": "70657",
+        "start_time": "2025-08-03T23:30:00+09:00",
+        "end_time": "2025-08-04T01:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "眠れない貴女（あなた）へ",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0415",
+          "0808",
+          "1102"
+        ]
+      },
+      {
+        "id": "2025080370879",
+        "event_id": "70879",
+        "start_time": "2025-08-04T01:00:03+09:00",
+        "end_time": "2025-08-04T01:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "宗教の時間　人はなぜ戦争をするのか　暴力の世界を問い直す",
+        "subtitle": "暴力と殺戮が続く現代、宗教学者・山折哲雄さんは「人はなぜ戦争をするのか」考える上で重要な往復書簡に出会った。宗教学者として自らの道のりを辿りながら検証してゆく。",
+        "content": "１９３２年に理論物理学者アインシュタインと精神分析学の巨匠フロイトが交わした往復書簡「人はなぜ戦争をするのか」。山折哲雄さんはこの書に出会い、大きな刺激を受けながらも両者に抜け落ちている視点があるのではないかと考える。それは当時、インドでイギリスからの独立運動を進めていたマハトマ・ガンディーの「非暴力」の思想。そこには現代に通じる平和への道しるべがありはしないか。自らの体験をひもときながら語る。",
+        "act": "【出演】宗教学者…山折哲雄，【きき手】鎌倉英也，【語り】守本奈実",
+        "genres": [
+          "0800",
+          "1011",
+          "1102"
+        ]
+      },
+      {
+        "id": "2025080370880",
+        "event_id": "70880",
+        "start_time": "2025-08-04T01:30:00+09:00",
+        "end_time": "2025-08-04T02:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "視覚障害ナビ・ラジオ　リンク・スクエア　＃６１",
+        "subtitle": "【出演】バイオリニスト…穴澤雄介，和太鼓奏者…富田安紀子",
+        "content": "",
+        "act": "【出演】バイオリニスト…穴澤雄介，【出演】和太鼓奏者…富田安紀子",
+        "genres": [
+          "1101",
+          "0800",
+          "1011"
+        ]
+      },
+      {
+        "id": "2025080370675",
+        "event_id": "70675",
+        "start_time": "2025-08-04T02:00:03+09:00",
+        "end_time": "2025-08-04T02:06:35+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080370885",
+        "event_id": "70885",
+        "start_time": "2025-08-04T02:06:35+09:00",
+        "end_time": "2025-08-04T04:59:50+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r3",
+          "name": "ＮＨＫＦＭ",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "＜放送設備の保守・点検のため放送休止＞",
+        "subtitle": "※放送設備の点検・整備のため、午前５時５５分まで放送をお休みいたします。「ラジオ深夜便」はラジオ第１で放送します。",
+        "content": "",
+        "act": "",
+        "genres": []
+      }
+    ]
+  }
+}
