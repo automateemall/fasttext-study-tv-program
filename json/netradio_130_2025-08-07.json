@@ -492,9 +492,371 @@
         ]
       },
       {
-        "id": "2025080771465",
-        "event_id": "71465",
+        "id": "2025080771466",
+        "event_id": "71466",
         "start_time": "2025-08-07T08:00:03+09:00",
+        "end_time": "2025-08-07T08:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080771467",
+        "event_id": "71467",
+        "start_time": "2025-08-07T08:05:00+09:00",
+        "end_time": "2025-08-07T08:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "話題と音楽",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0200"
+        ]
+      },
+      {
+        "id": "2025080771468",
+        "event_id": "71468",
+        "start_time": "2025-08-07T08:55:00+09:00",
+        "end_time": "2025-08-07T09:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "全国気象情報・全国交通情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080771470",
+        "event_id": "71470",
+        "start_time": "2025-08-07T09:00:03+09:00",
+        "end_time": "2025-08-07T09:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080771471",
+        "event_id": "71471",
+        "start_time": "2025-08-07T09:05:00+09:00",
+        "end_time": "2025-08-07T09:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "話題と音楽",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0200"
+        ]
+      },
+      {
+        "id": "2025080771472",
+        "event_id": "71472",
+        "start_time": "2025-08-07T09:55:00+09:00",
+        "end_time": "2025-08-07T10:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報・交通情報（関東甲信越）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080771474",
+        "event_id": "71474",
+        "start_time": "2025-08-07T10:00:03+09:00",
+        "end_time": "2025-08-07T10:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080771475",
+        "event_id": "71475",
+        "start_time": "2025-08-07T10:05:00+09:00",
+        "end_time": "2025-08-07T10:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "話題と音楽",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0200"
+        ]
+      },
+      {
+        "id": "2025080771476",
+        "event_id": "71476",
+        "start_time": "2025-08-07T10:55:00+09:00",
+        "end_time": "2025-08-07T11:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "みんなのうた「校長センセ宇宙人説」／「ともだちのともだち」",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0400",
+          "0409",
+          "0504"
+        ]
+      },
+      {
+        "id": "2025080771478",
+        "event_id": "71478",
+        "start_time": "2025-08-07T11:00:03+09:00",
+        "end_time": "2025-08-07T11:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080771479",
+        "event_id": "71479",
+        "start_time": "2025-08-07T11:05:00+09:00",
         "end_time": "2025-08-07T11:50:00+09:00",
         "area": {
           "id": "130",
@@ -519,12 +881,12 @@
             "height": "200"
           }
         },
-        "title": "第１０７回全国高校野球選手権大会　第３日",
-        "subtitle": "第１試合「横浜」（神奈川）対「敦賀気比」（福井）　第２試合「高知中央」（高知）対「綾羽」（滋賀）",
-        "content": "【第１試合】解説…開田成幸，アナウンサー…米澤太郎，【第２試合】解説…坂口裕之，アナウンサー…西岡遼　～甲子園球場から中継～　＜中断＞第１試合終了後　おしらせ（４分）　第１試合１回表終了後　ニュース（９：００）（１０：００）（１１：００）ニュース（９：１５）全国交通情報",
-        "act": "【第１試合】解説…開田成幸，アナウンサー…米澤太郎，【第２試合】解説…坂口裕之，アナウンサー…西岡遼",
+        "title": "話題と音楽",
+        "subtitle": "",
+        "content": "",
+        "act": "",
         "genres": [
-          "0101"
+          "0200"
         ]
       },
       {
@@ -637,10 +999,10 @@
         ]
       },
       {
-        "id": "2025080771484",
-        "event_id": "71484",
+        "id": "2025080771486",
+        "event_id": "71486",
         "start_time": "2025-08-07T12:20:00+09:00",
-        "end_time": "2025-08-07T13:30:00+09:00",
+        "end_time": "2025-08-07T12:55:00+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -664,19 +1026,57 @@
             "height": "200"
           }
         },
-        "title": "第１０７回全国高校野球選手権大会　第３日",
-        "subtitle": "第２試合「高知中央」（高知）対「綾羽」（滋賀）　【第２試合】解説…坂口裕之，アナウンサー…西岡遼　～甲子園球場から中継～",
-        "content": "＜中断＞（１：００）ニュース［延伸のとき以降の番組に変更あり］",
-        "act": "【第２試合】解説…坂口裕之，アナウンサー…西岡遼",
+        "title": "まんまる",
+        "subtitle": "",
+        "content": "",
+        "act": "",
         "genres": [
-          "0101"
+          "0202",
+          "0200",
+          "0215"
         ]
       },
       {
-        "id": "2025080771491",
-        "event_id": "71491",
-        "start_time": "2025-08-07T13:30:00+09:00",
-        "end_time": "2025-08-07T13:35:00+09:00",
+        "id": "2025080771487",
+        "event_id": "71487",
+        "start_time": "2025-08-07T12:55:00+09:00",
+        "end_time": "2025-08-07T13:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n1",
+          "name": "ＮＨＫネットラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "全国気象情報・全国交通情報",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025080771489",
+        "event_id": "71489",
+        "start_time": "2025-08-07T13:00:03+09:00",
+        "end_time": "2025-08-07T13:05:00+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -709,9 +1109,9 @@
         ]
       },
       {
-        "id": "2025080771492",
-        "event_id": "71492",
-        "start_time": "2025-08-07T13:35:00+09:00",
+        "id": "2025080774039",
+        "event_id": "74039",
+        "start_time": "2025-08-07T13:05:00+09:00",
         "end_time": "2025-08-07T13:55:00+09:00",
         "area": {
           "id": "130",
@@ -736,10 +1136,10 @@
             "height": "200"
           }
         },
-        "title": "まんまる　パートナーはにしおかすみこ／真夏の“ワダオン”まつり",
-        "subtitle": "パートナーはにしおかすみこさん。お便りテーマは「ちょっと聞いてよ」、リクエスト曲のテーマはフリーです。",
-        "content": "「つながる。輪になる。」番組を目指してお送りしている「まんまる」。２年目も週の後半は松尾剛アナが担当。今日のパートナーは、にしおかすみこさんです。高校野球期間の「まんまる」は、「真夏の“ワダオン”まつり」！“ワダオン”の略称でおなじみの「話題と音楽」のように、皆さんからのメールとリクエストでお送りします。お便りやリクエストは番組ＨＰから、Ｘでの投稿は「＃ＮＨＫまんまる」をつけてお願いします。",
-        "act": "にしおかすみこ，松尾剛",
+        "title": "まんまる",
+        "subtitle": "",
+        "content": "",
+        "act": "",
         "genres": [
           "0202",
           "0200",
