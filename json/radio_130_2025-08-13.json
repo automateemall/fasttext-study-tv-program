@@ -492,8 +492,8 @@
         ]
       },
       {
-        "id": "2025081373014",
-        "event_id": "73014",
+        "id": "2025081372755",
+        "event_id": "72755",
         "start_time": "2025-08-13T08:00:03+09:00",
         "end_time": "2025-08-13T11:50:00+09:00",
         "area": {
@@ -519,10 +519,10 @@
             "height": "200"
           }
         },
-        "title": "第１０７回全国高校野球選手権大会　第９日",
-        "subtitle": "第１試合「仙台育英」（宮城）対「開星」（島根）　第２試合「沖縄尚学」（沖縄）対「鳴門」（徳島）",
-        "content": "【第１試合】解説…青山眞也，アナウンサー…吉岡篤史，【第２試合】解説…杉浦正則，アナウンサー…小宮山晃義　～甲子園球場から中継～　＜中断＞第１試合終了後　おしらせ（４分）第１試合１回表終了後　ニュース（９：００）（１０：００）（１１：００）ニュース（９：１５）全国交通情報",
-        "act": "【第１試合】解説…青山眞也，アナウンサー…吉岡篤史，【第２試合】解説…杉浦正則，アナウンサー…小宮山晃義",
+        "title": "第１０７回全国高校野球選手権大会　第８日",
+        "subtitle": "第１試合「健大高崎」（群馬）対「京都国際」（京都）　第２試合「中越」（新潟）対「関東第一」（東東京）",
+        "content": "【第１試合】解説…杉本真吾，アナウンサー…菊田一樹，【第２試合】解説…開田成幸，アナウンサー…別井敬之　～甲子園球場から中継～　第１試合終了後　おしらせ（４分）　第１試合１回表終了後　ニュース（９：００）（１０：００）（１１：００）ニュース　（９：１５）全国交通情報",
+        "act": "【第１試合】解説…杉本真吾，アナウンサー…菊田一樹，【第２試合】解説…開田成幸，アナウンサー…別井敬之",
         "genres": [
           "0101"
         ]
@@ -637,9 +637,367 @@
         ]
       },
       {
-        "id": "2025081373033",
-        "event_id": "73033",
+        "id": "2025081372774",
+        "event_id": "72774",
         "start_time": "2025-08-13T12:20:00+09:00",
+        "end_time": "2025-08-13T15:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "第１０７回全国高校野球選手権大会　第８日",
+        "subtitle": "第２試合「中越」（新潟）対「関東第一」（東東京）　第３試合「神村学園」（鹿児島）対「創成館」（長崎）",
+        "content": "【第２試合】解説…開田成幸，アナウンサー…別井敬之，【第３試合】解説…川口朋保，アナウンサー…高山大吾　～甲子園球場から中継～　第２試合終了後　おしらせ（４分）　（１：００）（２：００）（３：００）ニュース　（２：１５）全国交通情報　［延伸のとき以降の番組に変更あり］",
+        "act": "【第２試合】解説…開田成幸，アナウンサー…別井敬之，【第３試合】解説…川口朋保，アナウンサー…高山大吾",
+        "genres": [
+          "0101"
+        ]
+      },
+      {
+        "id": "2025081373048",
+        "event_id": "73048",
+        "start_time": "2025-08-13T15:55:00+09:00",
+        "end_time": "2025-08-13T16:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "安心ラジオ　津波警報で見えた課題",
+        "subtitle": "災害に備える基礎知識や暮らしを守る情報をお届けします。７月にカムチャツカ半島付近で起きた巨大地震。日本の広い範囲に津波警報が発表され、改めて見えてきた課題は。",
+        "content": "災害に備える基礎知識や暮らしを守る情報をお届けします。７月にカムチャツカ半島付近で起きた巨大地震。日本の広い範囲に津波警報が発表され、改めて見えてきた課題があります。水門や防潮堤の閉鎖、猛暑の中での避難、渋滞など各地の課題をお伝えします。",
+        "act": "原田裕和",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025081373050",
+        "event_id": "73050",
+        "start_time": "2025-08-13T16:00:03+09:00",
+        "end_time": "2025-08-13T16:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025081373051",
+        "event_id": "73051",
+        "start_time": "2025-08-13T16:05:00+09:00",
+        "end_time": "2025-08-13T16:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "セレクション",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
+        "id": "2025081373052",
+        "event_id": "73052",
+        "start_time": "2025-08-13T16:55:00+09:00",
+        "end_time": "2025-08-13T17:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報・交通情報（関東）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2025081373054",
+        "event_id": "73054",
+        "start_time": "2025-08-13T17:00:03+09:00",
+        "end_time": "2025-08-13T17:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025081373055",
+        "event_id": "73055",
+        "start_time": "2025-08-13T17:05:00+09:00",
+        "end_time": "2025-08-13T17:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "セレクション",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
+      },
+      {
+        "id": "2025081373056",
+        "event_id": "73056",
+        "start_time": "2025-08-13T17:55:00+09:00",
+        "end_time": "2025-08-13T18:00:03+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース・気象情報・交通情報（関東）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0009",
+          "0000"
+        ]
+      },
+      {
+        "id": "2025081373058",
+        "event_id": "73058",
+        "start_time": "2025-08-13T18:00:03+09:00",
+        "end_time": "2025-08-13T18:05:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
+        "id": "2025081366379",
+        "event_id": "66379",
+        "start_time": "2025-08-13T18:05:00+09:00",
+        "end_time": "2025-08-13T18:30:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r1",
+          "name": "ＮＨＫラジオ第1",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ザ・ミュージック・ブック～ワールドポップス・アンド・ロック～　＃４　スティング",
+        "subtitle": "【語り】後藤理",
+        "content": "",
+        "act": "【語り】後藤理",
+        "genres": [
+          "0401"
+        ]
+      },
+      {
+        "id": "2025081366378",
+        "event_id": "66378",
+        "start_time": "2025-08-13T18:30:00+09:00",
         "end_time": "2025-08-13T18:45:00+09:00",
         "area": {
           "id": "130",
@@ -664,12 +1022,12 @@
             "height": "200"
           }
         },
-        "title": "第１０７回全国高校野球選手権大会　第９日",
-        "subtitle": "第２試合「沖縄尚学」（沖縄）対「鳴門」（徳島）　第３試合「横浜」（神奈川）対「綾羽」（滋賀）　第４試合「津田学園」（三重）対「広陵」（広島）",
-        "content": "【第２試合】解説…杉浦正則，アナウンサー…小宮山晃義，【第３試合】解説…足達尚人，アナウンサー…下境秀幸，【第４試合】解説…杉本真吾，アナウンサー…稲垣秀人　～甲子園球場から中継～　＜中断＞第２試合および第３試合終了後　おしらせ（４分）（１：００）（２：００）（３：００）（４：００）（５：００）（６：００）ニュース（２：１５）（４：４５）全国交通情報［延伸のときＦＭで放送継続］",
-        "act": "【第２試合】解説…杉浦正則，アナウンサー…小宮山晃義，【第３試合】解説…足達尚人，アナウンサー…下境秀幸，【第４試合】解説…杉本真吾，アナウンサー…稲垣秀人",
+        "title": "ジャズＳＰアワー１５ｍｉｎ．　＃１０　ジミー・ヌーン",
+        "subtitle": "【ＤＪ】瀬谷徹",
+        "content": "",
+        "act": "【ＤＪ】瀬谷徹",
         "genres": [
-          "0101"
+          "0403"
         ]
       },
       {
