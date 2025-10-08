@@ -1370,9 +1370,45 @@
         ]
       },
       {
+        "id": "2025101001669",
+        "event_id": "01669",
+        "start_time": "2025-10-10T18:00:00+09:00",
+        "end_time": "2025-10-10T18:10:00+09:00",
+        "area": {
+          "id": "010",
+          "name": "札幌"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
         "id": "2025101059848",
         "event_id": "59848",
-        "start_time": "2025-10-10T18:00:00+09:00",
+        "start_time": "2025-10-10T18:10:00+09:00",
         "end_time": "2025-10-10T18:40:00+09:00",
         "area": {
           "id": "010",
@@ -3622,9 +3658,45 @@
         ]
       },
       {
+        "id": "2025101001669",
+        "event_id": "01669",
+        "start_time": "2025-10-10T18:00:00+09:00",
+        "end_time": "2025-10-10T18:10:00+09:00",
+        "area": {
+          "id": "010",
+          "name": "札幌"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0000"
+        ]
+      },
+      {
         "id": "2025101059848",
         "event_id": "59848",
-        "start_time": "2025-10-10T18:00:00+09:00",
+        "start_time": "2025-10-10T18:10:00+09:00",
         "end_time": "2025-10-10T18:40:00+09:00",
         "area": {
           "id": "010",

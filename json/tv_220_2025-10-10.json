@@ -712,7 +712,7 @@
         "id": "2025101001270",
         "event_id": "01270",
         "start_time": "2025-10-10T12:20:00+09:00",
-        "end_time": "2025-10-10T12:29:00+09:00",
+        "end_time": "2025-10-10T12:30:00+09:00",
         "area": {
           "id": "220",
           "name": "静岡"
@@ -744,42 +744,6 @@
           "0006",
           "0202",
           "0203"
-        ]
-      },
-      {
-        "id": "2025101039582",
-        "event_id": "39582",
-        "start_time": "2025-10-10T12:29:00+09:00",
-        "end_time": "2025-10-10T12:30:00+09:00",
-        "area": {
-          "id": "220",
-          "name": "静岡"
-        },
-        "service": {
-          "id": "g1",
-          "name": "ＮＨＫ総合１",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "おしらせ",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0207"
         ]
       },
       {
@@ -2887,7 +2851,7 @@
         "id": "2025101001270",
         "event_id": "01270",
         "start_time": "2025-10-10T12:20:00+09:00",
-        "end_time": "2025-10-10T12:29:00+09:00",
+        "end_time": "2025-10-10T12:30:00+09:00",
         "area": {
           "id": "220",
           "name": "静岡"
@@ -2919,42 +2883,6 @@
           "0006",
           "0202",
           "0203"
-        ]
-      },
-      {
-        "id": "2025101039582",
-        "event_id": "39582",
-        "start_time": "2025-10-10T12:29:00+09:00",
-        "end_time": "2025-10-10T12:30:00+09:00",
-        "area": {
-          "id": "220",
-          "name": "静岡"
-        },
-        "service": {
-          "id": "g2",
-          "name": "ＮＨＫ総合２",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "おしらせ",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0207"
         ]
       },
       {
