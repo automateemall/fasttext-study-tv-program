@@ -631,10 +631,10 @@
             "height": "200"
           }
         },
-        "title": "ふんわり",
-        "subtitle": "",
-        "content": "",
-        "act": "",
+        "title": "ふんわり　金曜日は人工知能研究者・黒川伊保子さん！　８時台（１１／７）",
+        "subtitle": "「ふんわり」金曜日は、人工知能研究者の黒川伊保子さんと、稲垣秀人アナウンサーのコンビでお送りします。",
+        "content": "人工知能研究者・黒川伊保子さんのレクチャーで、脳をリフレッシュさせて、今週のモヤモヤをすっきりさせましょう！メッセージは、番組ＨＰ「金曜日」の投稿フォームからお送りください。",
+        "act": "【司会】黒川伊保子，稲垣秀人",
         "genres": [
           "0200"
         ]
@@ -643,7 +643,7 @@
         "id": "2025110775774",
         "event_id": "75774",
         "start_time": "2025-11-07T08:55:00+09:00",
-        "end_time": "2025-11-07T09:00:03+09:00",
+        "end_time": "2025-11-07T08:59:55+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -676,10 +676,10 @@
         ]
       },
       {
-        "id": "2025110775776",
-        "event_id": "75776",
-        "start_time": "2025-11-07T09:00:03+09:00",
-        "end_time": "2025-11-07T09:05:00+09:00",
+        "id": "2025110770106",
+        "event_id": "70106",
+        "start_time": "2025-11-07T08:59:55+09:00",
+        "end_time": "2025-11-07T11:54:00+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -703,19 +703,19 @@
             "height": "200"
           }
         },
-        "title": "ニュース",
+        "title": "国会中継「衆議院予算委員会質疑」　～衆議院第１委員室から中継～",
         "subtitle": "",
         "content": "",
         "act": "",
         "genres": [
-          "0000"
+          "0003"
         ]
       },
       {
-        "id": "2025110775777",
-        "event_id": "75777",
-        "start_time": "2025-11-07T09:05:00+09:00",
-        "end_time": "2025-11-07T09:55:00+09:00",
+        "id": "2025110770107",
+        "event_id": "70107",
+        "start_time": "2025-11-07T11:54:00+09:00",
+        "end_time": "2025-11-07T11:55:00+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -739,272 +739,18 @@
             "height": "200"
           }
         },
-        "title": "ふんわり",
+        "title": "らじる★らじる　聴き逃しサービスのご案内",
         "subtitle": "",
         "content": "",
         "act": "",
         "genres": [
-          "0200"
-        ]
-      },
-      {
-        "id": "2025110775778",
-        "event_id": "75778",
-        "start_time": "2025-11-07T09:55:00+09:00",
-        "end_time": "2025-11-07T10:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・交通情報（関東甲信越）",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2025110775780",
-        "event_id": "75780",
-        "start_time": "2025-11-07T10:00:03+09:00",
-        "end_time": "2025-11-07T10:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2025110775781",
-        "event_id": "75781",
-        "start_time": "2025-11-07T10:05:00+09:00",
-        "end_time": "2025-11-07T10:55:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ふんわり",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0200"
-        ]
-      },
-      {
-        "id": "2025110775782",
-        "event_id": "75782",
-        "start_time": "2025-11-07T10:55:00+09:00",
-        "end_time": "2025-11-07T11:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "みんなのうた「青空とオスカー・ピーターソン」／「ハナ」",
-        "subtitle": "【新曲（１）】「青空とオスカー・ピーターソン」うた：今井美樹／「ハナ」うた：マカロニえんぴつ",
-        "content": "「青空とオスカー・ピーターソン」作詞：岩里祐穂　作曲：布袋寅泰　編曲：河野圭／「ハナ」作詞：はっとり　作曲：高野賢也　編曲：マカロニえんぴつ",
-        "act": "",
-        "genres": [
-          "0400",
-          "0409",
-          "0504"
-        ]
-      },
-      {
-        "id": "2025110775784",
-        "event_id": "75784",
-        "start_time": "2025-11-07T11:00:03+09:00",
-        "end_time": "2025-11-07T11:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2025110775785",
-        "event_id": "75785",
-        "start_time": "2025-11-07T11:05:00+09:00",
-        "end_time": "2025-11-07T11:45:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ふんわり",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0200"
-        ]
-      },
-      {
-        "id": "2025110775786",
-        "event_id": "75786",
-        "start_time": "2025-11-07T11:45:00+09:00",
-        "end_time": "2025-11-07T11:50:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "らじるの時間　音声波再編のお知らせ",
-        "subtitle": "ＮＨＫラジオに関するさまざまな情報をお届けするこの番組。ＮＨＫの音声波再編についてお知らせします。",
-        "content": "ＮＨＫラジオに関するさまざまな情報をお届けするこの番組。ＮＨＫの音声波再編についてお知らせします。再編に向けた取り組みとして、今後、「ラジオ深夜便」をラジオ第１のみでお送りすることなどをお伝えします。",
-        "act": "【司会】江崎史恵",
-        "genres": [
-          "1515"
+          "0207"
         ]
       },
       {
         "id": "2025110775787",
         "event_id": "75787",
-        "start_time": "2025-11-07T11:50:00+09:00",
+        "start_time": "2025-11-07T11:55:00+09:00",
         "end_time": "2025-11-07T12:00:03+09:00",
         "area": {
           "id": "130",
@@ -1176,10 +922,10 @@
             "height": "200"
           }
         },
-        "title": "まんまる　パートナーは蝶花楼桃花／午後０時台　そのまちのお昼",
-        "subtitle": "パートナーは落語家の蝶花楼桃花さん。お便りテーマ「冬の楽しみ」、リクエスト曲テーマ「ファッション」。【そのまちのお昼】金曜日は各地のコミュニティＦＭが登場！",
-        "content": "「つながる。輪になる。」番組を目指してお送りしている「まんまる」。週の後半は松尾剛アナが担当。今日のパートナーは、落語家の蝶花楼桃花さんです。お便りやリクエストは番組ＨＰ、Ｘでの投稿は「＃ＮＨＫまんまる」をつけてお願いします。金曜日の【そのまちのお昼】は、全国各地のコミュニティＦＭの方が街のラジオ局ならではの切り口で地元を紹介します。今日は北海道札幌市の「さっぽろ村ラジオ」が登場。",
-        "act": "蝶花楼桃花，大野陽子，松尾剛",
+        "title": "まんまる　パートナーは蝶花楼桃花／ひとのわ　「べらぼう」出演！榊原郁恵",
+        "subtitle": "パートナーは落語家の蝶花楼桃花さん。この時間はインタビュー【ひとのわ】をお送りします。タレント・歌手の榊原郁恵さんが登場します！",
+        "content": "「つながる。輪になる。」番組を目指してお送りしている「まんまる」。週の後半は松尾剛アナが担当。今日のパートナーは、落語家の蝶花楼桃花さんです。この時間は予定を変更して、インタビュー【ひとのわ】をお送りします。ゲストは、タレント・歌手の榊原郁恵さん。大河ドラマ『べらぼう～蔦重栄華乃夢噺～』に出演されます。初めて大河の撮影に臨んだお気持ち、また故・渡辺徹さんへの思い、俳優の息子たちについて伺います。",
+        "act": "蝶花楼桃花，松尾剛，【ゲスト】タレント・歌手…榊原郁恵",
         "genres": [
           "0202",
           "0200",
@@ -1190,7 +936,7 @@
         "id": "2025110775793",
         "event_id": "75793",
         "start_time": "2025-11-07T12:55:00+09:00",
-        "end_time": "2025-11-07T13:00:03+09:00",
+        "end_time": "2025-11-07T12:59:55+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -1223,451 +969,9 @@
         ]
       },
       {
-        "id": "2025110775795",
-        "event_id": "75795",
-        "start_time": "2025-11-07T13:00:03+09:00",
-        "end_time": "2025-11-07T13:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2025110775796",
-        "event_id": "75796",
-        "start_time": "2025-11-07T13:05:00+09:00",
-        "end_time": "2025-11-07T13:55:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "まんまる　午後１時台　ひとのわ　大河ドラマ「べらぼう」出演！榊原郁恵",
-        "subtitle": "１時台は【ひとのわ】。ゲストは大河ドラマ『べらぼう～蔦重栄華乃夢噺～』に出演が決定した、タレント・歌手の榊原郁恵さんです。",
-        "content": "１時台はインタビュー【ひとのわ】。ゲストは、タレント・歌手の榊原郁恵さん。大河ドラマ『べらぼう～蔦重栄華乃夢噺～』に、蔦重の妻・ていのもとに駆けつける産婆役で出演が決定しました。大河出演は初めての郁恵さんに撮影に臨んだお気持ちや現場の雰囲気、さらにこれまでの俳優業の歩みについて伺います。また、家族と榊原郁恵というテーマで、２０２２年に他界した渡辺徹さんへの思い、俳優の息子たちについてお聞きします。",
-        "act": "蝶花楼桃花，松尾剛，【ゲスト】タレント・俳優…榊原郁恵",
-        "genres": [
-          "0202",
-          "0200",
-          "0215"
-        ]
-      },
-      {
-        "id": "2025110775797",
-        "event_id": "75797",
-        "start_time": "2025-11-07T13:55:00+09:00",
-        "end_time": "2025-11-07T14:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース・交通情報（関東甲信越）",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0009",
-          "0000"
-        ]
-      },
-      {
-        "id": "2025110775799",
-        "event_id": "75799",
-        "start_time": "2025-11-07T14:00:03+09:00",
-        "end_time": "2025-11-07T14:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2025110775800",
-        "event_id": "75800",
-        "start_time": "2025-11-07T14:05:00+09:00",
-        "end_time": "2025-11-07T14:55:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "まんまる　午後２時台　２時またぎアウトロクイズ・列島リレーニュース",
-        "subtitle": "２時またぎアウトロクイズ、正解発表！２時台後半は列島リレーニュースで各地の話題をお送りします。",
-        "content": "まんまるの２時台はクイズとともに。１時台のエンディングに出題された「２時またぎアウトロクイズ」。ヒントのかわりに長めのアウトロもご紹介したら、いよいよ正解発表です。クイズの参加は「＃ＮＨＫまんまる」で。２時台後半はＮＨＫの各地の放送局を結んでお送りする、列島リレーニュースです。",
-        "act": "蝶花楼桃花，松尾剛",
-        "genres": [
-          "0202",
-          "0200",
-          "0215"
-        ]
-      },
-      {
-        "id": "2025110775801",
-        "event_id": "75801",
-        "start_time": "2025-11-07T14:55:00+09:00",
-        "end_time": "2025-11-07T15:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "気象情報・交通情報（関東）",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0009",
-          "0000"
-        ]
-      },
-      {
-        "id": "2025110775803",
-        "event_id": "75803",
-        "start_time": "2025-11-07T15:00:03+09:00",
-        "end_time": "2025-11-07T15:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2025110775804",
-        "event_id": "75804",
-        "start_time": "2025-11-07T15:05:00+09:00",
-        "end_time": "2025-11-07T15:50:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "まんまる　午後３時台",
-        "subtitle": "３時台、リスナーの皆さんから寄せられた声とリクエストを紹介します。お便り・リクエストは番組のＨＰなどからお寄せください。",
-        "content": "３時台は、リスナーの皆さんから寄せられた声とリクエストをお届けします。きょうのお便りテーマは「冬の楽しみ」。寒さを感じるこのごろ、冬が来るのを前に楽しみにしていることを教えてください。リクエストのテーマは週替わりです。▽お便りは番組のＨＰから。Ｘでは「＃ＮＨＫまんまる」とつけて投稿を。▽リクエストは番組ＨＰ、郵便、ＦＡＸでお寄せ下さい。▽来週のリクエストテーマは、この時間のトークで決まります！",
-        "act": "蝶花楼桃花，松尾剛",
-        "genres": [
-          "0202",
-          "0200",
-          "0215"
-        ]
-      },
-      {
-        "id": "2025110775805",
-        "event_id": "75805",
-        "start_time": "2025-11-07T15:50:00+09:00",
-        "end_time": "2025-11-07T15:55:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "らじるの時間　音声波再編のお知らせ",
-        "subtitle": "ＮＨＫラジオに関するさまざまな情報をお届けするこの番組。ＮＨＫの音声波再編についてお知らせします。",
-        "content": "ＮＨＫラジオに関するさまざまな情報をお届けするこの番組。ＮＨＫの音声波再編についてお知らせします。再編に向けた取り組みとして、今後、「ラジオ深夜便」をラジオ第１のみでお送りすることなどをお伝えします。",
-        "act": "【司会】江崎史恵",
-        "genres": [
-          "1515"
-        ]
-      },
-      {
-        "id": "2025110775806",
-        "event_id": "75806",
-        "start_time": "2025-11-07T15:55:00+09:00",
-        "end_time": "2025-11-07T16:00:03+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "安心ラジオ　介護保険制度見直し　どう変わる？",
-        "subtitle": "３年に１度の介護保険制度の見直しに向けた本格的な議論が、国の専門家会議で始まりました。高齢者の自己負担が増えることになるのでしょうか。",
-        "content": "３年に１度の介護保険制度の見直しに向けた本格的な議論が、国の専門家会議で始まりました。高齢者の自己負担が増えることになるのでしょうか。自己負担額の引き上げが議論になっている背景には、介護保険制度の維持への課題があります。",
-        "act": "原田裕和",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2025110775808",
-        "event_id": "75808",
-        "start_time": "2025-11-07T16:00:03+09:00",
-        "end_time": "2025-11-07T16:05:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "ニュース",
-        "subtitle": "",
-        "content": "",
-        "act": "",
-        "genres": [
-          "0000"
-        ]
-      },
-      {
-        "id": "2025110775809",
-        "event_id": "75809",
-        "start_time": "2025-11-07T16:05:00+09:00",
-        "end_time": "2025-11-07T16:55:00+09:00",
-        "area": {
-          "id": "130",
-          "name": "東京"
-        },
-        "service": {
-          "id": "n1",
-          "name": "ＮＨＫネットラジオ第1",
-          "logo_s": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-100x50.png",
-            "width": "100",
-            "height": "50"
-          },
-          "logo_m": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x100.png",
-            "width": "200",
-            "height": "100"
-          },
-          "logo_l": {
-            "url": "//www.nhk.or.jp/common/img/media/r1-200x200.png",
-            "width": "200",
-            "height": "200"
-          }
-        },
-        "title": "【にっぽん列島夕方ラジオ】関西ラジオワイド",
-        "subtitle": "「にっぽん列島夕方ラジオ」午後４時台は毎日、大阪から『関西ラジオワイド』をお送りします。",
-        "content": "「ＢＫ記者リポート」、「とっておき川柳」などをお送りします。",
-        "act": "【出演】全日本川柳協会常任幹事　川柳作家…西美和子，【司会】秋鹿真人，中倉真梨子",
-        "genres": [
-          "0009",
-          "0502",
-          "0202"
-        ]
-      },
-      {
-        "id": "2025110775810",
-        "event_id": "75810",
-        "start_time": "2025-11-07T16:55:00+09:00",
+        "id": "2025110770102",
+        "event_id": "70102",
+        "start_time": "2025-11-07T12:59:55+09:00",
         "end_time": "2025-11-07T17:00:03+09:00",
         "area": {
           "id": "130",
@@ -1692,13 +996,12 @@
             "height": "200"
           }
         },
-        "title": "ニュース・交通情報（関東）",
+        "title": "国会中継「衆議院予算委員会質疑」　～衆議院第１委員室から中継～",
         "subtitle": "",
         "content": "",
         "act": "",
         "genres": [
-          "0009",
-          "0000"
+          "0003"
         ]
       },
       {
@@ -6734,9 +6037,45 @@
         ]
       },
       {
-        "id": "2025110775787",
-        "event_id": "75787",
+        "id": "2025110770103",
+        "event_id": "70103",
         "start_time": "2025-11-07T11:50:00+09:00",
+        "end_time": "2025-11-07T11:55:00+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "n3",
+          "name": "ＮＨＫネットラジオFM",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/fm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "名曲の小箱「蘇州夜曲」",
+        "subtitle": "",
+        "content": "　服部良一・作曲、服部隆之・編曲　（４分５５秒）　（二胡）ジャー・パンファン　（ピアノ）小形眞子　（ハープ）田口裕子　（管弦楽）東京フィルハーモニー交響楽団　（指揮）服部隆之",
+        "act": "ジャー・パンファン，小形眞子，田口裕子，服部隆之，東京フィルハーモニー交響楽団",
+        "genres": [
+          "0402"
+        ]
+      },
+      {
+        "id": "2025110770104",
+        "event_id": "70104",
+        "start_time": "2025-11-07T11:55:00+09:00",
         "end_time": "2025-11-07T12:00:03+09:00",
         "area": {
           "id": "130",
