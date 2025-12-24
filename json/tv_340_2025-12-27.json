@@ -1258,9 +1258,46 @@
         ]
       },
       {
-        "id": "2025122747447",
-        "event_id": "47447",
+        "id": "2025122750523",
+        "event_id": "50523",
         "start_time": "2025-12-27T17:00:00+09:00",
+        "end_time": "2025-12-27T17:05:00+09:00",
+        "area": {
+          "id": "340",
+          "name": "広島"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "被爆８０年テーマソング・ポルノグラフィティ「言伝　－ことづて－」アニメ版",
+        "subtitle": "ポルノグラフィティが書き下ろした「言伝－ことづて－」（作詞：新藤晴一　作曲：岡野昭仁）。この歌を、アニメのミュージックビデオで届けます！",
+        "content": "「被爆８０年プロジェクト」のテーマソング「言伝－ことづて－」。ポルノグラフィティが、被爆者など広島の人々の声に耳を傾けて制作した歌です。原爆投下のわずか３日後に走った路面電車・・・いわゆる「一番電車」が歌のモチーフです。多くの人に被爆について知ってもらうため、この歌をアニメのミュージックビデオにして届けます！２０２６年から「みんなのへいわプロジェクト」のテーマソングにもなります！",
+        "act": "",
+        "genres": [
+          "0400",
+          "0807"
+        ]
+      },
+      {
+        "id": "2025122750524",
+        "event_id": "50524",
+        "start_time": "2025-12-27T17:05:00+09:00",
         "end_time": "2025-12-27T17:15:00+09:00",
         "area": {
           "id": "340",
@@ -1285,11 +1322,15 @@
             "height": "200"
           }
         },
-        "title": "セレクション",
-        "subtitle": "",
+        "title": "広島カープ物語～球団誕生編～",
+        "subtitle": "被爆地広島に誕生した広島カープ。戦後の荒廃の中、広島の人々の心の支えとして、苦難を乗り越え日本一になるまでの軌跡を描いた漫画「広島カープ物語」を元に構成。",
         "content": "",
-        "act": "",
-        "genres": []
+        "act": "【ナレーション】桑子真帆",
+        "genres": [
+          "0715",
+          "0101",
+          "0806"
+        ]
       },
       {
         "id": "2025122709469",
@@ -2427,9 +2468,153 @@
         ]
       },
       {
+        "id": "2025122717146",
+        "event_id": "17146",
+        "start_time": "2025-12-28T03:28:00+09:00",
+        "end_time": "2025-12-28T03:30:00+09:00",
+        "area": {
+          "id": "340",
+          "name": "広島"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "紅白なび（１）",
+        "subtitle": "紅白司会の綾瀬はるか・有吉弘行・今田美桜がそれぞれの印象を語る！進行は鈴木奈穂子アナウンサー。",
+        "content": "【出演】綾瀬はるか，有吉弘行，今田美桜，【アナウンサー】鈴木奈穂子",
+        "act": "【出演】綾瀬はるか，有吉弘行，今田美桜，【アナウンサー】鈴木奈穂子",
+        "genres": [
+          "0400"
+        ]
+      },
+      {
+        "id": "2025122717147",
+        "event_id": "17147",
+        "start_time": "2025-12-28T03:30:00+09:00",
+        "end_time": "2025-12-28T03:32:00+09:00",
+        "area": {
+          "id": "340",
+          "name": "広島"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "紅白なび（３）",
+        "subtitle": "デビュー６０周年・布施明、５０周年・岩崎宏美が久しぶりの紅白出場！",
+        "content": "【出演】布施明，岩崎宏美",
+        "act": "【出演】布施明，岩崎宏美",
+        "genres": [
+          "0400"
+        ]
+      },
+      {
+        "id": "2025122717148",
+        "event_id": "17148",
+        "start_time": "2025-12-28T03:32:00+09:00",
+        "end_time": "2025-12-28T03:34:00+09:00",
+        "area": {
+          "id": "340",
+          "name": "広島"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "紅白なび（４）",
+        "subtitle": "ともにデビュー４０周年！ＴＵＢＥ・久保田利伸が紅白に帰ってくる！",
+        "content": "【出演】ＴＵＢＥ，久保田利伸",
+        "act": "【出演】ＴＵＢＥ，久保田利伸",
+        "genres": [
+          "0400"
+        ]
+      },
+      {
+        "id": "2025122717149",
+        "event_id": "17149",
+        "start_time": "2025-12-28T03:34:00+09:00",
+        "end_time": "2025-12-28T03:36:00+09:00",
+        "area": {
+          "id": "340",
+          "name": "広島"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "紅白なび（５）",
+        "subtitle": "紅白・特別企画！堺正章さん、氷川きよしさんの見どころは？",
+        "content": "【出演】堺正章，氷川きよし",
+        "act": "【出演】堺正章，氷川きよし",
+        "genres": [
+          "0400"
+        ]
+      },
+      {
         "id": "2025122712749",
         "event_id": "12749",
-        "start_time": "2025-12-28T03:28:00+09:00",
+        "start_time": "2025-12-28T03:36:00+09:00",
         "end_time": "2025-12-28T04:10:00+09:00",
         "area": {
           "id": "340",
@@ -3794,9 +3979,46 @@
         ]
       },
       {
-        "id": "2025122747447",
-        "event_id": "47447",
+        "id": "2025122750523",
+        "event_id": "50523",
         "start_time": "2025-12-27T17:00:00+09:00",
+        "end_time": "2025-12-27T17:05:00+09:00",
+        "area": {
+          "id": "340",
+          "name": "広島"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "被爆８０年テーマソング・ポルノグラフィティ「言伝　－ことづて－」アニメ版",
+        "subtitle": "ポルノグラフィティが書き下ろした「言伝－ことづて－」（作詞：新藤晴一　作曲：岡野昭仁）。この歌を、アニメのミュージックビデオで届けます！",
+        "content": "「被爆８０年プロジェクト」のテーマソング「言伝－ことづて－」。ポルノグラフィティが、被爆者など広島の人々の声に耳を傾けて制作した歌です。原爆投下のわずか３日後に走った路面電車・・・いわゆる「一番電車」が歌のモチーフです。多くの人に被爆について知ってもらうため、この歌をアニメのミュージックビデオにして届けます！２０２６年から「みんなのへいわプロジェクト」のテーマソングにもなります！",
+        "act": "",
+        "genres": [
+          "0400",
+          "0807"
+        ]
+      },
+      {
+        "id": "2025122750524",
+        "event_id": "50524",
+        "start_time": "2025-12-27T17:05:00+09:00",
         "end_time": "2025-12-27T17:15:00+09:00",
         "area": {
           "id": "340",
@@ -3821,11 +4043,15 @@
             "height": "200"
           }
         },
-        "title": "セレクション",
-        "subtitle": "",
+        "title": "広島カープ物語～球団誕生編～",
+        "subtitle": "被爆地広島に誕生した広島カープ。戦後の荒廃の中、広島の人々の心の支えとして、苦難を乗り越え日本一になるまでの軌跡を描いた漫画「広島カープ物語」を元に構成。",
         "content": "",
-        "act": "",
-        "genres": []
+        "act": "【ナレーション】桑子真帆",
+        "genres": [
+          "0715",
+          "0101",
+          "0806"
+        ]
       },
       {
         "id": "2025122709469",
@@ -4963,9 +5189,153 @@
         ]
       },
       {
+        "id": "2025122717146",
+        "event_id": "17146",
+        "start_time": "2025-12-28T03:28:00+09:00",
+        "end_time": "2025-12-28T03:30:00+09:00",
+        "area": {
+          "id": "340",
+          "name": "広島"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "紅白なび（１）",
+        "subtitle": "紅白司会の綾瀬はるか・有吉弘行・今田美桜がそれぞれの印象を語る！進行は鈴木奈穂子アナウンサー。",
+        "content": "【出演】綾瀬はるか，有吉弘行，今田美桜，【アナウンサー】鈴木奈穂子",
+        "act": "【出演】綾瀬はるか，有吉弘行，今田美桜，【アナウンサー】鈴木奈穂子",
+        "genres": [
+          "0400"
+        ]
+      },
+      {
+        "id": "2025122717147",
+        "event_id": "17147",
+        "start_time": "2025-12-28T03:30:00+09:00",
+        "end_time": "2025-12-28T03:32:00+09:00",
+        "area": {
+          "id": "340",
+          "name": "広島"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "紅白なび（３）",
+        "subtitle": "デビュー６０周年・布施明、５０周年・岩崎宏美が久しぶりの紅白出場！",
+        "content": "【出演】布施明，岩崎宏美",
+        "act": "【出演】布施明，岩崎宏美",
+        "genres": [
+          "0400"
+        ]
+      },
+      {
+        "id": "2025122717148",
+        "event_id": "17148",
+        "start_time": "2025-12-28T03:32:00+09:00",
+        "end_time": "2025-12-28T03:34:00+09:00",
+        "area": {
+          "id": "340",
+          "name": "広島"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "紅白なび（４）",
+        "subtitle": "ともにデビュー４０周年！ＴＵＢＥ・久保田利伸が紅白に帰ってくる！",
+        "content": "【出演】ＴＵＢＥ，久保田利伸",
+        "act": "【出演】ＴＵＢＥ，久保田利伸",
+        "genres": [
+          "0400"
+        ]
+      },
+      {
+        "id": "2025122717149",
+        "event_id": "17149",
+        "start_time": "2025-12-28T03:34:00+09:00",
+        "end_time": "2025-12-28T03:36:00+09:00",
+        "area": {
+          "id": "340",
+          "name": "広島"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "紅白なび（５）",
+        "subtitle": "紅白・特別企画！堺正章さん、氷川きよしさんの見どころは？",
+        "content": "【出演】堺正章，氷川きよし",
+        "act": "【出演】堺正章，氷川きよし",
+        "genres": [
+          "0400"
+        ]
+      },
+      {
         "id": "2025122712749",
         "event_id": "12749",
-        "start_time": "2025-12-28T03:28:00+09:00",
+        "start_time": "2025-12-28T03:36:00+09:00",
         "end_time": "2025-12-28T04:10:00+09:00",
         "area": {
           "id": "340",

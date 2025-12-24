@@ -224,8 +224,8 @@
         ]
       },
       {
-        "id": "2025122749828",
-        "event_id": "49828",
+        "id": "2025122750645",
+        "event_id": "50645",
         "start_time": "2025-12-27T05:59:00+09:00",
         "end_time": "2025-12-27T06:00:00+09:00",
         "area": {
@@ -255,9 +255,7 @@
         "subtitle": "きょう生まれたあなたへ、とっておきの映像をお届け！あなたのお誕生日に東海地方で放送した出来事を、ＮＨＫが保存するアーカイブス映像と時代の流行歌で振り返ります。",
         "content": "",
         "act": "",
-        "genres": [
-          "0207"
-        ]
+        "genres": []
       },
       {
         "id": "2025122709421",
@@ -741,8 +739,8 @@
         ]
       },
       {
-        "id": "2025122749831",
-        "event_id": "49831",
+        "id": "2025122750646",
+        "event_id": "50646",
         "start_time": "2025-12-27T11:53:00+09:00",
         "end_time": "2025-12-27T11:54:00+09:00",
         "area": {
@@ -772,9 +770,7 @@
         "subtitle": "きょう生まれたあなたへ、とっておきの映像をお届け！あなたのお誕生日に東海地方で放送した出来事を、ＮＨＫが保存するアーカイブス映像と時代の流行歌で振り返ります。",
         "content": "",
         "act": "",
-        "genres": [
-          "0207"
-        ]
+        "genres": []
       },
       {
         "id": "2025122709447",
@@ -2610,9 +2606,153 @@
         ]
       },
       {
+        "id": "2025122717146",
+        "event_id": "17146",
+        "start_time": "2025-12-28T03:28:00+09:00",
+        "end_time": "2025-12-28T03:30:00+09:00",
+        "area": {
+          "id": "230",
+          "name": "名古屋"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "紅白なび（１）",
+        "subtitle": "紅白司会の綾瀬はるか・有吉弘行・今田美桜がそれぞれの印象を語る！進行は鈴木奈穂子アナウンサー。",
+        "content": "【出演】綾瀬はるか，有吉弘行，今田美桜，【アナウンサー】鈴木奈穂子",
+        "act": "【出演】綾瀬はるか，有吉弘行，今田美桜，【アナウンサー】鈴木奈穂子",
+        "genres": [
+          "0400"
+        ]
+      },
+      {
+        "id": "2025122717147",
+        "event_id": "17147",
+        "start_time": "2025-12-28T03:30:00+09:00",
+        "end_time": "2025-12-28T03:32:00+09:00",
+        "area": {
+          "id": "230",
+          "name": "名古屋"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "紅白なび（３）",
+        "subtitle": "デビュー６０周年・布施明、５０周年・岩崎宏美が久しぶりの紅白出場！",
+        "content": "【出演】布施明，岩崎宏美",
+        "act": "【出演】布施明，岩崎宏美",
+        "genres": [
+          "0400"
+        ]
+      },
+      {
+        "id": "2025122717148",
+        "event_id": "17148",
+        "start_time": "2025-12-28T03:32:00+09:00",
+        "end_time": "2025-12-28T03:34:00+09:00",
+        "area": {
+          "id": "230",
+          "name": "名古屋"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "紅白なび（４）",
+        "subtitle": "ともにデビュー４０周年！ＴＵＢＥ・久保田利伸が紅白に帰ってくる！",
+        "content": "【出演】ＴＵＢＥ，久保田利伸",
+        "act": "【出演】ＴＵＢＥ，久保田利伸",
+        "genres": [
+          "0400"
+        ]
+      },
+      {
+        "id": "2025122717149",
+        "event_id": "17149",
+        "start_time": "2025-12-28T03:34:00+09:00",
+        "end_time": "2025-12-28T03:36:00+09:00",
+        "area": {
+          "id": "230",
+          "name": "名古屋"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "紅白なび（５）",
+        "subtitle": "紅白・特別企画！堺正章さん、氷川きよしさんの見どころは？",
+        "content": "【出演】堺正章，氷川きよし",
+        "act": "【出演】堺正章，氷川きよし",
+        "genres": [
+          "0400"
+        ]
+      },
+      {
         "id": "2025122712749",
         "event_id": "12749",
-        "start_time": "2025-12-28T03:28:00+09:00",
+        "start_time": "2025-12-28T03:36:00+09:00",
         "end_time": "2025-12-28T04:10:00+09:00",
         "area": {
           "id": "230",
@@ -2943,8 +3083,8 @@
         ]
       },
       {
-        "id": "2025122749828",
-        "event_id": "49828",
+        "id": "2025122750645",
+        "event_id": "50645",
         "start_time": "2025-12-27T05:59:00+09:00",
         "end_time": "2025-12-27T06:00:00+09:00",
         "area": {
@@ -2974,9 +3114,7 @@
         "subtitle": "きょう生まれたあなたへ、とっておきの映像をお届け！あなたのお誕生日に東海地方で放送した出来事を、ＮＨＫが保存するアーカイブス映像と時代の流行歌で振り返ります。",
         "content": "",
         "act": "",
-        "genres": [
-          "0207"
-        ]
+        "genres": []
       },
       {
         "id": "2025122709421",
@@ -3460,8 +3598,8 @@
         ]
       },
       {
-        "id": "2025122749831",
-        "event_id": "49831",
+        "id": "2025122750646",
+        "event_id": "50646",
         "start_time": "2025-12-27T11:53:00+09:00",
         "end_time": "2025-12-27T11:54:00+09:00",
         "area": {
@@ -3491,9 +3629,7 @@
         "subtitle": "きょう生まれたあなたへ、とっておきの映像をお届け！あなたのお誕生日に東海地方で放送した出来事を、ＮＨＫが保存するアーカイブス映像と時代の流行歌で振り返ります。",
         "content": "",
         "act": "",
-        "genres": [
-          "0207"
-        ]
+        "genres": []
       },
       {
         "id": "2025122709447",
@@ -5329,9 +5465,153 @@
         ]
       },
       {
+        "id": "2025122717146",
+        "event_id": "17146",
+        "start_time": "2025-12-28T03:28:00+09:00",
+        "end_time": "2025-12-28T03:30:00+09:00",
+        "area": {
+          "id": "230",
+          "name": "名古屋"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "紅白なび（１）",
+        "subtitle": "紅白司会の綾瀬はるか・有吉弘行・今田美桜がそれぞれの印象を語る！進行は鈴木奈穂子アナウンサー。",
+        "content": "【出演】綾瀬はるか，有吉弘行，今田美桜，【アナウンサー】鈴木奈穂子",
+        "act": "【出演】綾瀬はるか，有吉弘行，今田美桜，【アナウンサー】鈴木奈穂子",
+        "genres": [
+          "0400"
+        ]
+      },
+      {
+        "id": "2025122717147",
+        "event_id": "17147",
+        "start_time": "2025-12-28T03:30:00+09:00",
+        "end_time": "2025-12-28T03:32:00+09:00",
+        "area": {
+          "id": "230",
+          "name": "名古屋"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "紅白なび（３）",
+        "subtitle": "デビュー６０周年・布施明、５０周年・岩崎宏美が久しぶりの紅白出場！",
+        "content": "【出演】布施明，岩崎宏美",
+        "act": "【出演】布施明，岩崎宏美",
+        "genres": [
+          "0400"
+        ]
+      },
+      {
+        "id": "2025122717148",
+        "event_id": "17148",
+        "start_time": "2025-12-28T03:32:00+09:00",
+        "end_time": "2025-12-28T03:34:00+09:00",
+        "area": {
+          "id": "230",
+          "name": "名古屋"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "紅白なび（４）",
+        "subtitle": "ともにデビュー４０周年！ＴＵＢＥ・久保田利伸が紅白に帰ってくる！",
+        "content": "【出演】ＴＵＢＥ，久保田利伸",
+        "act": "【出演】ＴＵＢＥ，久保田利伸",
+        "genres": [
+          "0400"
+        ]
+      },
+      {
+        "id": "2025122717149",
+        "event_id": "17149",
+        "start_time": "2025-12-28T03:34:00+09:00",
+        "end_time": "2025-12-28T03:36:00+09:00",
+        "area": {
+          "id": "230",
+          "name": "名古屋"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "紅白なび（５）",
+        "subtitle": "紅白・特別企画！堺正章さん、氷川きよしさんの見どころは？",
+        "content": "【出演】堺正章，氷川きよし",
+        "act": "【出演】堺正章，氷川きよし",
+        "genres": [
+          "0400"
+        ]
+      },
+      {
         "id": "2025122712749",
         "event_id": "12749",
-        "start_time": "2025-12-28T03:28:00+09:00",
+        "start_time": "2025-12-28T03:36:00+09:00",
         "end_time": "2025-12-28T04:10:00+09:00",
         "area": {
           "id": "230",
