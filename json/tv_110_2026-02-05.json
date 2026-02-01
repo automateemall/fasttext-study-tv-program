@@ -747,7 +747,7 @@
         "id": "2026020533744",
         "event_id": "33744",
         "start_time": "2026-02-05T11:05:00+09:00",
-        "end_time": "2026-02-05T11:45:00+09:00",
+        "end_time": "2026-02-05T11:43:00+09:00",
         "area": {
           "id": "110",
           "name": "さいたま"
@@ -778,6 +778,40 @@
         "genres": [
           "0003"
         ]
+      },
+      {
+        "id": "2026020501162",
+        "event_id": "01162",
+        "start_time": "2026-02-05T11:43:00+09:00",
+        "end_time": "2026-02-05T11:45:00+09:00",
+        "area": {
+          "id": "110",
+          "name": "さいたま"
+        },
+        "service": {
+          "id": "g1",
+          "name": "ＮＨＫ総合１",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtv-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "（編成未定枠）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
       },
       {
         "id": "2026020533585",
@@ -3498,7 +3532,7 @@
         "id": "2026020533744",
         "event_id": "33744",
         "start_time": "2026-02-05T11:05:00+09:00",
-        "end_time": "2026-02-05T11:45:00+09:00",
+        "end_time": "2026-02-05T11:43:00+09:00",
         "area": {
           "id": "110",
           "name": "さいたま"
@@ -3529,6 +3563,40 @@
         "genres": [
           "0003"
         ]
+      },
+      {
+        "id": "2026020501162",
+        "event_id": "01162",
+        "start_time": "2026-02-05T11:43:00+09:00",
+        "end_time": "2026-02-05T11:45:00+09:00",
+        "area": {
+          "id": "110",
+          "name": "さいたま"
+        },
+        "service": {
+          "id": "g2",
+          "name": "ＮＨＫ総合２",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/gtvm-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "（編成未定枠）",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": []
       },
       {
         "id": "2026020533585",
