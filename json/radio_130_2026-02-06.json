@@ -6286,7 +6286,7 @@
         "id": "2026020670748",
         "event_id": "70748",
         "start_time": "2026-02-06T23:40:00+09:00",
-        "end_time": "2026-02-06T23:45:05+09:00",
+        "end_time": "2026-02-06T23:45:00+09:00",
         "area": {
           "id": "130",
           "name": "東京"
@@ -6316,6 +6316,44 @@
         "act": "【司会】松岡忠幸",
         "genres": [
           "1515"
+        ]
+      },
+      {
+        "id": "2026020674645",
+        "event_id": "74645",
+        "start_time": "2026-02-06T23:45:00+09:00",
+        "end_time": "2026-02-07T00:35:05+09:00",
+        "area": {
+          "id": "130",
+          "name": "東京"
+        },
+        "service": {
+          "id": "r2",
+          "name": "ＮＨＫラジオ第2",
+          "logo_s": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-100x50.png",
+            "width": "100",
+            "height": "50"
+          },
+          "logo_m": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x100.png",
+            "width": "200",
+            "height": "100"
+          },
+          "logo_l": {
+            "url": "//www.nhk.or.jp/common/img/media/r2-200x200.png",
+            "width": "200",
+            "height": "200"
+          }
+        },
+        "title": "ニュース　ガチモン！",
+        "subtitle": "",
+        "content": "",
+        "act": "",
+        "genres": [
+          "0502",
+          "0006",
+          "0200"
         ]
       }
     ],
